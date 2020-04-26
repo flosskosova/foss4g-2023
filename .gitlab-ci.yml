@@ -1,7 +1,4 @@
-# This file is a template, and might need editing before it works on your project.
----
-# All available Hugo versions are listed here:
-# https://gitlab.com/pages/hugo/container_registry
+# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 image: registry.gitlab.com/pages/hugo:latest
 
 variables:
@@ -9,15 +6,16 @@ variables:
 
 test:
   script:
-    - hugo
+  - hugo
   except:
-    - master
+  - master
 
 pages:
   script:
-    - hugo
+  - hugo
   artifacts:
     paths:
-      - public
+    - public
   only:
-    - master
+  - master
+
