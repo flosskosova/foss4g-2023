@@ -1,4 +1,4 @@
-baseURL = "https://foss4g-2021.gitlab.io/software/website/"
+baseURL = "https://foss4g-2021.gitlab.io/"
 title = "FOSS4G 2021 Buenos Aires"
 paginate = 2
 languageCode = "en"
