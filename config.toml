@@ -8,7 +8,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 #googleAnalytics = "UA-XXXX"
 DisqusShortname = ""
-theme = "hugo-theme-chunky-poster"
+theme = "foss4g2021"
 
 #Languages
 [languages.en]
