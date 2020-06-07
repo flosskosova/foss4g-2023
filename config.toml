@@ -126,8 +126,8 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Hugo Authors"
-  description = "Lorem ipsum dolor sit amet."
+  author = "Buenos Aires Organization Committee"
+  description = "The International GeoSpatial Conference. Coming Soon!"
   homepageImage = "/images/homepage-image.jpg"
   share = true
   showLanguageSwitcher = true
@@ -138,12 +138,12 @@ author = "authors"
 
   [params.social]
     rss = true
-    email = "example@example.com"
-#    facebook = "https://facebook.com"
-#    twitter = "https://twitter.com"
-#    linkedin = "https://linkedin.com"
+    email = "foss4g2021ba@gmail.com"
+    facebook = "https://www.facebook.com/foss4g2021ba/"
+    twitter = "https://twitter.com/foss4g"
+    linkedin = "https://www.linkedin.com/foss4g-2021-ba"
 #    stack-overflow = "https://stackoverflow.com"
-#    instagram = "https://stackoverflow.com"
+    instagram = "https://www.instagram.com/foss4g2021/"
 #    github = "https://github.com"
 #    weibo = "https://www.weibo.com"
 #    medium = "https://medium.com"
