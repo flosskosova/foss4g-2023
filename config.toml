@@ -117,6 +117,11 @@ languageName = "Spanish"
     identifier = "venue-tourism"
     url = "/location-and-venue/tourism"
     weight = 0
+  [[menu.main]]
+    identifier = "coc"
+    name = "Code of Conduct"
+    url = "/code-of-conduct/"
+    weight = 0
 
 
 [taxonomies]
