@@ -37,7 +37,6 @@ module.exports = merge(common, {
     ],
     optimization: {
         minimizer: [
-            new UglifyJsPlugin(),
             new OptimizeCssAssetsPlugin(),
         ],
     },
