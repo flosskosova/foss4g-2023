@@ -11,8 +11,22 @@
                 {{ partial "i18nlist.html" . }}
             {{- end -}}
             {{ with .Site.Menus.main }}
-                {{ range . }}
-                    <li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+								{{ range . }}
+										{{ if .HasChildren }}
+												<li class="nav-item dropdown {{ if $current.HasMenuCurrent "main" . }}active{{ end }}">
+														<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+																{{ .Pre }}
+																{{ .Name }}
+														</a>
+														<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+																{{ range .Children }}
+																		<a class="dropdown-item {{ if $current.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+																{{ end }}
+														</div>
+												</li>
+										{{ else }}
+												<li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                		{{ end }}
                 {{ end }}
             {{ end }}
             </ul>
