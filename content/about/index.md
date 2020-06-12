@@ -1,7 +1,6 @@
 +++
 title = "About"
 description = "The Geospatial Conference of 2021"
-aliases = ["about-us"]
 author = "FOSS4G 2021"
 draft = false
 +++

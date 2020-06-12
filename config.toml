@@ -9,6 +9,7 @@ footnoteReturnLinkContents = "^"
 #googleAnalytics = "UA-XXXX"
 DisqusShortname = ""
 theme = "foss4g2021"
+uglyurls = true
 
 #Languages
 [languages.en]
@@ -45,19 +46,19 @@ languageName = "Spanish"
   [[menu.main]]
     identifier = "call-for-papers-talks"
     parent = "call-for-papers"
-    name = "Call for papers-talks"
+    name = "General Track C4P"
     url = "/call-for-papers/talks"
     weight = 0
   [[menu.main]]
     identifier = "call-for-papers-academic"
     parent = "call-for-papers"
-    name = "Call for papers-academic"
+    name = "Academic C4P"
     url = "/call-for-papers/academic"
     weight = 0
   [[menu.main]]
     identifier = "call-for-papers-workshop"
     parent = "call-for-papers"
-    name = "Call for papers-workshop"
+    name = "Workshop C4P"
     url = "/call-for-papers/workshop"
     weight = 0
   [[menu.main]]

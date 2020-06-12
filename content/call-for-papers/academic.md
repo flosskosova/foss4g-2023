@@ -1,6 +1,9 @@
----
-title: "Academic"
-date: 2020-04-26T13:41:38+02:00
-draft: true
----
++++
+title = "Academic Call for Papers"
+description = "Academic Call for Papers"
+author = "FOSS4G 2021"
+draft = false
+url = "/foo/bar"
++++
+
 
