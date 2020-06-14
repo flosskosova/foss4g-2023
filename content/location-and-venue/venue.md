@@ -9,3 +9,5 @@ menu:
 ---
 
 # Information soon!
+
+The venue will have two main buildings.
