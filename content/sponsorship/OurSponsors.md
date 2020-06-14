@@ -1,6 +1,10 @@
 ---
-title: "OurSponsors"
-date: 2020-04-26T17:35:48+02:00
-draft: true
+title: "Our Sponsors"
+draft: false
+menu:
+  main:
+    parent: "Sponsorship"
 ---
 
+
+# You can be here!

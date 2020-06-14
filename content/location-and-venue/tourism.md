@@ -1,6 +1,9 @@
 ---
 title: "Tourism"
-date: 2020-04-26T17:47:52+02:00
-draft: true
+draft: false
+url: "/location-and-venue/tourism"
+menu:
+  main:
+    parent: "Location and Venue"
 ---
 

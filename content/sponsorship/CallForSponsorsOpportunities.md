@@ -1,6 +1,9 @@
 ---
-title: "CallForSponsorsOpportunities"
-date: 2020-04-26T17:40:32+02:00
-draft: true
+title: "Call For Sponsors Opportunities"
+draft: false
+menu:
+  main:
+    parent: "Sponsorship"
 ---
 
+# Sponsorship opportunities soon!
