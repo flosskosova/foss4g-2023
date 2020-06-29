@@ -1,10 +1,10 @@
 ---
-title: "Register"
+title: "Buy a ticket"
 date: 2020-04-26T13:41:15+02:00
-draft: true
+draft: false
 menu:
   main:
-    weight: 0
+    parent: "Register"
 ---
 
 Registration soon to be open!

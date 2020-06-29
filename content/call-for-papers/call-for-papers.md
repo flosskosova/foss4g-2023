@@ -9,4 +9,4 @@ menu:
     parent: 'Call for Papers'
 ---
 
-# Call for papers soon!
+## Important dates

@@ -1,5 +1,5 @@
 ---
-title: "Workshops"
+title: "Student talks"
 draft: false
 url: "/call-for-papers/workshop"
 menu:
@@ -7,3 +7,4 @@ menu:
     parent: 'Call for Papers'
 ---
 
+## Find out how to participate!

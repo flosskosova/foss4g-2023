@@ -1,11 +1,14 @@
 ---
-title: "About"
+title: "About us"
 description: "The Geospatial Conference of 2021"
 author: "FOSS4G 2021"
 draft: false
 
-menu: "main"
+menu:
+  main:
+    parent: 'About'
 ---
+## The conference
 
 FOSS4G is the international edition of the FOSS4G; the Free and Open Source Software for Geospatial conference of [OSGeo](https://www.osgeo.org/). With more than 15 years of experience, the annual FOSS4G conference is the largest global gathering for geospatial software. FOSS4G has been held all over the world and draws attendees from all over the world. 
 
@@ -25,3 +28,4 @@ With that in mind, visit our website regularly for new updates on how your event
 
 The Open Source Geospatial Foundation was founded to support and build the highest-quality open source geospatial software. The foundation's goal is to encourage the use and collaborative development of community-led projects, data development and education. Many projects live under the [OSGeo](https://www.osgeo.org/) umbrella.
 
+## Geolibres

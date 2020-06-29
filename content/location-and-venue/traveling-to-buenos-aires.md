@@ -7,3 +7,16 @@ menu:
     parent: "Location and Venue"
 ---
 
+## Buenos Aires 
+
+## coming to argentina
+
+## getting around CABA
+
+#### como conseguir sube
+*
+-
+
+#### como conseguir simcard
+
+# contactos de emergencia

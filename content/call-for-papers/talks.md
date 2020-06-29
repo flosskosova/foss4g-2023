@@ -1,6 +1,6 @@
 ---
 title: "Talks"
-draft: true
+draft: false
 url: "/call-for-papers/talks"
 menu:
   main:
