@@ -7,3 +7,5 @@ menu:
 ---
 
 # Sponsorship opportunities soon!
+
+You can see our full brochure here: link
