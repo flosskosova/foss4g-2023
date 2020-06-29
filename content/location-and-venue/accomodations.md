@@ -7,4 +7,8 @@ menu:
     parent: "Location and Venue"
 ---
 
-# accomodations
+# Accomodations
+
+You can contact our main vendor Fernanda Cataldi at fernandamcataldi@gmail.com
+
+
