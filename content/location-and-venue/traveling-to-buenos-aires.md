@@ -31,5 +31,5 @@ Si estas en la conferencia tenés un lugar cerca para conseguir una en la estaci
 #### como conseguir simcard
 
 # contactos de emergencia
-En el siguiente link encontraras un listado de números telefonicos útiles
+En el siguiente link encontrarás un listado de números telefónicos útiles
 https://www.buenosaires.gob.ar/jefaturadegabinete/telefonos-utiles
