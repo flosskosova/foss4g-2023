@@ -17,13 +17,13 @@ Si estas pensando en asistir a la FOSS4G 2021 en Buenos Aires, te sugerimos que 
 Listado de países que necesitan visa para ingresar a la Argentina 
 http://www.migraciones.gov.ar/accesible/indexdnm.php?visas
 
-Si necesitas tramitar tu visa visita el siguiente Link para ver como hacer los trámites para la visa
+Si necesitas tramitar tu visa, visita el siguiente Link para ver como hacer los trámites
 http://www.migraciones.gov.ar/ave/index.htm
 
 ## getting around CABA
 
 #### como conseguir sube
-*Para poder viajar en el transporte público en la Ciudad de Buenos Aires necesitas la tarjeta SUBE. Visita el siguiente link y enconarás el lugar más cercano para poder conseguir una.
+Para poder viajar en el transporte público en la Ciudad de Buenos Aires necesitas la tarjeta SUBE. Visita el siguiente link y enconarás el lugar más cercano para poder conseguir una.
 -https://tarjetasube.sube.gob.ar/subeweb/WebForms/admin/views/mapa-sube.aspx?id=3
 Si estas en la conferencia tenés un lugar cerca para conseguir una en la estación Facultad de Derecho-Julieta Lanteri del subterráneo H. Situada en Av. Figueroa Alcorta 2263. Horario de atención: 05:00 A 22:00 HS
 
