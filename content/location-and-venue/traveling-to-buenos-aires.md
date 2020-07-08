@@ -25,6 +25,7 @@ http://www.migraciones.gov.ar/ave/index.htm
 #### como conseguir sube
 Para poder viajar en el transporte público en la Ciudad de Buenos Aires necesitas la tarjeta SUBE. Visita el siguiente link y enconarás el lugar más cercano para poder conseguir una.
 -https://tarjetasube.sube.gob.ar/subeweb/WebForms/admin/views/mapa-sube.aspx?id=3
+
 Si estas en la conferencia tenés un lugar cerca para conseguir una en la estación Facultad de Derecho-Julieta Lanteri del subterráneo H. Situada en Av. Figueroa Alcorta 2263. Horario de atención: 05:00 A 22:00 HS
 
 #### como conseguir simcard
