@@ -13,6 +13,12 @@ Buenos Aires posee una gran actividad cultural, entre las que se destacan los te
 
 
 ## coming to argentina
+Si estas pensando en asistir a la FOSS4G 2021 en Buenos Aires, te sugerimos que veas si necesitas visa.
+Listado de países que necesitan visa para ingresar a la Argentina 
+http://www.migraciones.gov.ar/accesible/indexdnm.php?visas
+
+Si necesitas tramitar tu visa visita el siguiente Link para ver como hacer los trámites para la visa
+http://www.migraciones.gov.ar/ave/index.htm
 
 ## getting around CABA
 
