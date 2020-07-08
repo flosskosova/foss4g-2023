@@ -23,8 +23,8 @@ http://www.migraciones.gov.ar/ave/index.htm
 ## getting around CABA
 
 #### como conseguir sube
-*
--
+*Para poder viajar en el transporte público en la Ciudad de Buenos Aires necesitas la tarjeta SUBE. Visita el siguiente link y enconarás el lugar más cercano para poder conseguir una.
+-https://tarjetasube.sube.gob.ar/subeweb/WebForms/admin/views/mapa-sube.aspx?id=3
 
 #### como conseguir simcard
 
