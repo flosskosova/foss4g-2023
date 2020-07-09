@@ -10,10 +10,16 @@ La ciudad de Buenos Aires ofrece una grán variedad de actividades turísticas q
 
 https://turismo.buenosaires.gob.ar/es
 
+## Sugerencias
+
+### Plaza de mayo, El Cabildo y La Catedral
+
+### Museo de la Casa Rosada
+
+### Cafés y Bares Notables
+
 ### El planetario
 
-### Musero de la Casa Rosada
+### Tour de fantasmas en Buenos Aires
 
 ### Conoces el Tigre?
-
-### Tour de fantasmas en Buenos Aires
