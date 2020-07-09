@@ -28,7 +28,7 @@ Para poder viajar en el transporte público en la Ciudad de Buenos Aires necesit
 
 Si estas en la conferencia tenés un lugar cerca para conseguir una en la estación Facultad de Derecho-Julieta Lanteri del subterráneo H. Situada en Av. Figueroa Alcorta 2263. Horario de atención: 05:00 A 22:00 HS
 
-### Tambien podes andar en bicicleta
+### Tambien podés andar en bicicleta
 La ciudad tiene disponible un servicio de bicicletas que puedes utilizar. Consultá el siguiente link para conocer más.
 
 https://www.baecobici.com.ar/es/inicio
