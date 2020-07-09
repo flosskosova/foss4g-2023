@@ -16,6 +16,10 @@ https://turismo.buenosaires.gob.ar/es
 
 ### Museo de la Casa Rosada
 
+## Caminito, La Boca
+
+## San Telmo
+
 ### Cafés y Bares Notables
 
 ### El planetario
