@@ -16,9 +16,9 @@ https://turismo.buenosaires.gob.ar/es
 
 ### Museo de la Casa Rosada
 
-## Caminito, La Boca
+### Caminito, La Boca
 
-## San Telmo
+### San Telmo
 
 ### Cafés y Bares Notables
 
