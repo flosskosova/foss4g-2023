@@ -10,3 +10,5 @@ menu:
 ---
 
 ## Important dates
+
+**_coming soon_**
