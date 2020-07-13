@@ -1,9 +1,9 @@
 ---
-title: "Academic Call for Papers"
-description: "Academic Call for Papers"
+title: "Call for Presentations"
+description: "Call for Presentations"
 author: "FOSS4G 2021"
 draft: false
-url: "/call-for-papers/academic"
+url: "/call-for-papers/cfp"
 menu:
   main:
     parent: 'Call for Papers'
