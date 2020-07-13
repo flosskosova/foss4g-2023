@@ -9,49 +9,47 @@ menu:
 #### GeoChicas Pre-Event
 This event will take place on Tuesday evening, after the workshops and the day before the main sessions start. The event will be split in two. The first half will be women and non binary people (nb) only. Then everyone is invited to join. This helps the inclusivity and network building among women and nb.
 
-####¿Qué es Geochicas OSM? 
-<div style="text-align: justify;"> 
+#### ¿Qué es Geochicas OSM? 
+
 Geochicas OSM es un colectivo de feministas vinculadas al proyecto de OpenStreetMap y a las comunidades asociadas al mundo del software libre y datos abiertos. Los ideales se ven plasmados a través de la cartografia y del mapeo colaborativo. En sus inicios solo fue una comunidad hispanohablante, pero hoy en día existen usuarias en más de 40 países al rededor del globo. 
 El colectivo fue creado en el año 2016, en el encuentro anual de OpenStreetMap State of the Map LatAm 2016, en Sao Pablo - Brasil, allí se conversó con el conjunto mixto de la comunidad presente sobre la problemática de género en OpenStreetMap, y debido a eso, se definieron los primeros lineamientos para la agenda de Geochicas OSM.
-</div>
+
 
 
 #### Objetivos
-<div style="text-align: justify;"> 
-Esta red de mujeres está dedicada a iniciativas colaborativas. A través del los diferentes [ejes temáticos](https://es.wikipedia.org/wiki/Geochicas), el objetivo principal es evaluar el roll y la participación que tiene la mujer en estos espacios. Hoy en día hay más de 4.500.000 usuarios mixtos en OSM, existe mucha información pero poca diversidad en los datos, [solo el 3% de la comunidad son mujeres](https://slides.com/geochicasosm/geochicas-csvconf-v4-2019-11#/6). A partir de esta primicia, se busca reducir la brecha de género y crear datos geoespaciales a través del un lente feminista. 
-</div>
 
+Esta red de mujeres está dedicada a iniciativas colaborativas. A través del los diferentes [ejes temáticos](https://es.wikipedia.org/wiki/Geochicas), el objetivo principal es evaluar el roll y la participación que tiene la mujer en estos espacios. Hoy en día hay más de 4.500.000 usuarios mixtos en OSM, existe mucha información pero poca diversidad en los datos, [solo el 3% de la comunidad son mujeres](https://slides.com/geochicasosm/geochicas-csvconf-v4-2019-11#/6). A partir de esta primicia, se busca reducir la brecha de género y crear datos geoespaciales a través del un lente feminista. 
 
 
 | Geochicas takes Bucharest FOSS4G 2019|Geochicas takes Dar es-Salam FOSS4G 2018 |
 |:------:|:-----------:|
-|<blockquote width="400" height="100" frameborder="0" class="twitter-tweet"><p lang="en" dir="ltr">In a such a nice context, we are excited to announce the <a href="https://twitter.com/hashtag/GeochicasOSM?src=hash&amp;ref_src=twsrc%5Etfw" >#GeochicasOSM</a> English Telegram Channel launched during our <a href="https://twitter.com/hashtag/GeochicasTake?src=hash&amp;ref_src=twsrc%5Etfw">#GeochicasTake</a> event in <a href="https://twitter.com/foss4g?ref_src=twsrc%5Etfw">@foss4g</a> <a href="https://twitter.com/hashtag/foss4g2019?src=hash&amp;ref_src=twsrc%5Etfw">#foss4g2019</a> <a href="https://twitter.com/hashtag/Bucharest?src=hash&amp;ref_src=twsrc%5Etfw">#Bucharest</a>! Join us: <a href="https://t.co/rln3HCxazd">https://t.co/rln3HCxazd</a> and continue the dialogue on gender diversity in your Geo communities <a href="https://t.co/WUkMb1SGZh">pic.twitter.com/WUkMb1SGZh</a></p>&mdash; Geochicas OSM (@GeochicasOSM) <a href="https://twitter.com/GeochicasOSM/status/1166603608642768896?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|<blockquote width="400" height="100" frameborder="0" class="twitter-tweet"><p lang="en" dir="ltr">This is just the beginning! Awesome women from all across the world getting together to talk, discuss and trying to make a difference in our community. The future is ours! Thank you all for coming to our event for the <a href="https://twitter.com/foss4g?ref_src=twsrc%5Etfw">@foss4g</a> <a href="https://t.co/98nDw4wpSS">pic.twitter.com/98nDw4wpSS</a></p>&mdash; Geochicas OSM (@GeochicasOSM) <a href="https://twitter.com/GeochicasOSM/status/1033961437113274368?ref_src=twsrc%5Etfw">August 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+|{{< rawhtml >}}<blockquote width="400" height="100" frameborder="0" class="twitter-tweet"><p lang="en" dir="ltr">In a such a nice context, we are excited to announce the <a href="https://twitter.com/hashtag/GeochicasOSM?src=hash&amp;ref_src=twsrc%5Etfw" >#GeochicasOSM</a> English Telegram Channel launched during our <a href="https://twitter.com/hashtag/GeochicasTake?src=hash&amp;ref_src=twsrc%5Etfw">#GeochicasTake</a> event in <a href="https://twitter.com/foss4g?ref_src=twsrc%5Etfw">@foss4g</a> <a href="https://twitter.com/hashtag/foss4g2019?src=hash&amp;ref_src=twsrc%5Etfw">#foss4g2019</a> <a href="https://twitter.com/hashtag/Bucharest?src=hash&amp;ref_src=twsrc%5Etfw">#Bucharest</a>! Join us: <a href="https://t.co/rln3HCxazd">https://t.co/rln3HCxazd</a> and continue the dialogue on gender diversity in your Geo communities <a href="https://t.co/WUkMb1SGZh">pic.twitter.com/WUkMb1SGZh</a></p>&mdash; Geochicas OSM (@GeochicasOSM) <a href="https://twitter.com/GeochicasOSM/status/1166603608642768896?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{{< /rawhtml >}}|{{< rawhtml >}}<blockquote width="400" height="100" frameborder="0" class="twitter-tweet"><p lang="en" dir="ltr">This is just the beginning! Awesome women from all across the world getting together to talk, discuss and trying to make a difference in our community. The future is ours! Thank you all for coming to our event for the <a href="https://twitter.com/foss4g?ref_src=twsrc%5Etfw">@foss4g</a> <a href="https://t.co/98nDw4wpSS">pic.twitter.com/98nDw4wpSS</a></p>&mdash; Geochicas OSM (@GeochicasOSM) <a href="https://twitter.com/GeochicasOSM/status/1033961437113274368?ref_src=twsrc%5Etfw">August 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+{{< /rawhtml >}}
 #### FAQs
 
 - ¿A qué público están dedicados estos encuentros de Geochicas en la Conferencia?
-<div style="text-align: justify;"> 
+
 Estos encuentros están dedicados a mujeres y/o sexualidades disidentes que quieran formar parte de la comunidad geodatera y el mapeo colaborativo, con el objetivo de aportar a la perspectiva de género.
-</div>
+
 
 - ¿Qué son los espacios seguros para mujeres?
-<div style="text-align: justify;"> 
+
 Estos encuentros son espacios que se crean para que las participantes puedan generar redes de contención e intercambio de ideas. Son lugares de expresión, en donde se debate cuáles pueden ser los códigos de conducta para llevar adelante una conferencia diversa, como tambien, de que manera se pueden generar mecanismos de inclusión de las mujeres en la tecnologia.
 Gracias a estos espacios, se pueden tomar nuevos lineamientos de acción y nuevas propuesas de proyectos para la reducción en la brecha de género. 
-</div>
+
 
 - ¿Puedo colaborar en Geochicas OSM aunque no sepa de mapas?
-<div style="text-align: justify;"> 
+
 Por supuesto, existen muchas compañeras que no necesariamente saben de mapas y geodatos, pero aportan desde su experiencia y visión multidisciplinar. Igualmente, desde Geochicas se promueven las capacitaciones entre compañeras. Toda esta información esta en la pagina web de Geochicas.
-</div>
+
 
 #### Contacto y redes sociales
 
 - Para ver todos los proyectos de la comunidad: https://geochicas.org/
 
 - Para ver todos los canales de comunicacion: https://geochicas.org/index.php/contactanos/
-
+{{< rawhtml >}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,9 +61,10 @@ Por supuesto, existen muchas compañeras que no necesariamente saben de mapas y 
 <body>
 	<div class="redes-container">
 		<ul>
-			<li><a href="https://twitter.com/geochicasosm"class="twitter"><i class="fab fa-twitter"></i></a></li>
+			<li><a href="https://twitter.com/geochicasosm" class="twitter"><i class="fab fa-twitter"></i></a></li>
 			<li><a href="https://www.youtube.com/channel/UCMbcgFj2g9NloxBhVonOQIQ"class="youtube"><i class="fab fa-youtube"></i></a></li>
 		</ul>
 	</div>
 </body>
 </html>
+{{< /rawhtml >}}

@@ -15,6 +15,9 @@ La Facultad de Derecho se encuentra próxima al CEC. El edificio de la Facultad 
  Sin dudas estos lugares son inolvidables y harán de la FOSS4G 2021 una de las más recordadas.
 
 
+
+
+{{< rawhtml >}}
 <!DOCTYPE html>
 <html>
 	<head>
@@ -53,4 +56,4 @@ La Facultad de Derecho se encuentra próxima al CEC. El edificio de la Facultad 
 	</body>
 </html>
 
-
+{{< /rawhtml >}}
