@@ -45,6 +45,9 @@ La ciudad tiene disponible un servicio de bicicletas que puedes utilizar. Consul
 https://www.baecobici.com.ar/es/inicio
 
 #### Como Conseguir Simcard
+Necesitas una SIM Card? Entonces puedes concultar el siguiente link.
+
+https://secretsofbuenosaires.com/where-to-buy-sim-card-in-buenos-aires/
 
 # Contactos de Emergencia
 En el siguiente link encontrarás un listado de números telefónicos útiles:
