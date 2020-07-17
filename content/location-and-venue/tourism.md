@@ -7,15 +7,12 @@ menu:
     parent: "Location and Venue"
 ---
 La ciudad de Buenos Aires ofrece una grán variedad de actividades turísticas que podes realizar. Consultá el siguiente link para conocer algunas de ellas.
-
-https://turismo.buenosaires.gob.ar/es
+[GCBA](https://turismo.buenosaires.gob.ar/es)
 
 ## Sugerencias
 
-### Plaza de mayo, El Cabildo
+* ##### Plaza de mayo, El Cabildo
 Mientras los ciudadanos se agrupaban en la Histórica Plaza de Mayo, en los recintos de este histórico edificio se gestó la revolución que dió ogrien a la declaración de independencia. La República Argentina comenzó a nacer aquí.
-
-https://turismo.buenosaires.gob.ar/es/article/museo-hist%C3%B3rico-nacional-del-cabildo-y-la-revoluci%C3%B3n-de-mayo
 
 ### Caminito, La Boca
 Uno de los paseos mas tradicionales de la Ciudad!!! 

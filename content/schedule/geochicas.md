@@ -59,8 +59,8 @@ Por supuesto, existen muchas compañeras que no necesariamente saben de mapas y 
 <body>
 	<div class="redes-container">
 		<ul>
-			<li><a href="https://twitter.com/geochicasosm" class="twitter"><i class="fab fa-twitter"></i></a></li>
-			<li><a href="https://www.youtube.com/channel/UCMbcgFj2g9NloxBhVonOQIQ"class="youtube"><i class="fab fa-youtube"></i></a></li>
+			<li><a href="https://twitter.com/geochicasosm" class="twitter" target="_blank"><i class="fab fa-twitter"></i></a></li>
+			<li><a href="https://www.youtube.com/channel/UCMbcgFj2g9NloxBhVonOQIQ"class="youtube" target="_blank"><i class="fab fa-youtube"></i></a></li>
 		</ul>
 	</div>
 </body>
