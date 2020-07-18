@@ -4,7 +4,7 @@ draft: false
 url: "/location-and-venue/traveling-to-buenos-aires"
 menu:
   main:
-    parent: "Location and Venue"
+    parent: "Venue"
 ---
 
 ## Buenos Aires

@@ -3,7 +3,7 @@ title: "Our Sponsors"
 draft: false
 menu:
   main:
-    parent: "Sponsorship"
+    parent: "Sponsor"
 ---
 
 

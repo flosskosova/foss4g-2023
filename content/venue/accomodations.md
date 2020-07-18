@@ -4,7 +4,7 @@ draft: false
 url: "/location-and-venue/accomodations"
 menu:
   main:
-    parent: "Location and Venue"
+    parent: "Venue"
 ---
 
 # Accomodations
