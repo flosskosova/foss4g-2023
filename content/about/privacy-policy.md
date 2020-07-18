@@ -10,3 +10,4 @@ menu:
 ---
 
 # Privacy Policy
+Los datos personales estan protegidos bajo la ley 25.326 de la República Argentina.
