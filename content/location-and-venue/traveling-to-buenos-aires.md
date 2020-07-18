@@ -26,8 +26,8 @@ http://www.migraciones.gov.ar/ave/index.htm
 
 **Como llego**
 
-Ayuda a los usuarios a moverse por la ciudad en transporte público, auto, bici o a pie, ofreciendo las mejores rutas, indicadores de tiempo y costo. El modo auto esta disponible por fuera de Capital Federal. Tambien cuenta con datos utiles, como bicicendas, insituciones de salud, farmacias y otros datos que pueden ser de tu utilidad.
-Tenemos la version web https://mapa.buenosaires.gob.ar o la aplicacion para celular Android y Apple.
+"Como Llego" es una App que ayuda a los usuarios a moverse por Capital Federal en los diferentes modos: transporte público, auto, bici o a pie, ofreciendo las mejores rutas, indicadores de tiempo y costo. Solo el modo auto te ofrece la posibilidad de viajar hasta por fuera de Capital Federal. Tambien cuenta con datos utiles, como bicicendas, insituciones de salud, farmacias y otros datos que pueden ser de utilidad en tu visita.
+Contamos con la version web https://mapa.buenosaires.gob.ar y la version App de Celular Android y Apple.
 
 *Te dejamos un pequeño instructivo de como usarlo:*
 
