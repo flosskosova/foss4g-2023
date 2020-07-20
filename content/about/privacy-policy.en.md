@@ -7,7 +7,7 @@ draft: false
 menu:
   main:
     parent: 'About'
+weight: 4
 ---
 
-# Privacy Policy
-Los datos personales estan protegidos bajo la ley 25.326 de la República Argentina.
+Personal information is protected under the Law 25.326 of the República Argentina.
