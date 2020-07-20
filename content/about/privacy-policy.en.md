@@ -7,7 +7,7 @@ draft: false
 menu:
   main:
     parent: 'About'
-weight: 4
+weight: 3
 ---
 
 Personal information is protected under the Law 25.326 of the República Argentina.
