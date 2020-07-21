@@ -1,9 +1,9 @@
 ---
-title: "Travel Grant Program"
+title: "Programa de Becas"
 draft: false
 menu:
   main:
-    parent: "Register"
+    parent: "Registrate"
 ---
 
-# more info soon!
+### **Muy pronto novedades!!**

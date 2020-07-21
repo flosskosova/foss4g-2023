@@ -1,9 +1,9 @@
 ---
-title: "Volunteer Program"
+title: "Programa de Voluntariado"
 draft: false
 menu:
   main:
-    parent: "Register"
+    parent: "Registrate"
 ---
 
-# more info soon!
+### **Muy pronto novedades!!**

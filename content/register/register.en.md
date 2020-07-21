@@ -7,4 +7,4 @@ menu:
     parent: "Register"
 ---
 
-Registration soon to be open!
+### **_Registration soon to be open!!!_**

@@ -6,4 +6,4 @@ menu:
     parent: "Register"
 ---
 
-# more info soon!
+### **More info soon!**

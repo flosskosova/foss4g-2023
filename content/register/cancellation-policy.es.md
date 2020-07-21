@@ -1,9 +1,9 @@
 ---
-title: "Cancelation Policy"
+title: "Política de cancelación"
 draft: false
 menu:
   main:
-    parent: "Register"
+    parent: "Registrate"
 ---
 
 ###### Detalles

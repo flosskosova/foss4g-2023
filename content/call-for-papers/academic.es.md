@@ -8,4 +8,4 @@ menu:
   main:
     parent: 'Convocatoria a ponencias'
 ---
-### **Muy pronto novedades!!_**
+### **Muy pronto novedades!!**

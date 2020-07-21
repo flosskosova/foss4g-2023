@@ -6,4 +6,4 @@ menu:
     parent: "Register"
 ---
 
-###### Detalles
+###### Details
