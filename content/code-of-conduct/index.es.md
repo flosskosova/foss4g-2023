@@ -5,59 +5,56 @@ draft: false
 menu: "main"
 ---
 
-This code of conduct governs how we behave in any OSGeo forum or event and whenever we will be judged by our actions. We expect it to be honored by everyone who participates in our event.
+Este código de conducta rige cómo nos comportamos en cualquier foro o evento de OSGeo y siempre que seamos juzgados por nuestras acciones. Esperamos que sea honrado por todos los que participan en nuestro evento.
 
-Participants are expected to act respectfully toward others in accordance with the [Berlin Code of Conduct](https://berlincodeofconduct.org/).
+Se espera que los participantes actúen respetuosamente con los demás de conformidad con el [Código de Conducta de Berlín](https://berlincodeofconduct.org/).
 
-### Purpose
+### Propósito
 
-A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
+Un objetivo principal de todas las conferencias y grupos de usuarios que se refieran a este Código de Conducta es ser inclusivos para la mayor cantidad de personas, con la mayor variedad de orígenes y conocimientos posibles. Como tal, nos comprometemos a ofrecer un ambiente amigable, seguro y acogedor para todos, sin importar género, orientación sexual, discapacidad, etnia, estado socio-económico, religión o creencia.
 
-This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+Este Código de Conducta expresa nuestras expectativas con respecto a quienes participan de nuestra comunidad, así como también las consecuencias de comportamientos inaceptables.
 
-We invite all those who participate in our events to help us create safe and positive experiences for everyone.
+Invitamos a todos los que participan de nuestros eventos a ayudarnos a crear experiencias seguras y positivas para todos.
 
-### Open [Source/Culture/Tech] Citizenship
+### Ciudadanía de Código/Cultura/Tecnología abierta
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+Un objetivo suplementario de este Código de Conducta es incrementar la ciudadanía de código/cultura/tecnología abierta, incentivando a sus participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Las comunidades son espejo de las sociedades en las cuales existen y las acciones positivas son esenciales para contrarrestar las diversas formas de desigualdad y abuso de poder que existen en una sociedad.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+Si Ud. ve a alguien haciendo un esfuerzo extra por asegurarse que nuestra comunidad es acogedora, amistosa e incentiva a todos los que participan en ella a contribuir de manera completa, nos gustaría saberlo.
 
-### Expected Behavior
+### Comportamiento esperado
 
- * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- * Exercise consideration and respect in your speech and actions.
- * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+Participe de un modo auténtico y activo. Al hacerlo contribuye a la salud y longevidad de esta comunidad.
+Ejercite la consideración y el respeto en su discurso y en sus acciones.
+Intente colaborar para evitar conflictos.
+Absténgase de discursos o comportamientos despectivos, discriminatorios o abusivos.
+Sea consciente de su entorno y de los/as otros/as participantes. Alerte a los líderes de la comunidad si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso si parecieran poco importantes.
 
+### Comportamiento inaceptable
 
-### Unacceptable Behavior
+Comportamientos inaceptables incluyen: discursos o acciones intimidantes, acosadores, abusivos, discriminatorios, despectivos o degradantes. El alcance incluye a todos/as los/as participantes de nuestra comunidad online en todos los eventos y comunicaciones personales llevadas a cabo en el contexto de las actividades de nuestra comunidad. Los lugares en donde se lleven a cabo eventos de la comunidad pueden ser compartidos con gente ajena a la misma, por favor sea respetuoso hacia las autoridades de dichos lugares.
 
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+Acoso incluye: daño o perjurio verbal o escrito relacionado con género, orientación sexual, raza, religión, incapacidad; uso inapropiado de imágenes de desnudez (incluyendo presentaciones digitales); intimidación deliberada, acecho o persecución; fotografías o grabaciones abusivas; interrupción sostenida de presentaciones u de otros eventos; contacto físico inapropiado y atención sexual no deseada.
 
-Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
+### Consecuencias del comportamiento inaceptable
 
-### Consequences of Unacceptable Behavior
+No serán tolerados los comportamientos inaceptables de parte de cualquier miembro de la comunidad, incluidos patrocinadores y aquellos/as con autoridad para tomar decisiones. Se espera de todos/as los/as miembros el inmediato cumplimiento al solicitársele suspender comportamientos inaceptables.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated. Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Si un miembro incurre en comportamientos inaceptables los organizadores de la comunidad pueden sancionarlo de cualquier forma que se considere apropiada, incluyendo la suspensión temporal o permanente de su participación en la comunidad, sin previo aviso (y sin reintegro del dinero, en caso de ser un evento pago).
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund). This actions will be also escalated to the OSGeo CoC committee.
+### Si es testigo o víctima de comportamiento inaceptable
+Si Ud. es víctima o testigo de comportamiento inaceptable, o tiene cualquier otra preocupación o problema, por favor notifíquelo a un organizador de la comunidad tan pronto como sea posible. Puede encontrar una lista de los organizadores a contactar para cada una de las comunidades que apoyen este código de conducta al final de esta página.
 
-### If You Witness or Are Subject to Unacceptable Behavior
+Además, los organizadores de la comunidad se encuentran disponibles para ayudar a los miembros a contactar a las fuerzas policiales locales o, de lo contrario, para ayudar a sentirse seguros a aquellos que hayan sido víctimas de comportamiento inaceptable. En el contexto de eventos presenciales, los organizadores también proveerán escolta a las personas que hayan sufrido dichas experiencias.
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. Organizers may also provide escorts as desired by the person experiencing distress.
+### Desagravios
+Si Ud. siente que ha sido falsa o injustamente acusado/a de violar este Código de Conducta, se le sugiere notificar a uno de los organizadores del evento con una descripción concisa del agravio. El mismo será contemplado y resuelto de acuerdo a las políticas existentes.
 
-### Addressing Grievances
+### Alcance
+Se espera que todos los participantes de la comunidad (colaboradores/as —pagos o no—, patrocinadores y otros/as invitados/as) se atengan a este Código de Conducta en todos los lugares de encuentro de la comunidad –online o en persona– así como en todas las comunicaciones uno-a-uno relacionadas con actividades de la comunidad.
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the event organizers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
-### Scope
-
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
-
-### License and attribution
-
-Berlin Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+### Licencia y atribución
+El Berlin Code of Conduct se encuentra distribuido bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Está basado en el pdx.rb Code of Conduct, que también es distribuido bajo la misma licencia.
