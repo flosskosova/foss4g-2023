@@ -1,14 +1,14 @@
 ---
-title: "Call for Presentations"
+title: "Convocatoria general"
 description: "Call for Presentations"
 author: "FOSS4G 2021"
 draft: false
-url: "/call-for-papers/cfp"
+
 menu:
   main:
-    parent: 'Call for Papers'
+    parent: 'Convocatoria a ponencias'
 ---
 
-## Important dates
+## Fechas importantes
 
-# **_Coming soon !!_**
+### **Muy pronto novedades!!_**

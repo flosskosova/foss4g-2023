@@ -1,7 +1,7 @@
 ---
 title: "Student talks"
-draft: false
-url: "/call-for-papers/workshop"
+draft: true
+
 menu:
   main:
     parent: 'Call for Papers'

@@ -1,9 +1,9 @@
 ---
 title: "Talks"
-draft: false
-url: "/call-for-papers/talks"
+draft: true
+
 menu:
   main:
-    parent: "Call for Papers"
+    parent: 'Call for Papers'
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Student talks"
-draft: false
-url: "/call-for-papers/workshop"
+draft: true
+
 menu:
   main:
-    parent: 'Call for Papers'
+    parent: 'Convocatoria a ponencias'
 ---
 
 ## Find out how to participate!

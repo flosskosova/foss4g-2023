@@ -1,12 +1,11 @@
 ---
-title: "Academic Call for Papers"
+title: "Convocatoria a ponencias académicas"
 description: "Academic Call for Papers"
 author: "FOSS4G 2021"
 draft: false
-url: "/call-for-papers/academic"
+
 menu:
   main:
-    parent: 'Call for Papers'
+    parent: 'Convocatoria a ponencias'
 ---
-
-# Call for papers soon!
+### **Muy pronto novedades!!_**

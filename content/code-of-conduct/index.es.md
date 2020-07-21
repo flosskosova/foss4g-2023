@@ -1,5 +1,5 @@
 ---
-title: "Code of Conduct"
+title: "Código de Conducta"
 author: "FOSS4G 2021"
 draft: false
 menu: "main"
