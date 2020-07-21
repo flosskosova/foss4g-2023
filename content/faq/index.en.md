@@ -7,63 +7,67 @@ menu: "main"
 
 ## Frecuently asked questions
 
--  **¿Dónde se llevará a cabo la Conferencia?**
+- **Where will the Conference take place?**
 
-El evento se llevará a cabo en dos edificios principales. La Factuldad de Derecho y El Centro de Convenciones de Buenos Aires, ubicados en el Barrio de Recoleta, Capital Federal. Para más información, ingresar al venue.
+The event will take place in two main buildings. The University of Buenos Aires Law School and The Buenos Aires Convention Center, located in the Recoleta neighborhood, in the City of Buenos Aires. For more information, go to [Conference venue]({{< ref "/venue/venue.md">}}).
 
-- **¿En qué fecha se llevará a cabo el evento?**
+- **On what date will the event take place?**
 
-El evento será del 27 del septiembre al 2 de Octubre del 2021. Por el momento es una fecha tentativa.
+The event will be from September 27 to October 2, 2021. _Soon we will have more news about the activities calendar!_
 
-- **¿Qué actividades tendra la Conferencia?**
+- **What activities will the Conference have?**
 
-La conferencia tendra principalmente charlas, talleres y actividades de codesprint entre otras. Por otro lado, tenemos el encuentro de Geochicas, como también eventos sociales: Pubrace, Ice Breaker y Gala Dinner. 
+The conference will mainly have talks, workshops and codeprint activities. On the other hand, we have the Geochicas meeting, as well as social events like: Pubrace, Ice Breaker and Gala Dinner.
 
-- **¿Cómo me anoto para asistir a la Conferencia?**
+- **How do I sign up to attend the Conference?**
 
-Las inscripciones y pago de entradas se realizarán a través de la pagina web, existiran tarifas diferenciales, ajustado a la zona proveniente. Primero se lanzaran las entradas con descuento y luego con el monton genérico. 
-Cuando la inscripcion se habilite podras anotarte.
+Registrations and ticket purchases will be made through the website, for more information visit our [Register]({{< ref "/register/register.md">}}) section.
 
-- **¿Cómo me anoto a los talleres?**
+- **How do I sign up for workshops?**
 
-Las distintas actividades tendrán cada una su inscripción individual, cuando se habiliten las opciones podrás ver toda la información con sus respectivas fechas y tarifas. Cada taller tendrá su entrada individual y los cupos limitados. Recomendamos inscribirse con suficiente tiempo de anticipación. 
+Each workshop will have its individual ticket and limited spaces, registration will be enabled once the [Full Schedule]({{< ref "/schedule/full-schedule.md">}}) has been published. We recommend registering early enough.
 
-- **¿Cómo sé si queda cupo para los talleres?**
+- **How do I know if there is space for the workshops?**
 
-Ingresando al link de incripción en talleres, podras observar las opciones y se podrá ver cuántos cupos disponibles hay en ese momento. Habrá lista de espera en caso que haya cancelaciones, pero esto no hay seguridad de que se vaya a abrir una vacante. Los cupos de los talleres no se ampliarán, dado que el espacio en las salas de capacitación es limitado.
+Entering the link of workshops registration you will be able to see the options and you how many places are available at that moment. The spaces for the workshops will not be extended, since space in the training rooms is limited.
 
-- **Me anoté a un taller, ¿y ahora?**
+- **I signed up for a workshop, now?**
 
-Será necesario traer computadora portátil para participar de los talleres ya que son totalmente prácticos, ¡no te la olvides!
-Recomendamos además traer alargue y/o zapatilla, dado que el acceso a enchufes es limitado y todos lo necesitan.
-Si bien habrá WiFi disponible, recomendamos descargar el software necesario antes de venir dado que habrá mucha gente utilizándolo.
+It will be necessary to bring a laptop to participate in the workshops since they are totally practical, **do not forget it!**
+We also recommend bringing an extension cord and / or a shoe, since access to plugs is limited and everyone needs it.
+Although WiFi will be available, we recommend downloading the necessary software before coming as there will be many people using it.
 
-- **¿Habrá WiFi durante el evento?**
+- **Will there be WiFi during the event?**
 
-Sí, intentaremos que sea de la mejor calidad posible, pero dado que habrá muchos usuarios a la vez, rogamos conectar solo un dispositivo a la vez (computadora portátil ó celular) y ser solidario con su uso.
+Yes, we will try to make it of the best possible quality, but since there will be many users at the same time, please connect only one device at a time (laptop or cell phone) and be supportive of its use.
 
-- **Si ya compré mi entrada, ¿cómo hago para obtener factura/recibo de mi pago?**
+- **If I already bought my ticket, how can I get an invoice / receipt for my payment?**
 
-Si ya compaste tu entrada el recibo automaticamente se enviara a través del correo. 
-Las facturas particulares de las entradas serán realizadas por Geolibres. Para que podamos realizar las mismas hay que enviar el comprobante de pago de la tarjeta de crédito o el ticket de pago por mail a tesoreria@geolibres.org.ar, indicando la razón social a quien va dirigido y el número de CUIT/CUIL. Rogamos envíen esta información con tiempo, dado que es un proceso que se hace a mano y el día de la conferencia todos estarán realizando esta solicitud.
+If you already bought your ticket, the receipt will automatically be sent to you by email.
+The invoices will be made by Geolibres Asociación Civil. During the purchase process, the data for billing can be completed, such as the company name to which it is addressed and the tax ID number, keep them handy since once the ticket is purchased, the invoice is generated and cannot be corrected.
 
-- **No me dedico a la geomática, ¿puedo asistir a la Conferencia?**
+- **I am not dedicated to geomatics, can I attend the Conference?**
 
-Sí, la conferencia está abierta para todo publico que le interese la geomatica. 
+Yes, the conference is open to any public interested in geomatics, free software, maps and communities.
 
-- **Si no programo, desarrollo o escribo código, esta conferencia ¿es para mí también?**
+- **If I don't develop or write code, is this conference for me too?**
 
-Sí, este evento es para todo tipo de personas interesadas en compartir experiencias sobre mapas, desde desarrolladoros que escriben código a usuarios de software de geomática, gente que toma decisiones, investigadoros, estudiantes y cualquiera que quiera aprender, compartir y conocer gente afín.
+Yes, this event is for all kinds of people interested in sharing experiences about maps, from developers who write code to users of geomatics software, people who make decisions, researchers, students and anyone who wants to learn, share and meet like minded people.
 
-- **¿Puedo ir sin inscripción?**
+- **Can I go without registration?**
 
-No, debes estar registrado previamente, ya que no manejaremos dinero en todo el evento. 
+No, you must be previously registered, since we will not make registrations or handle money throughout the event.
 
-- **Necesito certificado para justificar mi asistencia al evento, ¿se entregarán?**
+- **I need a certificate to justify my attendance at the event, will they be delivered?**
 
-Sí. Vamos a estar enviando certificados durante los 10 días siguientes a la finalización del evento vía email. Les pedimos paciencia, haremos todo lo posible para que estén cuanto antes.
+Yes. We will be sending certificates for the 30 days following the end of the event via email. We ask for your patience, we will do our best to get it to you as soon as possible.
 
-- **¿Qué incluye el costo de la entrada?**
+- **What is included in the cost of admission?**
 
-El costo de la entrada de la conferencia incluye el ingreso a todas las charlas (no a los talleres) el almuerzo y coffee breaks. 
-No se incluirá el programa impreso, dado nuestro compromiso con el ahorro de papel. Podrás ver el detalle de actividades online en nuestra página web, en las los carteles en cada salón y en las pantallas del evento.
+The cost of the conference entrance includes admission to all the talks (not the workshops), lunch, coffee breaks, Ice Breaker and Gala Dinner.
+The printed program will not be included, given our commitment to saving paper.
+You can see the details of online activities on our website, on the posters in each room and on the event screens.
+
+- **Will you deliver T-shirts or conference material?**
+
+This year we decided that T-shirts would be sold separately from the ticket, reducing the cost of the ticket but also the unnecessary impression of extra merchandising. You can buy the event shirt in our store, all proceeds from the sale of shirts will be for the benefit of the Scholarship Program ({{< ref "/register/travel-grant-program.md">}}).

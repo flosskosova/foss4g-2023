@@ -1,7 +1,7 @@
 ---
 title: "Accomodations"
 draft: false
-url: "/location-and-venue/accomodations"
+
 menu:
   main:
     parent: "Venue"

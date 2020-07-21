@@ -1,7 +1,7 @@
 ---
 title: "Visiting Buenos Aires"
 draft: false
-url: "/location-and-venue/tourism"
+
 menu:
   main:
     parent: "Venue"
