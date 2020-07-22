@@ -6,6 +6,7 @@ draft: false
 menu:
   main:
     parent: "Venue"
+    weight: 6
 ---
 
 ## Centro de Convenciones Buenos Aires y Facultad de Derecho UBA

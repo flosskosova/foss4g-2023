@@ -2,7 +2,9 @@
 title: "Ayuda"
 author: "FOSS4G 2021"
 draft: false
-menu: "main"
+menu: 
+    main:
+        weight: -1
 ---
 
 ## Preguntas frecuentes

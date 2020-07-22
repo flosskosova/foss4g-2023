@@ -4,6 +4,7 @@ draft: false
 menu:
   main:
     parent: "Sponsor"
+    weight: 5
 ---
 
 ### To sponsor the conference

@@ -1,14 +1,13 @@
 ---
-title: "Accomodations"
+title: "Alojamiento"
 draft: false
 
 menu:
   main:
-    parent: "Venue"
+    parent: "El lugar"
+    weight: 6
 ---
 
-# Accomodations
-
-You can contact our main vendor Fernanda Cataldi at fernandamcataldi@gmail.com
+Podés contactar a nuestra agente de viajes Fernanda Cataldi por mail fernandamcataldi@gmail.com
 
 

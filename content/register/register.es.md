@@ -5,6 +5,7 @@ draft: false
 menu:
   main:
     parent: "Registrate"
+    weight: 3
 ---
 
 ### **_¡¡¡Pronto habilitaremos la venta de entradas!!!_**

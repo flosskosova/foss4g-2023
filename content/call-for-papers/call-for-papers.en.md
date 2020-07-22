@@ -7,6 +7,7 @@ draft: false
 menu:
   main:
     parent: 'Call for Papers'
+    weight: 2
 ---
 
 ## Important dates

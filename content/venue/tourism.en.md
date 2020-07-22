@@ -5,6 +5,7 @@ draft: false
 menu:
   main:
     parent: "Venue"
+    weight: 6
 ---
 La ciudad de Buenos Aires ofrece una grán variedad de actividades turísticas que podes realizar. Consultá el siguiente link para conocer algunas de ellas.
 [turismo en Buenos Aires](https://turismo.buenosaires.gob.ar/es)

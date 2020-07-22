@@ -6,7 +6,8 @@ draft: false
 
 menu:
   main:
-    parent: 'Acerca de'  
+    parent: 'Acerca de'
+    weight: 1  
 weight: 2    
 ---
 

@@ -5,10 +5,8 @@ draft: false
 menu:
   main:
     parent: "Venue"
+    weight: 6
 ---
-
-# Accomodations
-
 You can contact our main vendor Fernanda Cataldi at fernandamcataldi@gmail.com
 
 

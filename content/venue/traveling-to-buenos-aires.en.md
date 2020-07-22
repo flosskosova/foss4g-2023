@@ -5,6 +5,7 @@ draft: false
 menu:
   main:
     parent: "Venue"
+    weight: 6
 ---
 
 ## Buenos Aires

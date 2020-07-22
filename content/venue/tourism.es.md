@@ -1,15 +1,16 @@
 ---
-title: "Visiting Buenos Aires"
+title: "Visitando Buenos Aires"
 draft: false
 
 menu:
   main:
-    parent: "Venue"
+    parent: "El lugar"
+    weight: 6
 ---
 La ciudad de Buenos Aires ofrece una grán variedad de actividades turísticas que podes realizar. Consultá el siguiente link para conocer algunas de ellas.
 [turismo en Buenos Aires](https://turismo.buenosaires.gob.ar/es)
 
-## Sugerencias
+## Algunos sitios de interés son:
 
 * ##### Plaza de mayo, El Cabildo
 Mientras los ciudadanos se agrupaban en la Histórica Plaza de Mayo, en los recintos de este histórico edificio se gestó la revolución que dió ogrien a la declaración de independencia. La República Argentina comenzó a nacer aquí.

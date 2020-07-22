@@ -4,6 +4,7 @@ draft: false
 menu:
   main:
     parent: "Patrocinios"
+    weight: 5
 ---
 
 ### Ser patrocinador de la Conferencia

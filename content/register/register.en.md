@@ -5,6 +5,7 @@ draft: false
 menu:
   main:
     parent: "Register"
+    weight: 3
 ---
 
 ### **_Registration soon to be open!!!_**

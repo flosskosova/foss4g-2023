@@ -6,6 +6,7 @@ draft: false
 menu:
   main:
     parent: 'About'
+    weight: 1
 weight: 1     
 ---
 ## The conference

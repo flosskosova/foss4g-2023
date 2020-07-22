@@ -2,7 +2,9 @@
 title: "Código de Conducta"
 author: "FOSS4G 2021"
 draft: false
-menu: "main"
+menu: 
+    main:
+        weight: -1
 ---
 
 Este código de conducta rige cómo nos comportamos en cualquier foro o evento de OSGeo y siempre que seamos juzgados por nuestras acciones. Esperamos que sea honrado por todos los que participan en nuestro evento.
