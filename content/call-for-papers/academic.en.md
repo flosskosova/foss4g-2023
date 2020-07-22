@@ -8,5 +8,10 @@ menu:
   main:
     parent: "Call for Papers"
 ---
+| CFP academico                     |            |            |  
+|-----------------------------------|------------|------------|                          
+|Open call for academic papers      | 21/11/2020 | 30/03/2021 |                            
+|Announce accepted papers           |            | 16/04/2021 |     
+|Submission of full academic papers |            | 02/05/2021 |    
 
 ### **More info soon!**
