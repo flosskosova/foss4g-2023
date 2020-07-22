@@ -6,33 +6,32 @@ menu:
     parent: "Sponsor"
 ---
 
-# Sponsorship opportunities soon!
+### To sponsor the conference
 
-FOSS4G Es el evento global anual de la Fundación OSGeo (Open Source for Geospatial). Aunque es ampliamente reconocida como la conferencia técnica más grande sobre software de código abierto para geomática, va más allá de ser sólo eso ya que es donde los asistentes intercambian conocimientos, prácticas, pueden capacitarse en nuevas tecnologías y acceder al mundo del código abierto.
+As FOSS4G is a global event, sponsors are the backbone of the conference. With your valuable support, the Local Organizing Committee can organize this great event that the entire geospatial community is waiting for.
 
-Los patrocinadores son la columna vertebral de la Conferencia FOSS4G. Con su valioso apoyo, el Comité Organizador Local, puede organizar este gran evento que toda la comunidad geoespacial está esperando.
+We believe in inclusion and aspire to make FOSS4G 2021 accessible to the widest range of participants, from high-end senior experts to junior professionals, from freelancers, to faculty, users and students. The overall goal is to offer everyone a solid opportunity to learn, get inspired, inspire others, and enjoy the company of other geospatial enthusiasts.
 
-Nos ponemos en contacto con usted porque necesitamos su ayuda para construir FOSS4G 2021, pero también porque creemos en la inclusión y aspiramos a hacer que FOSS4G 2021 sea accesible para la más amplia gama de participantes, desde expertos senior de alta gama hasta profesionales junior, desde autónomos , a profesores, de usuarios, a estudiantes. El objetivo general es ofrecer a todos una oportunidad sólida de aprender, inspirarse, inspirar a otros y disfrutar de la compañía de otros entusiastas geoespaciales.
-
-Al patrocinar FOSS4G 2021, está extendiendo su contribución a la comunidad geoespacial de código abierto, una contribución que es esencial para mantener activa esta valiosa comunidad. El Comité de Patrocinio FOSS4G Buenos Aires 2020 trabajó mucho para brindar múltiples oportunidades de patrocinio, pero siendo flexibles a posibles cambios. 
-
-#PERFIL DE LA CONFERENCIA
+By sponsoring FOSS4G 2021, you are extending your contribution to the open source geospatial community, a contribution that is essential to keeping this valuable community active. The FOSS4G Buenos Aires 2021 Sponsorship Committee worked hard to provide multiple sponsorship opportunities, but being flexible to possible changes.
 
 
-Asistencia estimada: 900-1200
-•	Desarrolladores y usuarios de software geoespacial
-•	Especialistas de instituciones gubernamentales y empresas privadas que buscan soluciones efectivas para resolver problemas geoespaciales.  
-•	Directivos de proyectos geoespaciales en busca de soluciones de software ﬂexibles y económicamente ventajosas 
-•	Líderes técnicos geoespaciales 
-•	Empresas que buscan conectarse con comunidades de código abierto 
-•	Empresas que buscan contratar expertos en código abierto 
-•	Delegados de organizaciones internacionales y comunidades científicas 
-•	Líderes del código abierto global para la comunidad geoespacial
-•	Profesionales y técnicos en Geografía, Geodesia, Fotogrametría, Cartografía y Topografía
-•	Representantes de organizaciones no gubernamentales, comunidades colaborativas, docente de diferentes niveles educativos y aficionados
+### Conference profile
 
+Estimated attendance: 900-1200
+- Geospatial software developers and users
+- Specialists from government institutions and private companies looking for effective solutions to solve geospatial problems.
+- Geospatial project managers looking for flexible and economically advantageous software solutions
+- Geospatial technical leaders
+- Companies looking to connect with open source communities
+- Companies looking to hire open source experts
+- Delegates from international organizations and scientific communities
+- Global open source leaders for the geospatial community
+- Professionals and technicians in Geography, Geodesy, Photogrammetry, Cartography and Topography
+- Representatives of non-governmental organizations, collaborative communities, teachers of different educational levels and amateurs
+  
+You can see the sponsor brochure [here](link)
 
-You can see our full brochure here: link
-
-
-contacto
+Contacto 
+{{< rawhtml >}}
+<a href="mailto:mail@mail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+{{< /rawhtml >}}

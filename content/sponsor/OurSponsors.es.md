@@ -1,10 +1,10 @@
 ---
-title: "Our Sponsors"
+title: "Nuestros Patrocinadores"
 draft: false
 menu:
   main:
-    parent: "Sponsor"
+    parent: "Patrocinios"
 ---
 
 
-# You can be here!
+### Puedes ver tu logo aquí!
