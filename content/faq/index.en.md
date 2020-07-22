@@ -25,7 +25,7 @@ Registrations and ticket purchases will be made through the website, for more in
 
 - **How do I sign up for workshops?**
 
-Each workshop will have its individual ticket and limited spaces, registration will be enabled once the [Full Schedule]({{< ref "/schedule/full-schedule.md">}}) has been published. We recommend registering early enough.
+Each workshop will have its individual ticket and limited spaces, registration will be enabled once the Full schedule has been published. We recommend registering early enough.
 
 - **How do I know if there is space for the workshops?**
 

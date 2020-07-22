@@ -1,9 +1,10 @@
 ---
-title: "Keynotes"
+title: "Oradores principales"
 draft: false
 menu:
   main:
-    parent: "Schedule"
+    parent: "Programa"
+weight: 4
 ---
 
-# more info soon!
+### **¡¡Muy pronto novedades!!_**

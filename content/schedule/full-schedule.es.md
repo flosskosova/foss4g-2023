@@ -1,9 +1,10 @@
 ---
-title: "Full Schedule"
-draft: false
+title: "Programa completo"
+draft: true
 menu:
   main:
-    parent: "Schedule"
+    parent: "Programa"
+weight: 2
 ---
 
-# more info soon!
+### **¡¡Muy pronto novedades!!_**

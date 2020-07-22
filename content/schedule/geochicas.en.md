@@ -4,19 +4,21 @@ draft: false
 menu:
   main:
     parent: "Schedule"
+weight: 6
 ---
 
 #### GeoChicas Pre-Event
+
 This event will take place on Tuesday evening, after the workshops and the day before the main sessions start. The event will be split in two. The first half will be women and non binary people (nb) only. Then everyone is invited to join. This helps the inclusivity and network building among women and nb.
 
-#### ¿Qué es Geochicas OSM? 
+#### What is GeochicasOSM? 
 
-Geochicas OSM es un colectivo de mujeres cis y no binarias, feministas y maperas vinculadas al proyecto de OpenStreetMap y a las comunidades asociadas al mundo del software libre y datos abiertos. Los ideales se ven plasmados a través de la cartografía y del mapeo colaborativo. En sus inicios solo fue una comunidad hispanohablante, pero hoy en día existen usuarias en más de 40 países alrededor del globo. 
-El colectivo fue creado en el año 2016, en el encuentro anual de OpenStreetMap State of the Map LatAm 2016, en Sao Pablo - Brasil, allí se conversó con el conjunto mixto de la comunidad presente sobre la problemática de género en OpenStreetMap, y debido a eso, se definieron los primeros lineamientos para la agenda de Geochicas OSM.
+Geochicas OSM is a group of cis and non-binary women, feminists and mappers linked to the OpenStreetMap project and to communities associated with the world of free software and open data. The ideals are embodied through mapping and collaborative mapping. At the beginning it was only a Spanish-speaking community, but today there are users in more than 40 countries around the globe.
+The collective was created in 2016, at the annual OpenStreetMap State of the Map LatAm 2016 meeting, in São Paulo - Brazil, where they spoke with the mixed community present about the gender problem in OpenStreetMap, and therefore, the first guidelines for the OSM Geochics agenda were defined.
 
-#### Objetivos
+#### Objectives
 
-Esta red de mujeres está dedicada a iniciativas colaborativas de mapeo y visualización de datos desde un enfoque feminista con perspectiva de género. A través del los diferentes [ejes temáticos](https://es.wikipedia.org/wiki/Geochicas), el objetivo principal es evaluar el rol, la representación y la participación que tiene la mujer en estos espacios. Hoy en día hay más de 4.500.000 usuarios mixtos en OSM, existe mucha información pero poca diversidad en los datos, [solo el 3% de la comunidad son mujeres](https://slides.com/geochicasosm/geochicas-csvconf-v4-2019-11#/6). A partir de esta primicia, se busca reducir la brecha de género en los espacios tecnológicos a través de redes colaborativas y la creación, edición, curación y visualización de datos geoespaciales a través de un lente feminista.
+This women's network is dedicated to collaborative data mapping and visualization initiatives from a feminist perspective with a gender perspective. Through the different [thematic axes](https://es.wikipedia.org/wiki/Geochicas), the main objective is to evaluate the role, representation and participation that women have in these spaces. Today there are more than 4,500,000 mixed users in OSM, there is a lot of information but little diversity in the data, [only 3% of the community are women](https://slides.com/geochicasosm/geochicas-csvconf-v4-2019-11#/6). From this scoop, it seeks to reduce the gender gap in technological spaces through collaborative networks and the creation, editing, curation and visualization of geospatial data through a feminist lens.
 
 
 | Geochicas takes Bucharest FOSS4G 2019|Geochicas takes Dar es-Salam FOSS4G 2018 |
@@ -26,27 +28,22 @@ Esta red de mujeres está dedicada a iniciativas colaborativas de mapeo y visual
 {{< /rawhtml >}}
 #### FAQs
 
-- ¿A qué público están dedicados estos encuentros de Geochicas en la Conferencia?
+- To what audience are these Geochicas meetings at the Conference dedicated?
+These meetings are dedicated to women, cis and non-binaries who want to be part of the geodater community and learn about collaborative mapping initiatives, with the aim of contributing to the debate from a feminist perspective with a gender perspective.
 
-Estos encuentros están dedicados a mujeres, cis y no binaries que quieran formar parte de la comunidad geodatera y conocer sobre las iniciativas de mapeo colaborativo, con el objetivo de aportar al debate desde un enfoque feminista con perspectiva de género.
+- What are safe spaces for women?
+These meetings are spaces that are created so participants can generate networks of contention and exchange of ideas. They are places of expression, where the codes of conduct and policies of coexistence can be debated to carry out a diverse conference, as well as how strategies for the inclusion of women in technology can be generated.
+Thanks to these spaces, new action guidelines and new project proposals can be taken to reduce the gender gap.
 
-
-- ¿Qué son los espacios seguros para mujeres?
-
-Estos encuentros son espacios que se crean para que las participantes puedan generar redes de contención e intercambio de ideas. Son lugares de expresión, en donde se debate cuáles pueden ser los códigos de conducta y políticas de convivencia para llevar adelante una conferencia diversa, como también, de qué manera se pueden generar estrategias de inclusión de las mujeres en la tecnología.
-Gracias a estos espacios, se pueden tomar nuevos lineamientos de acción y nuevas propuestas de proyectos para la reducción en la brecha de género. 
-
-
-- ¿Puedo colaborar en Geochicas OSM aunque no sepa de mapas?
-
-Por supuesto, existen muchas compañeras que no necesariamente saben de mapas y geodatos, pero aportan desde su experiencia y visión multidisciplinar. Igualmente, desde Geochicas se promueven la transferencia de conocimiento y fortalecimiento de capacidades entre compañeras desde el diálogo de los diferentes saberes. Toda esta información está en la página web de Geochicas y en el canal de youtube.
+- Can I collaborate in Geochicas OSM even if I don't know about maps?
+Of course, there are many colleagues who do not necessarily know about maps and geodata, but contribute from their experience and multidisciplinary vision. Likewise, Geochicas promotes the transfer of knowledge and capacity building between colleagues from the dialogue of different knowledge. All this information is on the Geochicas website and on the YouTube channel.
 
 
-#### Contacto y redes sociales
+#### Contact and social media
 
-- Para ver todos los proyectos de la comunidad: https://geochicas.org/
+- To see all the community projects: https://geochicas.org/
 
-- Para ver todos los canales de comunicacion: https://geochicas.org/index.php/contactanos/
+- To see all communication channels: https://geochicas.org/index.php/contactanos/
 {{< rawhtml >}}
 <!DOCTYPE html>
 <html lang="en">

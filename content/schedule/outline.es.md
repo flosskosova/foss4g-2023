@@ -1,9 +1,10 @@
 ---
-title: "Outline"
+title: "Esquema de actividades"
 draft: false
 menu:
   main:
-    parent: "Schedule"
+    parent: "Programa"
+weight: 1     
 ---
 
 |   | **Monday** | **Tuesday** | **Wednesday** |  | **Thursday** |  | **Friday** |  | **Saturday** |

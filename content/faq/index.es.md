@@ -25,7 +25,7 @@ Las inscripciones y compra de entradas se realizarán a través de la pagina web
 
 - **¿Cómo me anoto a los talleres?**
 
-Cada taller tendrá su entrada individual y los cupos limitados, la inscripción se habilitará una ves publicado el [Programa de Actividades] ({{< ref "/schedule/full-schedule.es.md" >}}). Recomendamos inscribirse con suficiente tiempo de anticipación. 
+Cada taller tendrá su entrada individual y los cupos limitados, la inscripción se habilitará una ves publicado el Programa. Recomendamos inscribirse con suficiente tiempo de anticipación. 
 
 - **¿Cómo sé si queda cupo para los talleres?**
 

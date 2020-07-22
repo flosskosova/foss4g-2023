@@ -36,3 +36,5 @@ weight: 2
 ![Sofía Nilo](/images/sofia.jpg)
 ![Verónica Andreo](/images/vero.jpg)
 ![Claudia Bermúdez Girón](/images/claudia.jpg)
+![Camila Cuervo](/images/camila.jpeg)
+![Cristian Zamar](/images/cristian.jpg)

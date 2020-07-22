@@ -4,6 +4,7 @@ draft: false
 menu:
   main:
     parent: "Schedule"
+weight: 3
 ---
 
-# more info soon!
+### **More info soon!**

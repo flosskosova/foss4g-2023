@@ -1,13 +1,15 @@
 ---
-title: "Geochicas take Buenos Aires"
+title: "Geochicas toman Buenos Aires"
 draft: false
 menu:
   main:
-    parent: "Schedule"
+    parent: "Programa"
+weight: 6
 ---
 
-#### GeoChicas Pre-Event
-This event will take place on Tuesday evening, after the workshops and the day before the main sessions start. The event will be split in two. The first half will be women and non binary people (nb) only. Then everyone is invited to join. This helps the inclusivity and network building among women and nb.
+#### GeoChicas Pre-Evento
+
+Este evento tendrá lugar el martes por la noche, después de los talleres y el día antes de que comiencen las sesiones principales. El evento se dividirá en dos. La primera mitad serán solo mujeres y personas no binarias (nb). Entonces todos están invitados a unirse. Esto ayuda a la inclusión y la creación de redes entre mujeres y nb.
 
 #### ¿Qué es Geochicas OSM? 
 
@@ -48,21 +50,10 @@ Por supuesto, existen muchas compañeras que no necesariamente saben de mapas y 
 
 - Para ver todos los canales de comunicacion: https://geochicas.org/index.php/contactanos/
 {{< rawhtml >}}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-	<link rel="stylesheet" href="iconos_geochicas.css"> 
-	<title>iconos redes sociales</title>
-</head>
-<body>
-	<div class="redes-container">
-		<ul>
-			<li><a href="https://twitter.com/geochicasosm" class="twitter" target="_blank"><i class="fab fa-twitter"></i></a></li>
-			<li><a href="https://www.youtube.com/channel/UCMbcgFj2g9NloxBhVonOQIQ"class="youtube" target="_blank"><i class="fab fa-youtube"></i></a></li>
-		</ul>
-	</div>
-</body>
-</html>
+<div class="redes-container">
+	<ul>
+		<li><a href="https://twitter.com/geochicasosm" class="twitter" target="_blank"><i class="fab fa-twitter"></i></a></li>
+		<li><a href="https://www.youtube.com/channel/UCMbcgFj2g9NloxBhVonOQIQ"class="youtube" target="_blank"><i class="fab fa-youtube"></i></a></li>
+	</ul>
+</div>
 {{< /rawhtml >}}

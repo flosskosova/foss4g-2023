@@ -1,18 +1,19 @@
 ---
-title: "Social Events"
+title: "Eventos Sociales"
 draft: false
 menu:
   main:
-    parent: "Schedule"
+    parent: "Programa"
+weight: 5
 ---
 
-We will repeat the successful formula of having a Pub Race map to meet close to the venue. Besides those “GeoBeers”, we planned:
+Vamos a repetir la exitosa fórmula de tener un mapa de bares o **Pub Race** cerca del lugar de la conferencia. Además de las "Geobirras" tenemos planeado:
 
-## Gala Dinner
-On Thursday night we will host the Gala Dinner at the “Floralis Genérica”, a huge flower sculpture in the United Nations Square. 
+### Gala Dinner
+El jueves a la noche vamos a realizar la cena principal en la “Floralis Genérica”, la enorme escultura metálica ubicada en la plaza de las Naciones Unidas.
 
-This meeting will be organized as a traditional (folkloric) party “Peña” to share the rich Argentinian culture with the attendees. To ensure that everybody enjoys and is entertained, we will provide tango and folklore dance classes for those who like dancing. There will be varied local food, such as empanadas, locro, asado and the indispensable “mate” to drink.
-We will provide spaces for both partying and talking, so attendees with diverse social needs can interact and build networks. 
+Para esta actividad organizamos una Peña tradicional, que nos permitirá compartir un poco de la cultura Argentina con los asistentes al evento. Para asegurarnos que todos disfrutan y se entretienen, va a haber clases de baile, tanto tango cómo folclore. Además comida local como empanadas, locro, asado y mate.
+El espacio va a permitir tanto baile como charla, para que todos puedan disfrutar y relacionarse.
 
-## IceBreaker
-On Wednesday, there will be an unstructured and informal meeting. It will be an after office craft beer gathering in the garden rooftop of the venue. We will offer light drinks and food to close the very first day relaxed and together. 
+### Ice Breaker
+El miércoles vamos a tener una reunión informal de bienvenida, con Cerveza artesanal y algo de picar. Así disfrutamos de un primer dia relajados y juntos.

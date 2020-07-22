@@ -3,7 +3,8 @@ title: "Codesprint"
 draft: false
 menu:
   main:
-    parent: "Schedule"
+    parent: "Programa"
+weight: 3
 ---
 
-# more info soon!
+### **¡¡Muy pronto novedades!!_**
