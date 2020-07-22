@@ -4,6 +4,6 @@ draft: true
 
 menu:
   main:
-    parent: 'Convocatoria a ponencias'
+    parent: 'Presentaciones'
 ---
 

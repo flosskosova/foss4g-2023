@@ -6,7 +6,7 @@ draft: false
 
 menu:
   main:
-    parent: 'Convocatoria a ponencias'
+    parent: 'Presentaciones'
 ---
 | CFP academico              |                          |            |            |  
 |----------------------------|--------------------------|------------|------------|                          
