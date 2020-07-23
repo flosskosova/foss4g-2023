@@ -7,37 +7,44 @@ menu:
     parent: "Venue"
     weight: 6
 ---
-La ciudad de Buenos Aires ofrece una grán variedad de actividades turísticas que podes realizar. Consultá el siguiente link para conocer algunas de ellas.
-[turismo en Buenos Aires](https://turismo.buenosaires.gob.ar/es)
+The city of Buenos Aires offers a wide variety of tourist activities that you can do. Check the [turism in Buenos Aires](https://turismo.buenosaires.gob.ar/es) page to know some of them.
 
-## Sugerencias
 
-* ##### Plaza de mayo, El Cabildo
-Mientras los ciudadanos se agrupaban en la Histórica Plaza de Mayo, en los recintos de este histórico edificio se gestó la revolución que dió ogrien a la declaración de independencia. La República Argentina comenzó a nacer aquí.
+## Some interesting sites are:
 
-* #### Caminito, La Boca
-[Caminito](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/caminito) es uno de los paseos mas tradicionales de la Ciudad!!! 
+* ##### Plaza de mayo (May square), The Cabildo
+While the citizens gathered in the Historic Plaza de Mayo, in the enclosures of this historic building the revolution that gave birth to the declaration of independence was conceived. The Argentine Republic started here.
+
+* #### Caminito (little path), The Boca neighborhood
+[Caminito](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/caminito) it's one of the most traditional walks in the city.
 
 * #### San Telmo
-Es uno de los barrios porteños más antiguos! [Conoce su feria y bares](https://turismo.buenosaires.gob.ar/es/recorrido/san-telmo)!!!
+It is one of the oldest Buenos Aires neighborhoods! [Know its fair and bars](https://turismo.buenosaires.gob.ar/es/recorrido/san-telmo).
 
-* #### Cafés y Bares Notables
-Conocé los [Bares y Cafés notables](https://turismo.buenosaires.gob.ar/es/article/bares-notables) de la ciudad. Estos lugares fueron punto de encuentro de grandes músicos, escritores y pensadores de Buenos Aires.
+* #### Historic Cafes and Bars
+Get to know [Bars y Cafes notables](https://turismo.buenosaires.gob.ar/es/article/bares-notables) from the city. These places were a meeting point for great musicians, writers and thinkers from Buenos Aires.
 
-* #### El planetario
-Es cielo en la tierra es posible!! Si visitás el [Centro Astronómico Galileo Galilei](https://planetario.buenosaires.gob.ar/) en la ciudad de Buenos Aires, encontrarás un lugar maravilloso. Si investigás un poco más encontraás una leyenda urbana sobre la construcción del edificio y las Crónicas Marcianas de Ray Bradbury.
+* #### The planetarium
+It's heaven on earth is possible! If you visit the [Galileo Galilei Planetarium](https://planetario.buenosaires.gob.ar/) in the city of Buenos Aires, you will find a wonderful place. If you do a little more research you will find an urban legend about the construction of the building and the Ray Bradbury Martian Chronicles.
 
-* #### Tour de fantasmas en Buenos Aires
-Como toda grán ciudad Buenos Aires tiene sus propios misterios. Si te gustan las [histórias de misterio](https://ba.tours/actividad/buenos-aires-misteriosa-i-71996999), te dejamos un link para que visites!!
+* #### Ghost tour in Buenos Aires
+Like every great city, Buenos Aires has its own mysteries. See this link if you like [mistery tales](https://ba.tours/actividad/buenos-aires-misteriosa-i-71996999).
 
-* #### Conoces el Tigre?
-A tan solo unos minutos en tren de la Ciudad de Buenos Aires se encuentra el corazón del Delta más grande de la Argentina. En este lugar puedes realizar varias actividades y es un paseo de fin de semana habitual para los porteños.
+* #### Do you know Tigre?
+Just a few minutes by train from the City of Buenos Aires is the heart of the largest Delta in Argentina. In this place you can carry out various activities and it is a usual weekend walk for porteños.
 
+* #### Other sites:
 [Paseos náuticos](http://vivitigre.gob.ar/que-hacer/turismo-nautico/)  
 [Paseo de compras](http://vivitigre.gob.ar/que-hacer/zonas-turisticas/puerto-de-frutos/) 
 [Recorrido gastronómico](http://vivitigre.gob.ar/que-hacer/zonas-turisticas/paseo-victorica/)
 
-#### Comer en Buenos Aires: mucho más que carne
+#### Eating in Buenos Aires: much more than meat
+The gastronomic offer of Buenos Aires reflects its history of port city.
+Starting with **asado**, the national ritual of grilled meats. You'll find options for all budgets, from choripan (a sausage sandwich you buy in a kiosk) to wagyu meat. Also you'll find that **parrillas** (barbeque restaurants) include, in addition to the various cuts of beef (roast, vacuum, matambre, entrail, tail of the rump, chorizo ​​steak, and more, more, more), chicken, pork, cheese (provoleta), vegetarian barbecue and much more (chorizo, black pudding, chinchulines, sweetbreads).
+Empanadas (throughout the city), locro (especially in Mataderos) or dulce de leche (the main ingredient of national desserts) are also typical of the country's food.
+Due to the Italian influence, the city makes a cult of pizza, of all varieties and with great tradition, all along Corrientes Avenue (from Las Cuartetas near the Obelisk to Imperio in Chacarita) and for Spanish origins there is also a cult to fish, shellfish, tortillas (Av de Mayo is the Kingdom of Spanish Cuisine with places like El Globo and El Imparcial).
+As a destination for migrants from all over the world, in Buenos Aires it is possible to find ethnic restaurants of all origins: from African peanut sauce from El Buen Sabor to Uruguayan chivitos from La Pasiva, from Korean kimchi from Bi Won to Polish pierogis from Lo de Antosh, everything is possible in a city that does not sleep and where it is not uncommon to find kitchens open until midnight.
+And the best way to end a good dinner is visiting any of the traditional or modern porteño ice cream parlors, trying from Sambayón de El Vesubio ice cream (founded in 1902) or Dulce de Leche de Cadore to Fernet's ice cream with Coca or of Alchemy's Gin Tonic.
 La oferta gastronómica de Buenos Aires refleja su historia de Ciudad Puerto. 
 Partiendo del asado, ritual nacional de carnes a las brasas con opciones para todos los bolsillos, desde choripán al paso hasta la carne wagyu, que incluyen además de los diversos cortes de carne vacuna (asado, vacío, matambre, entraña, colita de cuadril, bife de chorizo, y más, más, más), pollo, cerdo, queso (provoleta), parrilada vegetariana y mucho más (chorizo, morcilla, chinchulines, mollejas) 
 También es típico de la comida del país las empanadas (en toda la ciudad), el locro (especialmente en Mataderos) o el dulce de leche (el ingrediente principal de los postres nacionales).
@@ -59,5 +66,3 @@ Todas las noches de la semana hay vida nocturna en la ciudad hasta la madrugada 
 
 #### Buenos Aires: capital de la diversidad
 Buenos Aires es una de las ciudades latinoamericanas que cuenta con un circuito de bares, discotecas y otros locales de entretenimiento y vida nocturna orientados a la comunidad LGTTBQI+, con epicentros en San Telmo y Palermo y una importante concentración sobre la Av. Córdoba, que incluye desde Centros Culturales como Casa Brandon hasta discotecas como Amérika.
-
-

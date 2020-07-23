@@ -9,17 +9,19 @@ menu:
 ---
 
 ## Buenos Aires
-La **Ciudad de Buenos Aires** es la capital de la República Argentina, situada a los 34°36’ de latitud sur y a los 58°26’ de longitud oeste, es una de las ciudades más grandes de Sudamérica. Forma parte de un conglomerado urbano con más de 12 millones de habitantes. La Ciudad de Buenos Aires posee un clima benigno todo el año. Con una temperatura media anual de 18ºC (64°F), son escasos los días de calor y frío intensos, lo que permite visitar la Ciudad en cualquier época del año. La ciudad ha sido, exitosamente, sede de grandes eventos internacionales tales como los pasados Juegos Olímpicos de la juventud realizados durante el 2018, en la que participaron 3.920 atletas de 206 países. 
-Buenos Aires posee una gran actividad cultural, entre las que se destacan los teatros, los museos, espacios literarios y los lugares de encuentro y esparcimiento. Con alrededor de 230 salas teatrales entre los circuitos oficial, comercial e independiente, la oferta del sector es inagotable y constante durante todo el año. Sin dudas el teatro más emblemático de la ciudad es el Teatro Colón, una de las salas de opera más importantes a nivel mundial con características acústicas y rasgos arquitectónicos que lo colocan a la altura de salas como la Scala de Milán, la Ópera de París, la Ópera de Viena, el Covent Garden de Londres y el Metropolitan de New York.  A lo largo de su historia han pasado por su escenario grandes artistas internacionales como Enrico Caruso, Maria Callas, Plácido Domingo, Luciano Pavarotti, Vaslav Nijinski, Margot Fonteyn, Maia Plisetskaia, Rudolf Nureyev, entre otros. Declarada Capital Mundial del libro por la UNESCO en 2011, la ciudad ofrece una gran variedad de espacios literarios para quienes gustan de la buena lectura. Posee 604 bibliotecas, más de 100 librerías comerciales, y los cafés literarios brindan un marco excepcional que fomenta el desarrollo de la literatura y de quienes tienen gusto por ella.
+The **City of Buenos Aires** is the capital of the Argentine Republic, located at 34° 36’south latitude and 58° 26’ west longitude, it is one of the largest cities in South America. It is part of an urban conglomerate with more than 12 million citizens. The City of Buenos Aires has a mild climate all year round. With an average annual temperature of 18ºC (64 ° F), there are few intense hot and cold days, which allows you to visit the city at any time of the year. The city has successfully hosted major international events such as the last Youth Olympic Games held during 2018, in which 3,920 athletes from 206 countries participated.
+Buenos Aires has a great cultural activity, among which the theaters, museums, literary spaces, and places for meeting and recreation stand out. With around 230 theatrical rooms between the official, commercial and independent circuits, the sector's offer is inexhaustible and constant throughout the year. Declared World Book Capital by UNESCO in 2011, the city offers a wide variety of literary spaces for those who like good reading.
 
 
 ## Coming to Argentina
-Si estas pensando en asistir a la FOSS4G 2021 en Buenos Aires, te sugerimos que veas si necesitas visa.
-Listado de países que necesitan visa para ingresar a la Argentina:
+If you are thinking of attending the FOSS4G 2021 in Buenos Aires, we suggest you see if you need a visa.
+List of countries that need a visa to enter Argentina:
 http://www.migraciones.gov.ar/accesible/indexdnm.php?visas
 
-Si necesitas tramitar tu visa, podes ingresar al siguiente Link para ver como hacer los trámites:
+If you need to process your visa, you can enter the following Link to see how to do the procedures:
 http://www.migraciones.gov.ar/ave/index.htm
+
+**Don't hesitate to contact us if you need an invitation letter for your visa or any inquiry!**
 
 ## Getting around CABA
 

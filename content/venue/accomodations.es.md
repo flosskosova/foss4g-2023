@@ -4,7 +4,7 @@ draft: false
 
 menu:
   main:
-    parent: "El lugar"
+    parent: "La sede"
     weight: 6
 ---
 

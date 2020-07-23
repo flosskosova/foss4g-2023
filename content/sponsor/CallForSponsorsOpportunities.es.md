@@ -33,5 +33,5 @@ Puede ver el folleto de patrocinios [aquí](link)
 
 Contacto 
 {{< rawhtml >}}
-<a href="mailto:mail@mail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+<a href="mailto:foss4g2021-sponsorship@googlegroups.com" target="_blank"><i class="fa fa-envelope"></i></a>
 {{< /rawhtml >}}
