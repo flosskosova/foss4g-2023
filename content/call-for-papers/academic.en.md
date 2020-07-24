@@ -9,6 +9,9 @@ menu:
     parent: "Call for Papers"
     weight: 2
 ---
+
+These are tentative dates.
+
 | CFP academico                     |            |            |  
 |-----------------------------------|------------|------------|                          
 |Open call for academic papers      | 21/11/2020 | 30/03/2021 |                            
