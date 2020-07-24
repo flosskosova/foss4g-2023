@@ -1,5 +1,5 @@
 ---
-title: "Cancelation Policy"
+title: "Cancellation Policy"
 draft: false
 menu:
   main:
