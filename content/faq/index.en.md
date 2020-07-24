@@ -70,7 +70,7 @@ Yes. We will be sending certificates after the end of the event via email. We as
 
 - **What is included in the ticket?**
 
-The cost of the conference ticket includes admission to all the main tracks (excluding )workshops), lunch, coffee breaks, Ice Breaker and Gala Dinner.
+The cost of the conference ticket includes admission to all the main tracks (excluding workshops), lunch, coffee breaks, Ice Breaker and Gala Dinner.
 
 A printed program will not be included, given our commitment to reduce waste.
 
