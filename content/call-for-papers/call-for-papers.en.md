@@ -11,7 +11,10 @@ menu:
 ---
 
 ## Important dates
-| CFP                                                 |desde       |  hasta     |
+
+These are tentative dates.
+
+| CFP                                                 |       |       |
 |-----------------------------------------------------|------------|------------|
 |Open call for talks and workshops                    | 21/11/2020 | 30/03/2021 |                            
 |Open community vote for talks                        | 04/04/2021 | 10/04/2021 |                            
