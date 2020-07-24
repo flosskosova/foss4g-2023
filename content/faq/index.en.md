@@ -70,7 +70,7 @@ Yes. We will be sending certificates after the end of the event via email. We as
 
 - **What is included in the ticket?**
 
-The cost of the conference ticket includes admission to all the main tracks (excluding )workshops), lunch, coffee breaks, Ice Breaker and Gala Dinner.
+The cost of the conference ticket includes admission to all the main tracks (excluding workshops), lunch, coffee breaks, Ice Breaker and Gala Dinner.
 
 A printed program will not be included, given our commitment to reduce waste.
 
@@ -78,4 +78,4 @@ You can see the details of online activities on our website, on the posters in e
 
 - **Will you deliver T-shirts or conference material?**
 
-This year, t-shirts would be sold separately from the ticket, reducing the cost of the ticket but also waste. You can buy event branded shirts in our store. All profit from the sale of the shirts will be for the benefit of the Travel Grant Program ({{< ref "/register/travel-grant-program.md">}}).
+This year, t-shirts would be sold separately from the ticket, reducing the ticket price and the amount of waste. You can buy event branded shirts in our store. All profit from the sale of the shirts will go to the Travel Grant Program ({{< ref "/register/travel-grant-program.md">}}).
