@@ -11,42 +11,46 @@ menu:
 
 - **Where will the Conference take place?**
 
-The event will take place in two main buildings. The University of Buenos Aires Law School and The Buenos Aires Convention Center, located in the Recoleta neighborhood, in the City of Buenos Aires. For more information, go to [Conference venue]({{< ref "/venue/venue.md">}}).
+The event will take place in two nearby buildings. The University of Buenos Aires Law School and The Buenos Aires Convention Center, located in the Recoleta neighborhood, in the City of Buenos Aires. For more information, go to [Conference venue]({{< ref "/venue/venue.md">}}).
 
 - **On what date will the event take place?**
 
-The event will be from September 27 to October 2, 2021. _Soon we will have more news about the activities calendar!_
+The event will take place from September 27 to October 2, 2021. Check our schedule and activities section!
 
 - **What activities will the Conference have?**
 
-The conference will mainly have talks, workshops and codeprint activities. On the other hand, we have the Geochicas meeting, as well as social events like: Pubrace, Ice Breaker and Gala Dinner.
+The conference will have tracks full of talks, workshops and codeprint activities. On the social side, we will host a Geochicas meeting, as well as other social events like: Pubrace, Ice Breaker and Gala Dinner.
 
 - **How do I sign up to attend the Conference?**
 
-Registrations and ticket purchases will be made through the website, for more information visit our [Register]({{< ref "/register/register.md">}}) section.
+Registrations and ticket purchases will be made through an online system. For more information visit our [Register]({{< ref "/register/register.md">}}) section.
 
 - **How do I sign up for workshops?**
 
-Each workshop will have its individual ticket and limited spaces, registration will be enabled once the Full schedule has been published. We recommend registering early enough.
+Each workshop can be purchased as an individual ticket. They will be on sale once the schedule has been published. We recommend registering as soon as possible.
 
 - **How do I know if there is space for the workshops?**
 
-Entering the link of workshops registration you will be able to see the options and you how many places are available at that moment. The spaces for the workshops will not be extended, since space in the training rooms is limited.
+On the registration page you will be able to see the options and how many places are still available. The space in the training rooms is limited, so we can only offer a limited number of tickets.
 
-- **I signed up for a workshop, now?**
+- **I signed up for a workshop, what do I do now?**
 
 It will be necessary to bring a laptop to participate in the workshops since they are totally practical, **do not forget it!**
-We also recommend bringing an extension cord and / or a shoe, since access to plugs is limited and everyone needs it.
-Although WiFi will be available, we recommend downloading the necessary software before coming as there will be many people using it.
+
+We also recommend bringing an extension cord and a multi-outlet, since access to plugs is limited and everyone needs power at some point.
+Although WiFi will be available, we recommend downloading the needed software before leaving for the venue.
 
 - **Will there be WiFi during the event?**
 
-Yes, we will try to make it of the best possible quality, but since there will be many users at the same time, please connect only one device at a time (laptop or cell phone) and be supportive of its use.
+Yes.
+
+We will deliver the best possible quality connection, but as there will be many users at the same time, please connect only one device at a time (laptop or cell phone) and be mindful of its use.
 
 - **If I already bought my ticket, how can I get an invoice / receipt for my payment?**
 
-If you already bought your ticket, the receipt will automatically be sent to you by email.
-The invoices will be made by Geolibres Asociación Civil. During the purchase process, the data for billing can be completed, such as the company name to which it is addressed and the tax ID number, keep them handy since once the ticket is purchased, the invoice is generated and cannot be corrected.
+If you already bought your ticket, the receipt will be sent to you by email.
+
+The invoices will be made by Geolibres Asociación Civil. During the purchase process, the data for billing can be completed, such as the company name to which it is addressed and the tax ID number. Make sure the data is correct because once the ticket is purchased and the invoice is generated, it cannot be corrected.
 
 - **I am not dedicated to geomatics, can I attend the Conference?**
 
@@ -60,16 +64,18 @@ Yes, this event is for all kinds of people interested in sharing experiences abo
 
 No, you must be previously registered, since we will not make registrations or handle money throughout the event.
 
-- **I need a certificate to justify my attendance at the event, will they be delivered?**
+- **I need a certificate of my attendance at the event, will they be delivered?**
 
-Yes. We will be sending certificates for the 30 days following the end of the event via email. We ask for your patience, we will do our best to get it to you as soon as possible.
+Yes. We will be sending certificates after the end of the event via email. We ask for your patience, we will do our best to get it to you as soon as possible.
 
-- **What is included in the cost of admission?**
+- **What is included in the ticket?**
 
-The cost of the conference entrance includes admission to all the talks (not the workshops), lunch, coffee breaks, Ice Breaker and Gala Dinner.
-The printed program will not be included, given our commitment to saving paper.
+The cost of the conference ticket includes admission to all the main tracks (excluding )workshops), lunch, coffee breaks, Ice Breaker and Gala Dinner.
+
+A printed program will not be included, given our commitment to reduce waste.
+
 You can see the details of online activities on our website, on the posters in each room and on the event screens.
 
 - **Will you deliver T-shirts or conference material?**
 
-This year we decided that T-shirts would be sold separately from the ticket, reducing the cost of the ticket but also the unnecessary impression of extra merchandising. You can buy the event shirt in our store, all proceeds from the sale of shirts will be for the benefit of the Scholarship Program ({{< ref "/register/travel-grant-program.md">}}).
+This year, t-shirts would be sold separately from the ticket, reducing the cost of the ticket but also waste. You can buy event branded shirts in our store. All profit from the sale of the shirts will be for the benefit of the Travel Grant Program ({{< ref "/register/travel-grant-program.md">}}).
