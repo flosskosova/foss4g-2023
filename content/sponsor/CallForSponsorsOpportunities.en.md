@@ -32,7 +32,7 @@ Estimated attendance: 900-1200
   
 You can see the sponsor brochure [here](link)
 
-Contacto 
+Contact 
 {{< rawhtml >}}
 <a href="mailto:foss4g2021-sponsorship@googlegroups.com" target="_blank"><i class="fa fa-envelope"></i></a>
 {{< /rawhtml >}}
