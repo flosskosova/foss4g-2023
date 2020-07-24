@@ -78,4 +78,4 @@ You can see the details of online activities on our website, on the posters in e
 
 - **Will you deliver T-shirts or conference material?**
 
-This year, t-shirts would be sold separately from the ticket, reducing the ticket price and the amount of waste. You can buy event branded shirts in our store. All profit from the sale of the shirts will be for the benefit of the Travel Grant Program ({{< ref "/register/travel-grant-program.md">}}).
+This year, t-shirts would be sold separately from the ticket, reducing the ticket price and the amount of waste. You can buy event branded shirts in our store. All profit from the sale of the shirts will go to the Travel Grant Program ({{< ref "/register/travel-grant-program.md">}}).
