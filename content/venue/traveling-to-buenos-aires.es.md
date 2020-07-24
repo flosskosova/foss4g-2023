@@ -4,7 +4,7 @@ draft: false
 
 menu:
   main:
-    parent: "La sede"
+    parent: "Sede"
     weight: 6
 ---
 
@@ -33,7 +33,8 @@ Contamos con la version web https://mapa.buenosaires.gob.ar y la version App de 
 
 *Te dejamos un pequeño instructivo de como usarlo:*
 
-(ACA PONER EL VIDEO DE INSTRUCTIVO GUARDADO EN EL DRIVE /comunicacion/contenido web)
+{{< youtube -gbdp8yVy3o >}}
+### 
 
 #### Como conseguir Sube 
 Para poder viajar en el transporte público en la Ciudad de Buenos Aires necesitas la tarjeta SUBE. Visita el siguiente link y encontrarás el lugar más cercano para poder comprar:

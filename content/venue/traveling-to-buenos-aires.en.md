@@ -23,36 +23,35 @@ http://www.migraciones.gov.ar/ave/index.htm
 
 **Don't hesitate to contact us if you need an invitation letter for your visa or any inquiry!**
 
-## Getting around CABA
+## Getting around the City
 
 #### Viajar con los distintos modos de Transporte
 
 **Como llego**
 
-"Como Llego" es una App que ayuda a los usuarios a moverse por Capital Federal en los diferentes modos: transporte público, auto, bici o a pie, ofreciendo las mejores rutas, indicadores de tiempo y costo. Solo el modo auto te ofrece la posibilidad de viajar hasta por fuera de Capital Federal. Tambien cuenta con datos utiles, como bicicendas, insituciones de salud, farmacias y otros datos que pueden ser de utilidad en tu visita.
-Contamos con la version web https://mapa.buenosaires.gob.ar y la version App de Celular Android y Apple.
+"Como Llego" is an App that helps users to move around the City in the different modes of transport: bus, train, subway, car, bike or on foot, offering the best routes, time and cost indicators. Only the auto mode offers you the possibility of traveling to outside of the City. It also has useful data, such as bicycle paths, health institutions, pharmacies and other data that may be useful on your visit.
+We have the web version https://mapa.buenosaires.gob.ar and the App version of Android and Apple Cell phones.
 
-*Te dejamos un pequeño instructivo de como usarlo:*
+*Here is a video on how to use it:*
 
-(ACA PONER EL VIDEO DE INSTRUCTIVO GUARDADO EN EL DRIVE /comunicacion/contenido web)
+{{< youtube -gbdp8yVy3o >}}
+### 
 
-#### Como conseguir Sube 
-Para poder viajar en el transporte público en la Ciudad de Buenos Aires necesitas la tarjeta SUBE. Visita el siguiente link y encontrarás el lugar más cercano para poder comprar:
--https://tarjetasube.sube.gob.ar/subeweb/WebForms/admin/views/mapa-sube.aspx?id=3
 
-Si estas en la Conferencia el lugar mas cercano disponible para conseguirla es en la estación **Facultad de Derecho-Julieta Lanteri del subterráneo H**, situada en Av. Figueroa Alcorta 2263. Horario de atención: 05:00 A 22:00 HS
+#### How to get a Travel Card 
+In order to travel on public transport in the City of Buenos Aires you need the SUBE card. Visit the following link and you will find the closest place to buy: https://tarjetasube.sube.gob.ar/subeweb/WebForms/admin/views/mapa-sube.aspx?id=3
 
-### Tambien podés andar en bicicleta
-La ciudad tiene disponible un servicio de bicicletas que puedes utilizar. Consultá el siguiente link para conocer más.
+If you are at the Conference the closest place available to get it is at the subway station **Facultad de Derecho-Julieta Lanteri del subterráneo H**, located at Av. Figueroa Alcorta 2263. Opening hours: 05:00 to 22:00hs
 
-https://www.baecobici.com.ar/es/inicio
+### You can also ride a bike
+The city has a bicycle service available that you can use. Check the following [here](https://www.baecobici.com.ar/es/inicio) to learn more
+
+
 
 #### Como Conseguir Simcard
-Necesitas una SIM Card? Entonces puedes concultar el siguiente link.
+Do you need a SIM Card? [Here](https://secretsofbuenosaires.com/where-to-buy-sim-card-in-buenos-aires/) is some usefull information
 
-https://secretsofbuenosaires.com/where-to-buy-sim-card-in-buenos-aires/
 
-# Contactos de Emergencia
-En el siguiente link encontrarás un listado de números telefónicos útiles:
-
+### Emergency Contacts
+In the following link you will find a list of useful telephone numbers:
 https://www.buenosaires.gob.ar/jefaturadegabinete/telefonos-utiles

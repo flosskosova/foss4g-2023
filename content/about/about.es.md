@@ -7,7 +7,7 @@ draft: false
 menu:
   main:
     parent: 'Acerca de'
-    weight: 1
+    weight: -1
 weight: 1     
 ---
 ## La conferencia
