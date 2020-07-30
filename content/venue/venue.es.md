@@ -19,46 +19,4 @@ La Facultad de Derecho se encuentra próxima al CEC. El edificio de la Facultad 
 
 Sin dudas estos lugares son inolvidables y harán de la FOSS4G 2021 una de las más recordadas.
 
-
-
-
-{{< rawhtml >}}
-<!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
-		<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
-		<style>
-		  #mymap { 
-		  	position: relative;
-		    width: 100%;
-    		height: 350px;
-    		outline: none;
-		    box-shadow: 5px 5px 5px #888;
-		 }
-		</style>
-	</head>
-	<body>
-		<div id="mymap"></div>
-		<script>
-		  var mymap = L.map('mymap').setView([-34.58313,-58.39141], 17);
-		  L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
-			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors. <a',
-			maxZoom: 18
-			}).addTo(mymap);
-		  L.control.scale().addTo(mymap);
-		  var marcador_uno = L.marker([-34.58260,-58.38999], {
-			title: "Centro de Convenciones Buenos Aires",
-			draggable:false,
-			}).bindPopup("<i>Centro de Convenciones Buenos Aires</i>")
-			.addTo(mymap);
-			var marcador_dos = L.marker([-34.58277,-58.39136], {
-			title:"Facultad de Derecho",
-			draggable:false,
-			}).bindPopup("<i>Facultad de Derecho</i>")
-			.addTo(mymap);
-		</script>
-	</body>
-</html>
-
-{{< /rawhtml >}}
+{{< map >}}
