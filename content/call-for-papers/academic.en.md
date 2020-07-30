@@ -12,7 +12,7 @@ menu:
 
 These are tentative dates.
 
-| CFP academico                     |            |            |  
+| Academic CFP                      |            |            |  
 |-----------------------------------|------------|------------|                          
 |Open call for academic papers      | 21/11/2020 | 30/03/2021 |                            
 |Announce accepted papers           |            | 16/04/2021 |     
