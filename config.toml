@@ -1,5 +1,4 @@
-# Change to 2020.foss4g.org in the future:
-baseURL = "https://foss4g-2021.gitlab.io/"
+baseURL = "https://2021.foss4g.org/"
 title = "FOSS4G 2021 Buenos Aires"
 paginate = 2
 languageCode = "en"
