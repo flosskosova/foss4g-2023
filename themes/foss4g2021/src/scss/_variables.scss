@@ -1,27 +1,27 @@
 $enable-responsive-font-sizes: true;
 
 $white: #fff;
-$gray-100: #f0eff1;
-$gray-200: #4a797f;
-$gray-300: #87e991;
-$gray-400: #d8d8d8;
-$gray-500: #27575d;
-$gray-600: #6ed079;
-$gray-700: #91908f;
-$gray-800: #003940;
-$gray-900: #4cb05b;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
 
 $text-muted: $gray-400;
 $body-color: $gray-800;
 $light: $white;
-$dark: $gray-900;
-$headings-color: $gray-900;
-$headings-font-family: 'Open Sans', sans-serif;
+$dark: $gray-800;
+$headings-color: $gray-800;
+$headings-font-family: "Open Sans", sans-serif;
 $headings-font-weight: 700;
 
-$font-family-sans-serif: 'Roboto', sans-serif;
-$font-family-monospace: 'Roboto Mono', monospace;
-$font-family-serif: 'Roboto Slab', serif;
+$font-family-sans-serif: "Roboto", sans-serif;
+$font-family-monospace: "Roboto Mono", monospace;
+$font-family-serif: "Roboto Slab", serif;
 
 $link-color: $gray-800;
 $link-decoration: underline;
@@ -33,23 +33,39 @@ $paragraph-margin-bottom: 1.5rem;
 $spacer: 1.125rem;
 $spacers: (
   0: 0,
-  1: ($spacer * .25),
-  2: ($spacer * .5),
+  1: (
+    $spacer * 0.25
+  ),
+  2: (
+    $spacer * 0.5
+  ),
   3: $spacer,
-  4: ($spacer * 1.5),
-  5: ($spacer * 3),
-  6: ($spacer * 5),
-  7: ($spacer * 6),
-  8: ($spacer * 7),
-  9: ($spacer * 8),
+  4: (
+    $spacer * 1.5
+  ),
+  5: (
+    $spacer * 3
+  ),
+  6: (
+    $spacer * 5
+  ),
+  7: (
+    $spacer * 6
+  ),
+  8: (
+    $spacer * 7
+  ),
+  9: (
+    $spacer * 8
+  )
 );
 
-$border-radius: .45rem;
-$border-radius-lg: .5rem;
-$border-radius-sm: .3rem;
+$border-radius: 0.45rem;
+$border-radius-lg: 0.5rem;
+$border-radius-sm: 0.3rem;
 $blockquote-font-size: $font-size-base;
 
 $code-color: $body-color;
 $navbar-brand-font-size: 1rem;
 $navbar-nav-link-padding-x: 1.25rem;
-$navbar-padding-y: .4rem;
+$navbar-padding-y: 0.4rem;

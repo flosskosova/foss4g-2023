@@ -1,11 +1,15 @@
-.homepage-image {
-    @include media-breakpoint-up(lg) {
-        position: absolute;
-        width: 400px;
-        right: 100px;
-        top: 0;
-    }
+body {
+    font-family: $font-family-sans-serif
 }
+
+// .homepage-image {
+//     @include media-breakpoint-up(lg) {
+//         position: absolute;
+//         width: 400px;
+//         right: 100px;
+//         top: 0;
+//     }
+// }
 
 .author .name a, .author .social a {
     color: $gray-900;

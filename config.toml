@@ -27,13 +27,13 @@ author = "authors"
 
 [params]
   author = "Buenos Aires Organization Committee"
-  description = "The International GeoSpatial Conference. Coming Soon!"
-  homepageImage = "/images/homepage-image.jpg"
+  description = "The International GeoSpatial Conference"
+  homepageImage = "/images/people.png"
   share = true
   showLanguageSwitcher = true
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
-  customCSS = []
+  customCSS = ["styles.css"]
   customJS = []
 
   [params.social]

@@ -1,0 +1,166 @@
+{{ define "main" }}
+<main class="homepage container-fluid">
+  <section class="row main-header obscured">
+    <div class="container">
+      <div class="row">
+        <div class="col-1 col-sm-2"></div>
+        <div class="mt-5 col-10 col-sm-8">
+          <!-- <div class="w-100"> -->
+          <!-- <div class="container d-flex flex-column align-items-center mt-5"> -->
+          <!-- <h1 class="display-4">{{ .Site.Title }}</h1> -->
+          <img
+            src="images/logo_horizontal_b.svg"
+            alt="main-logo"
+            class="mb-5"
+          />
+          <!-- </div> -->
+          <!-- </div> -->
+        </div>
+        <div class="col-1 col-sm-2"></div>
+      </div>
+
+      <div class="row">
+        <div class="col-12">
+          {{- with .Site.Params.description -}}
+          <h4 class="font-weight-bold text-center mb-5">{{ . | safeHTML }}</h4>
+          {{- end -}}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col d-flex justify-content-center">
+          <button
+            type="button"
+            name="button"
+            class="btn btn-light rounded-pill px-5 py-2 mb-5"
+          >
+            Buy your tickets here
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- <div class="img-header"> -->
+  <!-- {{- with .Site.Params.homepageImage -}}
+  <div class="homepage-image obscured">
+    <img src="{{ . | relURL }}" class="img-fluid" />
+  </div>
+  {{- end -}} -->
+  <!-- </div> -->
+
+  <section class="row countdown py-4">
+    <div class="col-1 col-sm-2 col-lg-3"></div>
+    <div class="col-10 col-sm-8 col-lg-6 ">
+      <h2 class="font-weight-normal text-center">FOSS4G starts in:</h2>
+    </div>
+    <div class="col-1 col-sm-2 col-lg-3"></div>
+  </section>
+
+  <section class="row buenos-aires p-3 pt-6">
+    <!-- <div class="col-11 col-md-5">aaa</div>
+    <div class="col-1 col-md-7">bbb</div> -->
+    <div class="col">
+      <h1 class="font-weight-normal mb-2">Buenos Aires</h1>
+      <p>the perfect oportunity to know more</p>
+      <a
+        class="btn btn-light rounded-pill px-5 py-2"
+        href="https://turismo.buenosaires.gob.ar/es/otros-establecimientos/floralis-gen%C3%A9rica"
+        target="_blank"
+      >
+        Discover de city here
+      </a>
+    </div>
+  </section>
+
+  <section class="row cfp py-5">
+    <div class="container">
+      <div class="row mb-4">
+        <h2 class="col text-center">
+          CALL FOR PAPERS
+        </h2>
+      </div>
+      <div class="row">
+        <div class="col-12 col-md-3 text-center mb-4">
+          <span class="dot bg-orange mb-3"></span>
+          <h6 class="mb-4">Open call for talks and workshops</h6>
+          <p class="mb-0">21/11/2020</p>
+          <p class="mb-0">-</p>
+          <p class="mb-0">30/03/2021</p>
+        </div>
+        <div class="col-12 col-md-3 text-center mb-4">
+          <span class="dot bg-yellow mb-3"></span>
+          <h6>Open community vote for talks</h6>
+          <p class="mb-0">04/04/2021</p>
+          <p class="mb-0">-</p>
+          <p class="mb-0">10/04/2021</p>
+        </div>
+        <div class="col-12 col-md-3 text-center mb-4">
+          <span class="dot bg-violet mb-3"></span>
+          <h6>Announce accepted talks and workshops</h6>
+          <p>18/04/2021</p>
+        </div>
+        <div class="col-12 col-md-3 text-center mb-4">
+          <span class="dot bg-lightblue mb-3"></span>
+          <h6>Publish final FOSS4G 2021 program</h6>
+          <p>06/05/2021</p>
+        </div>
+      </div>
+
+      <div class="row my-4">
+        <div class="col text-center">
+          <button
+            id="learn-more-btn"
+            type="button"
+            name="button"
+            class="btn btn-light rounded-pill px-5 py-2"
+          >
+            Learn more
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="row sponsors d-none">
+    <div class="container-fluid px-5">
+      <div class="row mb-4">
+        <h2 class="w-100 text-center">
+          SPONSORS
+        </h2>
+      </div>
+      <div class="row mb-2">
+        <h3 class="col text-center font-weight-normal">
+          Platinum
+        </h3>
+      </div>
+      <div class="row text-center mb-5">
+        <div class="col-12 col-md-4 mb-3">a</div>
+        <div class="col-12 col-md-4 mb-3">b</div>
+        <div class="col-12 col-md-4 mb-3">c</div>
+      </div>
+      <div class="row mb-2">
+        <h3 class="col text-center font-weight-normal">
+          Gold
+        </h3>
+      </div>
+      <div class="row text-center mb-5">
+        <div class="col-12 col-md-3 mb-3">a</div>
+        <div class="col-12 col-md-3 mb-3">b</div>
+        <div class="col-12 col-md-3 mb-3">c</div>
+        <div class="col-12 col-md-3 mb-3">d</div>
+      </div>
+      <div class="row mb-2">
+        <h3 class="col text-center font-weight-normal">
+          Silver
+        </h3>
+      </div>
+      <div class="row text-center mb-5">
+        <div class="col-12 col-md-2 mb-3">a</div>
+        <div class="col-12 col-md-2 mb-3">b</div>
+        <div class="col-12 col-md-2 mb-3">c</div>
+        <div class="col-12 col-md-2 mb-3">d</div>
+        <div class="col-12 col-md-2 mb-3">c</div>
+        <div class="col-12 col-md-2 mb-3">d</div>
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}

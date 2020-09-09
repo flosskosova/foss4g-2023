@@ -1,0 +1,36 @@
+{{ $current := . }}
+<nav class="navbar navbar-expand-md navbar-light bg-light shadow-sm px-1" id="navbar-main-menu">
+    <!-- <div class="container-fluid"> -->
+				<img src="/images/logo_chico.svg" alt="isologo" class="mr-md-2" />
+        <a class="navbar-brand font-weight-bold m-0" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <button class="navbar-toggler px-2 py-1" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="main-menu">
+            <ul class="navbar-nav ml-auto flex-wrap">
+            {{- if .Site.Params.showLanguageSwitcher -}}
+                {{ partial "i18nlist.html" . }}
+            {{- end -}}
+            {{ with .Site.Menus.main }}
+								{{ range . }}
+										{{ if .HasChildren }}
+												<li class="nav-item dropdown {{ if $current.HasMenuCurrent "main" . }}active{{ end }}">
+														<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+																{{ .Pre }}
+																{{ .Name }}
+														</a>
+														<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+																{{ range .Children }}
+																		<a class="dropdown-item {{ if $current.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+																{{ end }}
+														</div>
+												</li>
+										{{ else }}
+												<li class="nav-item{{ if $current.IsMenuCurrent "main" . }} active{{ end }}"><a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                		{{ end }}
+                {{ end }}
+            {{ end }}
+            </ul>
+        </div>
+    <!-- </div> -->
+</nav>
