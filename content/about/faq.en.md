@@ -2,9 +2,11 @@
 title: "FAQ"
 author: "FOSS4G 2021"
 draft: false
-menu: 
-    main:
-        weight: -1
+menu:
+  main:
+    parent: "About"
+    weight: -1
+weight: 4
 ---
 
 ## Frecuently asked questions

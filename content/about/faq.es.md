@@ -2,14 +2,16 @@
 title: "Ayuda"
 author: "FOSS4G 2021"
 draft: false
-menu: 
-    main:
-        weight: -1
+menu:
+  main:
+    parent: "Acerca de"
+    weight: -1
+weight: 4
 ---
 
 ## Preguntas frecuentes
 
--  **¿Dónde se llevará a cabo la Conferencia?**
+- **¿Dónde se llevará a cabo la Conferencia?**
 
 El evento se llevará a cabo en dos edificios principales. La Factuldad de Derecho y El Centro de Convenciones de Buenos Aires, ubicados en el Barrio de Recoleta, Ciudad de Buenos Aires. Para más información, ingresar a [Lugar de la conferencia]({{< ref "/venue/venue.es.md" >}}).
 
@@ -19,7 +21,7 @@ El evento será del 27 del septiembre al 2 de Octubre del 2021. _En breve tendre
 
 - **¿Qué actividades tendra la Conferencia?**
 
-La conferencia tendra principalmente charlas, talleres y actividades de codesprint entre otras. Por otro lado, tenemos el encuentro de Geochicas, como también eventos sociales: Pubrace, Ice Breaker y Gala Dinner. 
+La conferencia tendra principalmente charlas, talleres y actividades de codesprint entre otras. Por otro lado, tenemos el encuentro de Geochicas, como también eventos sociales: Pubrace, Ice Breaker y Gala Dinner.
 
 - **¿Cómo me anoto para asistir a la Conferencia?**
 
@@ -27,7 +29,7 @@ Las inscripciones y compra de entradas se realizarán a través de la pagina web
 
 - **¿Cómo me anoto a los talleres?**
 
-Cada taller tendrá su entrada individual y los cupos limitados, la inscripción se habilitará una ves publicado el Programa. Recomendamos inscribirse con suficiente tiempo de anticipación. 
+Cada taller tendrá su entrada individual y los cupos limitados, la inscripción se habilitará una ves publicado el Programa. Recomendamos inscribirse con suficiente tiempo de anticipación.
 
 - **¿Cómo sé si queda cupo para los talleres?**
 
@@ -45,12 +47,12 @@ Sí, intentaremos que sea de la mejor calidad posible, pero dado que habrá much
 
 - **Si ya compré mi entrada, ¿cómo hago para obtener factura/recibo de mi pago?**
 
-Si ya compaste tu entrada el recibo automaticamente se enviara a por correo electrónico. 
+Si ya compaste tu entrada el recibo automaticamente se enviara a por correo electrónico.
 Las facturas serán realizadas por Geolibres Asociación Civil. Durante el proceso de compra se podrán completar los datos para la facturación, cómo la razón social a quien va dirigido y el número de CUIT/CUIL, tenelos a mano ya que una vez comprada la entrada se genera la factura y no puede ser corregida.
 
 - **No me dedico a la geomática, ¿puedo asistir a la Conferencia?**
 
-Sí, la conferencia está abierta para todo publico que le interese la geomatica, el software libre, los mapas y las comunidades. 
+Sí, la conferencia está abierta para todo publico que le interese la geomatica, el software libre, los mapas y las comunidades.
 
 - **Si no programo, desarrollo o escribo código, esta conferencia ¿es para mí también?**
 
@@ -58,7 +60,7 @@ Sí, este evento es para todo tipo de personas interesadas en compartir experien
 
 - **¿Puedo ir sin inscripción?**
 
-No, debes estar registrado previamente, ya que no realizaremos inscripciones o manejaremos dinero en todo el evento. 
+No, debes estar registrado previamente, ya que no realizaremos inscripciones o manejaremos dinero en todo el evento.
 
 - **Necesito certificado para justificar mi asistencia al evento, ¿se entregarán?**
 
@@ -66,8 +68,8 @@ Sí. Vamos a estar enviando certificados durante los 30 días siguientes a la fi
 
 - **¿Qué incluye el costo de la entrada?**
 
-El costo de la entrada de la conferencia incluye el ingreso a todas las charlas (no a los talleres), el almuerzo, los coffee breaks, el Ice Breaker y la Gala Dinner. 
-No se incluirá el programa impreso, dado nuestro compromiso con el ahorro de papel. 
+El costo de la entrada de la conferencia incluye el ingreso a todas las charlas (no a los talleres), el almuerzo, los coffee breaks, el Ice Breaker y la Gala Dinner.
+No se incluirá el programa impreso, dado nuestro compromiso con el ahorro de papel.
 Podrás ver el detalle de actividades online en nuestra página web, en las los carteles en cada salón y en las pantallas del evento.
 
 - **¿Van a entregar remeras o material de la conferencia?**
