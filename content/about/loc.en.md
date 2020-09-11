@@ -2,7 +2,7 @@
 title: "Local Organizing Committee"
 description: "The Geospatial Conference of 2021"
 author: "FOSS4G 2021"
-draft: false
+draft: true
 menu:
   main:
     parent: 'About'
@@ -18,7 +18,6 @@ weight: 2
 ![Ariel Anthieni](/images/ariel.jpg)
 ![Astrid Emde](/images/astrid.png)
 ![Carmen Díez](/images/carmen.png)
-![Carlos Martínez](/images/charly.png)
 ![Felipe Sodré Mendes Barros](/images/felipe.jpg)
 ![Gabriel Candaosa](/images/gabriel.jpg)
 ![Gonzalo Perez](/images/gonzap.jpg)
