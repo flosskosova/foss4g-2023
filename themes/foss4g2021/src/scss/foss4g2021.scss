@@ -86,3 +86,46 @@ ul.share.nav {
 footer a:not(.icons) {
     color: $gray-200;
 }
+
+// Sponsors
+
+.sponsor-box {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.sponsor-Diamond {
+  height: 200px;
+  width: 200px;
+}
+
+.sponsor-Platinum {
+  height: 170px;
+  width: 170px;
+}
+
+.sponsor-Gold {
+  height: 110px;
+  width: 110px;
+}
+
+.sponsor-Silver {
+  height: 80px;
+  width: 80px;
+}
+
+.sponsor-Bronze {
+  height: 40px;
+  width: 40px;
+}
+
+.sponsor-Supporter {
+  height: 40px;
+  width: 40px;
+}
+
+.sponsor-Partner {
+  height: 20px;
+  width: 20px;
+}

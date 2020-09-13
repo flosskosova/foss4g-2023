@@ -1,6 +1,7 @@
 ---
 title: "Our Sponsors"
 draft: false
+type: sponsors
 menu:
   main:
     parent: "Sponsor"
@@ -8,4 +9,3 @@ menu:
 ---
 
 
-### You can be here!
