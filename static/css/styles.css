@@ -90,15 +90,6 @@ footer.footer {
   background: url("/images/circulos.png") center no-repeat;
 }
 
-/* .obfuscate {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.6);
-} */
-
 .obscured {
   position: relative;
 }
@@ -110,4 +101,41 @@ footer.footer {
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.6); /* use background-image here */
   content: " "; /* it needs actual content, an empty space is enough */
+}
+
+/* hero area */
+.hero-area .counter .dash {
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+  border: 2px solid #ed7e22;
+}
+.hero-area .counter ul {
+  padding: 0;
+}
+
+.hero-area .counter ul li {
+  line-height: 1 !important;
+
+  display: inline-block;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+.hero-area .counter ul li span {
+  display: block;
+  font-size: 2.5rem;
+  padding-left: 0.3rem;
+}
+
+.hero-area .counter .dash * {
+  display: inline-block;
+  font-size: 2.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 400px) {
+  .hero-area .counter ul li * {
+    font-size: 1.5rem !important;
+  }
 }
