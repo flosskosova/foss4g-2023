@@ -12,3 +12,5 @@ weight: 3
 ---
 
 Los datos personales estan protegidos bajo la ley 25.326 de la República Argentina.
+
+Esta ley es compatible con la ley de protección de datos de la Unión Europea (GDPR).
