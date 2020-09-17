@@ -12,3 +12,5 @@ weight: 3
 ---
 
 Personal information is protected under the Law 25.326 of the República Argentina.
+
+This law is compatible with the European Union privacy laws.
