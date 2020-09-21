@@ -20,7 +20,7 @@ weight = 10
 languageName = "Spanish"
   [languages.es.params]
     author = "Comité de organización de Buenos Aires"
-    description = "Contra viento y Marea, FOSS4G"
+    description = "Contra viento y marea, FOSS4G"
 
 [taxonomies]
 category = "categories"
@@ -30,7 +30,7 @@ author = "authors"
 
 [params]
   author = "Buenos Aires Local Organization Committee"
-  description = "Come rain or shine, FOSS4G"
+  description = "Come hell or high water, FOSS4G"
   homepageImage = "/images/people.png"
   share = true
   showLanguageSwitcher = true
