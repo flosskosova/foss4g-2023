@@ -20,7 +20,7 @@ weight = 10
 languageName = "Spanish"
   [languages.es.params]
     author = "Comité de organización de Buenos Aires"
-    description = "La Conferencia Internacional GeoEspacial"
+    description = "Contra viento y Marea, FOSS4G"
 
 [taxonomies]
 category = "categories"
@@ -30,7 +30,7 @@ author = "authors"
 
 [params]
   author = "Buenos Aires Local Organization Committee"
-  description = "The International GeoSpatial Conference"
+  description = "Come rain or shine, FOSS4G"
   homepageImage = "/images/people.png"
   share = true
   showLanguageSwitcher = true
