@@ -18,6 +18,9 @@ languageName = "English"
 [languages.es]
 weight = 10
 languageName = "Spanish"
+  [languages.es.params]
+    author = "Comité de organización de Buenos Aires"
+    description = "La Conferencia Internacional GeoEspacial"
 
 [taxonomies]
 category = "categories"
@@ -26,7 +29,7 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Buenos Aires Organization Committee"
+  author = "Buenos Aires Local Organization Committee"
   description = "The International GeoSpatial Conference"
   homepageImage = "/images/people.png"
   share = true
