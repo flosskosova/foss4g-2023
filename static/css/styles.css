@@ -104,11 +104,19 @@ footer.footer {
 }
 
 /* hero area */
+.hero-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .hero-area .counter .dash {
+  display: flex;
   padding: 0.5rem 1rem;
   margin: 0.5rem 0;
   border: 2px solid #ed7e22;
 }
+
 .hero-area .counter ul {
   padding: 0;
 }
@@ -122,16 +130,17 @@ footer.footer {
 }
 
 .hero-area .counter ul li span {
-  display: block;
+  display: inline-block;
   font-size: 2.5rem;
   padding-left: 0.3rem;
 }
 
-.hero-area .counter .dash * {
+.hero-area .counter ul li .digit {
   display: inline-block;
-  font-size: 2.5rem;
   position: relative;
+  height: 2.5rem;
   overflow: hidden;
+  font-size: 2.5rem;
 }
 
 @media only screen and (max-width: 400px) {
