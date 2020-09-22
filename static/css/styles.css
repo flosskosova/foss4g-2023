@@ -10,6 +10,11 @@ body {
   font-size: 1.2rem;
 }
 
+.nav-item:nth-last-child(-n + 2) .dropdown-menu {
+  right: 0;
+  left: auto;
+}
+
 .homepage-image img {
   width: 100%;
 }
