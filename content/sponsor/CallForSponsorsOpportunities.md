@@ -30,7 +30,7 @@ Estimated attendance: 900-1200
 - Professionals and technicians in Geography, Geodesy, Photogrammetry, Cartography and Topography
 - Representatives of non-governmental organizations, collaborative communities, teachers of different educational levels and amateurs
   
-You can see the sponsor brochure [here](link)
+You can see the sponsor brochure [here](/documents/sponsors_brochure.pdf)
 
 Contact 
 {{< rawhtml >}}

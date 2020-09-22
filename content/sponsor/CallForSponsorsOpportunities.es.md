@@ -29,7 +29,7 @@ Asistencia estimada: 900-1200
 -	Profesionales y técnicos en Geografía, Geodesia, Fotogrametría, Cartografía y Topografía
 -	Representantes de organizaciones no gubernamentales, comunidades colaborativas, docente de diferentes niveles educativos y aficionados
 
-Puede ver el folleto de patrocinios [aquí](link)
+Puede ver el folleto de patrocinios [aquí](/documents/sponsors_brochure.pdf)
 
 Contacto 
 {{< rawhtml >}}
