@@ -15,12 +15,50 @@ uglyurls = true
 weight = 0
 languageName = "English"
 
+  [[languages.en.menu.main]]
+  name   = "About"
+  weight = 10
+  [[languages.en.menu.main]]
+  name   = "Call for Papers"
+  weight = 20
+  [[languages.en.menu.main]]
+  name   = "Register"
+  weight = 30
+  [[languages.en.menu.main]]
+  name   = "Schedule"
+  weight = 40
+  [[languages.en.menu.main]]
+  name   = "Sponsor"
+  weight = 50
+  [[languages.en.menu.main]]
+  name   = "Venue"
+  weight = 60
+
 [languages.es]
 weight = 10
 languageName = "Spanish"
   [languages.es.params]
     author = "Comité de organización de Buenos Aires"
     description = "Contra viento y marea, FOSS4G"
+
+  [[languages.es.menu.main]]
+  name   = "Acerca de"
+  weight = 10
+  [[languages.es.menu.main]]
+  name   = "Presentaciones"
+  weight = 20
+  [[languages.es.menu.main]]
+  name   = "Registrate"
+  weight = 30
+  [[languages.es.menu.main]]
+  name   = "Programa"
+  weight = 40
+  [[languages.es.menu.main]]
+  name   = "Patrocinios"
+  weight = 50
+  [[languages.es.menu.main]]
+  name   = "Sede"
+  weight = 60
 
 [taxonomies]
 category = "categories"
