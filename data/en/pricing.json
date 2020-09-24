@@ -1,0 +1,115 @@
+{
+  "title": "Pricing",
+  "description": "Pricing ingles",
+  "content": [
+    {
+      "title": "Tempranillo Conference General Price Fee",
+      "price": "$300",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Early Bird Conference General Price Fee",
+      "price": "$399",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Regular Conference General Price Fee",
+      "price": "$499",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Tempranillo Conference Regional Price Fee",
+      "price": "$200",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Early Bird Conference Regional Price Fee",
+      "price": "$299",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Regular Conference Regional Price Fee",
+      "price": "$349",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Tempranillo Conference Local Price Fee",
+      "price": "$100",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#contact"
+      }
+    },
+    {
+      "title": "Early Bird Conference Local Price Fee",
+      "price": "$199",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Regular Conference Local Price Fee",
+      "price": "$249",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Early Bird Workshops Fee",
+      "price": "$49",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    },
+    {
+      "title": "Regular Workshops Fee",
+      "price": "$69",
+      "features": [],
+      "button": {
+        "text": "Buy now",
+        "href": "/#buy",
+        "enabled": false
+      }
+    }
+  ]
+}

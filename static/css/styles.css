@@ -153,3 +153,22 @@ footer.footer {
     font-size: 1.5rem !important;
   }
 }
+
+.pricing span,
+.pricing div {
+  display: block;
+}
+
+.pricing .btn {
+    text-decoration: none;
+}
+
+.pricing .body {
+  display: none;
+}
+
+@media only screen and (min-width: 400px) {
+    .pricing .title {
+        min-height: 5rem;
+    }
+}
