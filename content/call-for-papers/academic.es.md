@@ -11,8 +11,8 @@ menu:
 ---
 | CFP academico              |            |            |  
 |----------------------------|------------|------------|                          
-|convocatoria                | 21/11/2020 | 30/03/2021 |                            
-|comunicación de aceptación  |            | 10/05/2021 |     
-|envío de trabajos completos |            | 20/06/2021 |        
+|convocatoria                | 21/11/2020 | 08/03/2021 |                            
+|comunicación de aceptación  |            | 01/04/2021 |     
+|envío de trabajos completos |            | 15/05/2021 |        
 
 ### **Muy pronto novedades!!**
