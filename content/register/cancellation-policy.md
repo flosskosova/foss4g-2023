@@ -26,10 +26,11 @@ No type of exchange, refund, cancellation or return of the tickets purchased wil
 The impossibility of attending the event by the ATTENDANT or an error when making the purchase will not be valid reasons to proceed with the full refund of the ticket price. Tickets can only be canceled and returned under the following conditions:
 
 The return policy in the event of cancellation by the participants will be as follows:
-Up to 8 months before the start of the Event, 75% of the amount will be returned
-Between 8 and 6 months before the event meal will be returned 50%
-Between 6 and 4 months before the start of the Event, 25% of the amount will be returned
-Less than 4 months before the start of the event, no amount will be refunded.
+
+ * Up to 8 months before the start of the Event, 75% of the amount will be returned
+ * Between 8 and 6 months before the event meal will be returned 50%
+ * Between 6 and 4 months before the start of the Event, 25% of the amount will be returned
+ * Less than 4 months before the start of the event, no amount will be refunded.
 
 It is possible to modify the ATTENDEE data for free by contacting the organization up to one month before the event.
 
