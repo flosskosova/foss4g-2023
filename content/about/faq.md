@@ -15,6 +15,12 @@ weight: 4
 
 The event will take place in two nearby buildings. The University of Buenos Aires Law School and The Buenos Aires Convention Center, located in the Recoleta neighborhood, in the City of Buenos Aires. For more information, go to [Conference venue]({{< ref "/venue/venue.md">}}).
 
+- **Is it going to be online?**
+
+If by September 2021 we cannot safely travel to Buenos Aires, we will host the event online. We will make the decision on the first half of 2021 to be able to prepare accordingly. But at this moment, we hope to meet you all in Buenos Aires.
+
+If the event is finally hosted online and you already had your ticket for the conference, you will be offered a refund, according to the cancellation policy.
+
 - **On what date will the event take place?**
 
 The event will take place from September 27 to October 2, 2021. Check our schedule and activities section!
