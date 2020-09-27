@@ -15,9 +15,15 @@ weight: 4
 
 El evento se llevará a cabo en dos edificios principales. La Factuldad de Derecho y El Centro de Convenciones de Buenos Aires, ubicados en el Barrio de Recoleta, Ciudad de Buenos Aires. Para más información, ingresar a [Lugar de la conferencia]({{< ref "/venue/venue.es.md" >}}).
 
+- **¿Se celebrará online?
+
+Si para Septiembre de 2021 no podemos viajar seguros a Buenos Aires, haremos la conferencia online. La decisión se tomará en la primera mitad de 2021. Pero, de momento, esperamos veros a todos en persona en Buenos Aires.
+
+Si el evento finalmente se organiza online y ya compraste tu entrada, se te ofrecerá un reembolso tal y como se especifica en la política de cancelación.
+
 - **¿En qué fecha se llevará a cabo el evento?**
 
-El evento será del 27 del septiembre al 2 de Octubre del 2021. _En breve tendremos mas novedades sobre el calendario de actividades!_
+El evento será del 27 del septiembre al 2 de Octubre del 2021. Consulta nuestro calendario para más información.
 
 - **¿Qué actividades tendra la Conferencia?**
 
@@ -69,7 +75,9 @@ Sí. Vamos a estar enviando certificados durante los 30 días siguientes a la fi
 - **¿Qué incluye el costo de la entrada?**
 
 El costo de la entrada de la conferencia incluye el ingreso a todas las charlas (no a los talleres), el almuerzo, los coffee breaks, el Ice Breaker y la Gala Dinner.
+
 No se incluirá el programa impreso, dado nuestro compromiso con el ahorro de papel.
+
 Podrás ver el detalle de actividades online en nuestra página web, en las los carteles en cada salón y en las pantallas del evento.
 
 - **¿Van a entregar remeras o material de la conferencia?**
