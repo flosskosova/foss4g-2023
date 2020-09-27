@@ -26,10 +26,11 @@ Todos estos términos y condiciones se rigen por la legislación argentina y cua
 La imposibilidad de asistir al evento por parte del ASISTENTE o un error al realizar la adquisición no serán motivos válidos para proceder a la devolución completa del precio de la entrada. Sólo se podrán cancelar entradas y proceder a su devolución bajo las siguientes condiciones:
 
 La política de devolución ante la cancelación por parte de los participantes será la siguiente:
-Hasta 8 meses antes del comienzo del Evento se devolverá el 75 % del importe
-Entre los 8 y 6 meses antes del comiendo del evento se devolverá el 50 %
-Entre los 6 y 4 meses antes del comienzo del Evento se devolverá el 25 % del importe
-A menos de 4 meses del comienzo del evento no se devolverá ningún importe.
+
+ * Hasta 8 meses antes del comienzo del Evento se devolverá el 75 % del importe
+ * Entre los 8 y 6 meses antes del comiendo del evento se devolverá el 50 %
+ * Entre los 6 y 4 meses antes del comienzo del Evento se devolverá el 25 % del importe
+ * A menos de 4 meses del comienzo del evento no se devolverá ningún importe.
 
 Es posible la modificación de los datos del ASISTENTE de forma gratuita contactando con la organización hasta un mes antes de la celebración del evento.
 
