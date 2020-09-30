@@ -12,9 +12,9 @@ weight: 6
 
 Este evento tendrá lugar el martes por la noche, después de los talleres y el día antes de que comiencen las sesiones principales. El evento se dividirá en dos. La primera mitad serán solo mujeres y personas no binarias (nb). Entonces todos están invitados a unirse. Esto ayuda a la inclusión y la creación de redes entre mujeres y nb.
 
-#### ¿Qué es Geochicas OSM? 
+#### ¿Qué es Geochicas OSM?
 
-Geochicas OSM es un colectivo de mujeres cis y no binarias, feministas y maperas vinculadas al proyecto de OpenStreetMap y a las comunidades asociadas al mundo del software libre y datos abiertos. Los ideales se ven plasmados a través de la cartografía y del mapeo colaborativo. En sus inicios solo fue una comunidad hispanohablante, pero hoy en día existen usuarias en más de 40 países alrededor del globo. 
+Geochicas OSM es un colectivo de mujeres cis y no binarias, feministas y maperas vinculadas al proyecto de OpenStreetMap y a las comunidades asociadas al mundo del software libre y datos abiertos. Los ideales se ven plasmados a través de la cartografía y del mapeo colaborativo. En sus inicios solo fue una comunidad hispanohablante, pero hoy en día existen usuarias en más de 40 países alrededor del globo.
 El colectivo fue creado en el año 2016, en el encuentro anual de OpenStreetMap State of the Map LatAm 2016, en Sao Pablo - Brasil, allí se conversó con el conjunto mixto de la comunidad presente sobre la problemática de género en OpenStreetMap, y debido a eso, se definieron los primeros lineamientos para la agenda de Geochicas OSM.
 
 #### Objetivos
@@ -37,7 +37,7 @@ Estos encuentros están dedicados a mujeres, cis y no binaries que quieran forma
 - ¿Qué son los espacios seguros para mujeres?
 
 Estos encuentros son espacios que se crean para que las participantes puedan generar redes de contención e intercambio de ideas. Son lugares de expresión, en donde se debate cuáles pueden ser los códigos de conducta y políticas de convivencia para llevar adelante una conferencia diversa, como también, de qué manera se pueden generar estrategias de inclusión de las mujeres en la tecnología.
-Gracias a estos espacios, se pueden tomar nuevos lineamientos de acción y nuevas propuestas de proyectos para la reducción en la brecha de género. 
+Gracias a estos espacios, se pueden tomar nuevos lineamientos de acción y nuevas propuestas de proyectos para la reducción en la brecha de género.
 
 
 - ¿Puedo colaborar en Geochicas OSM aunque no sepa de mapas?
@@ -50,11 +50,5 @@ Por supuesto, existen muchas compañeras que no necesariamente saben de mapas y 
 - Para ver todos los proyectos de la comunidad: https://geochicas.org/
 
 - Para ver todos los canales de comunicacion: https://geochicas.org/index.php/contactanos/
-{{< rawhtml >}}
-<div class="redes-container">
-	<ul>
-		<li><a href="https://twitter.com/geochicasosm" class="twitter" target="_blank"><i class="fab fa-twitter"></i></a></li>
-		<li><a href="https://www.youtube.com/channel/UCMbcgFj2g9NloxBhVonOQIQ"class="youtube" target="_blank"><i class="fab fa-youtube"></i></a></li>
-	</ul>
-</div>
-{{< /rawhtml >}}
+
+{{< iconos_geochicas >}}

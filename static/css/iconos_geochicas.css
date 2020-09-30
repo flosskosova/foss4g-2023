@@ -1,18 +1,18 @@
-*{
+/* *{
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-}
+} */
 
 :root{
 	--twitter: #55acee;
 	--youtube: #bd081c;
 }
 
-.redes-container{
+/* .redes-container{
 	display: flex;
 	height: 100vh;
-}
+} */
 
 .redes-container ul li{
 	display: inline-block;
