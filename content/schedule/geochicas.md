@@ -24,11 +24,7 @@ This women's network is dedicated to collaborative data mapping and visualizatio
 
 | Geochicas takes Bucharest FOSS4G 2019|Geochicas takes Dar es-Salam FOSS4G 2018 |
 |:------:|:-----------:|
-|{{< rawhtml >}}
-<blockquote width="400" height="100" frameborder="0" class="twitter-tweet"><p lang="en" dir="ltr">In a such a nice context, we are excited to announce the <a href="https://twitter.com/hashtag/GeochicasOSM?src=hash&amp;ref_src=twsrc%5Etfw" >#GeochicasOSM</a> English Telegram Channel launched during our <a href="https://twitter.com/hashtag/GeochicasTake?src=hash&amp;ref_src=twsrc%5Etfw">#GeochicasTake</a> event in <a href="https://twitter.com/foss4g?ref_src=twsrc%5Etfw">@foss4g</a> <a href="https://twitter.com/hashtag/foss4g2019?src=hash&amp;ref_src=twsrc%5Etfw">#foss4g2019</a> <a href="https://twitter.com/hashtag/Bucharest?src=hash&amp;ref_src=twsrc%5Etfw">#Bucharest</a>! Join us: <a href="https://t.co/rln3HCxazd">https://t.co/rln3HCxazd</a> and continue the dialogue on gender diversity in your Geo communities <a href="https://t.co/WUkMb1SGZh">pic.twitter.com/WUkMb1SGZh</a></p>&mdash; Geochicas OSM (@GeochicasOSM) <a href="https://twitter.com/GeochicasOSM/status/1166603608642768896?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{{< /rawhtml >}}|{{< rawhtml >}}
-<blockquote width="400" height="100" frameborder="0" class="twitter-tweet"><p lang="en" dir="ltr">This is just the beginning! Awesome women from all across the world getting together to talk, discuss and trying to make a difference in our community. The future is ours! Thank you all for coming to our event for the <a href="https://twitter.com/foss4g?ref_src=twsrc%5Etfw">@foss4g</a> <a href="https://t.co/98nDw4wpSS">pic.twitter.com/98nDw4wpSS</a></p>&mdash; Geochicas OSM (@GeochicasOSM) <a href="https://twitter.com/GeochicasOSM/status/1033961437113274368?ref_src=twsrc%5Etfw">August 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{{< /rawhtml >}}
+| {{< tweet 1166603608642768896 >}} | {{< tweet 1033961437113274368 >}} |
 
 #### FAQs
 
