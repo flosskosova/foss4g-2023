@@ -14,7 +14,7 @@ These are tentative dates.
 
 | Academic CFP                      |            |            |  
 |-----------------------------------|------------|------------|                          
-|Open call for academic papers      | 21/11/2020 | 08/03/2021 |                            
+|Open call for academic papers      | 20/11/2020 | 08/03/2021 |                            
 |Announce accepted papers           |            | 01/04/2021 |     
 |Submission of full academic papers |            | 15/05/2021 |    
 

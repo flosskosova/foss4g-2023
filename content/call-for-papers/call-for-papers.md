@@ -14,12 +14,12 @@ menu:
 
 These are tentative dates.
 
-| CFP                                                 |       |       |
+| CFP                                                 |desde       |  hasta     |
 |-----------------------------------------------------|------------|------------|
-|Open call for talks and workshops                    | 21/11/2020 | 30/03/2021 |                            
-|Open community vote for talks                        | 04/04/2021 | 10/04/2021 |                            
-|Announce accepted talks and workshops                |            | 18/04/2021 |                            
-|Publish final FOSS4G 2021 program                    |            | 06/05/2021 |                                 
+|Open call for talks and workshops                    | 20/11/2020 | 30/03/2021 |                            
+|Open community vote for talks                        | 03/04/2021 | 10/04/2021 |                            
+|Announce accepted talks and workshops                |            | 30/04/2021 |                            
+|Publish final FOSS4G 2021 program                    |            | 06/05/2021 |  
 
 
 ### **More info soon!**
