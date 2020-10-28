@@ -1,6 +1,6 @@
 ---
 title: "Academic Call for Papers"
-description: "Academic Call for Papers"
+description: "Academic GeoForAll Track (co-organized by ISPRS and OSGeo)"
 author: "FOSS4G 2021"
 draft: false
 
@@ -9,6 +9,13 @@ menu:
     parent: "Call for Papers"
     weight: 2
 ---
+
+| Academic CFP                      |            |            |  
+|-----------------------------------|------------|------------|                          
+|Open call for academic papers      | 20/11/2020 | 08/03/2021 |                            
+|Announce accepted papers           |            | 01/04/2021 |     
+|Submission of full academic papers |            | 15/05/2021 |    
+
 
 # Academic GeoForAll Track (co-organized by ISPRS and OSGeo) 
 
@@ -32,11 +39,4 @@ The papers will be published in “The International Archives of the Photogramme
 All papers should be formatted as per ISPRS author's guidelines, available here:  https://www.isprs.org/documents/orangebook/app5.aspx 
 
 
-| Academic CFP                      |            |            |  
-|-----------------------------------|------------|------------|                          
-|Open call for academic papers      | 20/11/2020 | 08/03/2021 |                            
-|Announce accepted papers           |            | 01/04/2021 |     
-|Submission of full academic papers |            | 15/05/2021 |    
-
-
-### **Link to submit your paper soon!**
+### **Link to submit your abstract soon!**

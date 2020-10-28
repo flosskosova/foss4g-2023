@@ -9,6 +9,12 @@ menu:
     parent: 'Presentaciones'
     weight: 2
 ---
+| Academic CFP                      |            |            |  
+|-----------------------------------|------------|------------|                          
+|Open call for academic papers      | 20/11/2020 | 08/03/2021 |                            
+|Announce accepted papers           |            | 01/04/2021 |     
+|Submission of full academic papers |            | 15/05/2021 |    
+
 # Academic GeoForAll Track (co-organized by ISPRS and OSGeo) 
 
 ## DESCRIPTION
@@ -30,12 +36,4 @@ If the abstract is accepted, the authors are invited to submit the corresponding
 The papers will be published in “The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences”. Please pay attention that accepted papers will be published in the conference proceedings after the verification of the registration of authors to the conference (at least one author for two papers). The Proceedings will be available at the first day of the Conference.
 All papers should be formatted as per ISPRS author's guidelines, available here:  https://www.isprs.org/documents/orangebook/app5.aspx 
 
-
-| Academic CFP                      |            |            |  
-|-----------------------------------|------------|------------|                          
-|Open call for academic papers      | 20/11/2020 | 08/03/2021 |                            
-|Announce accepted papers           |            | 01/04/2021 |     
-|Submission of full academic papers |            | 15/05/2021 |    
-
-
-### **Link to submit your paper soon!**
+### **Link to submit your abstract soon!**
