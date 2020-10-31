@@ -30,7 +30,7 @@ The submission procedure is divided in two steps.
 ### **Step 1**
 
 At the first step authors are invited to submit abstracts written in English comprising 800-1000 words and containing sufficient details for evaluation (including the approach, results, concepts, reasons why it should be considered and why it would be interesting for the audience). 
-The contributions are accepted on the abstract blind review process. Submitted abstract will be refereed for originality/scientific novelty, relevance for the FOSS4G community and overall quality by the academics and researchers from the Scientific Committee. Authors will receive feedback and suggestions for improvement to their papers to be submitted in step 2.
+The contributions are accepted on the abstract review process. Submitted abstract will be refereed for originality/scientific novelty, relevance for the FOSS4G community and overall quality by the academics and researchers from the Scientific Committee. Authors will receive feedback and suggestions for improvement to their papers to be submitted in step 2.
 We are happy to announce we can accept up to 2 contributions per registration. If you choose this option and the abstracts are both accepted as good quality by reviewers, one proposal will be an oral presentation, the second one will be a poster (it will be decided based on the reviews). Alternatively (and based on the reviews) they can be both posters. Regardless of the situation (1 oral presentation and 1 poster or 2 posters), in this case, the authors have to write two papers for the Step 2. 
 If the abstract is accepted, the authors are invited to submit the corresponding paper dealing with original and unpublished research. 
 

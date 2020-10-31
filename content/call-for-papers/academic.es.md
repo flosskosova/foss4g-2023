@@ -9,31 +9,33 @@ menu:
     parent: 'Presentaciones'
     weight: 2
 ---
-| Academic CFP                      |            |            |  
-|-----------------------------------|------------|------------|                          
-|Open call for academic papers      | 20/11/2020 | 08/03/2021 |                            
-|Announce accepted papers           |            | 01/04/2021 |     
-|Submission of full academic papers |            | 15/05/2021 |    
 
-# Academic GeoForAll Track (co-organized by ISPRS and OSGeo) 
+| CFP academico                      |            |            |  
+|------------------------------------|------------|------------|                          
+|Convocatoria de ponencias académicas| 20/11/2020 | 08/03/2021 |                            
+|Comunicación de aceptación          |            | 01/04/2021 |     
+|Envío de trabajos completos         |            | 15/05/2021 |    
 
-## DESCRIPTION
+# Track Académico GeoForAll  (co-organizado con el ISPRS y OSGeo) 
 
-Following an established tradition, FOSS4G organizes an Academic Track which will run over the days of the Conference. FOSS4G invites original research contributions, scientific papers dealing with Open Geospatial Software, Open Hardware, Open GIScience, Open Geospatial Data, Spatial Data Sharing Systems, Open (Geo)Education, Participatory Mapping, Digital Twin Earth. All types of papers are welcome, such as on results achieved, case studies, work in progress, and demos. We discourage, however, mere presentations of technology or use cases without properly justifying originality against the scientific state of the art and without particular novelty.
+## DESCRIPCIÓN
 
-## SUBMISSION
+Siguiendo una tradición establecida, FOSS4G organiza un Track Académico que se desarrollará en paralelo durante los días de la Conferencia. FOSS4G invita a presentar investigaciones originales, artículos científicos relacionados con software geoespacial abierto, hardware abierto, ciencia GIS abierta, datos geoespaciales abiertos, sistemas de intercambio de datos espaciales, educación geoespacial abierta, mapeo participativo, Digital Twin Earth. Todos los tipos de artículos son bienvenidos, así como los resultados obtenidos, estudios de casos, trabajos en curso y demostraciones. Sin embargo, desaconsejamos las meras presentaciones de tecnología o casos de uso sin justificar adecuadamente la originalidad frente al estado del arte científico y que no presenten una novedad en particular.
 
-The submission procedure is divided in two steps. 
+## PRESENTACIÓN O POSTULACIÓN
 
-### **Step 1**
+El procedimiento para presentar una propuesta se divide en dos pasos. 
 
-At the first step authors are invited to submit abstracts written in English comprising 800-1000 words and containing sufficient details for evaluation (including the approach, results, concepts, reasons why it should be considered and why it would be interesting for the audience). 
-The contributions are accepted on the abstract blind review process. Submitted abstract will be refereed for originality/scientific novelty, relevance for the FOSS4G community and overall quality by the academics and researchers from the Scientific Committee. Authors will receive feedback and suggestions for improvement to their papers to be submitted in step 2.
-We are happy to announce we can accept up to 2 contributions per registration. If you choose this option and the abstracts are both accepted as good quality by reviewers, one proposal will be an oral presentation, the second one will be a poster (it will be decided based on the reviews). Alternatively (and based on the reviews) they can be both posters. Regardless of the situation (1 oral presentation and 1 poster or 2 posters), in this case, the authors have to write two papers for the Step 2. 
-If the abstract is accepted, the authors are invited to submit the corresponding paper dealing with original and unpublished research. 
+### **Paso 1**
 
-### **Step 2**
-The papers will be published in “The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences”. Please pay attention that accepted papers will be published in the conference proceedings after the verification of the registration of authors to the conference (at least one author for two papers). The Proceedings will be available at the first day of the Conference.
-All papers should be formatted as per ISPRS author's guidelines, available here:  https://www.isprs.org/documents/orangebook/app5.aspx 
+En el primer paso, se invita a enviar resúmenes en inglés que contengan entre 800 y 1000 palabras y que brinden suficientes detalles para su evaluación (incluído enfoque, resultados, conceptos y razones por las que debería considerarse y por las cuales sería interesante para la audiencia).
+Las contribuciones se evaluarán mediante un proceso de revisión de resúmenes, por parte de académicos e investigadores del Comité Científico. Se considerará para su evaluación aspectos como su originalidad/novedad científica, relevancia para la comunidad FOSS4G y calidad general. Como resultado de esta revisión, se enviarán comentarios y sugerencias sobre los artículos.
+Nos complace anunciar que podemos aceptar hasta 2 contribuciones por inscripción. En ese caso, si ambos resúmenes son aceptados, se propondrá que realicen una presentación oral de uno de los artículos, mientras que el segundo será presentado como póster (se decidirá en base a las revisiones). Alternativamente (y según las revisiones) se puede proponer que ambos artículos sean presentados como pósters. Independientemente de la situación (1 presentación oral y 1 póster o 2 pósters), en este caso, se deberán enviar dos artículos según lo indicado en el Paso 2.
+Si el resumen es aceptado, se invita a participar de la conferencia exponiendo el artículo correspondiente sobre una investigación original e inédita.
 
-### **Link to submit your abstract soon!**
+### **Paso 2**
+Los artículos se publicarán en “The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences”. Los artículos aceptados se publicarán en las actas de la conferencia luego de verificar la inscripción a la misma por parte de al menos una persona listada como autora. Las Actas estarán disponibles el primer día de la Conferencia.
+Todos los artículos deben estar formateados según las pautas del ISPRS, disponibles aquí: https://www.isprs.org/documents/orangebook/app5.aspx 
+
+
+### **¡Muy pronto el enlace para presentar tu resumen!**
