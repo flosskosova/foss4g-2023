@@ -160,7 +160,7 @@ footer.footer {
 }
 
 .pricing .btn {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .pricing .body {
@@ -168,7 +168,48 @@ footer.footer {
 }
 
 @media only screen and (min-width: 400px) {
-    .pricing .title {
-        min-height: 5rem;
-    }
+  .pricing .title {
+    min-height: 5rem;
+  }
+}
+
+/* ===================================
+   SPEAKER
+   =================================== */
+.speakers-list {
+  list-style: none;
+}
+.speakers-item {
+  position: relative;
+  min-height: 180px;
+  padding-left: 180px;
+  margin-bottom: 30px;
+  border-bottom: 1px dashed #e7e7e7;
+}
+.speaker-photo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 120px;
+  height: 120px;
+}
+.speakers-item .photo {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  background-image: url(http://lorempixel.com/g/400/200/);
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.speech-title {
+  padding-top: 10px;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+.speech-time {
+  font-size: 18px;
+  padding: 10px 15px;
+  letter-spacing: -0.03em;
 }

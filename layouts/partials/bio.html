@@ -1,0 +1,19 @@
+<ul class="speakers-list">
+  <li class="speakers-item">
+    <span class="speaker-photo">
+      <div
+        class="photo"
+        style="background-image: url(/images/{{ .Photo }});"
+        alt="{{ .Name }}"
+        title="{{ .Name}}"
+      ></div>
+    </span>
+
+    <h4 class="speakers-name">
+      <!-- <a href="{{ .Link }}" target="_blank" title="{{ .Name }}"> -->
+      {{ .Name }}
+      <!-- </a> -->
+    </h4>
+    <p class="speakers-bio">{{ .Description }}</p>
+  </li>
+</ul>

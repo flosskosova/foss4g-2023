@@ -1,0 +1,5 @@
+{{ range .Site.Data.people }}
+  {{ if eq .Type "cfp_acad"}}
+    {{ partial "bio.html" .}}
+  {{ end }}
+{{ end }}
