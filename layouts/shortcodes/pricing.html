@@ -2,32 +2,60 @@
 {{ $pricing := $data.pricing }}
 <section id="pricing" class="py-5">
   <div class="container text-center">
-    <!-- <h2 class="pt-5 h2">{{ $pricing.title }}</h2> -->
-    <!-- <p class="text-muted pb-5">{{ $pricing.description }}</p> -->
     <div class="row justify-content-md-center">
-      {{ range $pricing.content }}
+      <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-4">
+         <a href="{{ $pricing.button.href | absURL }}" target="_blank" class="btn btn-primary {{ if not $pricing.button.enabled }} disabled {{ end }}">{{ $pricing.button.text }}</a>
+       </div>
+    </div>
+  </div>
+  <div class="container text-center">
+    <div class="row justify-content-md-center">
+      {{ range where $pricing.content ".featured" true }}
+      <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-4">
+        <div class="pricing shadow">
+          <div class="header bg-light p- text-dark">
+            <h5 class="h5 title">{{ .title }}</h5>
+            <span class="price my-3">{{ .price }}</span>
+            <div class="features text-left text-muted">
+              <ul class="fa-ul">
+              {{ range .features }}
+                <li><i class="fa-li fa fa-check"></i>{{ . }}</li>
+              {{ end }}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+  <div class="container text-center">
+    <div class="row justify-content-md-center">
+      {{ end }}
+      {{ range where $pricing.content ".featured" nil }}
       <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-4">
         <div class="pricing shadow">
           <div class="header bg-light p-3 text-dark">
             <h5 class="h5 title">{{ .title }}</h5>
             <span class="price my-3">{{ .price }}</span>
-            <a href="{{ .button.href | absURL }}" class="btn btn-primary {{ if not .button.enabled }} disabled {{ end }}"
-              >{{ .button.text }}</a
-            >
-          </div>
-          <div class="body p-3">
-            <div class="features text-left">
+            <div class="features text-left text-muted">
+              <ul class="fa-ul">
               {{ range .features }}
-              <div class="my-2 text-muted">
-                <span><i class="fa fa-check text-primary"></i></span>
-                <span>{{ . }}</span>
-              </div>
+                <li><i class="fa-li fa fa-check"></i>{{ . }}</li>
               {{ end }}
+              </ul>
             </div>
           </div>
         </div>
       </div>
       {{ end }}
+    </div>
+  </div>
+  <div class="container text-center">
+    <div class="row justify-content-md-center">
+      <div class="col-12 col-lg-4 col-md-6 col-sm-12 mb-4">
+         <a href="{{ $pricing.button.href | absURL }}" target="_blank" class="btn btn-primary {{ if not $pricing.button.enabled }} disabled {{ end }}">{{ $pricing.button.text }}</a>
+       </div>
     </div>
   </div>
 </section>

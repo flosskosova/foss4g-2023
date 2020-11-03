@@ -1,115 +1,72 @@
 {
   "title": "Pricing",
   "description": "Pricing ingles",
+  "button": {
+    "text": "Register here",
+    "href": "https://registration.2021.foss4g.org/",
+    "enabled": true
+   },
   "content": [
     {
-      "title": "Tempranillo Conference General Price Fee",
+      "title": "Corporative",
+      "price": "$650",
+      "featured": true,
+      "features": ["Exclusive Access to Business to Bussiness event"]
+    },
+    {
+      "title": "Tempranillo Conference General",
       "price": "$300",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Limited to 20 tickets"]
     },
     {
-      "title": "Early Bird Conference General Price Fee",
+      "title": "Early Bird Conference General",
       "price": "$399",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Discounted price"]
     },
     {
-      "title": "Regular Conference General Price Fee",
+      "title": "Regular Conference General",
       "price": "$499",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Regular price"]
     },
     {
-      "title": "Tempranillo Conference Regional Price Fee",
+      "title": "Tempranillo Conference Regional",
       "price": "$200",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Only for attendees from Latin America", "Limited to 20 tickets" ]
     },
     {
-      "title": "Early Bird Conference Regional Price Fee",
+      "title": "Early Bird Conference Regional",
       "price": "$299",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Only for attendees from Latin America", "Discounted price"]
     },
     {
-      "title": "Regular Conference Regional Price Fee",
+      "title": "Regular Conference Regional",
       "price": "$349",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Only for attendees from Latin America", "Regular price"]
     },
     {
-      "title": "Tempranillo Conference Local Price Fee",
+      "title": "Tempranillo Conference Local",
       "price": "$100",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#contact"
-      }
+      "features": ["Only for attendees from Argentina", "Limited to 20 tickets"]
     },
     {
-      "title": "Early Bird Conference Local Price Fee",
+      "title": "Early Bird Conference Local",
       "price": "$199",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Only for attendees from Argentina", "Discounted price"]
     },
     {
-      "title": "Regular Conference Local Price Fee",
+      "title": "Regular Conference Local",
       "price": "$249",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Only for attendees from Argentina", "Regular price"]
     },
     {
       "title": "Early Bird Workshops Fee",
       "price": "$49",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Discounted price"]
     },
     {
       "title": "Regular Workshops Fee",
       "price": "$69",
-      "features": [],
-      "button": {
-        "text": "Buy now",
-        "href": "/#buy",
-        "enabled": false
-      }
+      "features": ["Regular price"]
     }
   ]
 }
