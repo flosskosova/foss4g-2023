@@ -59,12 +59,12 @@
       "features": ["Only for attendees from Argentina", "Regular price"]
     },
     {
-      "title": "Early Bird Workshops Fee",
+      "title": "Early Bird Workshops",
       "price": "$49",
       "features": ["Discounted price"]
     },
     {
-      "title": "Regular Workshops Fee",
+      "title": "Regular Workshops",
       "price": "$69",
       "features": ["Regular price"]
     }
