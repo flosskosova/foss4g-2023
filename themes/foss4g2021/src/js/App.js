@@ -3,6 +3,7 @@
 import $ from 'jquery';
 import { library, dom } from '@fortawesome/fontawesome-svg-core';
 import {
+    faBell,
     faBookOpen,
     faChevronLeft,
     faChevronRight,
@@ -34,6 +35,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 
 library.add(
+    faBell,
     faBookOpen,
     faChevronLeft,
     faChevronRight,

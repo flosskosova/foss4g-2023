@@ -95,6 +95,7 @@ author = "authors"
 #    gitlab = "https://gitlab.com"
 #    mastodon = "https://mastodon.social"
 #    keybase = "https://keybase.io/"
+    subscribe = "http://eepurl.com/gxPUJH"
 
   [params.hero]
   enable            = true

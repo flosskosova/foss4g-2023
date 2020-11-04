@@ -3,6 +3,16 @@
         <div class="row">
             <div class="col">
                 <ul class="list-inline">
+										{{- if .Site.Params.social.subscribe -}}
+										<li class="list-inline-item">
+												<a href="{{ .Site.Params.social.subscribe }}" class="icons d-block">
+														<span class="fa-stack fa-lg">
+																<i class="fa fa-circle fa-stack-2x"></i>
+																<i class="fas fa-bell fa-stack-1x fa-inverse"></i>
+														</span>
+												</a>
+										</li>
+										{{- end -}}
                     {{ if .Site.Params.social.rss -}}
                     <li class="list-inline-item">
                         {{- with .Site.GetPage "" -}}
@@ -28,7 +38,7 @@
                     </li>
                     {{- end -}}
                     {{- range $name, $path := .Site.Params.social -}}
-                        {{- if and $path (not (in (slice "rss" "email") $name)) -}}
+                        {{- if and $path (not (in (slice "rss" "email" "subscribe") $name)) -}}
                         <li class="list-inline-item">
                             <a href="{{ $path | safeURL }}" class="icons d-block">
                                 <span class="fa-stack fa-lg">
