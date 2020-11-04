@@ -86,7 +86,7 @@ Este año decidimos que las remeras se vendan aparte de la entrada, reduciendo e
 
 - **¿Qué hago si tengo problemas pagando el registro?**
 
-Comprueba nuestras [preguntas frecuentes sobre pagos y registro en](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/)
+Comprueba nuestras [preguntas frecuentes sobre pagos y registro](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/)
 
 
 
