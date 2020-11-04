@@ -83,3 +83,7 @@ Podrás ver el detalle de actividades online en nuestra página web, en las los 
 - **¿Van a entregar remeras o material de la conferencia?**
 
 Este año decidimos que las remeras se vendan aparte de la entrada, reduciendo el costo de la entrada pero también la impresión innecesaria de merchandising de más. Se podrá comprar la remera del evento en nuestra tienda, todo lo recaudado por la venta de remeras será en beneficio del Programa de Becas ({{< ref "/register/travel-grant-program.es.md" >}}).
+
+- **¿Qué hago si tengo problemas pagando el registro?**
+
+Comprueba nuestras preguntas frecuentes sobre pagos y registro en {{< ref "https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/" >}}.

@@ -87,3 +87,8 @@ You can see the details of online activities on our website, on the posters in e
 - **Will you deliver T-shirts or conference material?**
 
 This year, t-shirts would be sold separately from the ticket, reducing the ticket price and the amount of waste. You can buy event branded shirts in our store. All profit from the sale of the shirts will go to the Travel Grant Program ({{< ref "/register/travel-grant-program.md">}}).
+
+- **I have problems with the payment. What do I do?**
+
+Check our payment and registration faq on {{< ref "https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/" >}}.
+
