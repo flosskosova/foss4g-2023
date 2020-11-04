@@ -90,5 +90,5 @@ This year, t-shirts would be sold separately from the ticket, reducing the ticke
 
 - **I have problems with the payment. What do I do?**
 
-Check our [payment and registration faq on](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/)
+Check our [payment and registration faq](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/)
 
