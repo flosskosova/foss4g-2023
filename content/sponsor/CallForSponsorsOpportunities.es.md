@@ -7,31 +7,54 @@ menu:
     weight: 5
 ---
 
-### Ser patrocinador de la Conferencia
+Los patrocinadores son la columna vertebral de la conferencia. Con su valioso apoyo, el Comité Organizador Local puede organizar este gran evento que toda la comunidad geoespacial está esperando.
 
-Siendo FOSS4G un evento global los patrocinadores son la columna vertebral de la conferencia. Con su valioso apoyo, el Comité Organizador Local, puede organizar este gran evento que toda la comunidad geoespacial está esperando.
+Creemos en la inclusión y aspiramos a hacer que FOSS4G 2021 sea accesible para la más amplia gama de participantes. El objetivo es ofrecer a todos una oportunidad sólida para aprender, inspirarse, inspirar a otros y disfrutar de la compañía de otros entusiastas geoespaciales.
 
-Creemos en la inclusión y aspiramos a hacer que FOSS4G 2021 sea accesible para la más amplia gama de participantes, desde expertos senior de alta gama hasta profesionales junior, desde autónomos, a profesores y de usuarios, a estudiantes. El objetivo general es ofrecer a todos una oportunidad sólida de aprender, inspirarse, inspirar a otros y disfrutar de la compañía de otros entusiastas geoespaciales.
+Al patrocinar FOSS4G 2021, está ampliando su contribución a la comunidad geoespacial de código abierto y gratuito, una contribución que es esencial para mantener activa esta valiosa comunidad.
 
-Al patrocinar FOSS4G 2021, está extendiendo su contribución a la comunidad geoespacial de código abierto, una contribución que es esencial para mantener activa esta valiosa comunidad. El Comité de Patrocinio FOSS4G Buenos Aires 2021 trabajó mucho para brindar múltiples oportunidades de patrocinio, pero siendo flexibles a posibles cambios. 
-
-### Perfil de la conferencia
+### Perfil de la Conferencia
 
 Asistencia estimada: 900-1200
--	Desarrolladores y usuarios de software geoespacial
--	Especialistas de instituciones gubernamentales y empresas privadas que buscan soluciones efectivas para resolver problemas geoespaciales.  
--	Directivos de proyectos geoespaciales en busca de soluciones de software ﬂexibles y económicamente ventajosas 
--	Líderes técnicos geoespaciales 
--	Empresas que buscan conectarse con comunidades de código abierto 
--	Empresas que buscan contratar expertos en código abierto 
--	Delegados de organizaciones internacionales y comunidades científicas 
--	Líderes del código abierto global para la comunidad geoespacial
--	Profesionales y técnicos en Geografía, Geodesia, Fotogrametría, Cartografía y Topografía
--	Representantes de organizaciones no gubernamentales, comunidades colaborativas, docente de diferentes niveles educativos y aficionados
+- Desarrolladores y usuarios de software geoespacial
+- Líderes técnicos
+- Compañías privadas
+- Organizaciones nacionales e internacionales, tanto gubernamentales como ONG
+- Docentes y profesionales de la educación
+- Comunidades científicas e investigadores
+  
+Habrá tracks que se centren en cada uno de esos perfiles, y también varios espacios comunes para que todos los asistentes puedan reunirse y conectar. FOSS4G es el mejor lugar para conocer a otros profesionales y ampliar sus posibilidades.
 
-Puede ver el folleto de patrocinios [aquí](/documents/sponsors_brochure.pdf)
+### Temas
 
-Contacto 
+La conferencia abarcará todo tipo de temas:
+
+ * Desarrollo de software
+ * Transición a FOSS4G
+ * Casos de uso y aplicaciones
+ * Educación e investigación
+ * Open Data/Datos Abiertos
+ 
+En este evento encontrará charlas que cubren
+
+ * Estado del software, nuevo software / desarrollo de proyectos, evaluación y comparativas
+ * Implementaciones de FOSS4G en dominios de aplicaciones estratégicas: gestión de tierras, respuesta a emergencias, ciudades inteligentes, mapeo de población, cambio climático, monitoreo de océanos y marinos, etc.
+ * Visualización de datos: análisis espacial, manipulación y visualización de datos geoespaciales
+ * Recopilación de datos, intercambio de datos, ciencia de datos, datos abiertos, big data, plataformas de explotación de datos
+ * Sensores, teledetección, escaneo láser, estructura por movimiento
+ * Nuevas tendencias: IoT, mapeo interior, drones - UAV (vehículo aéreo no tripulado) -, inteligencia artificial - aprendizaje automático, aprendizaje profundo-, estructuras de datos geoespaciales
+ * Ciencia abierta y reproducible
+ * Estándares, interoperabilidad, SDI
+ * FOSS4G comunitario y participativo
+ * FOSS4G en instituciones gubernamentales
+ * FOSS4G en educación
+ * Productos comerciales impulsados ​​por FOSS4G
+  
+### Más información
+  
+Puede descargar nuestro [Folleto de patrocinio](/documents/sponsors_brochure.pdf).
+
+También puede contactarnos en
 {{< rawhtml >}}
-<a href="mailto:foss4g2021-sponsorship@googlegroups.com" target="_blank"><i class="fa fa-envelope"></i></a>
+<a href="mailto:sponsors@foss4g.org" target="_blank"><i class="fa fa-envelope"></i>sponsors@foss4g.org</a>
 {{< /rawhtml >}}

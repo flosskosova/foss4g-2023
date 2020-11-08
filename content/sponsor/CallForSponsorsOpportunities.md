@@ -7,32 +7,55 @@ menu:
     weight: 5
 ---
 
-### To sponsor the conference
 
-As FOSS4G is a global event, sponsors are the backbone of the conference. With your valuable support, the Local Organizing Committee can organize this great event that the entire geospatial community is waiting for.
+Sponsors are the backbone of the conference. With their valuable support, the Local Organizing Committee can organize this great event that the entire geospatial community is waiting for.
 
-We believe in inclusion and aspire to make FOSS4G 2021 accessible to the widest range of participants, from high-end senior experts to junior professionals, from freelancers, to faculty, users and students. The overall goal is to offer everyone a solid opportunity to learn, get inspired, inspire others, and enjoy the company of other geospatial enthusiasts.
+We believe in inclusion and aspire to make FOSS4G 2021 accessible to the widest range of participants. The goal is to offer everyone a solid opportunity to learn, get inspired, inspire others, and enjoy the company of other geospatial enthusiasts.
 
-By sponsoring FOSS4G 2021, you are extending your contribution to the open source geospatial community, a contribution that is essential to keeping this valuable community active. The FOSS4G Buenos Aires 2021 Sponsorship Committee worked hard to provide multiple sponsorship opportunities, but being flexible to possible changes.
-
+By sponsoring FOSS4G 2021, you are extending your contribution to the free and open source geospatial community, a contribution that is essential to keeping this valuable community active.
 
 ### Conference profile
 
 Estimated attendance: 900-1200
-- Geospatial software developers and users
-- Specialists from government institutions and private companies looking for effective solutions to solve geospatial problems.
-- Geospatial project managers looking for flexible and economically advantageous software solutions
-- Geospatial technical leaders
-- Companies looking to connect with open source communities
-- Companies looking to hire open source experts
-- Delegates from international organizations and scientific communities
-- Global open source leaders for the geospatial community
-- Professionals and technicians in Geography, Geodesy, Photogrammetry, Cartography and Topography
-- Representatives of non-governmental organizations, collaborative communities, teachers of different educational levels and amateurs
+- Developers and Users of GeoSpatial Software
+- Technical Leaders
+- Private Companies
+- National and International Organizations, both Governmental and NGO
+- Teachers and Education Professionals
+- Scientific Communities and Researchers
   
-You can see the sponsor brochure [here](/documents/sponsors_brochure.pdf)
+There will be tracks that focus on each of those profiles, and also several common spaces so attendees from all backgrounds can meet and connect. FOSS4G is the best place to connect to other professionals and expand your possiblities. 
 
-Contact 
+### Topics
+
+The conference will cover all kind of topics:
+
+ * Software development
+ * Transition to FOSS4G
+ * Use cases and applications
+ * Education and research
+ * Open data
+
+On this event you will find talks covering
+
+ * Software status, new software/project development, benchmarking
+ * FOSS4G implementations in strategic application domains: land management, crisis/disaster response, smart cities, population mapping, climate change, ocean and marine monitoring, etc.
+ * Data visualization: spatial analysis, manipulation and visualization of geospatial data
+ * Data collection, data sharing, data science, open data, big data, data exploitation platforms
+ * Sensors, remote sensing, laser-scanning, structure from motion
+ * New trends: IoT, Indoor mapping, drones - UAV (unmanned aerial vehicle)-, Artificial intelligence - machine learning, deep learning-, geospatial data structures
+ * Open and reproducible science
+ * Standards, interoperability, SDIs
+ * Community & participatory FOSS4G
+ * FOSS4G at governmental institutions
+ * FOSS4G in education
+ * Business products powered by FOSS4G
+  
+### More information
+  
+You can download our [Sponsorship Brochure](/documents/sponsors_brochure.pdf).
+
+You can also contact us on 
 {{< rawhtml >}}
-<a href="mailto:foss4g2021-sponsorship@googlegroups.com" target="_blank"><i class="fa fa-envelope"></i></a>
+<a href="mailto:sponsors@foss4g.org" target="_blank"><i class="fa fa-envelope"></i>sponsors@foss4g.org</a>
 {{< /rawhtml >}}
