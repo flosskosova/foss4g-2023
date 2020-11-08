@@ -1,6 +1,6 @@
 ---
 title: "Programa de Becas"
-draft: false
+draft: true
 menu:
   main:
     parent: "Registrate"
