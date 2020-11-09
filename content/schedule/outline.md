@@ -7,7 +7,6 @@ menu:
     weight: 4
 weight: 1     
 ---
-
 ![Outline](/images/outline.png)
 <!--- 
 |   | **Monday** | **Tuesday** | **Wednesday** |  | **Thursday** |  | **Friday** |  | **Saturday** |
