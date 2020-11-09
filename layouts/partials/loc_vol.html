@@ -1,0 +1,7 @@
+<h1 class="mb-5">Local Organizing Comittee Volunteers</h1>
+
+{{ range .Site.Data.people }}
+  {{ if eq .Type "loc_vol"}}
+    {{ partial "bio.html" .}}
+  {{ end }}
+{{ end }}

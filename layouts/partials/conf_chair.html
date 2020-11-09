@@ -1,7 +1,7 @@
-<h1 class="mb-5">Academic Call For Papers</h1>
+<h1 class="mb-5">Conference Chairs</h1>
 
 {{ range .Site.Data.people }}
-  {{ if eq .Type "cfp_acad" }}
+  {{ if eq .Type "conf_chair"}}
     {{ partial "bio.html" .}}
   {{ end }}
 {{ end }}
