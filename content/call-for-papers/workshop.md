@@ -17,13 +17,13 @@ The maximum number of participants is 20 per workshop.
 When submitting a workshop, use the abstract to make the scope and the contents clear. If possible, include the list of topics you want to cover and links to data and tutorials that will be used. 
 
 You will be asked to indicate the level: 
-from 1 – beginner to 4 – highly advanced and the minimal knoledge that the atendees should have.
+from 1 – beginner to 4 – highly advanced and the minimal knowledge that the atendees should have.
 
 ## Selection process
 
 The timeline for workshops is as follows:
 
-| Close call for workshops | Accepted workshops announced | Full FOSS4G 2019 program |
+| Close call for workshops | Accepted workshops announced | Full FOSS4G 2021 program |
 |---------------|-------------|-------------|
 | 30/03/2021 | 30/04/2021 | 10/05/2021 |
 
