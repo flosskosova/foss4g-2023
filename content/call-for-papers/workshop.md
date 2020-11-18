@@ -9,9 +9,9 @@ menu:
 ---
 
 Workshops should showcase current and emerging FOSS4G technologies, foster skills development and provide a direct interaction between 
-our highly skilled OSGeo community and the public who wants to acquire new skills. They are hands-on sessions in which attendants have the chance to learn a specific FOSS4G software package through problem solving.
+our highly proficient OSGeo community and the public who wants to acquire new competences. Workshops are hands-on sessions in which attendants have the chance to learn a specific FOSS4G software package through problem solving.
 
-Each workshop takes 4 hours. They will take place at the Law School – University of Buenos Aires which kindly provides us with rooms. 
+Each workshop will take 4 hours. They will take place at the Law School – University of Buenos Aires, which kindly provides us with rooms. 
 The maximum number of participants is 20 per workshop.
 
 When submitting a workshop, use the abstract to make the scope and the contents clear. If possible, include the list of topics you want to cover and links to data and tutorials that will be used. 
