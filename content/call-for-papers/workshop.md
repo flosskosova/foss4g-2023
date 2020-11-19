@@ -27,8 +27,5 @@ The timeline for workshops is as follows:
 |---------------|-------------|-------------|
 | 30/03/2021 | 30/04/2021 | 10/05/2021 |
 
-<!-- ---
 
-> # **[Submit your presentation now!](http://callforpapers.2021.foss4g.org/foss4g2021/cfp)**
---- -->
-
+**[Submit your presentation now!](http://callforpapers.2021.foss4g.org/)**

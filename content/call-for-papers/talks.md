@@ -61,7 +61,5 @@ You may be wondering if FOSS4G 2021 is going to be hosted online or take place f
 
 If FOSS4G 2021 is finally hosted online, we will ask for *15 minutes videos* with the accepted talks and we will have 10 minutes for online Q&A.
 
-<!-- ---
 
-> # **[Submit your presentation now!](http://callforpapers.2021.foss4g.org/foss4g2021/cfp)**
---- -->
+**[Submit your presentation now!](http://callforpapers.2021.foss4g.org/)**
