@@ -38,4 +38,4 @@ Los artículos se publicarán en “The International Archives of the Photogramm
 Todos los artículos deben estar formateados según las pautas del ISPRS, disponibles aquí: https://www.isprs.org/documents/orangebook/app5.aspx 
 
 
-**[Submit your presentation now!](http://callforpapers.2021.foss4g.org/)**
+**[Submit your presentation now!](https://callforpapers.2021.foss4g.org/foss4g-2021-academic/cfp)**

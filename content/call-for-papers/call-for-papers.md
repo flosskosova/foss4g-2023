@@ -11,7 +11,8 @@ menu:
     
 ---
 
-**[Submit your presentation now!](http://callforpapers.2021.foss4g.org/)**
+**[Submit your presentation now!](https://callforpapers.2021.foss4g.org/foss4g2021/cfp)**
+**[Submit your workshop now!](https://callforpapers.2021.foss4g.org/foss4g-2021-workshop/cfp)**
 
 # Invitation to submit your work
 
