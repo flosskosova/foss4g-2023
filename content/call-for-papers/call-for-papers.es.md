@@ -1,14 +1,18 @@
 ---
-title: "Convocatoria general"
+title: "Call for Presentations"
 description: "Call for Presentations"
 author: "FOSS4G 2021"
 draft: false
 
 menu:
   main:
-    parent: 'Presentaciones'
+    parent: 'Call for Papers'
     weight: 2
+    
 ---
+
+**[Submit your presentation now!](http://callforpapers.2021.foss4g.org/)**
+
 # Invitation to submit your work
 
 Welcome to the Call for Presentations FOSS4G Buenos Aires 2021!
@@ -57,7 +61,5 @@ OSGeo is an open, grassroots, dynamic community and its flagship event has inher
 - And last, but not least, the success of this event lies in the responsable actions of all participants and organizers alike. If after 
 you have confirmed participation, you or the co-authors are no longer able to present, please let us know as soon as possible.
 
-<!-- ---
 
-> # **[Submit your presentation now!](http://callforpapers.2021.foss4g.org/foss4g2021/cfp)**
---- -->
+**[Submit your presentation now!](http://callforpapers.2021.foss4g.org/)**

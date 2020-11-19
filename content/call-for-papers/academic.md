@@ -39,4 +39,4 @@ The papers will be published in “The International Archives of the Photogramme
 All papers should be formatted as per ISPRS author's guidelines, available here:  https://www.isprs.org/documents/orangebook/app5.aspx 
 
 
-### **Link to submit your abstract soon!**
+**[Submit your presentation now!](http://callforpapers.2021.foss4g.org/)**
