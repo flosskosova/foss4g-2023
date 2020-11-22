@@ -8,6 +8,8 @@ menu:
     weight: 2
 ---
 
+{{< primary-button "Submit your workshop now!" "https://callforpapers.2021.foss4g.org/foss4g-2021-workshop/cfp" >}}
+
 Workshops should showcase current and emerging FOSS4G technologies, foster skills development and provide a direct interaction between 
 our highly skilled OSGeo community and the public who wants to acquire new skills. They are hands-on sessions in which attendants have the chance to learn a specific FOSS4G software package through problem solving.
 
@@ -26,7 +28,3 @@ The timeline for workshops is as follows:
 | Close call for workshops | Accepted workshops announced | Full FOSS4G 2019 program |
 |---------------|-------------|-------------|
 | 30/03/2021 | 30/04/2021 | 10/05/2021 |
-
-
-
-**[Submit your workshop now!](https://callforpapers.2021.foss4g.org/foss4g-2021-workshop/cfp)**

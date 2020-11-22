@@ -10,13 +10,15 @@ menu:
     weight: 2
 ---
 
-| CFP academico                      |            |            |  
-|------------------------------------|------------|------------|                          
-|Convocatoria de ponencias académicas| 20/11/2020 | 08/03/2021 |                            
-|Comunicación de aceptación          |            | 01/04/2021 |     
-|Envío de trabajos completos         |            | 15/05/2021 |    
+{{< primary-button "Envía tu presentación ahora!" "https://callforpapers.2021.foss4g.org/foss4g-2021-academic/cfp" >}}
 
-# Track Académico GeoForAll  (co-organizado con el ISPRS y OSGeo) 
+| CFP academico                      |            |            |
+|------------------------------------|------------|------------|
+|Convocatoria de ponencias académicas| 20/11/2020 | 08/03/2021 |
+|Comunicación de aceptación          |            | 01/04/2021 |
+|Envío de trabajos completos         |            | 15/05/2021 |
+
+# Track Académico GeoForAll  (co-organizado con el ISPRS y OSGeo)
 
 ## DESCRIPCIÓN
 
@@ -35,7 +37,4 @@ Si el resumen es aceptado, se invita a participar de la conferencia exponiendo e
 
 ### **Paso 2**
 Los artículos se publicarán en “The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences”. Los artículos aceptados se publicarán en las actas de la conferencia luego de verificar la inscripción a la misma por parte de al menos una persona listada como autora. Las Actas estarán disponibles el primer día de la Conferencia.
-Todos los artículos deben estar formateados según las pautas del ISPRS, disponibles aquí: https://www.isprs.org/documents/orangebook/app5.aspx 
-
-
-**[Submit your presentation now!](https://callforpapers.2021.foss4g.org/foss4g-2021-academic/cfp)**
+Todos los artículos deben estar formateados según las pautas del ISPRS, disponibles aquí: https://www.isprs.org/documents/orangebook/app5.aspx

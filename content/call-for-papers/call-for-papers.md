@@ -11,10 +11,12 @@ menu:
     
 ---
 
-**[Submit your presentation now!](https://callforpapers.2021.foss4g.org/foss4g2021/cfp)**
+{{< primary-button "Submit your presentation now!" "https://callforpapers.2021.foss4g.org/foss4g2021/cfp" >}}
 
 
-**[Submit your workshop now!](https://callforpapers.2021.foss4g.org/foss4g-2021-workshop/cfp)**
+
+{{< primary-button "Submit your workshop now!" "https://callforpapers.2021.foss4g.org/foss4g-2021-workshop/cfp" >}}
+
 
 # Invitation to submit your work
 
@@ -63,6 +65,3 @@ OSGeo is an open, grassroots, dynamic community and its flagship event has inher
 
 - And last, but not least, the success of this event lies in the responsable actions of all participants and organizers alike. If after 
 you have confirmed participation, you or the co-authors are no longer able to present, please let us know as soon as possible.
-
-
-**[Submit your presentation now!](http://callforpapers.2021.foss4g.org/)**

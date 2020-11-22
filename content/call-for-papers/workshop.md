@@ -8,7 +8,9 @@ menu:
     weight: 2
 ---
 
-Workshops should showcase current and emerging FOSS4G technologies, foster skills development and provide a direct interaction between 
+{{< primary-button "Submit your workshop now!" "https://callforpapers.2021.foss4g.org/foss4g-2021-workshop/cfp" >}}
+
+Workshops should showcase current and emerging FOSS4G technologies, foster skills development and provide a direct interaction between
 our highly proficient OSGeo community and the public who wants to acquire new competences. Workshops are hands-on sessions in which attendants have the chance to learn a specific FOSS4G software package through problem solving.
 
 Each workshop will take 4 hours. They will take place at the Law School – University of Buenos Aires, which kindly provides us with rooms. 
@@ -26,6 +28,3 @@ The timeline for workshops is as follows:
 | Close call for workshops | Accepted workshops announced | Full FOSS4G 2021 program |
 |---------------|-------------|-------------|
 | 30/03/2021 | 30/04/2021 | 10/05/2021 |
-
-**[Submit your workshop now!](https://callforpapers.2021.foss4g.org/foss4g-2021-workshop/cfp)**
-
