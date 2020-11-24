@@ -1,5 +1,5 @@
 ---
-title: "Frecuently asked questions"
+title: "Frecuently Asked Questions"
 author: "FOSS4G 2021"
 draft: false
 menu:
