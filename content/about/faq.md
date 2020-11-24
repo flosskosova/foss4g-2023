@@ -47,7 +47,7 @@ We are going to make all recordings available afterwards.
 
 We have considered it carefully and discarded the idea. 
 
-The network bandwidth required for a proper hybrid event (streaming out and receiving the feedback and questions from remote attendees in real time) would be too much for the network connection available at the venue. The cost of getting such bandwidth would be prohibitive for us. 
+An hybrid event would be a step further than just streaming content. The network bandwidth required for a proper hybrid event (streaming out and receiving the feedback and questions from remote attendees in real time) would be too much for the network connection available at the venue. The cost of getting such bandwidth would be prohibitive for us. 
 
 Also, the extra effort in work and budget required to properly host a hybrid event without making the remote attendees part of a secondary category goes far beyond our possiblities. 
 
@@ -65,7 +65,7 @@ Each workshop can be purchased as an individual ticket. They will be on sale onc
 
 On the registration page you will be able to see the options and how many places are still available. The space in the training rooms is limited, so we can only offer a limited number of tickets.
 
-#### I signed up for a workshop, what do I do now?**
+#### I signed up for a workshop, what do I do now?
 
 It will be necessary to bring a laptop to participate in the workshops since they are totally practical, **do not forget it!**
 
@@ -113,7 +113,7 @@ Check our [payment and registration faq](https://registration.2021.foss4g.org/OS
 The conference will have tracks full of talks, workshops and codeprint activities. On the social side, we will host a Geochicas meeting, as well as other social events like: Pubrace, Ice Breaker and Gala Dinner.
 
 
-#### Will there be WiFi during the event?**
+#### Will there be WiFi during the event?
 
 Yes.
 
