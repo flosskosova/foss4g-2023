@@ -31,6 +31,26 @@ At this moment, we hope to meet you all in Buenos Aires.
 
 If the event is finally hosted online and you already had your ticket for the conference, you will be offered a refund, according to the [Cancellation Policy]({{< ref "//register/cancellation-policy.md">}}).
 
+#### Are the presentations going to be recorded and made publicly available?
+
+Yes. 
+
+Our main goal is to foster FOSS4G, and that means also making all the presentations available even to people that didn't registered on first place.
+
+#### Are you going to stream the event?
+
+No. 
+
+We are going to make all recordings available afterwards.
+
+#### Have you considered an hybrid online-face to face event?
+
+We have considered it carefully and discarded the idea. 
+
+The network bandwidth required for a proper hybrid event (streaming out and receiving the feedback and questions from remote attendees in real time) would be too much for the network connection available at the venue. The cost of getting such bandwidth would be prohibitive for us. 
+
+Also, the extra effort in work and budget required to properly host a hybrid event without making the remote attendees part of a secondary category goes far beyond our possiblities. 
+
 ### Registration
 
 #### How do I sign up to attend the Conference?
