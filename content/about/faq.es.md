@@ -9,6 +9,8 @@ menu:
 weight: 4
 ---
 
+***Esta es una versión de cortesía del original en inglés. Algunas preguntas pueden no estar actualizadas. Consulta siempre la versión en inglés para comprobar la última información***
+
 ## Preguntas frecuentes
 
 - **¿Dónde se llevará a cabo la Conferencia?**
