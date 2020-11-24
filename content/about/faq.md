@@ -25,9 +25,9 @@ The event will take place in two nearby buildings. The University of Buenos Aire
 
 Given all the cancelled conferences during 2020, you may be wondering if FOSS4G 2021 is going to be hosted online or take place face-to-face. The OSGeo board will make that decision during the second quarter of 2021, based on international travel restrictions, W.H.O. recommendations, and the input from the organizing committee.
 
-But at this moment, we hope to meet you all in Buenos Aires.
+At this moment, we hope to meet you all in Buenos Aires. 
 
-#### What happens if the event is finally hosted online?
+#### What happens with my ticket if the event is finally hosted online?
 
 If the event is finally hosted online and you already had your ticket for the conference, you will be offered a refund, according to the [Cancellation Policy]({{< ref "//register/cancellation-policy.md">}}).
 
