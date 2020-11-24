@@ -29,7 +29,7 @@ But at this moment, we hope to meet you all in Buenos Aires.
 
 #### What happens if the event is finally hosted online?
 
-If the event is finally hosted online and you already had your ticket for the conference, you will be offered a refund, according to the cancellation policy.
+If the event is finally hosted online and you already had your ticket for the conference, you will be offered a refund, according to the [Cancellation Policy]({{< ref "//register/cancellation-policy.md">}}).
 
 ### Registration
 
