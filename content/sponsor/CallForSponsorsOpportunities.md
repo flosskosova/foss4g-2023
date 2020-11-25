@@ -8,6 +8,17 @@ menu:
 ---
 
 
+
+{{< rawhtml >}}
+        <div class="col d-flex justify-content-center">
+          <a style="btn btn-primary mb-3" href="/documents/sponsors_brochure.pdf">
+            <button type="button" name="button" class="btn btn-primary rounded-pill px-5 py-2 mb-5">
+              Sponsorship Brochure
+            </button>
+          </a>
+        </div>
+{{< /rawhtml >}}
+
 Sponsors are the backbone of the conference. With their valuable support, the Local Organizing Committee can organize this great event that the entire geospatial community is waiting for.
 
 We believe in inclusion and aspire to make FOSS4G 2021 accessible to the widest range of participants. The goal is to offer everyone a solid opportunity to learn, get inspired, inspire others, and enjoy the company of other geospatial enthusiasts.
