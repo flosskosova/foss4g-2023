@@ -1,4 +1,4 @@
-<footer class="footer text-center bg-dark py-6">
+<footer class="footer text-center bg-dark py-4">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -50,18 +50,6 @@
                         {{- end -}}
                     {{- end }}
                 </ul>
-
-                <p class="font-weight-bold">
-                    {{ if .Site.Copyright }}
-                        {{ .Site.Copyright | safeHTML }}
-                    {{ else }}
-                        Copyright &copy; {{ .Site.Title }} {{ now.Year }}
-                    {{ end }}
-                </p>
-
-                <p class="font-weight-bold">
-                Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> with <a href="https://github.com/puresyntax71/hugo-theme-chunky-poster" target="_blank">Chunky Poster</a>.
-                </p>
             </div>
         </div>
     </div>
