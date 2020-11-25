@@ -10,7 +10,15 @@ menu:
     weight: 2
 ---
 
-{{< primary-button "Envía tu presentación ahora!" "https://callforpapers.2021.foss4g.org/foss4g-2021-academic/cfp" >}}
+{{< rawhtml >}}
+        <div class="col d-flex justify-content-center">
+          <a style="btn btn-primary mb-3" href="https://callforpapers.2021.foss4g.org/foss4g-2021-academic/cfp">
+            <button type="button" name="button" class="btn btn-primary rounded-pill px-5 py-2 mb-5">
+              ¡Envía tu presentación ahora!
+            </button>
+          </a>
+        </div>
+{{< /rawhtml >}}
 
 | CFP academico                      |            |            |
 |------------------------------------|------------|------------|
