@@ -11,6 +11,8 @@ menu:
     
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 {{< primary-button "Submit your presentation now!" "https://callforpapers.2021.foss4g.org/foss4g2021/cfp" >}}
 
 

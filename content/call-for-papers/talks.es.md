@@ -8,6 +8,8 @@ menu:
     weight: 2
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 {{< primary-button "Submit your presentation now!" "https://callforpapers.2021.foss4g.org/foss4g2021/cfp" >}}
 
 Talks will be assigned a 30 minutes slot: 20 minutes for the talk, 5 for Q&A, and 5 minutes for presenters to set up and the audience to change rooms as desired.

@@ -8,6 +8,8 @@ menu:
     weight: 6
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 ## Buenos Aires
 La **Ciudad de Buenos Aires** es la capital de la República Argentina, situada a los 34°36’ de latitud sur y a los 58°26’ de longitud oeste, es una de las ciudades más grandes de Sudamérica. Forma parte de un conglomerado urbano con más de 12 millones de habitantes. 
 

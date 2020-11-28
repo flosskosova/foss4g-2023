@@ -10,6 +10,8 @@ menu:
     weight: 2
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 {{< primary-button "Envía tu presentación ahora!" "https://callforpapers.2021.foss4g.org/foss4g-2021-academic/cfp" >}}
 
 | CFP academico                      |            |            |

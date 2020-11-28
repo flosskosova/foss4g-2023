@@ -8,6 +8,8 @@ menu:
     weight: 2
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 {{< primary-button "Submit your workshop now!" "https://callforpapers.2021.foss4g.org/foss4g-2021-workshop/cfp" >}}
 
 Workshops should showcase current and emerging FOSS4G technologies, foster skills development and provide a direct interaction between 

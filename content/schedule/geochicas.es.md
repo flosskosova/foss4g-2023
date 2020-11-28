@@ -8,6 +8,8 @@ menu:
 weight: 6
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 #### GeoChicas Pre-Evento
 
 Este evento tendrá lugar el martes por la noche, después de los talleres y el día antes de que comiencen las sesiones principales. El evento se dividirá en dos. La primera mitad serán solo mujeres y personas no binarias (nb). Entonces todos están invitados a unirse. Esto ayuda a la inclusión y la creación de redes entre mujeres y nb.

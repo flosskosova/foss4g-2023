@@ -7,6 +7,9 @@ menu:
     parent: "Sede"
     weight: 6
 ---
+
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 La ciudad de Buenos Aires ofrece una grán variedad de actividades turísticas que podes realizar. Consultá la página de [turismo en Buenos Aires](https://turismo.buenosaires.gob.ar/es) para conocer algunas de ellas.
 
 

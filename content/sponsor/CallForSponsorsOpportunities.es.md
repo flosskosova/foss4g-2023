@@ -7,6 +7,8 @@ menu:
     weight: 5
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 Los patrocinadores son la columna vertebral de la conferencia. Con su valioso apoyo, el Comité Organizador Local puede organizar este gran evento que toda la comunidad geoespacial está esperando.
 
 Creemos en la inclusión y aspiramos a hacer que FOSS4G 2021 sea accesible para la más amplia gama de participantes. El objetivo es ofrecer a todos una oportunidad sólida para aprender, inspirarse, inspirar a otros y disfrutar de la compañía de otros entusiastas geoespaciales.
