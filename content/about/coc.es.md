@@ -9,6 +9,8 @@ menu:
 weight: 20     
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 Este código de conducta rige cómo nos comportamos en cualquier foro o evento de OSGeo y siempre que seamos juzgados por nuestras acciones. Esperamos que sea honrado por todos los que participan en nuestro evento.
 
 Se espera que los participantes actúen respetuosamente con los demás de conformidad con el [Código de Conducta de Berlín](https://berlincodeofconduct.org/).

@@ -8,6 +8,8 @@ menu:
 weight: 3
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 Un codesprint generalmente lo organiza alguna comunidad de software con un objetivo común. La comunicación durante este evento cara a cara suele beneficiar al proyecto durante años. El codesprint que se celebra en las conferencias FOSS4G es una tradición que queremos fomentar.
 
 Para promover nuestra comunidad de colaboradores, incluiremos el codesprint dentro de la semana principal de la conferencia. Al tener el codesprint en el lugar principal durante la conferencia, queremos alentar a todos los miembros de la comunidad a contribuir mientras asisten a la conferencia.

@@ -10,6 +10,9 @@ menu:
     weight: -1
 weight: 1     
 ---
+
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 ## La conferencia
 FOSS4G es la edición internacional de la FOSS4G; la conferencia de Software Libre y de Código Abierto para Geoespacial de [OSGeo](https://www.osgeo.org/). Con más de 15 años de experiencia, la conferencia anual FOSS4G es la mayor reunión mundial de software geoespacial. FOSS4G se ha celebrado en todo el mundo y atrae a asistentes de todo el mundo.
 

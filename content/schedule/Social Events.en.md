@@ -8,6 +8,8 @@ menu:
 weight: 5
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 We will repeat the successful formula of having a Pub Race map to meet close to the venue. Besides those “GeoBeers”, we planned:
 
 ### Gala Dinner

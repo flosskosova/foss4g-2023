@@ -11,6 +11,8 @@ menu:
     
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 {{< rawhtml >}}
         <div class="col d-flex justify-content-center">
           <a style="btn btn-primary mb-3" href="https://callforpapers.2021.foss4g.org/foss4g2021/cfp">

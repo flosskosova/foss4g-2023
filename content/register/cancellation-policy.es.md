@@ -7,6 +7,8 @@ menu:
     weight: 3
 ---
 
+***Esta es una versión de cortesía del original en inglés. Algunas preguntas pueden no estar actualizadas. Consulta siempre la versión en inglés para comprobar la última información***
+
 # POLITICA DE CANCELACION DE ENTRADAS
 
 Las entradas son compradas por sujetos individuales, entes, organismos o entidades públicas, independientemente de su forma jurídica, en adelante designadas como el COMPRADOR. Cada entrada tiene asociados los datos del ASISTENTE, que será la persona física que hará uso de la entrada. 

@@ -8,6 +8,8 @@ menu:
     weight: 3
 ---
 
+***Esta es una versión de cortesía del original en inglés. Algunas preguntas pueden no estar actualizadas. Consulta siempre la versión en inglés para comprobar la última información***
+
 {{< pricing >}}
 
 You can check our [Frequently Asked Questions about registration](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/).

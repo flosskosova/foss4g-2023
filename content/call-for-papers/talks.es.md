@@ -8,6 +8,8 @@ menu:
     weight: 2
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 
 {{< rawhtml >}}
         <div class="col d-flex justify-content-center">
@@ -18,7 +20,6 @@ menu:
           </a>
         </div>
 {{< /rawhtml >}}
-
 
 Talks will be assigned a 30 minutes slot: 20 minutes for the talk, 5 for Q&A, and 5 minutes for presenters to set up and the audience to change rooms as desired.
 The talks should be presentations of use cases and/or FOSS4G products: all about how you use open source geospatial software, how it helps to solve your company/organization problems, a new development you are involved in and what it has improved, etc.

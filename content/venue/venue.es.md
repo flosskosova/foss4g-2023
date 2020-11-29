@@ -9,6 +9,8 @@ menu:
     weight: 6
 ---
 
+***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
+
 ## Centro de Convenciones Buenos Aires y Facultad de Derecho UBA
 
 El Centro de Convenciones Buenos Aires (CEC) y la Facultad de Derecho UBA se encuentran en el barrio Recoleta, una de las zonas más interesantes de la ciudad. La Recoleta es un barrio tradicional, nacido como lugar de casas de fin de semana para las familias adineradas donde estas edificaban sus fincas y casonas de descanso. Originalmente este barrio estaba situado en las afueras de la ciudad, pero el avance de la civilización lo ha dejado en un lugar central de la misma, con mucha variedad de actividades y muy conectado a través del metro y buses que llegan desde diferentes lugares de la ciudad.
