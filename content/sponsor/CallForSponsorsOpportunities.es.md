@@ -9,6 +9,16 @@ menu:
 
 ***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
 
+{{< rawhtml >}}
+        <div class="col d-flex justify-content-center">
+          <a style="btn btn-primary mb-3" href="/documents/sponsors_brochure.pdf">
+            <button type="button" name="button" class="btn btn-primary rounded-pill px-5 py-2 mb-5">
+              Folleto de Patrocinio
+            </button>
+          </a>
+        </div>
+{{< /rawhtml >}}
+
 Los patrocinadores son la columna vertebral de la conferencia. Con su valioso apoyo, el Comité Organizador Local puede organizar este gran evento que toda la comunidad geoespacial está esperando.
 
 Creemos en la inclusión y aspiramos a hacer que FOSS4G 2021 sea accesible para la más amplia gama de participantes. El objetivo es ofrecer a todos una oportunidad sólida para aprender, inspirarse, inspirar a otros y disfrutar de la compañía de otros entusiastas geoespaciales.
