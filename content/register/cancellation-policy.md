@@ -23,7 +23,7 @@ No type of exchange, refund, cancellation or return of the tickets purchased wil
 
 ### BY THE BUYER
 
-The impossibility of attending the event by the ATTENDANT or an error when making the purchase will not be valid reasons to proceed with the full refund of the ticket price. Tickets can only be canceled and returned under the following conditions:
+The impossibility of attending the event by the ATTENDANT or an error when making the purchase will not be valid reasons to proceed with the full refund of the ticket price. 
 
 The return policy in the event of cancellation by the participants will be as follows:
 
@@ -33,6 +33,10 @@ The return policy in the event of cancellation by the participants will be as fo
  * Less than 4 months before the start of the event, no amount will be refunded.
 
 It is possible to modify the ATTENDEE data for free by contacting the organization up to one month before the event.
+
+**Update (4/12/2020):**
+If your country of residence doesn't allow you to travel to Argentina and/or you don't have access to a vaccine approved by the WHO (World Health Organization) or a similar institution, you can ask for a full refund of your ticket.
+**End of update (4/12/2020)**
 
 ### BY THE ORGANIZER
 

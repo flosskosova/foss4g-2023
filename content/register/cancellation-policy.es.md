@@ -25,7 +25,7 @@ Todos estos términos y condiciones se rigen por la legislación argentina y cua
 
 ### POR PARTE DEL COMPRADOR
 
-La imposibilidad de asistir al evento por parte del ASISTENTE o un error al realizar la adquisición no serán motivos válidos para proceder a la devolución completa del precio de la entrada. Sólo se podrán cancelar entradas y proceder a su devolución bajo las siguientes condiciones:
+La imposibilidad de asistir al evento por parte del ASISTENTE o un error al realizar la adquisición no serán motivos válidos para proceder a la devolución completa del precio de la entrada. 
 
 La política de devolución ante la cancelación por parte de los participantes será la siguiente:
 
@@ -35,6 +35,10 @@ La política de devolución ante la cancelación por parte de los participantes 
  * A menos de 4 meses del comienzo del evento no se devolverá ningún importe.
 
 Es posible la modificación de los datos del ASISTENTE de forma gratuita contactando con la organización hasta un mes antes de la celebración del evento.
+
+**Actualización (4/12/2020):**
+Si tu país de residencia no te permite viajar a Argentina y/o no tienes acceso a una vacuna aprobada por la OMS (Organización Mundial de la Salud) o una institución equivalente, puedes pedir una devolución completa del precio de la entrada.
+**Fin de la actualización (4/12/2020)**
 
 ### POR PARTE DEL ORGANIZADOR
 
