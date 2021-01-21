@@ -23,32 +23,52 @@
         <div class="col-12">
           {{- with .Site.Params.description -}}
           <h4 class="font-weight-bold text-center mb-5">{{ . | safeHTML }}</h4>
-          {{- end -}}
-          {{- with .Site.Params.dates -}}
+          {{- end -}} {{- with .Site.Params.dates -}}
           <h4 class="font-weight-bold text-center mb-5">{{ . | safeHTML }}</h4>
           {{- end -}}
         </div>
       </div>
       <div class="row">
         <div class="col d-flex justify-content-center">
-          <a style="text-decoration:none" href="https://registration.2021.foss4g.org/OSGeo/FOSS4G/">
-            <button type="button" name="button" class="btn btn-light rounded-pill px-5 py-2 mb-5">
-            Comprá tus entradas
+          <a
+            style="text-decoration:none"
+            href="https://registration.2021.foss4g.org/OSGeo/FOSS4G/"
+          >
+            <button
+              type="button"
+              name="button"
+              class="btn btn-light rounded-pill px-5 py-2 mb-5"
+            >
+              Comprá tus entradas
             </button>
           </a>
           &nbsp;
-          <a style="text-decoration:none" href="https://callforpapers.2021.foss4g.org/">
-            <button type="button" name="button" class="btn btn-light rounded-pill px-5 py-2 mb-5">
-            Enviá tus propuestas
+          <a
+            style="text-decoration:none"
+            href="https://callforpapers.2021.foss4g.org/"
+          >
+            <button
+              type="button"
+              name="button"
+              class="btn btn-light rounded-pill px-5 py-2 mb-5"
+            >
+              Enviá tus propuestas
             </button>
           </a>
         </div>
       </div>
       <div class="row">
         <div class="col d-flex justify-content-center">
-          <a style="text-decoration:none" href="sponsor/callforsponsorsopportunities.html">
-            <button type="button" name="button" class="btn btn-light rounded-pill px-5 py-2 mb-5">
-            Apóyanos con tu Patrocinio
+          <a
+            style="text-decoration:none"
+            href="sponsor/callforsponsorsopportunities.html"
+          >
+            <button
+              type="button"
+              name="button"
+              class="btn btn-light rounded-pill px-5 py-2 mb-5"
+            >
+              Apóyanos con tu Patrocinio
             </button>
           </a>
         </div>
@@ -68,15 +88,17 @@
     {{ partial "hero-area.html" . }}
   </section>
 
-	<section class="row buenos-aires p-3 pt-6">
+  <section class="row buenos-aires p-3 pt-6">
     <div class="col">
       <h1 class="font-weight-normal mb-2">Buenos Aires</h1>
       <p>la mejor oportunidad para conocerla mejor</p>
-      <a style="text-decoration:none"
+      <a
+        style="text-decoration:none"
         href="https://turismo.buenosaires.gob.ar/es/otros-establecimientos/floralis-gen%C3%A9rica"
         target="_blank"
-				class="btn btn-light rounded-pill px-5 py-2">
-    			Descubre Buenos Aires
+        class="btn btn-light rounded-pill px-5 py-2"
+      >
+        Descubre Buenos Aires
       </a>
     </div>
   </section>
@@ -117,57 +139,82 @@
 
       <div class="row my-4">
         <div class="col text-center">
-          <a style="text-decoration:none"
+          <a
+            style="text-decoration:none"
             href="call-for-papers/call-for-papers"
-            target="_blank">
-            <button id="learn-more-btn" type="button" name="button" class="btn btn-light rounded-pill px-5 py-2">
-    Conocé más
+            target="_blank"
+          >
+            <button
+              id="learn-more-btn"
+              type="button"
+              name="button"
+              class="btn btn-light rounded-pill px-5 py-2"
+            >
+              Conocé más
             </button>
           </a>
         </div>
       </div>
     </div>
   </section>
-  <section class="row sponsors d-none">
+  <section class="row sponsors">
     <div class="container-fluid px-5">
       <div class="row mb-4">
         <h2 class="w-100 text-center">
           SPONSORS
         </h2>
       </div>
+
+      {{/* <div class="row mb-2">
+        <h3 class="col text-center font-weight-normal">
+          Diamond
+        </h3>
+      </div>
+      <div class="row text-center mb-5">
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Diamond"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
+      </div> */}}
+
       <div class="row mb-2">
         <h3 class="col text-center font-weight-normal">
           Platinum
         </h3>
       </div>
       <div class="row text-center mb-5">
-        <div class="col-12 col-md-4 mb-3">a</div>
-        <div class="col-12 col-md-4 mb-3">b</div>
-        <div class="col-12 col-md-4 mb-3">c</div>
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Platinum"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
       </div>
+
       <div class="row mb-2">
         <h3 class="col text-center font-weight-normal">
           Gold
         </h3>
       </div>
       <div class="row text-center mb-5">
-        <div class="col-12 col-md-3 mb-3">a</div>
-        <div class="col-12 col-md-3 mb-3">b</div>
-        <div class="col-12 col-md-3 mb-3">c</div>
-        <div class="col-12 col-md-3 mb-3">d</div>
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Gold"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
       </div>
+
       <div class="row mb-2">
         <h3 class="col text-center font-weight-normal">
           Silver
         </h3>
       </div>
       <div class="row text-center mb-5">
-        <div class="col-12 col-md-2 mb-3">a</div>
-        <div class="col-12 col-md-2 mb-3">b</div>
-        <div class="col-12 col-md-2 mb-3">c</div>
-        <div class="col-12 col-md-2 mb-3">d</div>
-        <div class="col-12 col-md-2 mb-3">c</div>
-        <div class="col-12 col-md-2 mb-3">d</div>
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Silver"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
       </div>
     </div>
   </section>

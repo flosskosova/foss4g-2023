@@ -128,46 +128,64 @@
       </div>
     </div>
   </section>
-  <section class="row sponsors d-none">
+	<section class="row sponsors">
     <div class="container-fluid px-5">
       <div class="row mb-4">
         <h2 class="w-100 text-center">
           SPONSORS
         </h2>
       </div>
+
+      {{/* <div class="row mb-2">
+        <h3 class="col text-center font-weight-normal">
+          Diamond
+        </h3>
+      </div>
+      <div class="row text-center mb-5">
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Diamond"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
+      </div> */}}
+
       <div class="row mb-2">
         <h3 class="col text-center font-weight-normal">
           Platinum
         </h3>
       </div>
       <div class="row text-center mb-5">
-        <div class="col-12 col-md-4 mb-3">a</div>
-        <div class="col-12 col-md-4 mb-3">b</div>
-        <div class="col-12 col-md-4 mb-3">c</div>
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Platinum"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
       </div>
+
       <div class="row mb-2">
         <h3 class="col text-center font-weight-normal">
           Gold
         </h3>
       </div>
       <div class="row text-center mb-5">
-        <div class="col-12 col-md-3 mb-3">a</div>
-        <div class="col-12 col-md-3 mb-3">b</div>
-        <div class="col-12 col-md-3 mb-3">c</div>
-        <div class="col-12 col-md-3 mb-3">d</div>
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Gold"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
       </div>
+
       <div class="row mb-2">
         <h3 class="col text-center font-weight-normal">
           Silver
         </h3>
       </div>
       <div class="row text-center mb-5">
-        <div class="col-12 col-md-2 mb-3">a</div>
-        <div class="col-12 col-md-2 mb-3">b</div>
-        <div class="col-12 col-md-2 mb-3">c</div>
-        <div class="col-12 col-md-2 mb-3">d</div>
-        <div class="col-12 col-md-2 mb-3">c</div>
-        <div class="col-12 col-md-2 mb-3">d</div>
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Silver"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
       </div>
     </div>
   </section>
