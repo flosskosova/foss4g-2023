@@ -3,7 +3,7 @@ title: "Geosolutions"
 draft: false
 ---
 
-![](/images/sponsor/ GeoSolutions.png)
+![](/images/sponsor/GeoSolutions.png)
 
 GeoSolutions (https://www.geosolutionsgroup.com/) is highly specialized in the processing and dissemination of raster and vector geospatial data with open source software according to the specifications created by Open Geospatial consortium (OGC) and the ISO Technical Committee 211 which provide the base building blocks for the INSPIRE regulations. Its team is composed by renowned international professionals with leading roles in some of the main open source products for the geospatial field like GeoServer, GeoNetwork, GeoNode and MapStore for which GeoSolutions provides professional support services.
 GeoSolutions counts among its customers major national and international government agencies as well as private companies worldwide. EU Joint Research Centre (JRC), United Nations Food and Agriculture Organization (FAO), United Nations World Food Program (WFP), World Bank, German Space Agency (DLR), DigitalGlobe, ESA, NATO STO CMRE as well as the municipalities of Wien, Helsinki, Genoa and Florence have chosen GeoSolutions to support their infrastructures. Thanks to the wide experience gained in supporting mid-size and large enterprise Environments for mission critical projects, GeoSolutions is able to provide highly customized solutions based upon open source components with proven reliability in order to respond promptly and efficiently to the customers’ needs. The primary objective of GeoSolutions is the integration and the complete interoperability with COTS software and/or pre-existing infrastructures.
