@@ -3,7 +3,7 @@ title: "GeoCat"
 draft: false
 ---
 
-![](/images/sponsor/GeoCat.svg)
+{{< figure src="/images/sponsor/GeoCat.svg" width="750px" >}}
 
 GeoCat is pleased to sponsor FOSS4G 2021. COVID learned us how important online collaboration is. We are fortunate that our communities have a well established practise of working in distributed teams. The way we all continued to work together, despite the real life problems that the pandemic caused, is something our community can be proud of. It also made clear how much we miss meeting you in real life! When we were asked to sponsor the Buenos Aires FOSS4G 2021 conference, we didn’t hesitate to step up and support to make it happen!
 

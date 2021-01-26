@@ -3,7 +3,7 @@ title: "Gaia3D"
 draft: false
 ---
 
-![](/images/sponsor/Gaia3D.svg)
+{{< figure src="/images/sponsor/Gaia3D.svg" width="500px" >}}
 
 Gaia3D was founded in November 2000 by Sanghee Shin, the current CEO, as a private South Korean company. Gaia3D started out with a couple of passionate software engineers in a very small room and initially worked for government and research institutes in Korea.
 
