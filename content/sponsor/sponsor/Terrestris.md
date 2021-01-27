@@ -16,4 +16,12 @@ Development of Spatial Data Infrastructures
 Browser-based visualization of 3D geodata
 Development of Open Source based geospatial technology maintenance, support and training
 
+Social media handles:
+
+@terrestrisde (Twitter)
+
+https://github.com/terrestris (GitHub)
+
+https://www.linkedin.com/company/terrestris-gmbh-co-kg (LinkedIn)
+
 [You can find more info on their webpage.](https://www.terrestris.de/en/)
