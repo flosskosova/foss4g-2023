@@ -16,7 +16,31 @@ weight: 2
 
 # El equipo FOSS4G 2021 Buenos Aires
 
-|![Maria](mariaa.jpg) |Maria|![Maria](mariaa.jpg) |Maria|
-|:---:|:---:|:---:|:---:|
-|![Maria](mariaa.jpg) |Maria|![Maria](mariaa.jpg) |Maria|
-|![Maria](mariaa.jpg) |Maria|![Maria](mariaa.jpg) |Maria|
+
+# FOSS4G 2021 Buenos Aires team
+
+![Andrea Trovant](/images/andy.jpg)
+![Ana P. Mittendorfer](/images/anita.jpg)
+![Ariel Anthieni](/images/ariel.jpg)
+![Astrid Emde](/images/astrid.png)
+![Carmen Díez](/images/carmen.png)
+![Felipe Sodré Mendes Barros](/images/felipe.jpg)
+![Gabriel Candaosa](/images/gabriel.jpg)
+![Gonzalo Perez](/images/gonzap.jpg)
+![Gonzalo Varela](/images/gonzav.png)
+![Guido Stein](/images/guido.png)
+![Hernán Lopez](/images/hernan.jpg)
+![Horacio Castellaro](/images/horacio.jpg)
+![John Bryant](/images/john.jpg)
+![Malena Libman](/images/malena.jpg)
+![Manuel Retamozo](/images/manu.jpg)
+![María Arias de Reyna](/images/mariaa.jpg)
+![Matt Hanson](/images/matt.png)
+![Noelia Junco](/images/noe.jpg)
+![Priscilla Gail Minotti](/images/priscilla.jpg)
+![Selene Yang](/images/selene.jpg)
+![Sofía Nilo](/images/sofia.jpg)
+![Verónica Andreo](/images/vero.jpg)
+![Claudia Bermúdez Girón](/images/claudia.jpg)
+![Camila Cuervo](/images/camila.jpeg)
+![Cristian Zamar](/images/cristian.jpg)
