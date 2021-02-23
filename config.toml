@@ -30,9 +30,6 @@ languageName = "English"
   [[languages.en.menu.main]]
   name   = "Sponsor"
   weight = 50
-  [[languages.en.menu.main]]
-  name   = "Venue"
-  weight = 60
 
 [languages.es]
 weight = 10
@@ -57,9 +54,6 @@ languageName = "Spanish"
   [[languages.es.menu.main]]
   name   = "Patrocinios"
   weight = 50
-  [[languages.es.menu.main]]
-  name   = "Sede"
-  weight = 60
 
 [taxonomies]
 category = "categories"

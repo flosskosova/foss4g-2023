@@ -1,95 +1,90 @@
 ---
-title: "Ayuda"
+title: "Frecuently Asked Questions"
 author: "FOSS4G 2021"
 draft: false
 menu:
   main:
-    parent: "Acerca de"
+    parent: "About"
     weight: -1
 weight: 4
 ---
 
-***Esta es una versión de cortesía del original en inglés. Algunas preguntas pueden no estar actualizadas. Consulta siempre la versión en inglés para comprobar la última información***
+### When and Where
 
-## Preguntas frecuentes
+#### When will the conference take place?
 
-- **¿Dónde se llevará a cabo la Conferencia?**
+The conference will take place from September 27 to October 2, 2021. 
 
-El evento se llevará a cabo en dos edificios principales. La Factuldad de Derecho y El Centro de Convenciones de Buenos Aires, ubicados en el Barrio de Recoleta, Ciudad de Buenos Aires. Para más información, ingresar a [Lugar de la conferencia]({{< ref "/venue/venue.es.md" >}}).
+#### Where will the Conference take place?
 
-- **¿Se celebrará online?
+The conference will take place ONLINE.
 
-Si para Septiembre de 2021 no podemos viajar seguros a Buenos Aires, haremos la conferencia online. La decisión se tomará en la primera mitad de 2021. Pero, de momento, esperamos veros a todos en persona en Buenos Aires.
+#### Are the presentations going to be recorded and made publicly available after the conference?
 
-Si el evento finalmente se organiza online y ya compraste tu entrada, se te ofrecerá un reembolso tal y como se especifica en la política de cancelación.
+Yes. 
 
-- **¿En qué fecha se llevará a cabo el evento?**
+Our main goal is to foster FOSS4G, and that means also making all the presentations available even to people that didn't registered on first place.
 
-El evento será del 27 del septiembre al 2 de Octubre del 2021. Consulta nuestro calendario para más información.
+#### Have you considered an hybrid online-face to face event?
 
-- **¿Qué actividades tendra la Conferencia?**
+We have considered it carefully and discarded the idea. 
 
-La conferencia tendra principalmente charlas, talleres y actividades de codesprint entre otras. Por otro lado, tenemos el encuentro de Geochicas, como también eventos sociales: Pubrace, Ice Breaker y Gala Dinner.
+An hybrid event would be a step further than just streaming content. The network bandwidth required for a proper hybrid event (streaming out and receiving the feedback and questions from remote attendees in real time) would be too much for the network connection available at the venue. The cost of getting such bandwidth would be prohibitive for us. 
 
-- **¿Cómo me anoto para asistir a la Conferencia?**
+Also, the extra effort in work and budget required to properly host a hybrid event without making the remote attendees part of a secondary category goes far beyond our possiblities. 
 
-Las inscripciones y compra de entradas se realizarán a través de la pagina web, para más información visitá nuestra sección [Registrate]({{< ref "/register/register.es.md" >}}).
+### Registration
 
-- **¿Cómo me anoto a los talleres?**
+#### How do I sign up to attend the Conference?
 
-Cada taller tendrá su entrada individual y los cupos limitados, la inscripción se habilitará una ves publicado el Programa. Recomendamos inscribirse con suficiente tiempo de anticipación.
+Registrations and ticket purchases will be made through an online system. For more information visit our [Register]({{< ref "/register/register.md">}}) section.
 
-- **¿Cómo sé si queda cupo para los talleres?**
+#### How do I sign up for workshops?
 
-Ingresando al link de incripción en talleres, podras observar las opciones y se podrá ver cuántos cupos disponibles hay en ese momento. Los cupos de los talleres no se ampliarán, dado que el espacio en las salas de capacitación es limitado.
+Each workshop can be purchased as an individual ticket. They will be on sale once the schedule has been published. We recommend registering as soon as possible.
 
-- **Me anoté a un taller, ¿y ahora?**
+#### How do I know if there is space for the workshops?
 
-Será necesario traer computadora portátil para participar de los talleres ya que son totalmente prácticos, **¡no te la olvides!**
-Recomendamos además traer alargue y/o zapatilla, dado que el acceso a enchufes es limitado y todos lo necesitan.
-Si bien habrá WiFi disponible, recomendamos descargar el software necesario antes de venir dado que habrá mucha gente utilizándolo.
+On the registration page you will be able to see the options and how many places are still available. The space in the training rooms is limited, so we can only offer a limited number of tickets.
 
-- **¿Habrá WiFi durante el evento?**
+#### If I already bought my ticket, how can I get an invoice / receipt for my payment?
 
-Sí, intentaremos que sea de la mejor calidad posible, pero dado que habrá muchos usuarios a la vez, rogamos conectar solo un dispositivo a la vez (computadora portátil ó celular) y ser solidario con su uso.
+If you already bought your ticket, the receipt will be sent to you by email.
 
-- **Si ya compré mi entrada, ¿cómo hago para obtener factura/recibo de mi pago?**
+The invoices will be made by Geolibres Asociación Civil or the OSGeo Foundation depending on your country of origin. During the purchase process, the data for billing can be completed, such as the company name to which it is addressed and the tax ID number. Make sure the data is correct because once the ticket is purchased and the invoice is generated, it cannot be corrected.
 
-Si ya compaste tu entrada el recibo automaticamente se enviara a por correo electrónico.
-Las facturas serán realizadas por Geolibres Asociación Civil. Durante el proceso de compra se podrán completar los datos para la facturación, cómo la razón social a quien va dirigido y el número de CUIT/CUIL, tenelos a mano ya que una vez comprada la entrada se genera la factura y no puede ser corregida.
+#### I am not dedicated to geomatics, can I attend the Conference?
 
-- **No me dedico a la geomática, ¿puedo asistir a la Conferencia?**
+Yes, the conference is open to any public interested in geomatics, free software, maps and communities.
 
-Sí, la conferencia está abierta para todo publico que le interese la geomatica, el software libre, los mapas y las comunidades.
+#### If I don't develop or write code, is this conference for me too?
 
-- **Si no programo, desarrollo o escribo código, esta conferencia ¿es para mí también?**
+Yes, this event is for all kinds of people interested in sharing experiences about maps, from developers who write code to users of geomatics software, people who make decisions, researchers, students and anyone who wants to learn, share and meet like minded people.
 
-Sí, este evento es para todo tipo de personas interesadas en compartir experiencias sobre mapas, desde desarrolladoros que escriben código a usuarios de software de geomática, gente que toma decisiones, investigadoros, estudiantes y cualquiera que quiera aprender, compartir y conocer gente afín.
+#### Can I go without registration?
 
-- **¿Puedo ir sin inscripción?**
+The event will be only accessible to registered users.
 
-No, debes estar registrado previamente, ya que no realizaremos inscripciones o manejaremos dinero en todo el evento.
+#### I need a certificate of my attendance at the event, will they be delivered?
 
-- **Necesito certificado para justificar mi asistencia al evento, ¿se entregarán?**
+Yes. We will be sending certificates after the end of the event via email. We ask for your patience, we will do our best to get it to you as soon as possible.
 
-Sí. Vamos a estar enviando certificados durante los 30 días siguientes a la finalización del evento vía email. Les pedimos paciencia, haremos todo lo posible para que estén cuanto antes.
+#### What is included in the ticket?
 
-- **¿Qué incluye el costo de la entrada?**
+The cost of the conference ticket includes admission to all the main tracks (excluding workshops) and social events.
 
-El costo de la entrada de la conferencia incluye el ingreso a todas las charlas (no a los talleres), el almuerzo, los coffee breaks, el Ice Breaker y la Gala Dinner.
+You can see the details on the schedule published at the website.
 
-No se incluirá el programa impreso, dado nuestro compromiso con el ahorro de papel.
+#### I have problems with the payment. What do I do?
 
-Podrás ver el detalle de actividades online en nuestra página web, en las los carteles en cada salón y en las pantallas del evento.
+Check our [payment and registration faq](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/)
 
-- **¿Van a entregar remeras o material de la conferencia?**
+### What can I expect
 
-Este año decidimos que las remeras se vendan aparte de la entrada, reduciendo el costo de la entrada pero también la impresión innecesaria de merchandising de más. Se podrá comprar la remera del evento en nuestra tienda, todo lo recaudado por la venta de remeras será en beneficio del Programa de Becas ({{< ref "/register/travel-grant-program.es.md" >}}).
+#### What activities will the Conference have?
 
-- **¿Qué hago si tengo problemas pagando el registro?**
+The conference will have tracks full of talks, workshops and codeprint activities. On the social side, we will host a Geochicas meeting, as well as other social events like Ice Breaker and Gala Dinner.
 
-Comprueba nuestras [preguntas frecuentes sobre pagos y registro](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/)
+#### Will you deliver T-shirts or conference material?
 
-
-
-
+This year, t-shirts would be sold separately from the ticket, reducing the ticket price and the amount of waste. You can buy event branded shirts in our store.

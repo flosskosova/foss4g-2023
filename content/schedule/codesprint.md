@@ -12,4 +12,3 @@ A code sprint is usually organized by a group that is using an open source proje
 
 In order to promote the power of our community of contributors, we will include the codesprint within the main conference week. By having the code sprint in the main venue during the conference we want to encourage all members of the community to contribute while attending the conference.
 
-To help newcomers join OSGeo, there will be sessions with a mentor. This mentor will help them join the codesprint and understand how FLOSS works. Some of these sessions will be specially focused on under-represented groups, creating a safe space to engage and ask questions.

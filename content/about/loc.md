@@ -29,7 +29,7 @@ weight: 2
 ![John Bryant](/images/john.jpg)
 ![Malena Libman](/images/malena.jpg)
 ![Manuel Retamozo](/images/manu.jpg)
-![maria Arias de Reyna](/images/mariaa.jpg)
+![María Arias de Reyna](/images/mariaa.jpg)
 ![Matt Hanson](/images/matt.png)
 ![Noelia Junco](/images/noe.jpg)
 ![Priscilla Gail Minotti](/images/priscilla.jpg)

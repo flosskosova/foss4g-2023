@@ -21,11 +21,9 @@ menu:
         </div>
 {{< /rawhtml >}}
 
-Talks will be assigned a 30 minutes slot: 20 minutes for the talk, 5 for Q&A, and 5 minutes for presenters to set up and the audience to change rooms as desired.
+Talks will be assigned a 30 minutes slot: 15 minutes for the talk, 10 for Q&A, and 5 minutes for presenters to set up and the audience to change rooms as desired.
 The talks should be presentations of use cases and/or FOSS4G products: all about how you use open source geospatial software, how it helps to solve your company/organization problems, a new development you are involved in and what it has improved, etc.
 Submissions of proprietary software products will not be accepted even if they make use of free software. 
-
-At FOSS4G 2021 Buenos Aires, we can accommodate 6 parallel tracks, with sessions of 1.5 – 2 hours long.
 
 When submitting a talk, you will be asked to select a general theme (_Track_) that best defines your contribution:
 
@@ -67,9 +65,3 @@ For submitted talks, the selection timeline is as follows:
 | 30/03/2021 |  03/04/2021 | 10/04/2021 | 30/04/2021 | 10/05/2021 |
 
 FOSS4G is the international geospatial community’s event, thus the main selection of talks will be done through the open community voting process. The highest-scored ones will automatically be included in the program, while the others will be reviewed by the FOSS4G 2021 Buenos Aires volunteer Program Committee. Its members will make sure that the conference program will be well-balanced, diverse and they will make sure that every OSGeo project will have a “State of ” kind of presentation.
-
-## Back-up plan
-
-You may be wondering if FOSS4G 2021 is going to be hosted online or take place face-to-face. The OSGeo board will make that decision during the second quarter of 2021, based on international travel restrictions, W.H.O. recommendations, and the input from the organizing committee. 
-
-If FOSS4G 2021 is finally hosted online, we will ask for *15 minutes videos* with the accepted talks and we will have 10 minutes for online Q&A.
