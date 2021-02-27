@@ -9,64 +9,29 @@
   "content": [
     {
       "title": "Corporative",
-      "price": "$650",
+      "price": "Soon",
       "featured": true,
       "features": ["Exclusive Access to Business to Bussiness event"]
     },
     {
-      "title": "Tempranillo Conference General",
-      "price": "$300",
-      "features": ["Limited to 20 tickets"]
+      "title": "Conference General",
+      "price": "Soon",
+      "features": []
     },
     {
-      "title": "Early Bird Conference General",
-      "price": "$399",
-      "features": ["Discounted price"]
+      "title": "Conference Regional",
+      "price": "Soon",
+      "features": ["Only for attendees from Latin America"]
     },
     {
-      "title": "Regular Conference General",
-      "price": "$499",
-      "features": ["Regular price"]
+      "title": "Conference Local",
+      "price": "Soon",
+      "features": ["Only for attendees from Argentina"]
     },
     {
-      "title": "Tempranillo Conference Regional",
-      "price": "$200",
-      "features": ["Only for attendees from Latin America", "Limited to 20 tickets" ]
-    },
-    {
-      "title": "Early Bird Conference Regional",
-      "price": "$299",
-      "features": ["Only for attendees from Latin America", "Discounted price"]
-    },
-    {
-      "title": "Regular Conference Regional",
-      "price": "$349",
-      "features": ["Only for attendees from Latin America", "Regular price"]
-    },
-    {
-      "title": "Tempranillo Conference Local",
-      "price": "$100",
-      "features": ["Only for attendees from Argentina", "Limited to 20 tickets"]
-    },
-    {
-      "title": "Early Bird Conference Local",
-      "price": "$199",
-      "features": ["Only for attendees from Argentina", "Discounted price"]
-    },
-    {
-      "title": "Regular Conference Local",
-      "price": "$249",
-      "features": ["Only for attendees from Argentina", "Regular price"]
-    },
-    {
-      "title": "Early Bird Workshops",
-      "price": "$49",
-      "features": ["Discounted price"]
-    },
-    {
-      "title": "Regular Workshops",
-      "price": "$69",
-      "features": ["Regular price"]
+      "title": "Workshops",
+      "price": "Soon",
+      "features": []
     }
   ]
 }
