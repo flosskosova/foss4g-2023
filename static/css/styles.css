@@ -27,7 +27,7 @@ body {
 } */
 
 .main-header {
-  background: url("/images/people.png") center / cover no-repeat;
+  background: url("/images/people.webp") center / cover no-repeat;
 }
 
 .main-header h4 {
@@ -56,7 +56,7 @@ body {
 }
 
 section.buenos-aires {
-  background: url("/images/puente_fondo_normal.png") center / cover no-repeat;
+  background: url("/images/puente_fondo_normal.webp") center / cover no-repeat;
 }
 section.buenos-aires * {
   color: white;

@@ -3,7 +3,7 @@ title: "Geosolutions"
 draft: false
 ---
 
-{{< figure src="/images/sponsor/GeoSolutions.png" width="200px" >}}
+{{< figure src="/images/sponsor/GeoSolutions.webp" width="200px" >}}
 
 GeoSolutions (https://www.geosolutionsgroup.com/) is highly specialized in the processing and dissemination of raster and vector geospatial data with open source software according to the specifications created by Open Geospatial consortium (OGC) and the ISO Technical Committee 211 which provide the base building blocks for the INSPIRE regulations. Its team is composed by renowned international professionals with leading roles in some of the main open source products for the geospatial field like GeoServer, GeoNetwork, GeoNode and MapStore for which GeoSolutions provides professional support services.
 
