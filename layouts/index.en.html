@@ -22,10 +22,11 @@
       <div class="row">
         <div class="col-12">
           {{- with .Site.Params.description -}}
-          <h4 class="font-weight-bold text-center mb-5">{{ . | safeHTML }}</h4>
+          <h1 class="font-weight-bold text-center" style="color:white">{{ . | safeHTML }}</h1>
+          <h4 class="font-weight-bold text-center">Virtual Conference ONLINE</h4>
           {{- end -}}
           {{- with .Site.Params.dates -}}
-          <h4 class="font-weight-bold text-center mb-5">{{ . | safeHTML }} - ONLINE</h4>
+          <h4 class="font-weight-bold text-center mb-5">{{ . | safeHTML }}</h4>
           {{- end -}}
         </div>
       </div>
@@ -60,7 +61,7 @@
     <div class="row">
       <div class="col-1 col-sm-2 col-lg-3"></div>
       <div class="col-10 col-sm-8 col-lg-6 ">
-        <h1 class="font-weight-normal text-center">FOSS4G starts in:</h1>
+        <h2 class="font-weight-normal text-center">FOSS4G starts in:</h2>
       </div>
       <div class="col-1 col-sm-2 col-lg-3"></div>
     </div>
