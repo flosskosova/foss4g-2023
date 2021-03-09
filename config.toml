@@ -9,6 +9,7 @@ footnoteReturnLinkContents = "^"
 DisqusShortname = ""
 theme = ["foss4g2021"]
 uglyurls = true
+enableRobotsTXT = true
 
 #Languages
 [languages.en]
