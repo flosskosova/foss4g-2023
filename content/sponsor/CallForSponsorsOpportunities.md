@@ -8,8 +8,6 @@ menu:
     weight: 5
 ---
 
-
-
 {{< rawhtml >}}
         <div class="col d-flex justify-content-center">
           <a style="btn btn-primary mb-3" href="/documents/sponsors_brochure.pdf">
@@ -20,15 +18,16 @@ menu:
         </div>
 {{< /rawhtml >}}
 
-Sponsors are the backbone of the conference. With their valuable support, the Local Organizing Committee can organize this great event that the entire geospatial community is waiting for.
+Sponsors are the backbone of the conference. With their valuable support, we can organize this great event that the entire geospatial community is waiting for. 
 
-We believe in inclusion and aspire to make FOSS4G 2021 accessible to the widest range of participants. The goal is to offer everyone a solid opportunity to learn, get inspired, inspire others, and enjoy the company of other geospatial enthusiasts.
+Any profits generated after this event will be reinvested into our FOSS ecosystem through OSGeo and its initiatives. By sponsoring FOSS4G 2021, you are extending your contribution to the free and open source geospatial community, a contribution that is essential to keeping this valuable community active.
 
-By sponsoring FOSS4G 2021, you are extending your contribution to the free and open source geospatial community, a contribution that is essential to keeping this valuable community active.
+## Conference profile
 
-### Conference profile
+FOSS4G is the best place to connect to other professionals and expand your possiblities. There will be social gatherings, session tracks, workshops, booth exhibition, and also several common spaces so attendees from all backgrounds can meet and connect. 
 
-Estimated attendance: 900-1200
+### Attendees
+
 - Developers and Users of GeoSpatial Software
 - Technical Leaders
 - Private Companies
@@ -36,8 +35,6 @@ Estimated attendance: 900-1200
 - Teachers and Education Professionals
 - Scientific Communities and Researchers
   
-There will be tracks that focus on each of those profiles, and also several common spaces so attendees from all backgrounds can meet and connect. FOSS4G is the best place to connect to other professionals and expand your possiblities. 
-
 ### Topics
 
 The conference will cover all kind of topics:
@@ -48,7 +45,9 @@ The conference will cover all kind of topics:
  * Education and research
  * Open data
 
-On this event you will find talks covering
+#### What to expect
+
+On this event you will find talks covering:
 
  * Software status, new software/project development, benchmarking
  * FOSS4G implementations in strategic application domains: land management, crisis/disaster response, smart cities, population mapping, climate change, ocean and marine monitoring, etc.
@@ -63,7 +62,7 @@ On this event you will find talks covering
  * FOSS4G in education
  * Business products powered by FOSS4G
   
-### More information
+## More information
   
 You can download our [Sponsorship Brochure](/documents/sponsors_brochure.pdf).
 

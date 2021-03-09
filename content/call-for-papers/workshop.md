@@ -19,20 +19,19 @@ menu:
         </div>
 {{< /rawhtml >}}
 
+Workshops are hands-on sessions in which attendants have the chance to learn a specific FOSS4G software package through problem solving.
 
-Workshops should showcase current and emerging FOSS4G technologies, foster skills development and provide a direct interaction between
-our highly proficient OSGeo community and the public who wants to acquire new competences. Workshops are hands-on sessions in which attendants have the chance to learn a specific FOSS4G software package through problem solving.
+Workshops should showcase current and emerging FOSS4G technologies, foster skills development and provide a direct interaction between our highly proficient OSGeo community and the public who wants to acquire new competences. 
 
 Each workshop will take 4 hours. 
 
-When submitting a workshop, use the abstract to make the scope and the contents clear. If possible, include the list of topics you want to cover and links to data and tutorials that will be used. 
+## Submitting a Workshop
 
-You will be asked to indicate the level: 
-from 1 – beginner to 4 – highly advanced and the minimal knowledge that the atendees should have.
+When submitting a workshop, use the abstract to make the scope and the contents clear. It is in both you and your attendees interest to make sure your goals are well defined. If possible, include the list of topics you want to cover and links to data and tutorials that will be used so attendees can familiarize with the topic. 
 
-## Selection process
+You will be asked to indicate the level (from beginner to highly advanced), and the required knowledge that the atendees should have.
 
-The timeline for workshops is as follows:
+### Timeline
 
 | Close call for workshops | Accepted workshops announced | Full FOSS4G 2021 program |
 |---------------|-------------|-------------|

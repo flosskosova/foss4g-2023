@@ -35,5 +35,7 @@ Geolibres Asociación Civil es la entidad sin fines de lucro que tiene entre sus
 
 ## Nuestra visión
 El mundo está viviendo un momento difícil y es fundamental el papel del software libre para el desarrollo de las actividades. Desde una simple y afectuosa comunicación familiar hasta conferencias en línea, o el desarrollo de nuevas plataformas para la educación y las geociencias, el software libre hoy es protagonista de lo que al mundo le sucede.
+
 La realización de la FOSS4G con foco en la Ciudad de Buenos Aires marca sin dudas un hito en el calendario de las conferencias internacionales. La ciudad es un referente cultural en la región, convirtiéndola en una gran oportunidad para el acercamiento de las comunidades de software libre de América del Sur. Este acercamiento ayudará a fortalecer los lazos entre las comunidades propiciando el intercambio de experiencias.
+
 Luego de atravesar una pandemia la forma de trabajo, de comunicarnos y relacionarnos ha cambiado a nivel mundial, y el software libre ha jugado un papel fundamental en el desarrollo de las actividades humanas. El reencuentro entre quienes participan de las diferentes comunidades fortalecerá aún más el crecimiento del software libre, potenciando, mejorando y desarrollando nuevas capacidades.
