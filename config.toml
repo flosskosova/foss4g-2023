@@ -70,7 +70,7 @@ author = "authors"
   showLanguageSwitcher = true
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
-  customCSS = ["styles.css", "iconos_geochicas.css"]
+  customCSS = []
   customJS = []
 
   [params.social]

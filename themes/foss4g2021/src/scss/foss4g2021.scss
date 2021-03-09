@@ -133,3 +133,272 @@ footer a:not(.icons) {
   max-height: 50px;
   width: 50px;
 }
+
+body {
+  font-family: "Open Sans", sans-serif !important;
+}
+
+.homepage {
+  color: black;
+}
+
+.navbar-brand {
+  font-size: 1.2rem;
+}
+
+.nav-item:nth-last-child(-n + 2) .dropdown-menu {
+  right: 0;
+  left: auto;
+}
+
+.homepage-image img {
+  width: 100%;
+}
+/* .homepage-image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+} */
+
+.main-header {
+  background: url("/images/people.webp") center / cover no-repeat;
+}
+
+.main-header h4 {
+  color: white;
+}
+
+.main-header button {
+  color: black;
+  font-size: 1.2rem;
+  /* border-radius: 2rem; */
+}
+
+/* .main-title {
+  position: relative;
+  top: 0;
+  left: 0;
+} */
+
+/* .main-title img {
+  width: 75%;
+} */
+
+#learn-more-btn {
+  width: 20rem;
+  border: 2px solid #ed7e22;
+}
+
+section.buenos-aires {
+  background: url("/images/puente_fondo_normal.webp") center / cover no-repeat;
+}
+section.buenos-aires * {
+  color: white;
+  /* font-weight: bold; */
+}
+
+section.buenos-aires .btn {
+  color: black;
+  font-weight: normal;
+}
+
+.dot {
+  height: 20px;
+  width: 20px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.bg-orange {
+  background: #ed7e22;
+}
+.bg-yellow {
+  background: #aac938;
+}
+.bg-violet {
+  background: #6a4da0;
+}
+.bg-lightblue {
+  background: #40bbc7;
+}
+
+footer.footer {
+  color: white;
+  background-color: white !important;
+  background: url("/images/circulos.png") center no-repeat;
+}
+
+.obscured {
+  position: relative;
+}
+.obscured::before {
+  position: absolute; /* maximize the pseudo-element */
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6); /* use background-image here */
+  content: " "; /* it needs actual content, an empty space is enough */
+}
+
+/* hero area */
+.hero-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-area .counter .dash {
+  display: flex;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+  border: 2px solid #ed7e22;
+}
+
+.hero-area .counter ul {
+  padding: 0;
+}
+
+.hero-area .counter ul li {
+  line-height: 1 !important;
+
+  display: inline-block;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+.hero-area .counter ul li span {
+  display: inline-block;
+  font-size: 2.5rem;
+  padding-left: 0.3rem;
+}
+
+.hero-area .counter ul li .digit {
+  display: inline-block;
+  position: relative;
+  height: 2.5rem;
+  overflow: hidden;
+  font-size: 2.5rem;
+}
+
+@media only screen and (max-width: 400px) {
+  .hero-area .counter ul li * {
+    font-size: 1.5rem !important;
+  }
+}
+
+.pricing span,
+.pricing div {
+  display: block;
+}
+
+.pricing .btn {
+  text-decoration: none;
+}
+
+.pricing .body {
+  display: none;
+}
+
+@media only screen and (min-width: 400px) {
+  .pricing .title {
+    min-height: 5rem;
+  }
+}
+
+/* ===================================
+   SPEAKER
+   =================================== */
+.speakers-list {
+  list-style: none;
+}
+.speakers-item {
+  position: relative;
+  min-height: 180px;
+  padding-left: 180px;
+  margin-bottom: 30px;
+  border-bottom: 1px dashed #e7e7e7;
+}
+.speaker-photo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 120px;
+  height: 120px;
+}
+.speakers-item .photo {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  background-image: url(http://lorempixel.com/g/400/200/);
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.speech-title {
+  padding-top: 10px;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+.speech-time {
+  font-size: 18px;
+  padding: 10px 15px;
+  letter-spacing: -0.03em;
+}
+
+/* *{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+} */
+
+:root{
+	--twitter: #55acee;
+	--youtube: #bd081c;
+}
+
+/* .redes-container{
+	display: flex;
+	height: 100vh;
+} */
+
+.redes-container ul li{
+	display: inline-block;
+	margin: 0 5px;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+}
+
+.redes-container ul li a{
+	display: block;
+	padding: 0 10px;
+	background: #333;
+	color: #fff;
+	line-height: 50px;
+	font-size: 25px;
+	box-shadow: 0 3px 5px 0px rgba(0, 0, 0, .2);
+	transition: 2s;
+}
+
+.redes-container ul:hover a{
+	filter: blur(2px);
+}
+
+.redes-container ul li a:hover{
+	transform: translateY(-3px) scale(1.05);
+	box-shadow:0 5px 5px 0px rgba(0 ,0 ,0 , .4);
+	filter:none;
+}
+
+.redes-container ul li .twitter:hover{
+	background: var(--twitter);
+}
+
+.redes-container ul li .youtube:hover{
+	background: var(--youtube);
+}
