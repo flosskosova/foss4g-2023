@@ -13,6 +13,7 @@ test:
 pages:
   script:
   - hugo
+  - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\)$' -exec gzip -f -k {} \;
   artifacts:
     paths:
     - public
