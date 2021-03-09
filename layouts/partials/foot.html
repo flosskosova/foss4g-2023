@@ -1,7 +1,7 @@
 {{ with index .Site.Data "chunky-poster" }}
     {{ range $vendor := .assets }}
         {{ if $vendor.js }}
-            <script src="{{ print "dist/" $vendor.js ".gz" | relURL }}" defer></script>
+            <script src="{{ print "dist/" $vendor.js | relURL }}" defer></script>
         {{ end }}
     {{ end }}
 {{ end }}
