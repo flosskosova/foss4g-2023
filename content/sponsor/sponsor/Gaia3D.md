@@ -12,6 +12,6 @@ Around 2004, the first major development output came from a GIS-related research
 
 Since 2007, Gaia3D has actively developed and promoted open source GIS projects in and around Korea. The company played a key role in founding OSGeo Korean Chapter and has contributed much to the Chapter’s activities since then. Gaia3D is now a regular sponsor of many OSGeo and FOSS4G events all around the world.
 
-Gaia3D recently focuses on the development of [mago3D](www.mago3d.net), an open source based digital twin platform and is now being involved in many digital twin projects in Korea.
+Gaia3D recently focuses on the development of [mago3D](https://www.mago3d.net), an open source based digital twin platform and is now being involved in many digital twin projects in Korea.
 
 [You can find more info on their webpage.](https://gaia3d.com/)
