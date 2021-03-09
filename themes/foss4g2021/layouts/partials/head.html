@@ -12,7 +12,7 @@
 {{- if .Description -}}
   <meta name="description" content="{{ .Description }}">
 {{- else if .Site.Params.description -}}
-  <meta name="description" content="{{ .Site.Params.description }} The 2021 GeoSpatial Conference for FOSS technologies. The biggest even on location and open data.">
+  <meta name="description" content="{{ .Site.Params.description }} The 2021 GeoSpatial Conference for FOSS technologies. The international tech event on location and open data.">
 {{- end -}}
 
 <meta name="author" content="{{ if .Params.authors }}{{ delimit .Params.authors ", " }}{{ else }}{{ .Site.Params.author }}{{ end }}">
