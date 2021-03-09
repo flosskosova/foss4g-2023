@@ -1,5 +1,6 @@
 ---
 title: "Full Schedule"
+description: "Full Schedule of the FOSS4G."
 draft: true
 menu:
   main:

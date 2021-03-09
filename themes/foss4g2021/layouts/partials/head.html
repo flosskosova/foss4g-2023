@@ -12,10 +12,12 @@
 {{- if .Description -}}
   <meta name="description" content="{{ .Description }}">
 {{- else if .Site.Params.description -}}
-  <meta name="description" content="{{ .Site.Params.description }}">
+  <meta name="description" content="{{ .Site.Params.description }} The 2021 GeoSpatial Conference for FOSS technologies. The biggest even on location and open data.">
 {{- end -}}
 
 <meta name="author" content="{{ if .Params.authors }}{{ delimit .Params.authors ", " }}{{ else }}{{ .Site.Params.author }}{{ end }}">
+
+<meta name="robots" content="index, follow">
 
 <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}" sizes="180x180">
 <link rel="icon" href="{{ "favicon-32x32.png" | relURL }} " sizes="32x32" type="image/png">
@@ -53,3 +55,5 @@
 {{- template "_internal/opengraph.html" . -}}
 {{- template "_internal/schema.html" . -}}
 {{- template "_internal/twitter_cards.html" . -}}
+{{- template "_internal/google_news.html" . -}}
+

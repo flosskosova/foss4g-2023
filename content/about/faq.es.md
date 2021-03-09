@@ -1,5 +1,6 @@
 ---
 title: "Frecuently Asked Questions"
+description: "Frequently Asked Questions about the Location event in 2021"
 author: "FOSS4G 2021"
 draft: false
 menu:

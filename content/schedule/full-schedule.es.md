@@ -1,5 +1,6 @@
 ---
 title: "Programa completo"
+description: "Full schedule of the FOSS4G"
 draft: true
 menu:
   main:

@@ -1,5 +1,6 @@
 ---
-title: "Geochicas take Buenos Aires"
+title: "Geochicas take Buenos Aires - ONLINE"
+description: "GeoChicas OSM event in FOSS4G, the canonical geospatial conference in 2021."
 draft: false
 menu:
   main:

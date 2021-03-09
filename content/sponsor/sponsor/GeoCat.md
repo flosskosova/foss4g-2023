@@ -1,5 +1,6 @@
 ---
 title: "GeoCat"
+description: "GeoCat sponsoring FOSS4G"
 draft: false
 ---
 

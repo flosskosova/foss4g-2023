@@ -1,6 +1,6 @@
 ---
 title: "Sobre nosotros"
-description: "The Geospatial Conference of 2021"
+description: "Sobre los organizadores del mayor evento geospacial de 2021"
 author: "FOSS4G 2021"
 draft: false
 

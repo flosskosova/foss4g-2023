@@ -1,5 +1,6 @@
 ---
 title: "Cancellation Policy"
+description: "Cancellation Policy for the online event FOSS4G."
 draft: false
 menu:
   main:

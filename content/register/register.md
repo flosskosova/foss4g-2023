@@ -1,5 +1,6 @@
 ---
 title: "Buy a ticket"
+description: "Registration to the geospatial international conference."
 date: 2020-04-26T13:41:15+02:00
 draft: false
 menu:

@@ -1,5 +1,6 @@
 ---
 title: "Terrestris"
+description: "Terrestris sponsoring FOSS4G"
 draft: false
 ---
 

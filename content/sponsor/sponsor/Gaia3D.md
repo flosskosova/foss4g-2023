@@ -1,5 +1,6 @@
 ---
 title: "Gaia3D"
+description: "Sponsor Gaia3D"
 draft: false
 ---
 

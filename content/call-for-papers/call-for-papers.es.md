@@ -1,6 +1,6 @@
 ---
 title: "Call for Presentations"
-description: "Call for Presentations"
+description: "Call for Presentations for FOSS4G Location Event"
 author: "FOSS4G 2021"
 draft: false
 

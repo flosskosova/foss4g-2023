@@ -1,5 +1,6 @@
 ---
 title: "Oportunidades de patrocinio"
+description: "Call for Sponsors on the biggest location software event"
 draft: false
 menu:
   main:

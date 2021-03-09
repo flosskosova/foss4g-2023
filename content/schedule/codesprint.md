@@ -1,5 +1,6 @@
 ---
 title: "Codesprint"
+description: "Free and open source software developers showcasing their technical skills on the FOSS4G. The GeoSpatial event of 2021."
 draft: false
 menu:
   main:

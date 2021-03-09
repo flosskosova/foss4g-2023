@@ -35,7 +35,7 @@ languageName = "English"
 weight = 10
 languageName = "Spanish"
   [languages.es.params]
-    author = "Comité de organización de Buenos Aires"
+    author = "OSGeo y GeoLibres"
     description = "Contra viento y marea, FOSS4G"
     dates = "27 de Septiembre a 2 de Octubre de​ 2021"
 
@@ -62,7 +62,7 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Buenos Aires Local Organization Committee"
+  author = "OSGeo and GeoLibres"
   description = "Come hell or high water, FOSS4G"
   dates = "September 27​th​ to October 2​nd​ 2021"
   homepageImage = "/images/people.webp"

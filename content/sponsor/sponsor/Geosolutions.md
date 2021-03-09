@@ -1,5 +1,6 @@
 ---
 title: "Geosolutions"
+description: "GeoSolutions sponsoring FOSS4G"
 draft: false
 ---
 

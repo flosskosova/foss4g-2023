@@ -1,5 +1,6 @@
 ---
 title: "Call For Sponsors Opportunities"
+description: "Call for Sponsors for the biggest international geospatial worldwide conference called FOSS4G"
 draft: false
 menu:
   main:

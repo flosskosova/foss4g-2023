@@ -1,5 +1,6 @@
 ---
 title: "Código de Conducta"
+description: "Código de Conducta para la conferencia GeoEspacial FOSS4G."
 author: "FOSS4G 2021"
 draft: false
 menu:

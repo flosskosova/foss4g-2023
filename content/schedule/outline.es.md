@@ -1,5 +1,6 @@
 ---
 title: "Esquema de actividades"
+description: "Esquema de actividades para la FOSS4G"
 draft: false
 menu:
   main:

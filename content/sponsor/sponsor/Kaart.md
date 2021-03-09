@@ -1,5 +1,6 @@
 ---
 title: "Kaart"
+description: "Kaart sponsoring FOSS4G"
 draft: false
 ---
 

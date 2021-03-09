@@ -1,6 +1,6 @@
 ---
 title: "Convocatoria a ponencias académicas"
-description: "Academic Call for Papers"
+description: "Academic Call for Papers for FOSS4G Location Event"
 author: "FOSS4G 2021"
 draft: false
 

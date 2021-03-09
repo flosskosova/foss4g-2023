@@ -1,5 +1,6 @@
 ---
 title: "Codesprint"
+description: "GeoChicas OSM evento en FOSS4G, the most relevant geospatial conference in 2021."
 draft: false
 menu:
   main:

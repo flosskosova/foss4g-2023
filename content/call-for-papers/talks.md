@@ -1,5 +1,6 @@
 ---
 title: "Talks"
+description: "Call for Papers 2021 for the general track in the OSGeo Location FOSS event"
 draft: false
 
 menu:

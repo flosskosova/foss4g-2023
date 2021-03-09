@@ -1,5 +1,6 @@
 ---
 title: "Outline"
+description: "Outline of activities for the FOSS4G."
 draft: false
 menu:
   main:

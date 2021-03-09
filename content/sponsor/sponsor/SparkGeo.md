@@ -1,5 +1,6 @@
 ---
 title: "SparkGeo"
+description: "SparkGeo sponsoring FOSS4G"
 draft: false
 ---
 

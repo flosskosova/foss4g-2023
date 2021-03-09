@@ -1,6 +1,6 @@
 ---
 title: "Code of Conduct"
-author: "FOSS4G 2021"
+author: "Code of Conduct for the Geospatial Conference FOSS4G 2021"
 draft: false
 menu:
   main:

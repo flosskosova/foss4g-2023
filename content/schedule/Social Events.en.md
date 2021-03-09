@@ -1,5 +1,6 @@
 ---
-title: "Social Events"
+title: "Social Events - ONLINE"
+description: "Social events to mingle with other location and geospatial attendees."
 draft: false
 menu:
   main:

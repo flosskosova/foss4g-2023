@@ -1,5 +1,6 @@
 ---
 title: "Workshops"
+description: "Call for Papers 2021 for the workshop track in the OSGeo geospatial FOSS event"
 draft: false
 
 menu:

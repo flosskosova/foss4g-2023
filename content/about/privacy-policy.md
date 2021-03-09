@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "The Geospatial Conference of 2021"
+description: "Privacy Policy of the Geospatial Conference FOSS4G 2021 organized by OSGeo"
 author: "FOSS4G 2021"
 draft: false
 

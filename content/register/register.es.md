@@ -1,5 +1,6 @@
 ---
 title: "Comprá tu entrada"
+description: "Registration and ticket sales of the geospatial world conference."
 date: 2020-04-26T13:41:15+02:00
 draft: false
 menu:

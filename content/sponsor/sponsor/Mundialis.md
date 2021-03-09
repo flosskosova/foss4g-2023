@@ -1,5 +1,6 @@
 ---
 title: "Mundialis"
+description: "Mundialis sponsoring FOSS4G"
 draft: false
 ---
 
