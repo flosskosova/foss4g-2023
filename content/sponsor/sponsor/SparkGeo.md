@@ -10,4 +10,4 @@ Sparkgeo started over a decade ago to “put maps on the internet”. Largely, w
 
 Social media handles: @sparkgeo (Twitter & Facebook)
 
-[You can find more info on their webpage.](www.sparkgeo.com)
+[You can find more info on their webpage.](https://www.sparkgeo.com)
