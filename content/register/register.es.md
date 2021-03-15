@@ -13,8 +13,8 @@ menu:
 
 {{< pricing >}}
 
-You can check our [Frequently Asked Questions about registration](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/).
+Puede visitar [Preguntas Frecuentes sobre registración - FAQ](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/).
 
-- **Local Price Fee**: this ticket is for people who live in Argentina only, it requires a Passport or ID for the registration.
+- **Precio Nacional**: Estas entradas son para personas que viven en Argentina solamente, se requiere Pasaporte o Documento de Identificación para la registración.
 
-- **Regional Price Fee**: this ticket is for people who live in Latin America, it requires a Passport or ID for the registration.
+- **Precio Regional**: Estas entradas son para personas que viven en Latino América,  se requiere Pasaporte o Documento de Identificación para la registración..
