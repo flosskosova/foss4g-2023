@@ -1,6 +1,6 @@
 ---
 title: "Política de Privacidad"
-description: "The Geospatial Conference of 2021"
+description: "Sepa a la hora de participar de la FOSS, que esta conferencia internacional, tendrá los datos personales protegidos bajo la ley de la República Argentina, la cual es compatible con la Unión Europea."
 author: "FOSS4G 2021"
 draft: false
 
