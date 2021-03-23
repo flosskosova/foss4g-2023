@@ -1,6 +1,6 @@
 ---
 title: "Sobre nosotros"
-description: "Sobre los organizadores del mayor evento geospacial de 2021"
+description: "FOSS4G es la conferencia internacional de Software Libre y de Código Abierto Geoespacial de OSGeo. Su edición 2021 se presenta como un evento online desde la Ciudad de Buenos Aires Argentina, 6 días en los que no conocerás colegas, sino que harás amigos los cuales comparten los mismos intereses."
 author: "FOSS4G 2021"
 draft: false
 
