@@ -1,6 +1,6 @@
 ---
 title: "Oradores principales"
-description: "Ponentes relevantes de la FOSS4G, el mayor encuentro de desarrolladores, usuarios y empresas de tecnologías geoespaciales de 2021."
+description: "Los ponentes relevantes que no te podes perder y dejar de escuchar se encuentran en la conferencia FOSS4G, el evento internacional de software libre. Gracias a lo cual te enteraras de los últimos trabajos GeoEspaciales."
 draft: false
 menu:
   main:
