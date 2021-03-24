@@ -1,6 +1,6 @@
 ---
 title: "Esquema de actividades"
-description: "Esquema de actividades para la FOSS4G"
+description: "Mantente informado de todas las conferencias, talleres y actividades de la FOSS4G, el mayor evento internacional de información GeoEspacial y software libre."
 draft: false
 menu:
   main:
