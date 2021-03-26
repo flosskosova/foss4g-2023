@@ -1,6 +1,6 @@
 ---
 title: "Eventos Sociales - ONLINE"
-description: "Eventos sociales donde los asistentes de la FOSS4G podrán conocer a otros contribuyentes al ecosistema geolibre"
+description: "La conferencia internacional FOSS4G en la edición 2021 se realizara en formato de evento online, esto no impedirá el desarrollo de los eventos sociales que tanto disfrutamos conociendo amigos."
 draft: false
 menu:
   main:
