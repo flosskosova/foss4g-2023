@@ -1,6 +1,8 @@
 ---
 title: "Código de Conducta"
-description: "Código de Conducta para la conferencia GeoEspacial FOSS4G."
+description: "La FOSS4G cuenta con su código de conducta, para hacer de este evento online OSGeo un ambiente amigable, seguro y acogedor para todos/ as, sin importar género, orientación sexual, discapacidad, etnia, estado socio-económico, religión o creencia.
+No serán tolerados los comportamientos inaceptables de parte de cualquier miembro de la comunidad, incluidos patrocinadores y aquellos/as con autoridad para tomar decisiones. Se espera de todos/as los/as miembros el inmediato cumplimiento al solicitársele suspender comportamientos inaceptables.
+Invitamos a todos/as los/as participantes de la FOSS y nuestros eventos a tener esto presente con el fin de ayudarnos a crear experiencias seguras y positivas, esperando que la conferencia sea del agrado de todos/as los/as participantes."
 author: "FOSS4G 2021"
 draft: false
 menu:
