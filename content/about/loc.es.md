@@ -1,6 +1,7 @@
 ---
 title: "Comité Organizador Local"
-description: "Local Organizing Commitee of The Geospatial Conference of 2021"
+description: "Les presentamos al comité local que se encuentra trabajando en la FOSS, con el objetivo que esta conferencia GeoEspacial de software libre sea realizada de la mejor forma posible.
+¡El equipo les desea una excelente conferencia!"
 author: "FOSS4G 2021"
 draft: false
 type: loc
