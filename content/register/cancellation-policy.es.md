@@ -1,6 +1,6 @@
 ---
 title: "Política de cancelación"
-description: "Política de cancelación para el evento online FOSS4G."
+description: "La política de cancelación para el evento online FOSS4G, le brinda tranquilidad a la hora de anotarse a la conferencia internacional."
 draft: false
 menu:
   main:
