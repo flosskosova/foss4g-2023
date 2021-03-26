@@ -1,6 +1,6 @@
 ---
 title: "Geochicas toman Buenos Aires - ONLINE"
-description: "GeoChicas OSM event in FOSS4G, the biggest geospatial event of 2021."
+description: "GeoChicas OSM cuentan con su propio espacio, invitando a participar en el evento internacional GeoEspacial de software libre FOSS4G."
 draft: false
 menu:
   main:
