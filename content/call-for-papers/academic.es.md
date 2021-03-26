@@ -1,6 +1,6 @@
 ---
 title: "Convocatoria a ponencias académicas"
-description: "Academic Call for Papers for FOSS4G Location Event"
+description: "La FOSS4G los invita a presentar investigaciones y artículos vinculados al software geoespacial,  ciencia GIS, datos geoespaciales, sistemas de intercambio de datos espaciales, educación geoespacial, mapeo participativo. Detallamos las fechas y procedimiento para presentar sus propuestas."
 author: "FOSS4G 2021"
 draft: false
 
