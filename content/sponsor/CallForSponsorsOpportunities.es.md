@@ -1,6 +1,6 @@
 ---
 title: "Oportunidades de patrocinio"
-description: "Call for Sponsors on the biggest location software event"
+description: "La FOSS4G es un evento internacional que se logra gracias a la colaboración de los patrocinadores, la conferencia contara con una variada cantidad de charlas que cubren un amplio número de temas y espacios comunes para socializar sobre los temas de nuestro interés."
 draft: false
 menu:
   main:
