@@ -9,23 +9,23 @@
   "content": [
     {
       "title": "Corporative",
-      "price": "Soon",
+      "price": "USD$ 250",
       "featured": true,
       "features": ["Exclusive Access to Business to Bussiness event"]
     },
     {
       "title": "Conference General",
-      "price": "Soon",
+      "price": "USD$ 100",
       "features": []
     },
     {
       "title": "Conference Regional",
-      "price": "Soon",
+      "price": "USD$ 70",
       "features": ["Only for attendees from Latin America"]
     },
     {
       "title": "Conference Local",
-      "price": "Soon",
+      "price": "USD$ 50",
       "features": ["Only for attendees from Argentina"]
     },
     {
