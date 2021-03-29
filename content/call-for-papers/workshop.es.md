@@ -37,4 +37,4 @@ You will be asked to indicate the level (from beginner to highly advanced), and 
 
 | Close call for workshops | Accepted workshops announced | Full FOSS4G 2021 program |
 |---------------|-------------|-------------|
-| 30/03/2021 | 30/04/2021 | 10/05/2021 |
+| 19/04/2021 | 30/05/2021 | 30/06/2021 |

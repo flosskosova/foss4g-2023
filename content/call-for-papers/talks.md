@@ -72,7 +72,7 @@ Furthermore, you are encouraged to give indication of resources (video, papers, 
 
 |Close call for talks | Community voting opens | Community voting closes | Accepted talks announced	| Full FOSS4G 2021 program |
 |--------------|---------------|---------------|-------------|-------------|
-| 30/03/2021 |  03/04/2021 | 10/04/2021 | 30/04/2021 | 10/05/2021 |
+| 19/04/2021 |  24/04/2021 | 15/05/2021 | 30/05/2021 | 30/06/2021 |
 
 FOSS4G is the international geospatial community’s event, thus the main selection of talks will be done through the *open community voting* process. The highest-scored talks will automatically be included in the program, while others will be reviewed by the FOSS4G 2021 Buenos Aires volunteer Program Committee.
 
