@@ -36,6 +36,10 @@ Also, the extra effort in work and budget required to properly host a hybrid eve
 
 ### Registration
 
+#### I am presenting a workshop/talk, do I have to register?
+
+All main speakers will receive a free ticket. If you are co-presenting with more people, only the main speaker will receive the free ticket.
+
 #### How do I sign up to attend the Conference?
 
 Registrations and ticket purchases will be made through an online system. For more information visit our [Register]({{< ref "/register/register.md">}}) section.
