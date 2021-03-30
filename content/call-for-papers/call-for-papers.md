@@ -41,11 +41,6 @@ You can submit three types of proposals to the Call for Papers:
 * [Academic papers](/call-for-papers/academic.html)
 
 
-## Timeline
-
-![Timeline](/images/timeline.png)
-
-
 ## What to contribute
 
 The global FOSS4G is the flagship event of OSGeo and one of the most important global geospatial events of the year. While the focus of the conference revolts around open source software, it is a meeting point where knowledge and experiences are shared, new tools are learned and new relationships are established.
