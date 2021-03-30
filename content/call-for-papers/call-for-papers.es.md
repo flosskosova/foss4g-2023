@@ -57,4 +57,4 @@ The OSGeo community is characterized for its dynamic way of growing and we are p
 
 We believe in equality, so all presenters have the same exact amount of time to present their work. Please consider that when preparing your slides and be mindful about the time.
 
-And last, but not least, the success of this event lies in the responsable actions of all participants and organizers alike. If after you have confirmed participation, you or the co-authors are no longer able to present, please let us know as s
+And last, but not least, the success of this event lies in the responsable actions of all participants and organizers alike. If after you have confirmed participation, you or the co-authors are no longer able to present, please let us know as as possible.
