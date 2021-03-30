@@ -9,6 +9,15 @@ menu:
 weight: 2
 ---
 
-***Esta es una versión de cortesía del original en inglés. Parte de la información puede no estar actualizada. Consulta siempre la versión en inglés para comprobar la última información.***
-
-### **¡¡Muy pronto novedades!!_**
+{{< rawhtml >}}
+<script type="text/javascript" src="https://callforpapers.2021.foss4g.org/foss4g2021/schedule/widget/v2.en.js"></script>
+<pretalx-schedule event-url="https://callforpapers.2021.foss4g.org/foss4g2021/" locale="en" format="list" style="--pretalx-clr-primary: #ED7E22"></pretalx-schedule>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://callforpapers.2021.foss4g.org/foss4g2021/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
+{{< /rawhtml >}}
