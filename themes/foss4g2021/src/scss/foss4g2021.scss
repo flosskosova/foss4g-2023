@@ -402,3 +402,45 @@ footer.footer {
 .redes-container ul li .youtube:hover{
 	background: var(--youtube);
 }
+
+/** Keynoters **/
+
+.keynoter {
+  float:left;
+  padding-right:5%;
+  padding-bottom:5%;
+}
+
+.keynote-background {
+  width:20vw;
+  height:20vw;
+  background-repeat:no-repeat;
+  background-size:cover;
+  position:absolute;
+}
+
+.keynoter-name {
+  color:white;
+  text-decoration:none;
+  text-shadow: 1px 1px 2px black; 
+}
+
+.keynoter-description {
+  text-shadow: 2px 2px 3px white; 
+  position:absolute; 
+  margin:auto;
+  padding:5%;
+}
+
+.hover-content {
+  display:none;
+}
+
+.keynoter:hover .keynote-background {
+  filter:grayscale(70%);
+  opacity: 0.4;
+}
+ 
+.hover-me:hover .hover-content {
+  display:block;
+}

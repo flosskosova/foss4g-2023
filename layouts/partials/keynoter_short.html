@@ -1,0 +1,42 @@
+<div class="keynoter">
+  <a href="{{ .Link }}" target="_blank" title="{{ .Name }}">
+    
+    <div class="keynote-background" style="background-image: url(/images/keynote/{{ .Photo }});">
+    </div>
+  
+    <div class="hover-me" style="width:20vw;height:20vw;position:relative">
+      <p class="hover-content keynoter-description">{{ .Short}}</p>
+      <h2 style="bottom:2em;position:absolute">
+        <a class="keynoter-name" href="{{ .Link }}" target="_blank" title="{{ .Name }}">
+        {{ .Name }}
+        </a>
+      </h2>
+      <ul style="bottom:0;position:absolute">  
+        <li class="list-inline-item">
+          <a href="{{ .Web }}" target="_blank" class="icons d-block">
+              <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="https://twitter.com/{{ .Twitter }}" target="_blank" class="icons d-block">
+              <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="{{ .LinkedIn }}" target="_blank" class="icons d-block">
+              <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </a>
+</div>

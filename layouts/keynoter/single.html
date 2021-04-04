@@ -1,0 +1,55 @@
+{{ define "main" }}
+<main class="content-page container pt-7 pb-5">
+  <div class="row">
+    <div class="col">
+      <article>
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+              {{ $title := .Title}}
+              {{ range .Site.Data.keynote }}
+                {{ if eq .Name $title}} 
+                  <h1>Our Keynoter: {{ .Name}}</h1>
+                  <div class="content">
+                    <img style="float:left;padding:1%" src="/images/keynote/{{ .Photo }}" height="200px" width="200px"/>
+                    <p>{{ .Longer}}</p>
+                    {{ if not (eq .Talk nil) }}
+                      <h2>{{ .Talk}}</h2>
+                      <p>{{ .Abstract}} </p>
+                    {{ end}}
+                    <h2>Where to find {{ .Name}} </h2>
+                    <ul>  
+                      <li class="list-inline-item">
+                        <a href="{{ .Web }}" target="_blank" class="icons d-block">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a href="https://twitter.com/{{ .Twitter }}" target="_blank" class="icons d-block">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                      </li>
+                      <li class="list-inline-item">
+                        <a href="{{ .LinkedIn }}" target="_blank" class="icons d-block">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                      </li>
+                    </ul>
+                  </DIV>
+                {{ end }}
+              {{ end }}
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</main>
+{{ end }}
