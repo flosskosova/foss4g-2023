@@ -1,5 +1,5 @@
 ---
-title: "Geochicas toman Buenos Aires - ONLINE"
+title: "Geochicas toman Buenos Aires"
 description: "GeoChicas OSM cuentan con su propio espacio, invitando a participar en el evento internacional GeoEspacial de software libre FOSS4G."
 draft: false
 menu:
