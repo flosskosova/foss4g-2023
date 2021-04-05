@@ -12,15 +12,7 @@ menu:
 
 ##  (co-organized by ISPRS and OSGeo)
 
-{{< rawhtml >}}
-        <div class="col d-flex justify-content-center">
-          <a style="btn btn-primary mb-3" href="https://callforpapers.2021.foss4g.org/foss4g-2021-academic/cfp">
-            <button type="button" name="button" class="btn btn-primary rounded-pill px-5 py-2 mb-5">
-              Submit your presentation now!
-            </button>
-          </a>
-        </div>
-{{< /rawhtml >}}
+**Call for Papers closed**
 
 ## Deadlines
 
