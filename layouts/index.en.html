@@ -115,6 +115,35 @@
       </div>
     </div>
   </section>
+  
+  
+{{$partners := newScratch}}
+{{ $partners.Set "partner" false }}
+{{ range .Site.Data.sponsor }}
+	{{ if eq .Level "Partner"}}
+  	{{ $partners.Set "partner" true }}
+  {{ end }}
+{{end}}
+
+{{ if $partners.Get "partner"}}
+	<section class="row sponsors">
+    <div class="container-fluid px-5">
+      <div class="row mb-4">
+        <h2 class="w-100 text-center">
+          PARTNERS
+        </h2>
+      </div>
+      
+      <div class="row text-center mb-5">
+        {{ range .Site.Data.sponsor }}
+				{{ if eq .Level "Partner"}}
+        	{{ partial "sponsor.html" .}}
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{end}}
 	<section class="row sponsors">
     <div class="container-fluid px-5">
       <div class="row mb-4">
