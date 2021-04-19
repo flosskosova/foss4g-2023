@@ -3,17 +3,15 @@
     <span class="speaker-photo">
       <div
         class="photo"
-        style="background-image: url(/images/{{ .Photo }});"
-        alt="{{ .Name }}"
-        title="{{ .Name}}"
+        style="background-image: url(/images/{{ .Photo }}{{ .photo }});"
+        alt="{{ .Name }}{{ .name }}"
+        title="{{ .Name}}{{ .name }}"
       ></div>
     </span>
 
-    <h4 class="speakers-name">
-      <!-- <a href="{{ .Link }}" target="_blank" title="{{ .Name }}"> -->
-      {{ .Name }}
-      <!-- </a> -->
+    <h4 class="speakers-name" id="{{.photo}}">
+      {{ .Name }}{{ .name }}
     </h4>
-    <p class="speakers-bio">{{ .Description }}</p>
+    <p class="speakers-bio">{{ .Description }}{{ .description }}</p>
   </li>
 </ul>

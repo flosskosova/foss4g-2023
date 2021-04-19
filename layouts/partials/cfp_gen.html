@@ -1,0 +1,7 @@
+<h2 class="mb-5">Reviewers General Call For Papers</h2>
+
+{{ range sort .Site.Data.people "name" }}
+  {{ if eq .type "cfp_reviewer" }}
+    {{ partial "bio.html" .}}
+  {{ end }}
+{{ end }}

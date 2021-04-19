@@ -1,6 +1,6 @@
 <h2 class="mb-5">Local Organizing Comittee Volunteers</h2>
 
-{{ range .Site.Data.people }}
+{{ range sort .Site.Data.people ".Name" }}
   {{ if eq .Type "loc_vol"}}
     {{ partial "bio.html" .}}
   {{ end }}
