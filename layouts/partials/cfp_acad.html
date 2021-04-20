@@ -1,7 +1,13 @@
-<h2 class="mb-5">Academic Call For Papers</h2>
+<h2 class="mb-5">Academic Call For Papers Team</h2>
 
 {{ range .Site.Data.people }}
   {{ if eq .Type "cfp_acad" }}
+    {{ partial "bio.html" .}}
+  {{ end }}
+{{ end }}
+
+{{ range .Site.Data.people }}
+  {{ if eq .type "cfp_acad_reviewer" }}
     {{ partial "bio.html" .}}
   {{ end }}
 {{ end }}
