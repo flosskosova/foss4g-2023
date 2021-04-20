@@ -6,8 +6,6 @@ draft: true
 
 ## The Software Stack
 
-
-
 ### Venueless
 
 {{content/tutorials/venueless.md}} 
@@ -27,7 +25,7 @@ You should contact all the speakers in your session **before the 1st of August**
  * **When** their talk is going to take place. 
      - Make sure timezones are clear.
      - Let them know they should be there at least 20 minutes before their talk.
- * **Where** their talk is going to take place. They should have the link to connect.
+ * **Where** their talk is going to take place. You have to provide them with the link to connect.
  * Test the platform to make sure everything works fine:
      - Microphone
      - Camera
@@ -41,7 +39,7 @@ You may want to send a calendar invitation with all the details just to make sur
 
 ## During the Event
 
-Speakers will log into *Venueless* and Moderators will log into both *Venueless* and *Streamyard*. 
+Speakers will log into *Streamyard* with the link you provide them and Moderators will log into both *Venueless* and *Streamyard*. 
 
 ### Strict schedule
 
