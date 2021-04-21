@@ -6,6 +6,24 @@ draft: false
 
 {{< figure src="/images/sponsor/GEO.png" width="500px" >}}
 
+The [Group on Earth Observations (GEO)](https://earthobservations.org/index.php) and the [Open Source Geospatial Foundation](https://www.osgeo.org) (OSGeo) are collaborating around their shared visions of openness. For GEO this means open data, open standards, and open science; for OSGeo this means free and open source software.
+
+As such, GEO is pleased to be a key supporter of the largest community gathering of the open source geospatial community, which will take place online as part of [FOSS4G 2021](https://foss4g.org) from 27 September to 2 October; the local organizing committee is based in Buenos Aires, Argentina. GEO is supporting FOSS4G with a 3-day dedicated track on “Open EO”. 
+
+FOSS4G is the flagship event of OSGeo and serves annually as the best scenario to discover the state of the art in Open Geospatial Technologies. With an annual international gathering, this conference brings together experts and users with interest in Open Geospatial.
+
+GEO represents more than 110 countries and the European Commission, working together to advocate, engage and deliver on the value and usefulness of open Earth observations data and information. It recognizes that the societal benefits of Earth observations can only be fully achieved through the sharing of data, information, knowledge, products and services. To achieve this, GEO operates an international work programme with more than 65 activities, many with more than 100 partners per activity. 
+
+These activities cut across agriculture, biodiversity, climate action, disaster risk reduction, forestry, freshwater, land, ocean, urbanisation and other key global areas of interest. Only by working together can we fully unlock the transformative insights of data and help address some of the world’s most pressing societal challenges.
+
+Gilberto Camara, the GEO Secretariat Director states:
+
+“As someone who has developed open source projects for decades I am very pleased that GEO is able to bring together our open Earth observation community together with the open source geospatial community during FOSS4G 2021. There are so many common areas for collaboration in academia, research, policy making and commerce. We are honored to be able to share our ideas and expertise with this community and learn from them as well.” 
+
+María Arias de Reyna, the co-chair of FOSS4G 2021 states:
+
+“The collaboration with GEO is a natural and organic relationship that merges the best of our worlds: our software needs good data sources to run and data needs good software to be useful. I am confident this is just another step forward in a beautiful friendship."
+
 ## What is GEO?
 The [Group on Earth Observations](https://earthobservations.org/index.php) (GEO) is a global intergovernmental partnership connecting government institutions, academic and research institutions, businesses, civil society, non-governmental organisations and other practitioners to create innovative Earth observation (EO) solutions to global environmental and societal challenges. The GEO community works collaboratively in the areas of climate action, disaster risk reduction, sustainable development and urban resilience.
  
