@@ -2,7 +2,7 @@
   <li class="speakers-item">
     <span class="speaker-photo">
       <div
-        class="photo"
+        class="photo {{ if .Dates }}deceased{{end}}"
         style="background-image: url(/images/{{ .Photo }}{{ .photo }});"
         alt="{{ .Name }}{{ .name }}"
         title="{{ .Name}}{{ .name }}"
@@ -11,6 +11,9 @@
 
     <h4 class="speakers-name" id="{{.photo}}">
       {{ .Name }}{{ .name }}
+      <div class="deceased-dates">
+        {{.Dates }}
+      </div>
     </h4>
     <p class="speakers-bio">{{ .Description }}{{ .description }}</p>
   </li>
