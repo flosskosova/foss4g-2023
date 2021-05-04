@@ -100,6 +100,13 @@ export default {
             $position = $scroll;
         });
     },
+    lightbox: async () => {
+        const { default: ekkoLightbox } = await import(/* webpackChunkName: "ekkoLightbox" */ 'ekko-lightbox');
+        $('[data-toggle="lightbox"]').click(function(e) {
+            e.preventDefault();
+            $(this).ekkoLightbox();
+        });
+    },
     syntaxHighlight: () => {
         if (!window.Prism) {
           return;
