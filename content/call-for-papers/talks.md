@@ -10,16 +10,7 @@ menu:
 ---
 
 
-{{< rawhtml >}}
-        <div class="col d-flex justify-content-center">
-          <a style="btn btn-primary mb-3" href="https://callforpapers.2021.foss4g.org/foss4g2021/cfp">
-            <button type="button" name="button" class="btn btn-primary rounded-pill px-5 py-2 mb-5">
-              Submit your talk now!
-            </button>
-          </a>
-        </div>
-{{< /rawhtml >}}
-
+**Call for Papers closed**
 
 Talks will be assigned a 30 minutes slot: 15 minutes for the talk itself, 10 for Q&A, and 5 minutes for presenters to set up and the audience to change rooms as desired.
 

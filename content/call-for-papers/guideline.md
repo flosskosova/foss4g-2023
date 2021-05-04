@@ -2,7 +2,7 @@
 title: "Submission Guidelines"
 description: "Helping steps to submit a proposal to the international geospatial event on free and open source software location technologies."
 author: "FOSS4G 2021"
-draft: false
+draft: true
 
 menu:
   main:

@@ -11,21 +11,7 @@ menu:
     
 ---
 
-{{< rawhtml >}}
-        <div class="col d-flex justify-content-center">
-          <a style="btn btn-primary mb-3" href="https://callforpapers.2021.foss4g.org/foss4g2021/cfp">
-            <button type="button" name="button" class="btn btn-primary rounded-pill px-5 py-2 mb-5">
-              Submit your talk now!
-            </button>
-          </a>
-          &nbsp;
-          <a style="btn btn-primary mb-3" href="https://callforpapers.2021.foss4g.org/foss4g2021/cfp">
-            <button type="button" name="button" class="btn btn-primary rounded-pill px-5 py-2 mb-5">
-              Submit your workshop now!
-            </button>
-          </a>
-        </div>
-{{< /rawhtml >}}
+**Call for Papers closed**
 
 
 Welcome to the Call for Presentations FOSS4G Buenos Aires 2021!
