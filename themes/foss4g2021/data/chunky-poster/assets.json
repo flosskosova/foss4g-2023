@@ -1,21 +1,6 @@
 {
-  "app": {
-    "js": "app.js"
-  },
-  "lazyload": {
-    "js": "lazyload.js"
-  },
   "main": {
-    "css": "main.min.css",
-    "js": "main.js"
-  },
-  "vendors~app": {
-    "js": "vendors~app.js"
-  },
-  "vendors~app~bootstrap": {
-    "js": "vendors~app~bootstrap.js"
-  },
-  "vendors~bootstrap": {
-    "js": "vendors~bootstrap.js"
+    "css": "main.105f7c2b0fdbf0c113c5.min.css",
+    "js": "main.c52e9af50ed99754f794.min.js"
   }
 }
