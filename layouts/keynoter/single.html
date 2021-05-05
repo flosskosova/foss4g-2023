@@ -11,10 +11,14 @@
                   <h1>Our Keynoter: {{ .Name}}</h1>
                   <div class="content">
                     <img style="float:left;padding:1%" src="/images/keynote/{{ .Photo }}" height="200px" width="200px"/>
-                    <p>{{ .Longer}}</p>
+                      {{ range split .Longer "\n" }}
+                        <p>{{ . }}</p>
+                      {{end}}
                     {{ if not (eq .Talk nil) }}
                       <h2>{{ .Talk}}</h2>
-                      <p>{{ .Abstract}} </p>
+                      {{ range split .Abstract "\n" }}
+                        <p>{{ . }}</p>
+                      {{end}}
                     {{ end}}
                     <h2>Where to find {{ .Name}} </h2>
                     <ul>  
@@ -26,6 +30,7 @@
                             </span>
                         </a>
                       </li>
+                      {{ if not (eq .Twitter nil) }}
                       <li class="list-inline-item">
                         <a href="https://twitter.com/{{ .Twitter }}" target="_blank" class="icons d-block">
                             <span class="fa-stack fa-lg">
@@ -34,6 +39,8 @@
                             </span>
                         </a>
                       </li>
+                      {{end}}
+                      {{ if not (eq .LinkedIn nil) }}
                       <li class="list-inline-item">
                         <a href="{{ .LinkedIn }}" target="_blank" class="icons d-block">
                             <span class="fa-stack fa-lg">
@@ -42,6 +49,7 @@
                             </span>
                         </a>
                       </li>
+                      {{end}}
                     </ul>
                   </DIV>
                 {{ end }}
