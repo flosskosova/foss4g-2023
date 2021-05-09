@@ -17,8 +17,8 @@ menu:
 | CFP academico                      |            |            |
 |------------------------------------|------------|------------|
 |Convocatoria de ponencias académicas| 20/11/2020 | 30/03/2021 |
-|Comunicación de aceptación          |            | 01/04/2021 |
-|Envío de trabajos completos         |            | 15/05/2021 |
+|Comunicación de aceptación          |            | 05/05/2021 |
+|Envío de trabajos completos         |            | 15/06/2021 |
 
 # Track Académico GeoForAll  (co-organizado con el ISPRS y OSGeo)
 

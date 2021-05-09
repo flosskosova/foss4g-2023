@@ -20,8 +20,8 @@ menu:
 | Academic CFP                      |            |            |
 |-----------------------------------|------------|------------|
 |Open call for academic papers      | 20/11/2020 | 30/03/2021 |
-|Announce accepted papers           |            | 15/04/2021 |
-|Submission of full academic papers |            | 15/05/2021 |
+|Announce accepted papers           |            | 05/05/2021 |
+|Submission of full academic papers |            | 15/06/2021 |
 
 
 ## Description
