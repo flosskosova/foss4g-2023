@@ -8,13 +8,12 @@
             <h1 class="mb-3">{{ .Title }}</h1>
 
             <div class="content">
-              {{ range .Site.Data.keynote }}
+              {{ range sort .Site.Data.keynote ".order" }}
                 {{ partial "keynoter_short.html" .}}
               {{ end }}
             </div>
           </div>
         </div>
-        <p>More to be announced soon</p>
       </article>
     </div>
   </div>

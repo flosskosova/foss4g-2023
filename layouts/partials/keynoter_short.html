@@ -12,6 +12,7 @@
         </a>
       </h2>
       <ul style="bottom:0;position:absolute">  
+        {{ if not (eq .Web nil) }}
         <li class="list-inline-item">
           <a href="{{ .Web }}" target="_blank" class="icons d-block">
               <span class="fa-stack fa-lg">
@@ -20,26 +21,27 @@
               </span>
           </a>
         </li>
-                      {{ if not (eq .Twitter nil) }}
-                      <li class="list-inline-item">
-                        <a href="https://twitter.com/{{ .Twitter }}" target="_blank" class="icons d-block">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                      </li>
-                      {{end}}
-                      {{ if not (eq .LinkedIn nil) }}
-                      <li class="list-inline-item">
-                        <a href="{{ .LinkedIn }}" target="_blank" class="icons d-block">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                      </li>
-                      {{end}}
+        {{end}}
+        {{ if not (eq .Twitter nil) }}
+        <li class="list-inline-item">
+          <a href="https://twitter.com/{{ .Twitter }}" target="_blank" class="icons d-block">
+              <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+          </a>
+        </li>
+        {{end}}
+        {{ if not (eq .LinkedIn nil) }}
+        <li class="list-inline-item">
+          <a href="{{ .LinkedIn }}" target="_blank" class="icons d-block">
+              <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+          </a>
+        </li>
+        {{end}}
       </ul>
     </div>
   </a>

@@ -12,14 +12,16 @@
                   <div class="content">
                     <img style="float:left;padding:1%" src="/images/keynote/{{ .Photo }}" height="200px" width="200px"/>
                       {{ range split .Longer "\n" }}
-                        <p>{{ . }}</p>
+                        <p>{{ . | markdownify}}</p>
                       {{end}}
                     {{ if not (eq .Talk nil) }}
                       <h2>{{ .Talk}}</h2>
                       {{ range split .Abstract "\n" }}
-                        <p>{{ . }}</p>
+                        <p>{{ . | markdownify}}</p>
                       {{end}}
                     {{ end}}
+                    
+                    {{ if not (eq .Web nil) }}
                     <h2>Where to find {{ .Name}} </h2>
                     <ul>  
                       <li class="list-inline-item">
@@ -51,6 +53,7 @@
                       </li>
                       {{end}}
                     </ul>
+                    {{end}}
                   </DIV>
                 {{ end }}
               {{ end }}
