@@ -14,6 +14,7 @@ export default {
     scss({
 // 		output: true,
 		output: '../../static/dist/main.min.css',
+    outputStyle: "compressed",
 	}),
 	resolve(),
 	terser(),
