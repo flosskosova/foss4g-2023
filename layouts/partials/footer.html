@@ -7,8 +7,8 @@
 										<li class="list-inline-item">
 												<a href="{{ .Site.Params.social.subscribe }}" class="icons d-block">
 														<span class="fa-stack fa-lg">
-																<i class="fa fa-circle fa-stack-2x"></i>
-																<i class="fas fa-bell fa-stack-1x fa-inverse"></i>
+																<i class="icon-circle fa-stack-2x"></i>
+																<i class="icon-bell-alt fa-stack-1x fa-inverse"></i>
 														</span>
 												</a>
 										</li>
@@ -19,8 +19,8 @@
                             {{- with .OutputFormats.Get "RSS" -}}
                                 <a href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" class="icons d-block">
                                     <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                                        <i class="icon-circle fa-stack-2x"></i>
+                                        <i class="icon-rss fa-stack-1x fa-inverse"></i>
                                     </span>
                                 </a>
                             {{- end -}}
@@ -31,8 +31,8 @@
                     <li class="list-inline-item">
                         <a href="mailto:{{ .Site.Params.social.email }}" class="icons d-block">
                             <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                                <i class="icon-circle fa-stack-2x"></i>
+                                <i class="icon-mail fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
@@ -42,8 +42,8 @@
                         <li class="list-inline-item">
                             <a href="{{ $path | safeURL }}" class="icons d-block">
                                 <span class="fa-stack fa-lg">
-                                    <i class="fa fa-circle fa-stack-2x"></i>
-                                    <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse"></i>
+                                    <i class="icon-circle fa-stack-2x"></i>
+                                    <i class="icon-{{ $name }} fa-stack-1x fa-inverse"></i>
                                 </span>
                             </a>
                         </li>

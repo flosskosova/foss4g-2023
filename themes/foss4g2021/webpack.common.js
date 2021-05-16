@@ -26,12 +26,12 @@ module.exports = {
                 'data/chunky-poster/assets.json',
             ],
         }),
-        new AssetsPlugin({
-            filename: 'assets.json',
-            path: path.resolve(__dirname, 'data/chunky-poster'),
-            prettyPrint: true,
-            fullPath: false,
-        }),
+//         new AssetsPlugin({
+//             filename: 'assets.json',
+//             path: path.resolve(__dirname, 'data/chunky-poster'),
+//             prettyPrint: true,
+//             fullPath: false,
+//         }),
         new webpack.ProvidePlugin({
             $: 'jquery',
             jQuery: 'jquery'
