@@ -6,14 +6,14 @@ import { terser } from "rollup-plugin-terser";
 export default {
   input: 'src/main.js',
   output: {
-    file: 'static/dist/main.js',
+    file: '../../static/js/main.js',
     format: 'iife',
 // 		sourcemap: true
   },
   plugins: [
     scss({
 // 		output: true,
-		output: 'static/dist/styles.css',
+		output: '../../static/dist/main.min.css',
 	}),
 	resolve(),
 	terser(),
