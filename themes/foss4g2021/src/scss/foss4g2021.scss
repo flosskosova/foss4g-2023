@@ -97,16 +97,20 @@ footer a:not(.icons) {
 
 .patrocinadores .sponsor-Partner {
   max-height: 350px;
-  width: 350px;
+  max-width: 350px;
 }
 
 .sponsor {
   margin-right: 2px;
 }
 
+.sponsor.col{
+  margin:auto;
+}
+
 .sponsor-Partner {
   max-height: 300px;
-  width: 300px;
+  max-width: 300px;
 }
 
 .sponsor-MediaPartner {
@@ -121,27 +125,27 @@ footer a:not(.icons) {
 
 .sponsor-Platinum {
   max-height: 250px;
-  width: 250px;
+  max-width: 250px;
 }
 
 .sponsor-Gold {
   max-height: 120px;
-  width: 120px;
+  max-width: 180px;
 }
 
 .sponsor-Silver {
   max-height: 100px;
-  width: 100px;
+  max-width: 100px;
 }
 
 .sponsor-Bronze {
   max-height: 80px;
-  width: 80px;
+  max-width: 80px;
 }
 
 .sponsor-Supporter {
   max-height: 40px;
-  width: 40px;
+  max-width: 40px;
 }
 
 body {
