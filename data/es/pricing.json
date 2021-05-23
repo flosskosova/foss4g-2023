@@ -1,6 +1,6 @@
 {
   "title": "Pricing",
-  "description": "Pricing ingles",
+  "description": "Precios",
   "button": {
     "text": "Registrate acá",
     "href": "https://registration.2021.foss4g.org/OSGeo/FOSS4G",
@@ -11,26 +11,41 @@
       "title": "Corporative",
       "price": "USD$ 250",
       "featured": true,
-      "features": ["Exclusive Access to Business to Bussiness event"]
+      "features": ["Acceso exclusivo al evento Business to Bussiness"]
     },
     {
-      "title": "Conference General",
+      "title": "General",
       "price": "USD$ 100",
       "features": []
     },
     {
-      "title": "Conference Regional",
+      "title": "Regional",
       "price": "USD$ 70",
       "features": ["Only for attendees from Latin America"]
     },
     {
-      "title": "Conference Local",
+      "title": "Local",
       "price": "USD$ 50",
       "features": ["Only for attendees from Argentina"]
     },
     {
+      "title": "Estudiante General",
+      "price": "USD$ 50",
+      "features": ["Sólo para estudiantes"]
+    },
+    {
+      "title": "Estudiante Regional",
+      "price": "USD$ 40",
+      "features": ["Sólo para estudiantes de Latino América"]
+    },
+    {
+      "title": "Estudiante Local",
+      "price": "USD$ 25",
+      "features": ["Sólo para estudiantes de Argentina"]
+    },
+    {
       "title": "Workshops",
-      "price": "Soon",
+      "price": "Pronto",
       "features": []
     }
   ]

@@ -14,19 +14,34 @@
       "features": ["Exclusive Access to Business to Bussiness event"]
     },
     {
-      "title": "Conference General",
+      "title": "General",
       "price": "USD$ 100",
       "features": []
     },
     {
-      "title": "Conference Regional",
+      "title": "Regional",
       "price": "USD$ 70",
       "features": ["Only for attendees from Latin America"]
     },
     {
-      "title": "Conference Local",
+      "title": "Local",
       "price": "USD$ 50",
       "features": ["Only for attendees from Argentina"]
+    },
+    {
+      "title": "Student General",
+      "price": "USD$ 50",
+      "features": ["Only for students"]
+    },
+    {
+      "title": "Student Regional",
+      "price": "USD$ 40",
+      "features": ["Only for students from Latin America"]
+    },
+    {
+      "title": "Student Local",
+      "price": "USD$ 25",
+      "features": ["Only for students from Argentina"]
     },
     {
       "title": "Workshops",
