@@ -7,9 +7,12 @@
           <div class="col-lg-10">
             <h1 class="mb-3">{{ .Title }}</h1>
 
-            <div class="content">
+            <article class="content">
               {{ .Content }}
-            </div>
+            </article>
+            <aside>
+                {{ .TableOfContents }}
+            </aside>
           </div>
         </div>
       </article>
