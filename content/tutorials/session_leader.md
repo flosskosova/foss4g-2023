@@ -63,17 +63,9 @@ Remember that all talks will follow a strict 20 minutes of presentation, 5 minut
 
 ### Interacting with the audience
 
-//TODO
+Venueless has a built-in feature for Q&A as described above. Use it to pass the comments and questions from the audience to your speakers. Keep both Venueless and Streamyard open at all times to check the streaming is working. 
 
-#### Chat
-
-//TODO
-
-#### Q&A
-
-Venueless has a built-in feature for Q&A.
-
-//TODO
+**Remember to mute the tab on Venueless once the streaming starts so you don't hear the sound twice.**
 
 ### Technical Issues
 
