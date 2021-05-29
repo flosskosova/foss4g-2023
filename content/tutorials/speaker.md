@@ -4,16 +4,6 @@ description: "Guidelines for our speakers"
 draft: true
 ---
 
-## The Software Stack
-
-### Venueless
-
-{{content/tutorials/venueless.md}} 
-
-### StreamYard
-
-{{content/tutorials/streamyard.md}} 
-
 ## Preparations
 
 There are some tasks to help prepare for the event. You will get assigned a session leader that will contact you **before the 1st of August**. If that doesn't happen, contact the organization to let us know you still didn't have the proper speaker training.
@@ -45,4 +35,14 @@ Remember that all talks will follow a strict 20 minutes of presentation and 5 mi
 
 ### Interacting with the audience
 
-Your Moderator will pass the questions and comments from Venueless to you. You don't have to worry about following them, just focus on your presentation.
+Your moderator will pass the questions and comments to you. You don't have to worry about following them, just focus on your presentation. 
+
+## Venueless
+
+This is where your audience will watch you.
+
+{{content/tutorials/venueless.md}} 
+
+## StreamYard
+
+{{content/tutorials/streamyard.md}} 

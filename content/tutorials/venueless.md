@@ -1,11 +1,13 @@
 
-To login, you should have received an email with a login URL that started with *https://2021-foss4g.venueless.events/login/* If you can't find it, check your spam folder.
+To login, you should have received an email with a login URL that started with *https://2021-foss4g.venueless.events/login/* If you can't find it, check your spam folder. You can use that link on different browsers and computers and it will always open your session. 
 
-We highly recommend you enable notifications in your desktop to make sure you don't miss anything from the event.
+**Do not share this link with anyone or you may be blocked from the event.**
+
+We highly recommend you enable notifications in your desktop to make sure you don't miss anything from the event like private messages and broadcasts.
 
 ![There should be a notification in your browser](/images/tutorials/notifications.png "")
 
-#### Profile
+### Profile
 
 Once you login for the first time, you have to fill your profile. 
 
@@ -25,7 +27,7 @@ All attendees are listed at the [*Meet your Peers!*](https://2021-foss4g.venuele
 
 You can always fill the data back later by either clicking on your name at the bottom left of the page, or going directly to your [preferences](https://2021-foss4g.venueless.events/preferences). 
 
-##### Direct Messages
+#### Direct Messages
 
 Anywhere you see someone's name you can open their profile. There, you can choose if you want to send a text **message**, request a video **call** or **block** them so they can't interact with you anymore. 
 
@@ -35,16 +37,28 @@ A blocked user cannot send any direct messages to you and you cannot send any di
 
 If you feel the need to block someone, check our [Code of Conduct](/about/coc.html). If that person is failing to follow it, let us know so we can act on it before they make someone else uncomfortable.
 
-#### Schedule (!Schedule)
+### Watching a session
 
-There are two tabs for the schedule. The [Schedule](https://2021-foss4g.venueless.events/schedule) tab contains the main sessions and social gatherings schedule. The [Workshop Schedule](https://2021-foss4g.venueless.events/schedule) tab will show the schedule for workshops and practical sessions. You need to register for the specific workshops to be able to attend them.
+There are two tabs for the schedule. The [Schedule](https://2021-foss4g.venueless.events/schedule) tab contains the main sessions and social gatherings schedule. The [Workshop Schedule](https://2021-foss4g.venueless.events/schedule) tab will show the schedule for workshops and practical sessions. You need to [register](https://registration.2021.foss4g.org) for the specific workshops to be able to attend them.
 
-#### Stages
+Once you choose which session you want to attend to, look for the name of the room on stages tabs at the left menu. After clicking on the tab, the selected stage will open.
 
-#### Channels
+You can comment the session with the rest of the audience using the chat at the right of the video. 
 
-#### Exhibition
+![Message Call Block](/images/tutorials/chat.png "")
 
-#### Social Gathering
+If you want to ask a question to the speaker, use the questions tab. You can also vote which questions made by other attendees are more interesting to you so the moderator know which questions to prioritize.
 
-// WorkAdventure
+![Message Call Block](/images/tutorials/questions.png "")
+
+### Channels
+
+There are a list of text channels you can use to interact with the rest of the attendees. You can search and browse all the channels available to look for those whose topic is more attractive to you.
+
+![Message Call Block](/images/tutorials/browseChannels.png "")
+
+### Social Gathering
+
+We have a special section for Social Gatherings.
+
+//TODO

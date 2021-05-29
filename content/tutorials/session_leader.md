@@ -4,15 +4,13 @@ description: "Guidelines for our session leaders"
 draft: true
 ---
 
-## The Software Stack
-
 The software stack for this event has two separated components: one for speakers and one for attendees.
 
-### Venueless
+## Venueless
 
 {{content/tutorials/venueless.md}} 
 
-### StreamYard
+## StreamYard
 
 {{content/tutorials/streamyard.md}} 
 
