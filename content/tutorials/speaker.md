@@ -37,12 +37,15 @@ Remember that all talks will follow a strict 20 minutes of presentation and 5 mi
 
 Your moderator will pass the questions and comments to you. You don't have to worry about following them, just focus on your presentation. 
 
+## StreamYard
+
+This is were you login as a speaker to stream your content.
+
+{{content/tutorials/streamyard.md}} 
+
 ## Venueless
 
 This is where your audience will watch you.
 
 {{content/tutorials/venueless.md}} 
 
-## StreamYard
-
-{{content/tutorials/streamyard.md}} 
