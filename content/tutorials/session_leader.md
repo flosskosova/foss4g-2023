@@ -1,7 +1,7 @@
 ---
 title: "Session Leader Guidelines"
 description: "Guidelines for our session leaders"
-draft: true
+draft: false
 ---
 
 The software stack for this event has two separated components: one for speakers and one for attendees.

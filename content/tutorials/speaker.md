@@ -1,7 +1,7 @@
 ---
 title: "Speaker Guidelines"
 description: "Guidelines for our speakers"
-draft: true
+draft: false
 ---
 
 ## Preparations
