@@ -32,6 +32,16 @@
                             </span>
                         </a>
                       </li>
+                      {{ if not (eq .Web2 nil) }}
+                      <li class="list-inline-item">
+                        <a href="{{ .Web2 }}" target="_blank" class="icons d-block">
+                            <span class="fa-stack fa-lg">
+                                <i class="icon-circle fa-stack-2x"></i>
+                                <i class="icon-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                      </li>
+                      {{end}}
                       {{ if not (eq .Twitter nil) }}
                       <li class="list-inline-item">
                         <a href="https://twitter.com/{{ .Twitter }}" target="_blank" class="icons d-block">
