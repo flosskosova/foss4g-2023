@@ -4,7 +4,7 @@ description: "Mundialis sponsoring FOSS4G"
 draft: false
 ---
 
-![](/images/sponsor/mundialis-logo.svg)
+{{< figure src="/images/sponsor/mundialis-logo.svg" width="400px" >}}
 
 The company mundialis (https://www.mundialis.de/en/) is specialized in the processing of massive amounts of remote sensing and geodata in general. Our systems are operating in powerful computing centers with cloud-based architectures.
 
