@@ -3,7 +3,7 @@ title: "Kartoza"
 draft: false
 ---
 
-![](/images/sponsor/KartozaLogoVerticalCMYK.svg)
+{{< figure src="/images/sponsor/KartozaLogoVerticalCMYK.svg" width="400px" >}}
 
 Kartoza (Pty) Ltd was founded in July 2014 by Tim Sutton and Gavin Fleming. It was formed by merging Tim’s company Linfiniti Consulting (founded 2008) and Gavin’s company Afrispatial (founded 2010). Both Gavin and Tim began their GIS journeys in the mid to late 1990s.
 Kartoza is registered in and operates from South Africa. All our twenty staff work remotely and are based in several centres in South Africa, Portugal, Indonesia, Tanzania and Madagascar.
