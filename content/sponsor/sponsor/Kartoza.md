@@ -13,11 +13,11 @@ Thanks to the Internet, we have global reach. We service clients both locally in
 The majority of Kartoza staff are technical and have a GIS, IT, computer science or engineering background.
 Kartoza’s core business areas are:
 
-• Desktop GIS software development (QGIS, C++, Python)
-• Web application development and hosting
-• GIS consulting, including Spatial IT system design and implementation
-• Software Support
-• FOSS GIS training
+- Desktop GIS software development (QGIS, C++, Python)
+- Web application development and hosting
+- GIS consulting, including Spatial IT system design and implementation
+- Software Support
+- FOSS GIS training
 
 Our clients include governments, multinationals, large and small NGOs, private companies and individuals.
 
