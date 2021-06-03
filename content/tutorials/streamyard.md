@@ -1,6 +1,6 @@
 There is [an official tutorial](https://support.streamyard.com/hc/en-us/articles/360043291612) that can be very useful to learn about the platform.
 
-You should have been provided with a login URL that started with *https://streamyard.com/* 
+You should have been provided with a login URL that starts with *https://streamyard.com/* 
 
 **Do not share this link with anyone or you may be blocked from the event.**
 
@@ -12,7 +12,7 @@ Enter a display name which will be shown as identifier label for you during the 
 
 ### Chat
 
-Once inside the Broadcast Studio, there is a private internal chat moderators and speakers can use to coordinate. It can be found on the right menu.
+Once inside the Broadcast Studio, there is a private internal chat that moderators and speakers can use to coordinate. It can be found on the right menu.
 
 ![](/images/tutorials/streamYardChat.png "")
 

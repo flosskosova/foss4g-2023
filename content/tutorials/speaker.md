@@ -6,7 +6,7 @@ draft: false
 
 ## Preparations
 
-There are some tasks to help prepare for the event. You will get assigned a session leader that will contact you **before the 1st of August**. If that doesn't happen, contact the organization to let us know you still didn't have the proper speaker training.
+There are some tasks speakers are expected to complete to be prepared for the event. You will get assigned a session leader that will contact you **before August 1st**. If that doesn't happen, contact the organization to let us know you didn't get the speaker training.
 
 You should have the following ready:
 
@@ -14,14 +14,14 @@ You should have the following ready:
      - Make sure timezones are clear.
      - Make sure you will be available for the talk.
      - You should connect at least 20 minutes before your talk.
- * Make sure you have the following ready
+ * Make sure you have the following ready:
      - Stable network connection (minimum 5Mbps). Better by wire.
      - Microphone
      - Camera
      - Updated browser (Chromium or Firefox better)
  * If you want to share a video, make sure you let your session leader know about it
 
-If there's any issue and you may not be on time for your slot or your network connection is not stable enough, you have to send a video **before 30th of August** with your recorded talk, so we can play it instead. The video must be no longer than 20 minutes.
+If there are any issues and you can not be on time for your slot or your network connection is not stable enough, please contact your session leader and send a video with your talk **before August 30th**, so we can play it instead. The video must be no longer than 20 minutes.
 
 ## During the Event
 
@@ -35,17 +35,17 @@ Remember that all talks will follow a strict 20 minutes of presentation and 5 mi
 
 ### Interacting with the audience
 
-Your moderator will pass the questions and comments to you. You don't have to worry about following them, just focus on your presentation. 
+Your moderator will pass the questions and comments to you. You don't have to worry about them, just focus on your presentation. 
 
 ## StreamYard
 
-This is were you login as a speaker to stream your content.
+This is where you login as a speaker to stream your content.
 
 {{content/tutorials/streamyard.md}} 
 
 ## Venueless
 
-This is where your audience will watch you.
+This is where your audience will watch your presentation and post questions.
 
 {{content/tutorials/venueless.md}} 
 
