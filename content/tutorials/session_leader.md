@@ -4,15 +4,15 @@ description: "Guidelines for our session leaders"
 draft: false
 ---
 
-The software stack for this event has two separated components: one for speakers and one for attendees.
+The software stack for this event has two separate components: one for speakers and one for attendees.
 
 ## Preparations Before the Event
 
-There are some tasks to help prepare for the event. If you can't finish them on time, please let us know so we can plan ahead.
+There are some tasks that session leaders should complete to prepare for the event. If you can't finish them on time, please let us know so we can plan ahead.
 
 ### Contact Speakers
 
-You should contact all the speakers in your session **before the 1st of August**. Organize a video meeting with them to check the following (you can use this list during the meeting):
+You should contact all the speakers in your session **before August 1st**. Organize a video meeting with them to check the following (you can use this list during the meeting):
 
  * **When** their talk is going to take place. 
      - Make sure timezones are clear.
@@ -25,15 +25,15 @@ You should contact all the speakers in your session **before the 1st of August**
      - A recent version of Chrome or Firefox
      - Share screen/slides
      - If they want to share a video, check the sound and the framerate
- * What is their preferred form of contact if something goes wrong (they don't show up, there are technical issues). Telegram? Matrix? Phone?
+ * What is their preferred contact channel if something goes wrong (they don't show up, there are technical issues). Telegram? Matrix? Phone?
 
-If there's any issue and they may not be on time for their slot, they should send a video **before 30th of August** with their recorded talk, so we can play it instead. The video must be no longer than 20 minutes.
+If there are any issues and they can not make it on time for their slot, they should send a video **before August 30th** with their recorded talk, so we can play it instead. The video must be no longer than 20 minutes.
 
-You may want to send a calendar invitation with all the details just to make sure they don't forget anything.
+You may also want to send a calendar invitation with all the details just to make sure they don't forget anything.
 
 ### Introductions 
 
-A moderator should prepare who each speaker is to give a proper introduction before they start presenting. You can use the data from the schedule, but read at least once who they are and be prepared.
+A moderator should prepare a short bio of each speaker in the session to give a proper introduction before they start presenting. You can use the data from the schedule, but read at least once who they are and be prepared.
 
 ### Questions for Speakers
 
@@ -45,7 +45,7 @@ As this is an online event, there may be problems that may prevent you from mode
 
 ## During the Event
 
-Speakers will log into *Streamyard* with the link you provide them and you will log into both *Venueless* and *Streamyard*. As session leader your responsability is to both help speakers and attendees interact and make sure the streaming looks good here. Keep both open at all times.
+Speakers will log into *Streamyard* with the link you provide them and you will log into both *Venueless* and *Streamyard*. As session leader your responsability is both to help speakers and attendees interact and make sure the streaming looks good. Keep both open all the time, i.e., Venueless and Streamyard.
 
 **Remember to mute the tab on Venueless once the streaming starts so you don't hear the sound twice.**
 
@@ -73,23 +73,23 @@ Try to minimize the amount of content on the stream. If it is not the slot of so
 
 #### Selecting the visualization
 
-You can choose different visualization modes and depending on the type of the content (panel, presentation with single speaker or with multiple speakers) you can decide to use a different mode.
+You can choose different visualization modes and, depending on the type of content (panel, presentation with single speaker or with multiple speakers) you can decide which mode to use.
 
-It is recommended to select a mode that shows multiple faces when making the introduction of the speaker, specially if there are more than one speaker.
+It is recommended to select a mode that shows multiple faces when introducing a speaker, especially if there are more than one speaker.
 
 ![](/images/tutorials/streamYardOnlySpeakers.png "")
 
-But if there are slides, slides are usually the most important thing on screen:
+When there are slides, slides are usually the most important thing on screen:
 
 ![](/images/tutorials/streamYardPresentation.png "")
 
-Remove yourself from the streaming once the speakers start talking.
+Remove yourself from the streaming once the speaker(s) start talking.
 
 #### Banners
 
 As an optional thing, you can add and remove banners from the streaming. You can find this option on the right menu.
 
-For example you may want to add a banner with the presentation title during the first minute of each presentation to give context to your sudience.
+For example you may want to add a banner with the presentation title during the first minute of each presentation to give context to your audience.
 
 ![](/images/tutorials/streamYardBanner1.png "")
 
@@ -101,11 +101,11 @@ Hovering again on the same place will show you the option to hide it on the stre
 
 ![](/images/tutorials/streamYardBanner3.png "")
 
-Some moderators find it useful to show the questions from the audience using banners as the speaker answers them. But this is not a mandatory thing, we want to give moderators free will to experiment with what they are comfortable with.
+Some moderators find it useful to show the questions from the audience using banners as the speaker answers them. But this is not mandatory, we want to give moderators free will to experiment with what they are comfortable with.
 
 ### Check the brand
 
-The brand is the style used on the streaming. Make sure the selected brand is the FOSS4G brand.
+The brand is the style used on the streaming. Make sure the selected brand is the **FOSS4G brand**.
 
 ![](/images/tutorials/streamYardBrand.png "")
 
@@ -117,10 +117,10 @@ This is the place where attendees will watch the conference.
 
 ### Interacting with the audience
 
-Venueless has a built-in feature for Q&A as described above. Use it to pass the comments and questions from the audience to your speakers. Keep both Venueless and Streamyard open at all times to check the streaming is working. 
+Venueless has a built-in feature for Q&A as described above. Use it to pass the comments and questions from the audience to your speakers. Keep both Venueless and Streamyard open all the time to check if the streaming is working properly. 
 
 ### Technical Issues
 
 //TODO
 
-If you face any technical issue we don't know how to solve, contact us.
+If you face any technical issue you don't know how to solve, please contact us.

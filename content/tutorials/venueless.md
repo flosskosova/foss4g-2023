@@ -1,5 +1,5 @@
 
-To login, you should have received an email with a login URL that started with *https://2021-foss4g.venueless.events/login/* If you can't find it, check your spam folder. You can use that link on different browsers and computers and it will always open your session. 
+To login, you should have received an email with a login URL that starts with *https://2021-foss4g.venueless.events/login/*. If you can't find it, check your spam folder. You can use that link on different browsers and computers and it will always open your session. 
 
 **Do not share this link with anyone or you may be blocked from the event.**
 
@@ -9,23 +9,23 @@ We highly recommend you enable notifications in your desktop to make sure you do
 
 ### Profile
 
-Once you login for the first time, you have to fill your profile. 
+Once you login for the first time, you have to complete your profile details. 
 
-First, fill your name and lastname. This is the name you will use to interact with the rest of the attendees.
+First, fill in your name and lastname. This is the name you will use to interact with the rest of the attendees.
 
 ![](/images/tutorials/profileName.png "")
 
-Then, you may want to upload a photo. This photo will be visible to all attendees of the conference, make sure you choose one according to the professional profile you want to be associated with. It is perfectly fine not to use a photo if you want to keep your privacy. But if you are interested in interacting with other attendees, uploading a photo here will help.
+Then, you may want to upload a photo. This photo will be visible to all attendees of the conference. Make sure you choose one according to the professional profile you want to be associated with. It is perfectly fine not to use a photo if you want to keep your privacy. But if you are interested in interacting with other attendees, uploading a photo here will help.
 
 ![](/images/tutorials/profileImage.png "")
 
-Finally, there are some other fields to complete your profile. There is no mandatory field to fill, but it is important that you use the proper keywords if you want to have meaningful interactions during the conference. 
+Finally, there are some other fields to complete your profile. There is no mandatory field to fill in, but it is important that you use the proper keywords if you want to have meaningful interactions during the conference. 
 
-All attendees are listed at the [*Meet your Peers!*](https://2021-foss4g.venueless.events/rooms/220fb82a-6269-4f7f-8dbb-8da7a0bee67f) tab. You will be listed there as well with all the details you filled up on your profile.
+All attendees are listed at the [*Meet your Peers!*](https://2021-foss4g.venueless.events/rooms/220fb82a-6269-4f7f-8dbb-8da7a0bee67f) tab. You will be listed there as well with all the details you filled in on your profile.
 
 ![](/images/tutorials/profileExtra.png "")
 
-You can always fill the data back later by either clicking on your name at the bottom left of the page, or going directly to your [preferences](https://2021-foss4g.venueless.events/preferences). 
+You can always complete the data later by either clicking on your name at the bottom left of the page, or going directly to your [preferences](https://2021-foss4g.venueless.events/preferences). 
 
 #### Direct Messages
 
@@ -41,19 +41,19 @@ If you feel the need to block someone, check our [Code of Conduct](/about/coc.ht
 
 There are two tabs for the schedule. The [Schedule](https://2021-foss4g.venueless.events/schedule) tab contains the main sessions and social gatherings schedule. The [Workshop Schedule](https://2021-foss4g.venueless.events/schedule) tab will show the schedule for workshops and practical sessions. You need to [register](https://registration.2021.foss4g.org) for the specific workshops to be able to attend them.
 
-Once you choose which session you want to attend to, look for the name of the room on stages tabs at the left menu. After clicking on the tab, the selected stage will open.
+Once you choose which session you want to attend, look for the name of the room at the **stages tabs** on the left menu. After clicking on the tab, the selected stage will open.
 
-You can comment the session with the rest of the audience using the chat at the right of the video. 
+You can comment the session with the rest of the audience using the chat on the right of the video. 
 
 ![Message Call Block](/images/tutorials/chat.png "")
 
-If you want to ask a question to the speaker, use the questions tab. You can also vote which questions made by other attendees are more interesting to you so the moderator know which questions to prioritize.
+If you want to ask a question to the speaker, use the **questions tab**. You can also upvote questions made by other attendees so the moderator knows which questions to prioritize.
 
 ![Message Call Block](/images/tutorials/questions.png "")
 
 ### Channels
 
-There are a list of text channels you can use to interact with the rest of the attendees. You can search and browse all the channels available to look for those whose topic is more attractive to you.
+There is a list of text channels you can use to interact with the rest of the attendees. You can search and browse all the channels available to look for those more attractive to you.
 
 ![Message Call Block](/images/tutorials/browseChannels.png "")
 
