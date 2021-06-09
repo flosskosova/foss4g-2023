@@ -58,12 +58,6 @@ Next, you will need to assign a number between **1** and **4** indicating the le
 ### Requirements
 
 Furthermore, you are encouraged to give indication of resources (video, papers, etc.) to read in advance, that will help get up to speed on advanced topics. 
- 
-## Timeline
-
-|Close call for talks | Community voting opens | Community voting closes | Accepted talks announced	| Full FOSS4G 2021 program |
-|--------------|---------------|---------------|-------------|-------------|
-| 19/04/2021 |  24/04/2021 | 15/05/2021 | 30/05/2021 | 30/06/2021 |
 
 FOSS4G is the international geospatial community’s event, thus the main selection of talks will be done through the *open community voting* process. The highest-scored talks will automatically be included in the program, while others will be reviewed by the FOSS4G 2021 Buenos Aires volunteer Program Committee.
 
