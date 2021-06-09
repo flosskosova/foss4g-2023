@@ -23,9 +23,3 @@ Each workshop will take 4 hours.
 When submitting a workshop, use the abstract to make the scope and the contents clear. It is in both you and your attendees interest to make sure your goals are well defined. If possible, include the list of topics you want to cover and links to data and tutorials that will be used so attendees can familiarize with the topic. 
 
 You will be asked to indicate the level (from beginner to highly advanced), and the required knowledge that the atendees should have.
-
-### Timeline
-
-| Close call for workshops | Accepted workshops announced | Full FOSS4G 2021 program |
-|---------------|-------------|-------------|
-| 19/04/2021 | 30/05/2021 | 30/06/2021 |
