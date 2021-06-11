@@ -43,9 +43,3 @@ This is where you login as a speaker to stream your content.
 
 {{content/tutorials/streamyard.md}} 
 
-## Venueless
-
-This is where your audience will watch your presentation and post questions.
-
-{{content/tutorials/venueless.md}} 
-
