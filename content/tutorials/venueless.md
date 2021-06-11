@@ -1,11 +1,17 @@
 
-To login, you should have received an email with a login URL that starts with *https://2021-foss4g.venueless.events/login/*. If you can't find it, check your spam folder. You can use that link on different browsers and computers and it will always open your session. 
+To login, you have to access your registration order. Open the email that was sent by *registration*@*foss4g.org* when you bought your ticket. The subject of the email should start with **"[FOSS4G-2021]Your order:**. 
 
-**Do not share this link with anyone or you may be blocked from the event.**
+At the bottom of that email there must be a link to *View order details*. Click on that link and you will find a login button for each attendee registered using that order:
 
-We highly recommend you enable notifications in your desktop to make sure you don't miss anything from the event like private messages and broadcasts.
+![](/images/tutorials/login.png "")
 
-![There should be a notification in your browser](/images/tutorials/notifications.png "")
+**This button will only be available during the week of the event.**
+
+You can use that button on different browsers and computers and it will always open your session. 
+
+**Do not share this email or the related link with anyone or you may be blocked from the event.**
+
+If you can't find the email with your order, you can request a copy of the email on the following url: https://registration.2021.foss4g.org/OSGeo/FOSS4G/resend/ You must use the same email you used to register.
 
 ### Profile
 
@@ -26,6 +32,10 @@ All attendees are listed at the [*Meet your Peers!*](https://2021-foss4g.venuele
 ![](/images/tutorials/profileExtra.png "")
 
 You can always complete the data later by either clicking on your name at the bottom left of the page, or going directly to your [preferences](https://2021-foss4g.venueless.events/preferences). 
+
+We highly recommend you enable notifications in your desktop to make sure you don't miss anything from the event like private messages and broadcasts.
+
+![There should be a notification in your browser](/images/tutorials/notifications.png "")
 
 #### Direct Messages
 
