@@ -33,13 +33,13 @@ You may also want to send a calendar invitation with all the details just to mak
 
 ### Introductions 
 
-A moderator should prepare a short bio of each speaker in the session to give a proper introduction before they start presenting. You can use the data from the schedule, but read at least once who they are and be prepared.
+A Session Leader should prepare a short bio of each speaker in the session to give a proper introduction before they start presenting. You can use the data from the schedule, but read at least once who they are and be prepared.
 
 ### Questions for Speakers
 
 Although not mandatory, it is always a courtesy to prepare one or two questions for each speaker in your session in case there are no questions from the audience.
 
-### Backup Moderator
+### Backup Session Leader
 
 As this is an online event, there may be problems that may prevent you from moderating the session. It would be good if you can find a backup person that can cover you in case you can't make it. We will have a pool of candidates to cover any issues, but as there may be more than one incident at the same time, it is always better to have someone explicitly watching if you enter your session.
 
@@ -101,7 +101,7 @@ Hovering again on the same place will show you the option to hide it on the stre
 
 ![](/images/tutorials/streamYardBanner3.png "")
 
-Some moderators find it useful to show the questions from the audience using banners as the speaker answers them. But this is not mandatory, we want to give moderators free will to experiment with what they are comfortable with.
+Some Session Leaders find it useful to show the questions from the audience using banners as the speaker answers them. But this is not mandatory, we want to give Session Leaders free will to experiment with what they are comfortable with.
 
 ### Check the brand
 
