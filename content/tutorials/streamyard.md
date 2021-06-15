@@ -12,7 +12,7 @@ Enter a display name which will be shown as identifier label for you during the 
 
 ### Chat
 
-Once inside the Broadcast Studio, there is a private internal chat that moderators and speakers can use to coordinate. It can be found on the right menu.
+Once inside the Broadcast Studio, there is a private internal chat that session leaders and speakers can use to coordinate. It can be found on the right menu.
 
 ![](/images/tutorials/streamYardChat.png "")
 
@@ -26,8 +26,6 @@ You can choose to share your slides and videos here. Sharing a video from your s
 
 ![](/images/tutorials/streamYardShare.png "")
 
-For those speakers that have a pre-recorded presentation, this is the place where the moderator adds and plays the pre-recorded presentation.
+For those speakers that have a pre-recorded presentation, this is the place where the session leader adds and plays the pre-recorded presentation.
 
-Share your camera, share your video and be ready to start.
-
-
+Share your camera, share your slides and be ready to start.
