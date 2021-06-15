@@ -25,7 +25,7 @@ If there are any issues and you can not be on time for your slot or your network
 
 ## During the Event
 
-Speakers will log into *Streamyard* with the provided link and wait for their Moderator instructions. The Moderator may or may not be your Session Leader, but they will be waiting for you.
+Speakers will log into *Streamyard* with the provided link and wait for their Session Leader instructions. 
 
 ### Strict schedule
 
@@ -35,7 +35,7 @@ Remember that all talks will follow a strict 20 minutes of presentation and 5 mi
 
 ### Interacting with the audience
 
-Your moderator will pass the questions and comments to you. You don't have to worry about them, just focus on your presentation. 
+Your Session Leader will pass the questions and comments to you. You don't have to worry about them, just focus on your presentation. 
 
 ## StreamYard
 
