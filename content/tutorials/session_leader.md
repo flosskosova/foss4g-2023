@@ -61,6 +61,29 @@ Remember that all talks will follow a strict 20 minutes of presentation, 5 minut
 
 This is the platform where **speakers** will present the talks.
 
+You should have been provided with an email you can use to login on *https://streamyard.com/*. That email will forward the login code to your email account to authenticate.
+
+If you are helping on a session you are not assigned to, you will have to use the email and check your login code on the google groups page associated to the room you want to broadcast.
+
+### Entering the Broadcast Studio
+
+Once you login to Streamyard, you will see a list of possible Broadcasts. Use the "Enter Studio" button for the one related to the room you want to broadcast.
+
+![](/images/tutorials/streamyardBroadcasts.png "")
+
+**Once you are ready to start streaming, don't forget to *Go Live* to start the broadcast.**
+
+![](/images/tutorials/streamyardGoLive.png "")
+
+Before clicking on that button, nothing will be shown to speakers. If you don't click that button, the session will not start on Venueless.
+
+**At the end of the session, don't forget to *End Broadcast* to stop the streaming.**
+
+![](/images/tutorials/streamyardEndBroadcast.png "")
+
+
+### Using the platform
+
 {{content/tutorials/streamyard.md}} 
 
 #### Adding content to the Streaming
@@ -121,6 +144,8 @@ Venueless has a built-in feature for Q&A as described above. Use it to pass the 
 
 ### Technical Issues
 
-//TODO
+If you are experiencing issues on Streamyard, you can use the *"Having issues?"* link to open a chat and ask for technical assistance.
 
-If you face any technical issue you don't know how to solve, please contact us.
+![](/images/tutorials/streamyardHelp.png "")
+
+If you face any technical issue you don't know how to solve, please contact at info@foss4g.org .

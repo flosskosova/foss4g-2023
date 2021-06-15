@@ -41,5 +41,9 @@ Your Session Leader will pass the questions and comments to you. You don't have 
 
 This is where you login as a speaker to stream your content.
 
+You should have been provided with a login URL that starts with *https://streamyard.com/* 
+
+**Do not share this link with anyone or you may be blocked from the event.**
+
 {{content/tutorials/streamyard.md}} 
 

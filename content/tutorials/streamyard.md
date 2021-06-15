@@ -1,9 +1,5 @@
 There is [an official tutorial](https://support.streamyard.com/hc/en-us/articles/360043291612) that can be very useful to learn about the platform.
 
-You should have been provided with a login URL that starts with *https://streamyard.com/* 
-
-**Do not share this link with anyone or you may be blocked from the event.**
-
 ![](/images/tutorials/streamYardLogin.png "")
 
 Enter a display name which will be shown as identifier label for you during the stream. Use your actual name or the name of your brand. Then enter the studio.
