@@ -34,6 +34,9 @@
     {{ end }}
 {{ end }}
 
+<link rel="preload" href="/images/people.webp" as="image">
+<link rel="preload" href="/images/logo_horizontal_b.svg" as="image">
+
 {{ with index .Site.Data "chunky-poster" }}
     {{ range $vendor := .assets }}
         {{ if $vendor.css }}
