@@ -37,13 +37,15 @@
 {{ with index .Site.Data "chunky-poster" }}
     {{ range $vendor := .assets }}
         {{ if $vendor.css }}
-            <link rel="stylesheet" href="{{ print "dist/" $vendor.css | relURL }}" >
+            <link rel="preload" href="{{ print "dist/" $vendor.css | relURL }}" as="style">
+            <link rel="stylesheet" href="{{ print "dist/" $vendor.css | relURL }}"  media="print" onload="this.media='all'">
         {{ end }}
     {{ end }}
 {{ end }}
 
 {{ range .Site.Params.customCSS -}}
-    <link rel="stylesheet" href="{{ "css/" | relURL }}{{ . }}">
+    <link rel="preload" href="{{ "css/" | relURL }}{{ . }}" as="style">
+    <link rel="stylesheet" href="{{ "css/" | relURL }}{{ . }}"  media="print" onload="this.media='all'">
 {{ end }}
 
 <link rel="canonical" href="{{ .Permalink }}">
