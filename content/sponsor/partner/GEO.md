@@ -4,7 +4,7 @@ description: "GEO is a partnership of more than 100 countries and 150 internatio
 draft: false
 ---
 
-{{< figure src="/images/sponsor/GEO.png" width="500px" >}}
+{{< figure src="/images/sponsor/GEO.webp" width="500px" >}}
 
 The [Group on Earth Observations (GEO)](https://earthobservations.org/index.php) and the [Open Source Geospatial Foundation](https://www.osgeo.org) (OSGeo) are collaborating around their shared visions of openness. For GEO this means open data, open standards, and open science; for OSGeo this means free and open source software.
 

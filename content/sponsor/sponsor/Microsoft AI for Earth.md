@@ -3,7 +3,7 @@ title: "Microsoft Al for Earth"
 draft: false
 ---
 
-![](/images/sponsor/Microsoft-logo_rgb_c-gray.png)
+![](/images/sponsor/Microsoft-logo_rgb_c-gray.webp)
 
 Microsoft’s [AI for Earth](http://aka.ms/aiforearth) program puts cloud and AI tools in the hands of those working to solve global environmental challenges, by providing [grants](https://aka.ms/ai4egrants) to the conservation community, hosting environmental [data](https://aka.ms/ai4edata) on the Azure cloud, and developing AI [tools](http://aka.ms/ai4etech) that streamline conservation workflows.
 
