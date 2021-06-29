@@ -5,7 +5,7 @@ author: "FOSS4G 2021"
 draft: false
 menu:
   main:
-    parent: "About"
+    parent: "Acerca de"
     weight: -1
 weight: 4
 ---

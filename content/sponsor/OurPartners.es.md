@@ -5,7 +5,7 @@ draft: false
 type: partners
 menu:
   main:
-    parent: "Sponsor"
+    parent: "Patrocinios"
     weight: 10
 ---
 
