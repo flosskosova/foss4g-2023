@@ -5,8 +5,8 @@ Short: "Scientist at the Austrian Institute of Technology (AIT). QGIS PSC member
 Longer: "Anita Graser is a researcher, open source GIS developer, and author. 
 
 She works at the Austrian Institute of Technology in Vienna, teaches Python for QGIS at UNIGIS Salzburg and serves on the QGIS project steering committee. She has published several books about QGIS, including “Learning QGIS” and “QGIS Map Design”. In 2020, she was awarded the OSGeo Sol Katz award. Her latest project is MovingPandas, a Python library for analyzing movement data. "
-Talk: 
-Abstract: 
+Talk: "Open source for open spatial data science"
+Abstract: "Many innovative analysis approaches presented in scientific publications are hard or impossible to reproduce. This slows down the uptake of new ideas and makes it harder for others to improve on these ideas. Just as open science in general needs open source software, it is clear that open and reproducible spatial data science needs open source GIS. In this talk, I will share my vision for the future of spatial data science in academia and industry, related challenges and potential beyond the core community of geospatial experts."
 Link: keynote/anitagraser.html
 Web: https://anitagraser.com
 Twitter: underdarkGIS
