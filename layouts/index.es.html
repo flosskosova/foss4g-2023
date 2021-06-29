@@ -3,68 +3,53 @@
   <section class="row main-header obscured">
     <div class="container">
       <div class="row">
-        <div class="col-1 col-sm-2"></div>
-        <div class="mt-5 col-10 col-sm-8">
-          <!-- <div class="w-100"> -->
-          <!-- <div class="container d-flex flex-column align-items-center mt-5"> -->
-          <!-- <h1 class="display-4">{{ .Site.Title }}</h1> -->
+        <div class="mt-3 col-10 col-sm-8">
           <img
             src="/images/logo_horizontal_b.svg"
             alt="main-logo"
-            class="mb-5"
+            class="mb-3"
             loading="lazy"
-          /> 
-          <!-- </div> -->
-          <!-- </div> -->
+          />
         </div>
-        <div class="col-1 col-sm-2"></div>
       </div>
 
-      <div class="row">
+      <div class="mt-2 row">
         <div class="col-12">
           {{- with .Site.Params.description -}}
           <h1 class="font-weight-bold text-center" style="color:white">{{ . | safeHTML }}</h1>
-          <h4 class="font-weight-bold text-center">Conferencia Virtual ONLINE</h4>
+          <h2 class="font-weight-bold text-center" style="color:white">Conferencia Virtual ONLINE</h2>
           {{- end -}}
           {{- with .Site.Params.dates -}}
-          <h4 class="font-weight-bold text-center mb-5">{{ . | safeHTML }}</h4>
+          <h3 class="font-weight-bold text-center mb-5" style="color:white">{{ . | safeHTML }}</h3>
           {{- end -}}
         </div>
       </div>
       <div class="row">
         <div class="col d-flex justify-content-center">
-          <a
-            style="text-decoration:none"
-            href="https://registration.2021.foss4g.org/OSGeo/FOSS4G/"
-          >
-            <button
-              type="button"
-              name="button"
-              class="btn btn-light rounded-pill px-5 py-2 mb-5"
-            >
-              Comprá tus entradas
+          <a style="text-decoration:none" href="https://registration.2021.foss4g.org/OSGeo/FOSS4G/">
+            <button type="button" name="button" class="btn btn-light rounded-pill px-3 py-2 mb-5">
+            Comprá tus entradas
             </button>
           </a>
         </div>
-      </div>
-      <div class="row">
         <div class="col d-flex justify-content-center">
-          <a
-            style="text-decoration:none"
-            href="sponsor/callforsponsorsopportunities.html"
-          >
-            <button
-              type="button"
-              name="button"
-              class="btn btn-light rounded-pill px-5 py-2 mb-5"
-            >
-              Apóyanos con tu Patrocinio
+          <a style="text-decoration:none" href="sponsor/callforsponsorsopportunities.html">
+            <button type="button" name="button" class="btn btn-light rounded-pill px-5 py-2 mb-5">
+            Patrociná el evento
+            </button>
+          </a>
+        </div>
+        <div class="col d-flex justify-content-center">
+          <a style="text-decoration:none" href="schedule/outline.html">
+            <button type="button" name="button" class="btn btn-light rounded-pill px-3 py-2 mb-5">
+            Consultá el Calendario
             </button>
           </a>
         </div>
       </div>
     </div>
   </section>
+  
 
   <section class="countdown py-4 py-lg-5">
     <div class="row">
@@ -75,42 +60,6 @@
       <div class="col-1 col-sm-2 col-lg-3"></div>
     </div>
     {{ partial "hero-area.html" . }}
-  </section>
-
-  <section class="row cfp py-5">
-    <div class="container">
-      <div class="row mb-4">
-        <h2 class="col text-center">
-          Convocatoria de ponencias
-        </h2>
-      </div>
-      <div class="row">
-        <div class="col-12 col-md-3 text-center mb-4">
-          <span class="dot bg-orange mb-3"></span>
-          <h6>Convocatoria de propuestas para charlas y talleres</h6>
-          <p class="mb-0">20/11/2020</p>
-          <p class="mb-0">-</p>
-          <p class="mb-0">30/03/2021</p>
-        </div>
-        <div class="col-12 col-md-3 text-center mb-4">
-          <span class="dot bg-yellow mb-3"></span>
-          <h6>Votación de la comunidad para propuestas de charlas</h6>
-          <p class="mb-0">03/04/2021</p>
-          <p class="mb-0">-</p>
-          <p class="mb-0">10/04/2021</p>
-        </div>
-        <div class="col-12 col-md-3 text-center mb-4">
-          <span class="dot bg-violet mb-3"></span>
-          <h6>Comunicación de aceptación de charlas y talleres</h6>
-          <p>06/2021</p>
-        </div>
-        <div class="col-12 col-md-3 text-center mb-4">
-          <span class="dot bg-lightblue mb-3"></span>
-          <h6>Programa completo publicado</h6>
-          <p>01/07/2021</p>
-        </div>
-      </div>
-    </div>
   </section>
   
   
