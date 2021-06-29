@@ -6,7 +6,7 @@ draft: false
 
 menu:
   main:
-    parent: 'Call for Papers'
+    parent: 'Presentaciones'
     weight: 2
     
 ---
