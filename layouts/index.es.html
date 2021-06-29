@@ -24,10 +24,10 @@
         <div class="col-12">
           {{- with .Site.Params.description -}}
           <h1 class="font-weight-bold text-center" style="color:white">{{ . | safeHTML }}</h1>
-          <h4 class="font-weight-bold text-center">Conferencia Virtual ONLINE</h4>
+          <h2 class="font-weight-bold text-center" style="color:white">Conferencia Virtual ONLINE</h2>
           {{- end -}}
           {{- with .Site.Params.dates -}}
-          <h4 class="font-weight-bold text-center mb-5">{{ . | safeHTML }}</h4>
+          <h3 class="font-weight-bold text-center mb-5" style="color:white">{{ . | safeHTML }}</h3>
           {{- end -}}
         </div>
       </div>
