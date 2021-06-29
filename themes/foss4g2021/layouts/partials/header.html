@@ -14,7 +14,7 @@
 								{{ range . }}
 										{{ if .HasChildren }}
 												<li class="nav-item dropdown {{ if $current.HasMenuCurrent "main" . }}active{{ end }}">
-														<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+														<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 																{{ .Pre }}
 																{{ .Name }}
 														</a>
