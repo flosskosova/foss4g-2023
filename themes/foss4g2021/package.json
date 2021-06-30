@@ -4,7 +4,7 @@
   "main": "webpack.config.js",
   "license": "MIT",
   "scripts": {
-    "build": "rollup --config rollup.config.js",
+    "build": "cp bootstrap.scss node_modules/bootstrap/scss/bootstrap.scss && rollup --config rollup.config.js",
     "watch": "rollup --watch --config rollup.config.js"
   },
   "dependencies": {
