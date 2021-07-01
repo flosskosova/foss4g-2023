@@ -1,5 +1,5 @@
 ---
-title: "General Schedule"
+title: "Workshop Schedule"
 description: "Outline of activities for the FOSS4G."
 draft: false
 menu:
@@ -7,6 +7,6 @@ menu:
     parent: "Schedule"
     weight: 4
 weight: 1
-type: schedule_talks
+type: schedule_workshops
 ---
 
