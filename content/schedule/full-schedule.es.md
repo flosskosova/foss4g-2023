@@ -1,23 +1,12 @@
 ---
-title: "Programa completo"
-description: "Full schedule of the FOSS4G"
-draft: true
+title: "Calendario de Charlas por Sala"
+description: "Mantente informado de todas las conferencias, talleres y actividades de la FOSS4G, el mayor evento internacional de información GeoEspacial y software libre."
+draft: false
 menu:
   main:
     parent: "Programa"
     weight: 4
-weight: 2
+weight: 1
+type: schedule_talks
+calendar_type: "grid"
 ---
-
-{{< rawhtml >}}
-<script type="text/javascript" src="https://callforpapers.2021.foss4g.org/foss4g2021/schedule/widget/v2.en.js"></script>
-<pretalx-schedule event-url="https://callforpapers.2021.foss4g.org/foss4g2021/" locale="en" format="list" style="--pretalx-clr-primary: #ED7E22"></pretalx-schedule>
-<noscript>
-   <div class="pretalx-widget">
-        <div class="pretalx-widget-info-message">
-            JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://callforpapers.2021.foss4g.org/foss4g2021/schedule/">click here</a>.
-        </div>
-    </div>
-</noscript>
-{{< /rawhtml >}}

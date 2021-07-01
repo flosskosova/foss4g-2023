@@ -1,23 +1,13 @@
 ---
-title: "Full Schedule"
-description: "Full Schedule of the FOSS4G."
-draft: true
+title: "General Schedule by Room"
+description: "Outline of activities for the FOSS4G by room."
+draft: false
 menu:
   main:
     parent: "Schedule"
     weight: 4
-weight: 2
+weight: 1
+type: schedule_talks
+calendar_type: "grid"
 ---
 
-{{< rawhtml >}}
-<script type="text/javascript" src="https://callforpapers.2021.foss4g.org/foss4g2021/schedule/widget/v2.en.js"></script>
-<pretalx-schedule event-url="https://callforpapers.2021.foss4g.org/foss4g2021/" locale="en" format="list" style="--pretalx-clr-primary: #ED7E22"></pretalx-schedule>
-<noscript>
-   <div class="pretalx-widget">
-        <div class="pretalx-widget-info-message">
-            JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://callforpapers.2021.foss4g.org/foss4g2021/schedule/">click here</a>.
-        </div>
-    </div>
-</noscript>
-{{< /rawhtml >}}

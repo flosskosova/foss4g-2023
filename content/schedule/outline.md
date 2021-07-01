@@ -8,5 +8,6 @@ menu:
     weight: 4
 weight: 1
 type: schedule_talks
+calendar_type: "list"
 ---
 
