@@ -1,4 +1,3 @@
-
 To login, you have to access your registration order. Open the email that was sent by *registration*@*foss4g.org* when you bought your ticket. The subject of the email should start with **"[FOSS4G-2021]Your order:**. 
 
 At the bottom of that email there must be a link to *View order details*. Click on that link and you will find a login button for each attendee registered using that order:
@@ -49,7 +48,7 @@ If you feel the need to block someone, check our [Code of Conduct](/about/coc.ht
 
 ### Watching a session
 
-There are two tabs for the schedule. The [Schedule](https://2021-foss4g.venueless.events/schedule) tab contains the main sessions and social gatherings schedule. The [Workshop Schedule](https://2021-foss4g.venueless.events/schedule) tab will show the schedule for workshops and practical sessions. You need to [register](https://registration.2021.foss4g.org) for the specific workshops to be able to attend them.
+There are two tabs for the schedule. The [Schedule](https://2021-foss4g.venueless.events/schedule) tab contains the main sessions and social gatherings schedule. The [Workshop Schedule](https://2021-foss4g.venueless.events/rooms/d2602dbc-957d-4316-b9af-d8cf9fc3708f) tab will show the schedule for workshops and practical sessions. You need to [register](https://registration.2021.foss4g.org) for the specific workshops to be able to attend them.
 
 Once you choose which session you want to attend, look for the name of the room at the **stages tabs** on the left menu. After clicking on the tab, the selected stage will open.
 
