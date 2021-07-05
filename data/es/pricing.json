@@ -21,12 +21,12 @@
     {
       "title": "Regional",
       "price": "USD$ 70",
-      "features": ["Only for attendees from Latin America"]
+      "features": ["Sólo para residentes de Latino América"]
     },
     {
       "title": "Local",
       "price": "USD$ 50",
-      "features": ["Only for attendees from Argentina"]
+      "features": ["Sólo para residentes de Argentina"]
     },
     {
       "title": "Estudiante General",
@@ -44,9 +44,19 @@
       "features": ["Sólo para estudiantes de Argentina"]
     },
     {
-      "title": "Workshops",
-      "price": "Pronto",
+      "title": "Taller General",
+      "price": "USD$ 35",
       "features": []
+    },
+    {
+      "title": "Taller Regional",
+      "price": "USD$ 30",
+      "features": ["Sólo para residentes de Latino América"]
+    },
+    {
+      "title": "Taller Local",
+      "price": "USD$ 25",
+      "features": ["Sólo para residentes de Argentina"]
     }
   ]
 }

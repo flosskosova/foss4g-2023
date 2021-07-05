@@ -44,9 +44,19 @@
       "features": ["Only for students from Argentina"]
     },
     {
-      "title": "Workshops",
-      "price": "Soon",
+      "title": "Workshop General",
+      "price": "USD$ 35",
       "features": []
+    },
+    {
+      "title": "Workshop Regional",
+      "price": "USD$ 30",
+      "features": ["Only for attendees from Latin America"]
+    },
+    {
+      "title": "Workshop Local",
+      "price": "USD$ 25",
+      "features": ["Only for attendees from Argentina"]
     }
   ]
 }
