@@ -1,0 +1,5 @@
+image: "pyCSW.png"
+tagline: "Metadata Publishing Just Got Easier"
+description: "pycsw is an OARec and OGC CSW server implementation written in Python"
+link: "https://pycsw.org"
+order: 101

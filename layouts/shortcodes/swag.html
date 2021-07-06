@@ -1,0 +1,25 @@
+<div class="content-page container-fluid">
+  {{ range sort .Site.Data.swag ".order" }}
+    <div class="row">
+      <h1 class="swag col-sm-12">
+        <a class="swag-name" href="{{ .link }}" target="_blank" title="{{ .tagline }}">
+        {{ .tagline }}
+        </a>
+      </h1>
+    </div>
+	  <div class="row">
+        <a class="col-sm-3" href="{{ .link }}" target="_blank" title="{{ .description }}" alt="{{ .tagline }}">
+          
+          <div class="swag-background" style="background-image: url(/images/swag/{{ .image }});">
+          </div>
+        
+          <div class="hover-me" style="width:20vw;height:20vw;position:relative">
+
+          </div>
+        </a>
+        <div class="col-sm-9">
+          <p class="swag-description ">{{ .description}}</p>
+        </div>     
+    </div>
+  {{ end }}
+</div>

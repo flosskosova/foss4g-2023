@@ -443,10 +443,6 @@ footer.footer {
   padding:5%;
 }
 
-.hover-content {
-  display:none;
-}
-
 .keynoter:hover .keynote-background {
   filter:grayscale(70%);
   opacity: 0.4;
@@ -454,6 +450,43 @@ footer.footer {
  
 .hover-me:hover .hover-content {
   display:block;
+}
+
+.hover-content {
+  display:none;
+}
+
+/** Swag **/
+
+.swag {
+  float:left;
+}
+
+.swag-background {
+  width:20vw;
+  height:20vw;
+  background-repeat:no-repeat;
+  background-size:cover;
+  position:absolute;
+}
+
+.swag-name, a.swag-name:hover {
+  color:black;
+  text-decoration:none;
+  text-shadow: 3px 3px 3px #793C97; 
+  font-size: 22px;
+}
+
+.swag-description {
+  text-shadow: 2px 2px 3px white; 
+  position:absolute; 
+  margin:auto;
+  padding:5%;
+}
+
+.swag:hover .swag-background {
+  filter:grayscale(70%);
+  opacity: 0.4;
 }
 
 /** Malena **/

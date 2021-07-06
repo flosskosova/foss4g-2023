@@ -1,0 +1,5 @@
+image: "pygeoapi.png"
+tagline: "The Python OGC API Reference Implementation"
+description: "pygeoapi is a Python server implementation of the OGC API suite of standards"
+link: "https://pygeoapi.io"
+order: 101

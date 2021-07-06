@@ -1,0 +1,5 @@
+image: "gvSIG.png"
+tagline: "gvSIG Desktop, a powerful GIS and SDI client"
+description: "gvSIG Desktop is a powerful Geographic Information System that is part of the gvSIG Suite. The gvSIG Suite is a whole catalogue of open source software solutions, composed of “horizontal” solutions and a wide range of sector products. The current main products are: gvSIG Desktop (geographic information system for editing, 3D analysis, geoprocessing, maps, etc.), gvSIG Online (integral platform for Spatial Data Infrastructure -SDI- implementation) and gvSIG Mobile (mobile application for Android, for field data gathering)."
+link: "http://www.gvsig.com/en/products/gvsig-desktop/downloads"
+order: 100

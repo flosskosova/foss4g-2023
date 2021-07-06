@@ -1,0 +1,5 @@
+image: "pygeometa.png"
+tagline: "Metadata Creation for the Rest of Us"
+description: "pygeometa is a Python package to generate metadata for geospatial datasets"
+link: "https://geopython.github.io/pygeometa"
+order: 101
