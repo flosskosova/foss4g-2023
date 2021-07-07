@@ -20,20 +20,24 @@ There are some tasks that session leaders should complete to prepare for the eve
 
 ### Contact Speakers
 
-You should contact all the speakers in your session **before August 1st**. Organize a video meeting with them to check the following (you can use this list during the meeting):
+You should contact all the speakers in your session **before August 1st**. 
+
+Organize a video meeting with them to check the following (you can use this list during the meeting):
 
  * **When** their talk is going to take place. 
      - Make sure timezones are clear.
      - Let them know they should be there at least 20 minutes before their talk.
- * **Where** their talk is going to take place. You have to provide them with the link to connect.
- * Test the platform (described on the following sections) to make sure everything works fine:
+ * **Where** their talk is going to take place. You have to provide them with the [link to connect](#link-for-the-speakers).
+ * **Test** the [platform](#streamyard) to make sure everything works fine:
      - Microphone
      - Camera
      - Headphones or earbuds to avoid audio echoes
      - A recent version of Chrome or Firefox
      - Share screen/slides
      - If they want to share a video, check the sound and the framerate
- * What is their preferred contact channel if something goes wrong (they don't show up, there are technical issues). Telegram? Matrix? Phone?
+ * **What** is their preferred contact channel if something goes wrong (they don't show up, there are technical issues). Telegram? Matrix? Phone?
+
+You can use Streamyard as the place to meet if you share a [link](#link-for-the-speakers) of one of the testing broadcasts.
 
 If there are any issues and they can not make it on time for their slot, they should send a video **before August 30th** with their recorded talk, so we can play it instead. The video must be no longer than 20 minutes.
 
@@ -46,10 +50,6 @@ A Session Leader should prepare a short bio of each speaker in the session to gi
 ### Questions for Speakers
 
 Although not mandatory, it is always a courtesy to prepare one or two questions for each speaker in your session in case there are no questions from the audience.
-
-### Backup Session Leader
-
-As this is an online event, there may be problems that may prevent you from moderating the session. It would be good if you can find a backup person that can cover you in case you can't make it. We will have a pool of candidates to cover any issues, but as there may be more than one incident at the same time, it is always better to have someone explicitly watching if you enter your session.
 
 ## During the Event
 
@@ -151,13 +151,15 @@ The brand is the style used on the streaming. Make sure the selected brand is th
 
 ![](/images/tutorials/streamYardBrand.png "")
 
+Brand will not be available to select until we approach the date of the event.
+
 ## Venueless
 
 This is the place where attendees will watch the conference. You can learn how to use it on [the tutorial for speakers](speaker.html).
 
 ### Interacting with the audience
 
-Venueless has a built-in feature for Q&A as described above. Use it to pass the comments and questions from the audience to your speakers. Keep both Venueless and Streamyard open all the time to check if the streaming is working properly. 
+Venueless has a built-in feature for Q&A inside each room. Use it to pass the comments and questions from the audience to your speakers. Keep both Venueless and Streamyard open all the time to check if the streaming is working properly. 
 
 ### Technical Issues
 
