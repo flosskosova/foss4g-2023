@@ -29,7 +29,7 @@ You should contact all the speakers in your session **before August 1st**. Organ
 
 If there are any issues and they can not make it on time for their slot, they should send a video **before August 30th** with their recorded talk, so we can play it instead. The video must be no longer than 20 minutes.
 
-You may also want to send a calendar invitation with all the details just to make sure they don't forget anything.
+Send an email with the information at the end of your meeting with all the information. You may also want to add a calendar invitation with all the details just to make sure they don't forget anything.
 
 ### Introductions 
 
@@ -85,6 +85,13 @@ Before clicking on that button, nothing will be shown to the attendees. If you d
 
 ![](/images/tutorials/streamyardEndBroadcast.png "")
 
+#### Link for the speakers
+
+Select the broadcast your speaker is going to participate and send them the link to join. You can use the email option that generates automatically an email with the link. 
+
+![](/images/tutorials/streamYardInvite1.png "")
+
+![](/images/tutorials/streamYardInvite2.png "")
 
 ### Using the platform
 
@@ -138,9 +145,7 @@ The brand is the style used on the streaming. Make sure the selected brand is th
 
 ## Venueless
 
-This is the place where attendees will watch the conference. 
-
-{{content/tutorials/venueless.md}} 
+This is the place where attendees will watch the conference. You can learn how to use it on [the tutorial for speakers](speaker.html).
 
 ### Interacting with the audience
 
@@ -148,8 +153,20 @@ Venueless has a built-in feature for Q&A as described above. Use it to pass the 
 
 ### Technical Issues
 
+Here are some quick fixes for your technical issues.
+
+#### I accidentally deleted the broadcast or I can't find it in Streamyard
+
+There should be a backup broadcast you can use defined on the same account. Make sure you give the new link to all your speakers in the session and that you warn us on info@foss4g.org so we fix the broadcast list.
+
+
+#### Streamyard is not working
+
 If you are experiencing issues on Streamyard, you can use the *"Having issues?"* link to open a chat and ask for technical assistance.
 
 ![](/images/tutorials/streamyardHelp.png "")
+
+
+#### Where can I contact you?
 
 If you face any technical issue you don't know how to solve, please contact at info@foss4g.org .
