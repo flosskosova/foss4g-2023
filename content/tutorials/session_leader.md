@@ -65,7 +65,7 @@ Each room has an email associated you can use to login on *https://streamyard.co
 
 Streamyard will then ask you for a code you can find on https://groups.google.com/g/foss4g2021_session_leaders/ If you don't have access to this platform, let us know.
 
-![](/images/tutorials/streamyardCode.png "")
+![](/images/tutorials/streamYardCode.png "")
 
 Make sure you use the code associated to the room you want to log in. Remove that message after using the code.
 
