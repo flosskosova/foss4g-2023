@@ -6,6 +6,14 @@ draft: false
 
 The software stack for this event has two separate components: one for speakers and one for attendees.
 
+## Cheatsheet
+ - [Preparations Before the Event](#preparations-before-the-event)
+    - [Contact Speakers](#contact-speakers)
+ - [During the Event](#during-the-event)
+    - [StreamYard](#streamyard)
+    - [Interacting with the Audience](#interacting-with-the-audience)
+ - [Technical Issues](#technical-issues)
+
 ## Preparations Before the Event
 
 There are some tasks that session leaders should complete to prepare for the event. If you can't finish them on time, please let us know so we can plan ahead.
