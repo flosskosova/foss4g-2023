@@ -61,9 +61,13 @@ Remember that all talks will follow a strict 20 minutes of presentation, 5 minut
 
 This is the platform where **speakers** will present the talks.
 
-You should have been provided with an email you can use to login on *https://streamyard.com/*. That email will forward the login code to your email account to authenticate.
+Each room has an email associated you can use to login on *https://streamyard.com/login*. 
 
-If you are helping on a session you are not assigned to, you will have to use the email and check your login code on the google groups page associated to the room you want to broadcast.
+Streamyard will then ask you for a code you can find on https://groups.google.com/g/foss4g2021_session_leaders/ If you don't have access to this platform, let us know.
+
+![](/images/tutorials/streamyardCode.png "")
+
+Make sure you use the code associated to the room you want to log in. Remove that message after using the code.
 
 ### Entering the Broadcast Studio
 
