@@ -79,7 +79,7 @@ Once you login to Streamyard, you will see a list of possible Broadcasts. Use th
 
 ![](/images/tutorials/streamyardGoLive.png "")
 
-Before clicking on that button, nothing will be shown to speakers. If you don't click that button, the session will not start on Venueless.
+Before clicking on that button, nothing will be shown to the attendees. If you don't click that button, the session will not start on Venueless.
 
 **At the end of the session, don't forget to *End Broadcast* to stop the streaming.**
 
