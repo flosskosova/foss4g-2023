@@ -155,7 +155,7 @@ Brand will not be available to select until we approach the date of the event.
 
 ## Venueless
 
-This is the place where attendees will watch the conference. You can learn how to use it on [the tutorial for speakers](speaker.html).
+This is the place where attendees will watch the conference. You can learn how to use it on [the tutorial for attendees](attendee.html).
 
 ### Interacting with the audience
 

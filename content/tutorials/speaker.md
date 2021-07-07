@@ -12,8 +12,8 @@ You should have the following ready:
 
  * Check **when** your talk is going to take place. 
      - Make sure timezones are clear.
-     - Make sure you will be available for the talk.
-     - You should connect at least 20 minutes before your talk.
+     - Make sure you will be available for the talk. If not, you have to provide a pre-recorded video of your talk.
+     - You should connect at least 10 minutes before your talk.
  * Make sure you have the following ready:
      - Stable network connection (minimum 5Mbps). Better by wire.
      - Microphone
@@ -41,7 +41,7 @@ Your Session Leader will pass the questions and comments to you. You don't have 
 
 This is where you login as a speaker to stream your content.
 
-You should have been provided with a login URL that starts with *https://streamyard.com/* 
+You should have been provided with a login URL that starts with *https://streamyard.com/* and ends with a token.
 
 **Do not share this link with anyone or you may be blocked from the event.**
 
