@@ -8,7 +8,7 @@ The software stack for this event has two separate components: one for speakers 
 
 ## Cheatsheet
  - [Preparations Before the Event](#preparations-before-the-event)
-    - [Contact Speakers](#contact-speakers)
+    - [Contact Speakers (before 1st of August)](#contact-speakers)
  - [During the Event](#during-the-event)
     - [StreamYard](#streamyard)
     - [Interacting with the Audience](#interacting-with-the-audience)
