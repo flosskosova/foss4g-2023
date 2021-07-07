@@ -1,10 +1,10 @@
 ---
-title: "Attendee Guidelines"
-description: "Guidelines for our speakers"
+title: "Guía del Asistente"
+description: "Instrucciones para asistentes al evento."
 draft: false
 menu:
   main:
-    parent: "Schedule"
+    parent: "Programa"
     weight: 5
 ---
 
