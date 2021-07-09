@@ -19,10 +19,10 @@ Development of Open Source based geospatial technology maintenance, support and 
 
 Social media handles:
 
-@terrestrisde (Twitter)
+[Twitter](https://twitter.com/terrestrisde)
 
-https://github.com/terrestris (GitHub)
+[GitHub](https://github.com/terrestris)
 
-https://www.linkedin.com/company/terrestris-gmbh-co-kg (LinkedIn)
+[LinkedIn](https://www.linkedin.com/company/terrestris-gmbh-co-kg)
 
 [You can find more info on their webpage.](https://www.terrestris.de/en/)
