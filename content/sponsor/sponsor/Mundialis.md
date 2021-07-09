@@ -22,10 +22,10 @@ Our team consists of 12 experts with a strong geospatial background. We are happ
 
 Social media handles
 
-@MundialisInfo (Twitter)
+[twitter](https://twitter.com/MundialisInfo)
 
-https://github.com/mundialis (GitHub)
+[GitHub](https://github.com/mundialis)
 
-https://www.linkedin.com/company/mundialis-gmbh-&-co--kg (LinkedIn)
+[LinkedIn](https://www.linkedin.com/company/mundialis-gmbh-&-co--kg)
 
 [You can find more info on their webpage.](https://www.mundialis.de/en/)
