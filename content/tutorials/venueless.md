@@ -1,4 +1,4 @@
-To login, you have to access your registration order. Open the email that was sent by *registration*@*foss4g.org* when you bought your ticket. The subject of the email should start with **"[FOSS4G-2021]Your order:**. 
+To login, you have to access your registration order. Open the email that was sent by *registration*@*foss4g.org* when you bought your ticket. The subject of the email should start like **[FOSS4G-2021] Your order:**. 
 
 At the bottom of that email there must be a link to *View order details*. Click on that link and you will find a login button for each attendee registered using that order:
 
@@ -10,7 +10,7 @@ You can use that button on different browsers and computers and it will always o
 
 **Do not share this email or the related link with anyone or you may be blocked from the event.**
 
-If you can't find the email with your order, you can request a copy of the email on the following url: https://registration.2021.foss4g.org/OSGeo/FOSS4G/resend/ You must use the same email you used to register.
+If you can't find the email with your order, you can request a copy of the email on the following url: https://registration.2021.foss4g.org/OSGeo/FOSS4G/resend/. Remember to use the same email you used to register.
 
 ### Profile
 
@@ -20,7 +20,7 @@ First, fill in your name and lastname. This is the name you will use to interact
 
 ![](/images/tutorials/profileName.png "")
 
-Then, you may want to upload a photo. This photo will be visible to all attendees of the conference. Make sure you choose one according to the professional profile you want to be associated with. It is perfectly fine not to use a photo if you want to keep your privacy. But if you are interested in interacting with other attendees, uploading a photo here will help.
+Then, you may want to upload a photo. This photo will be visible to all attendees. Make sure you choose one according to the professional profile you want to be associated with. It is perfectly fine not to use a photo if you want to keep your privacy. But if you are interested in interacting with other attendees, uploading a photo here will help.
 
 ![](/images/tutorials/profileImage.png "")
 
