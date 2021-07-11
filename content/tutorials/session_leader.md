@@ -20,7 +20,7 @@ There are some tasks that session leaders should complete to prepare for the eve
 
 ### Contact Speakers
 
-You should contact all the speakers in your session **before August 1st**. 
+You should contact all the speakers in your session **before August 1st**. We will provide you with the list of speakers and their emails.
 
 Organize a video meeting with them to check the following (you can use this list during the meeting):
 
@@ -39,13 +39,13 @@ Organize a video meeting with them to check the following (you can use this list
 
 You can use Streamyard as the place to meet if you share a [link](#link-for-the-speakers) of one of the testing broadcasts.
 
-If there are any issues and they can not make it on time for their slot, they should send a video **before August 30th** with their recorded talk, so we can play it instead. The video must be no longer than 20 minutes.
+If there are any issues and they can not make it on time for their slot, they should send a video **before August 30th** with their recorded talk, so we can play it instead. The video must be no longer than 20 minutes. We will provide you with a link where to upload speaker videos when required.
 
-Send an email with the information at the end of your meeting with all the information. You may also want to add a calendar invitation with all the details just to make sure they don't forget anything.
+Send an email at the end of your meeting with all the information. You may also want to add a calendar invitation with all the details just to make sure they don't forget anything.
 
 ### Introductions 
 
-A Session Leader should prepare a short bio of each speaker in the session to give a proper introduction before they start presenting. You can use the data from the schedule, but read at least once who they are and be prepared.
+A Session Leader should prepare a short bio of each speaker in the session to give a proper introduction before they start presenting. You can use the data from the schedule, but read at least once who they are and be prepared. You could also ask the speakers how they prefer to be introduced.
 
 ### Questions for Speakers
 
@@ -69,9 +69,9 @@ Remember that all talks will follow a strict 20 minutes of presentation, 5 minut
 
 This is the platform where **speakers** will present the talks.
 
-Each room has an email associated you can use to login on *https://streamyard.com/login*. 
+As shown below, each room has an email associated that you can use to login on *https://streamyard.com/login*. 
 
-Streamyard will then ask you for a code you can find on https://groups.google.com/g/foss4g2021_session_leaders/ If you don't have access to this platform, let us know.
+Streamyard will then ask you for a code you can find on https://groups.google.com/g/foss4g2021_session_leaders/. If you don't have access to this platform, please let us know.
 
 ![](/images/tutorials/streamYardCode.png "")
 
@@ -79,11 +79,11 @@ Make sure you use the code associated to the room you want to log in. Remove tha
 
 ### Entering the Broadcast Studio
 
-Once you login to Streamyard, you will see a list of possible Broadcasts. Use the "Enter Studio" button for the one related to the room you want to broadcast.
+Once you login to Streamyard, you will see a list of possible Broadcasts. Use the "Enter Studio" button to reach the room you want to broadcast.
 
 ![](/images/tutorials/streamyardBroadcasts.png "")
 
-**Once you are ready to start streaming, don't forget to *Go Live* to start the broadcast.**
+**Once you are ready to start streaming, don't forget to hit *Go Live* to start the broadcast.**
 
 ![](/images/tutorials/streamyardGoLive.png "")
 
@@ -95,7 +95,7 @@ Before clicking on that button, nothing will be shown to the attendees. If you d
 
 #### Link for the speakers
 
-Select the broadcast your speaker is going to participate and send them the link to join. You can use the email option that generates automatically an email with the link. 
+Select the broadcast your speaker is going to participate and send them the link to join. You can use the email option which will automatically generate an email with the link. 
 
 ![](/images/tutorials/streamYardInvite1.png "")
 
@@ -111,13 +111,13 @@ You can easily add and remove video pieces from the bottom list of available opt
 
 ![](/images/tutorials/streamYardAddToStream.png "")
 
-Try to minimize the amount of content on the stream. If it is not the slot of some speaker, don't add them until their slot starts.
+Try to minimize the amount of content on the stream queue. Add speakers **only** when their presentation slot is about to start.
 
 #### Selecting the visualization
 
 You can choose different visualization modes and, depending on the type of content (panel, presentation with single speaker or with multiple speakers) you can decide which mode to use.
 
-It is recommended to select a mode that shows multiple faces when introducing a speaker, especially if there are more than one speaker.
+It is recommended to select a mode that shows multiple faces when introducing a speaker, and especially if there are more than one speaker.
 
 ![](/images/tutorials/streamYardOnlySpeakers.png "")
 
@@ -155,7 +155,7 @@ Brand will not be available to select until we approach the date of the event.
 
 ## Venueless
 
-This is the place where attendees will watch the conference. You can learn how to use it on [the tutorial for attendees](attendee.html).
+This is the place where attendees will watch the conference and post their questions. You can learn how to use it on [the tutorial for attendees](attendee.html).
 
 ### Interacting with the audience
 
@@ -163,12 +163,11 @@ Venueless has a built-in feature for Q&A inside each room. Use it to pass the co
 
 ### Technical Issues
 
-Here are some quick fixes for your technical issues.
+Here are some quick fixes for technical issues that may arise.
 
 #### I accidentally deleted the broadcast or I can't find it in Streamyard
 
 There should be a backup broadcast you can use defined on the same account. Make sure you give the new link to all your speakers in the session and that you warn us on info@foss4g.org so we fix the broadcast list.
-
 
 #### Streamyard is not working
 
@@ -176,7 +175,6 @@ If you are experiencing issues on Streamyard, you can use the *"Having issues?"*
 
 ![](/images/tutorials/streamyardHelp.png "")
 
-
 #### Where can I contact you?
 
-If you face any technical issue you don't know how to solve, please contact at info@foss4g.org .
+If you face any technical issue you don't know how to solve, please contact us at info@foss4g.org.

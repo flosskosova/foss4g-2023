@@ -21,7 +21,7 @@ You should have the following ready:
      - Updated browser (Chromium or Firefox better)
  * If you want to share a video, make sure you let your session leader know about it
 
-If there are any issues and you can not be on time for your slot or your network connection is not stable enough, please contact your session leader and send a video with your talk **before August 30th**, so we can play it instead. The video must be no longer than 20 minutes.
+If there are any issues and you cannot be on time for your slot or your network connection is not stable enough, please contact your session leader and send a video with your talk **before August 30th**, so we can play it instead. The video must be no longer than 20 minutes.
 
 ## During the Event
 
