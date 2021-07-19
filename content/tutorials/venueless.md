@@ -66,8 +66,23 @@ There is a list of text channels you can use to interact with the rest of the at
 
 ![Message Call Block](/images/tutorials/browseChannels.png "")
 
-### Social Gathering
+### Social Gatherings
 
-We have a special section for Social Gatherings.
+We have special sections to interact with other attendees. You can access all these social interactions by choosing them on the left menu.
 
-//TODO
+#### Meet your peers!
+
+On the "Meet your peers!" tab you will find a list of all participants on FOSS4G 2021. You can search by some keyworks and open the profiles of the people that catch your eye. On their profile, you can choose to message them, which will open a private text chat directly to that user.
+
+#### Speed Dating
+
+You can try our experimental speed dating. Enter the left menu option called "Speed Dating" and "Start a new call". Venueless will match you with a random attendee that is also wanting to meet new people.
+
+Depending on the time of the day, there may be not many candidates to match. Feel free to try later, maybe during some break!
+
+
+#### Social Gathering
+
+This is the place where we will meet for Gala Dinner, Ice Breaker and many more social activities. This space will remind you of vintage video games in which you choose a character and a name and walk on a map discovering easter eggs and talking to other people.
+
+Take a walk with your dog on Buenos Aires, run around the obelisk, visit the floralis generica, join a group of people and talk to them or just find all the secrets of the map. There will be a ranking for the discoverers of all the treasures on the map. Don't be late!
