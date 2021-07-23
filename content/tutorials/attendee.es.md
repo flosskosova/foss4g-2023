@@ -4,8 +4,8 @@ description: "Instrucciones para asistentes al evento."
 draft: false
 menu:
   main:
-    parent: "Programa"
-    weight: 5
+    parent: "Participantes"
+    weight: 4
 ---
 
 FOSS4G 2021 is an online event that will take place on the following stack.

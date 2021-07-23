@@ -4,7 +4,7 @@ description: "Guidelines for our speakers"
 draft: false
 menu:
   main:
-    parent: "Schedule"
+    parent: "Attending"
     weight: 5
 ---
 

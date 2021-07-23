@@ -1,0 +1,41 @@
+{{ define "main" }}
+<main class="content-page container pt-7 pb-5">
+  <div class="row">
+    <div class="col">
+      <article>
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <h1 class="mb-3">{{ .Title }}</h1>
+
+              {{ .Page.Params.Description }}
+
+            <div class="content row">
+                <div class="col-lg-4">
+                  <h2>Only for Argentina</h2>
+                  <a href="https://geolibres.flashcookie.com/" target="_blank">
+                    <img width="100%" src="/images/shop1.jpg"/>
+                    <p style="text-align:center;text-decoration:none">FlashCookie</p>
+                  </a>
+                </div>
+                <div class="col-lg-4">
+                  <h2>Most of the World</h2>
+                  <a href="https://www.redbubble.com/es/people/osgeo/shop" target="_blank">
+                    <img width="100%" src="/images/shop2.jpg"/>
+                    <p style="text-align:center;text-decoration:none">Redbubble</p>
+                  </a>
+                </div>
+                <div class="col-lg-4">
+                  <h2>Most of the World</h2>
+                  <a href="https://www.cafepress.com/profile/osgeo/" target="_blank">
+                    <img width="100%" src="/images/shop3.jpg"/>
+                    <p style="text-align:center;text-decoration:none">CafePress</p>
+                  </a>
+                </div>
+            </div>
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</main>
+{{ end }}
