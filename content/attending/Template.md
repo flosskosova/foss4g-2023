@@ -1,6 +1,6 @@
 ---
 title: "Template"
-description: "Suggested template for slides for the FOSS4G, most important the geospatial event of the year."
+description: "Suggested slides template for the FOSS4G, the most important geospatial event of the year."
 draft: false
 menu:
   main:
