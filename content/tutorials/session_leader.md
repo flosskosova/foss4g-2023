@@ -159,7 +159,23 @@ This is the place where attendees will watch the conference and post their quest
 
 ### Interacting with the audience
 
-Venueless has a built-in feature for Q&A inside each room. Use it to pass the comments and questions from the audience to your speakers. Keep both Venueless and Streamyard open all the time to check if the streaming is working properly. 
+Venueless has a built-in feature for Q&A inside each room. Use it to pass the comments and questions from the audience to your speakers. 
+
+![](/images/tutorials/chat.png "") ![](/images/tutorials/questions.png "")
+
+On the top right corner of the room you should see a "manage" button. Activate it to be able to manage Q&A and chat.
+
+![](/images/tutorials/venuelessManageQA.png "")
+
+After each talk finishes, you have to cleanup the questions to prepare for the following speaker.
+
+![](/images/tutorials/venuelessCleanQA.png "")
+
+You can also delete individual questions.
+
+![](/images/tutorials/venuelessRemoveQA.png "")
+
+Keep both Venueless and Streamyard open at all times.
 
 ### Technical Issues
 
@@ -167,7 +183,7 @@ Here are some quick fixes for technical issues that may arise.
 
 #### I accidentally deleted the broadcast or I can't find it in Streamyard
 
-There should be a backup broadcast you can use defined on the same account. Make sure you give the new link to all your speakers in the session and that you warn us on info@foss4g.org so we fix the broadcast list.
+There should be a backup broadcast you can use defined on the same account. Make sure you give the new link to all your speakers in the session and that you warn us on the session leaders chat so we fix the broadcast list.
 
 #### Streamyard is not working
 
@@ -177,4 +193,4 @@ If you are experiencing issues on Streamyard, you can use the *"Having issues?"*
 
 #### Where can I contact you?
 
-If you face any technical issue you don't know how to solve, please contact us at info@foss4g.org.
+If you face any technical issue you don't know how to solve, please contact us at the session leaders chat or at info@foss4g.org.
