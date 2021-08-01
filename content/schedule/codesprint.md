@@ -9,7 +9,12 @@ menu:
 weight: 3
 ---
 
-A code sprint is usually organized by a group that is using an open source project and wants to see something done. The communication that happens from face to face hacking usually lasts the project for a year or more. The codesprint on FOSS4G is already a tradition we want to foster.
+The traditional OSGeo community sprint will be held after the online conference, on Saturday October 2nd, 2021.
 
-In order to promote the power of our community of contributors, we will include the codesprint within the main conference week. By having the code sprint in the main venue during the conference we want to encourage all members of the community to contribute while attending the conference.
+Participation will be free of charge and anyone involved or interested in getting involved in OSGeo community projects is welcome to attend. Conference registration is not a prerequisite for participation in the code sprint.
 
+You can choose to contribute to one or more projects. There’s always plenty to do - and it’s not all about programming. Translation, documentation, feedback, discussions, and testing are very important for projects!
+
+Please, register at: https://wiki.osgeo.org/wiki/FOSS4G_2021/Community_sprint
+
+We look forward to seeing you there!
