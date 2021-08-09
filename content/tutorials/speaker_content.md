@@ -17,7 +17,7 @@ You should have the following ready:
 
 If there are any issues and you cannot be on time for your slot or your network connection is not stable enough, please contact your session leader and send a video with your talk **before August 30th**, so we can play it instead. The video must be no longer than 20 minutes.
 
-You can use our official [resources](/template.html).
+You can use our official [resources](/attending/template.html).
 
 ## During the Event
 
