@@ -126,26 +126,31 @@ footer a:not(.icons) {
 
 .sponsor-Platinum {
   max-height: 250px;
+  min-height: 100px;
   max-width: 250px;
 }
 
 .sponsor-Gold {
   max-height: 120px;
+  min-height: 100px;
   max-width: 180px;
 }
 
 .sponsor-Silver {
   max-height: 100px;
+  min-height: 70px;
   max-width: 100px;
 }
 
 .sponsor-Bronze {
   max-height: 60px;
+  min-height: 40px;
   max-width: 80px;
 }
 
 .sponsor-Supporter {
   max-height: 30px;
+  min-height: 20px;
   max-width: 50px;
 }
 
