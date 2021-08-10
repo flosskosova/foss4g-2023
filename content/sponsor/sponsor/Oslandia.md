@@ -18,6 +18,7 @@ Oslandia is a 100% remote company from the start, and we innovate in management 
 Social media handles:
 
 [twitter](https://twitter.com/Oslandia)
+
 [Linkedin](https://www.linkedin.com/company/562760/)
 
-[You can find more info on their webpage.](foss4g.oslandia.com)
+[You can find more info on their webpage.](https://foss4g.oslandia.com)
