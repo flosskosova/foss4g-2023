@@ -467,9 +467,9 @@ footer.footer {
   float:left;
 }
 
-.swag-background {
-  width:20vw;
-  height:20vw;
+.swag-background img {
+  width:100%;
+  height:auto;
   background-repeat:no-repeat;
   background-size:cover;
   position:absolute;
@@ -484,9 +484,9 @@ footer.footer {
 
 .swag-description {
   text-shadow: 2px 2px 3px white; 
-  position:absolute; 
-  margin:auto;
+  margin:1%;
   padding:5%;
+  min-height: 220px;
 }
 
 .swag:hover .swag-background {
