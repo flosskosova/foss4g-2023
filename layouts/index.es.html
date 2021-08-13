@@ -63,13 +63,18 @@
   </section>
   
   
+
 {{$partners := newScratch}}
 {{ $partners.Set "partner" false }}
 {{ range .Site.Data.sponsor }}
 	{{ if eq .Level "Partner"}}
   	{{ $partners.Set "partner" true }}
   {{ end }}
+	{{ if eq .Level "GoldPartner"}}
+  	{{ $partners.Set "partner" true }}
+  {{ end }}
 {{end}}
+
 
 {{ if $partners.Get "partner"}}
 	<section class="row sponsors">
@@ -82,9 +87,12 @@
       
       <div class="row text-center mb-5">
         {{ range .Site.Data.sponsor }}
-				{{ if eq .Level "Partner"}}
-        	{{ partial "sponsor.html" .}}
-        {{ end }}
+				  {{ if eq .Level "Partner"}}
+          	{{ partial "sponsor.html" .}}
+          {{ end }}
+				  {{ if eq .Level "GoldPartner"}}
+          	{{ partial "sponsor.html" .}}
+          {{ end }}
         {{ end }}
       </div>
     </div>

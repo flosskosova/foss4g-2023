@@ -59,6 +59,8 @@ Formed in 2005, hundreds of national government agencies from 112 countries and 
 
 
 [@GEOSEC2025 on Twitter](https://twitter.com/GEOSEC2025)
+
 [Facebook](https://www.facebook.com/GroupOnEarthObservations/)
+
 [Linkedin](https://www.linkedin.com/company/group-on-earth-observations)
 

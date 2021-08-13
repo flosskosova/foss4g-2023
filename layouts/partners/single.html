@@ -16,6 +16,15 @@
                             {{ end }}
                           </div>
                         </div>
+                        <div class="content">
+                            <div class="patrocinadores mb-4">
+                            {{ range .Site.Data.sponsor }}
+                            {{ if eq .Level "GoldPartner"}}
+                                 {{ partial "sponsor.html" .}}
+                            {{ end }}
+                            {{ end }}
+                          </div>
+                        </div>
                     </div>
                 </div>
             </article>
