@@ -13,6 +13,7 @@ menu:
 We have published a tablet and mobile app you can find on the following links:
 
 F-Droid: https://f-droid.org/packages/info.metadude.android.foss4g.schedule 
+
 Google Play: https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule
 
 ![](/images/FOSS4G-phones.png "")
