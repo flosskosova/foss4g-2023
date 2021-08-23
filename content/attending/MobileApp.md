@@ -10,9 +10,10 @@ menu:
 
 ![](/images/FOSS4G-tablet-phones.jpg "")
 
-We have published a tablet and mobile app you can find on the following link:
+We have published a tablet and mobile app you can find on the following links:
 
-https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule
+F-Droid: https://f-droid.org/packages/info.metadude.android.foss4g.schedule 
+Google Play: https://play.google.com/store/apps/details?id=info.metadude.android.foss4g.schedule
 
 ![](/images/FOSS4G-phones.png "")
 
