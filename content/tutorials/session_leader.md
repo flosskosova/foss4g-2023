@@ -15,6 +15,7 @@ The software stack for this event has two separate components: one for speakers 
  - [Technical Issues](#technical-issues)
  
 Session Leader Tutorial: https://youtu.be/9qUgP_if9EY
+
 Speaker Tutorial: https://youtu.be/9qUgP_if9EY
 
 ## Preparations Before the Event
