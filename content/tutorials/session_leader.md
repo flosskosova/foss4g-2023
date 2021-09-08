@@ -13,6 +13,9 @@ The software stack for this event has two separate components: one for speakers 
     - [StreamYard](#streamyard)
     - [Interacting with the Audience](#interacting-with-the-audience)
  - [Technical Issues](#technical-issues)
+ 
+Session Leader Tutorial: https://youtu.be/9qUgP_if9EY
+Speaker Tutorial: https://youtu.be/9qUgP_if9EY
 
 ## Preparations Before the Event
 
