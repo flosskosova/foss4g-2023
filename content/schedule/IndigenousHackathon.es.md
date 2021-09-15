@@ -46,6 +46,6 @@ https://opportunities.africanews.space/teams-from-africa-win-at-geo-indigenous-h
  * “Engineering students link GIS technology with Indigenous knowledge”, January 28,2020
 https://createdigital.org.au/engineering-students-link-gis-technology-indigenous-knowledge/
 
-Please, register at: https://wiki.osgeo.org/wiki/FOSS4G_2021/Indigenous_Hackathon
+Please, register at: https://docs.google.com/forms/d/e/1FAIpQLSctX9jWV_h8l7goSUXjJCSyh2QxZkw83_X9hPE-AKGVV065ng/viewform?usp=sf_link
 
 We look forward to seeing you there!
