@@ -1,5 +1,5 @@
 ---
-title: "MapTiler AG"
+title: "MapTiler"
 draft: false
 ---
 
