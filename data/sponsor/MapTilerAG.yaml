@@ -2,4 +2,4 @@ Level: Silver
 Short Description: "MapTiler offers street and satellite maps of the entire world for web & mobile developers and GIS analysts. The core of our maps is based on frequently updated OpenStreetMap data, we also offer additional datasets and geodata hosting option for own data. Each map can be fully customized - from changing a few colors in a simple customize tool to complex changes based on regex in the advanced edit tool. Our API service offers vector and raster tiles, static maps API, and WMTS for desktop GIS.
 Maps are compatible with standard JavaScript libraries, including Leaflet, OpenLayers, and MapLibre. For more information on how to integrate it with your project, check our documentation and video tutorials.."
 Logo: Maptiler-logo.webp
-Link: /sponsor/sponsor/MaTilerAG.html
+Link: /sponsor/sponsor/maptiler.html
