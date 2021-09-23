@@ -5,9 +5,7 @@ draft: false
 
 {{< figure src="/images/sponsor/Maptiler-logo.webp" width="400px" >}}
 
-Maps are compatible with standard JavaScript libraries, including Leaflet, OpenLayers, and MapLibre. For more information on how to integrate it with your project, check our documentation and video tutorials.
-
-History: We ♡ open-source. In 2017, we started OpenMapTiles - the first truly open project for generating vector tiles, and we still keep maintaining this project. The community around is very active, with dozens of commits each month.
+We ♡ open-source. In 2017, we started OpenMapTiles - the first truly open project for generating vector tiles, and we still keep maintaining this project. The community around is very active, with dozens of commits each month.
 
 Last year, we were one of the financial sponsors of support for vector tiles in QGIS. Also, we developed an open-source plugin for easy loading vector maps in QGIS.
 
