@@ -60,7 +60,7 @@ GEO Indigenous FOSS4G Hackathon will be hosted online. Please register [here.](h
 
 ### What's the event schedule?
 
-The event will start October 1 at 10 am UTC-3 (Buenos Aires) time and end October 2  at 12:00 am (midnight) UTC-3 
+The event will start October 1 at 10:45 am UTC-3 (Buenos Aires) time and end October 2  at 12:00 am (midnight) UTC-3 
 
 ### Contact:
 
