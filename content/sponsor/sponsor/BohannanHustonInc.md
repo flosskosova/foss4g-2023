@@ -3,7 +3,7 @@ title: "Bohannan Huston, Inc."
 draft: false
 ---
 
-{{< figure src="/images/sponsor/BHI.webp .webp" width="400px" >}}
+{{< figure src="/images/sponsor/BHI.webp" width="400px" >}}
 
 Bohannan Huston, Inc. (BHI), founded in 1959, specializes in Planning, Engineering, Spatial Data, and Advanced Technologies. Our exceptional reputation is built upon a spirit of service and commitment to client satisfaction.
 
