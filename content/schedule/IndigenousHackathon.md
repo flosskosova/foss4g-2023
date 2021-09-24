@@ -56,7 +56,7 @@ We look forward to seeing you there!
 
 ### Where
 
-GEO Indigenous FOSS4G Hackathon will be hosted online. Please register [here.](https://docs.google.com/forms/d/1FMrGpQT-fN5rK0U0jFhdZveOAcQUCJYto3jcDyGJjIQ/prefill) 
+GEO Indigenous FOSS4G Hackathon will be hosted online. Please register [here.](https://docs.google.com/forms/d/e/1FAIpQLSctX9jWV_h8l7goSUXjJCSyh2QxZkw83_X9hPE-AKGVV065ng/viewform?usp=sf_link) 
 
 ### What's the event schedule?
 
