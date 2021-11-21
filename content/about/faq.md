@@ -80,9 +80,6 @@ The cost of the conference ticket includes admission to all the main tracks (exc
 
 You can see the details on the schedule published at the website.
 
-#### I have problems with the payment. What do I do?
-
-Check our [payment and registration faq](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/)
 
 ### What can I expect
 

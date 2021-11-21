@@ -10,7 +10,6 @@ You can use that button on different browsers and computers and it will always o
 
 **Do not share this email or the related link with anyone or you may be blocked from the event.**
 
-If you can't find the email with your order, you can request a copy of the email on the following url: https://registration.2021.foss4g.org/OSGeo/FOSS4G/resend/. Remember to use the same email you used to register.
 
 ### Profile
 
@@ -48,7 +47,7 @@ If you feel the need to block someone, check our [Code of Conduct](/about/coc.ht
 
 ### Watching a session
 
-There are two tabs for the schedule. The [Schedule](https://2021-foss4g.venueless.events/schedule) tab contains the main sessions and social gatherings schedule. The [Workshop Schedule](https://2021-foss4g.venueless.events/rooms/d2602dbc-957d-4316-b9af-d8cf9fc3708f) tab will show the schedule for workshops and practical sessions. You need to [register](https://registration.2021.foss4g.org) for the specific workshops to be able to attend them.
+There are two tabs for the schedule. The [Schedule](https://2021-foss4g.venueless.events/schedule) tab contains the main sessions and social gatherings schedule. The [Workshop Schedule](https://2021-foss4g.venueless.events/rooms/d2602dbc-957d-4316-b9af-d8cf9fc3708f) tab will show the schedule for workshops and practical sessions. You need to register for the specific workshops to be able to attend them.
 
 Once you choose which session you want to attend, look for the name of the room at the **stages tabs** on the left menu. After clicking on the tab, the selected stage will open.
 

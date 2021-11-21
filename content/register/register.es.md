@@ -13,7 +13,6 @@ menu:
 
 {{< pricing >}}
 
-Puede visitar [Preguntas Frecuentes sobre registración - FAQ](https://registration.2021.foss4g.org/OSGeo/FOSS4G/faq/).
 
 - **Precio Nacional**: Estas entradas son para personas que viven en Argentina solamente, se requiere Pasaporte o Documento de Identificación para la registración.
 
