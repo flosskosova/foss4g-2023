@@ -106,7 +106,6 @@ author = "authors"
   countdownDay  = "27"
 
 [markup]
-  defaultMarkdownHandler = "mmark"
   [markup.highlight]
     codeFences = false
 
