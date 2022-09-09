@@ -1,4 +1,3 @@
-baseURL = "https://2021.foss4g.org/"
 title = "FOSS4G 2021 Buenos Aires"
 paginate = 2
 languageCode = "en"
