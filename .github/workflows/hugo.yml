@@ -45,8 +45,7 @@ jobs:
         uses: actions/configure-pages@v2
       - name: Build theme assets
         run: npm run build
-        with:
-          working-directory: ./themes/foss4g2021
+        working-directory: ./themes/foss4g2021
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
