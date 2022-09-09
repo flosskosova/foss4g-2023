@@ -44,7 +44,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v2
       - name: Build theme assets
-        run: npm run build
+        run: |
+          npm install
+          npm run build
         working-directory: ./themes/foss4g2021
       - name: Build with Hugo
         env:
