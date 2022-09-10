@@ -2,7 +2,7 @@
   group: "Main organizer"
   elements:
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
-    - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.png"}
+    - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
 -
   group: "Co-organizers"
   elements:
