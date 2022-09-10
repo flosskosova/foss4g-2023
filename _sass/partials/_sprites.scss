@@ -1,6 +1,8 @@
 .logo {
-    background-image: url($logos-sprite);
+    background-image: url($logo);
     background-repeat: no-repeat;
+    /*
+    background-image: url($logos-sprite);
     &.logo-dark {
     	background-position: 0 -1px;
     }
@@ -10,6 +12,7 @@
 	&.logo-light {
 	    background-position: 0 -127px;
 	}
+    */
 }
 .icon {
     display: inline-block;
