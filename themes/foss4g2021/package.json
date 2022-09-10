@@ -8,7 +8,7 @@
     "watch": "rollup --watch --config rollup.config.js"
   },
   "dependencies": {
-    "bootstrap": "^4.4.0"
+    "bootstrap": "^5.2.1"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.0.0",
