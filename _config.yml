@@ -178,20 +178,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/foss4g", icon: "twitter"}
+ - {link: "https://www.youtube.com/foss4g", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.osgeo.org/", text: "OSGEO"}
+   - {link: "https://flossk.org/", text: "FLOSSK"}
+   - {link: "https://foss4g.org/", text: "FOSS4G past events"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+  #  - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
  -
   title: "FAQ"
   links:
