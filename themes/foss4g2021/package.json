@@ -11,7 +11,7 @@
     "bootstrap": "^4.4.0"
   },
   "devDependencies": {
-    "@rollup/plugin-node-resolve": "^13.0.0",
+    "@rollup/plugin-node-resolve": "^14.0.1",
     "node-sass": "^7.0.3",
     "rollup": "^2.48.0",
     "rollup-plugin-scss": "^2.6.1",
