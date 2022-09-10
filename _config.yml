@@ -8,10 +8,9 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "FOSS4G 2023"
-email: "test@example.com"
+# email: "test@example.com"
 description: "FOSS4G is the acronym for Free and Open Source Software for Geospatial."
 baseurl: "/foss4g-2023"
 url: "https://jbelien.github.io"
@@ -21,24 +20,23 @@ permalink: "/blog/:title"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-# organizerName: "GDG Lviv"
-# organizerAlternateName: "Google Developer Group Lviv"
-# organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-# organizerEmail: "lviv@gdg.org.ua"
-# organizerLogo: "/img/seo/organizer-logo.png"
-# organizerLink: "http://lviv.gdg.org.ua/"
+# organizerName: "FLOSSK"
+# organizerAlternateName: "Free Libre Open Source Software Kosova"
+# organizerDescription: ""
+# organizerEmail: "info@flossk.org"
+# organizerLogo: "/img/organizers/flossk-logo.svg"
+# organizerLink: "https://flossk.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+# metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 # twitterAccount: "@DevFest"
 # socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 # socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 # socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
@@ -61,15 +59,15 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "FOSS4G <typeout> 2023"
-eventDate: "June, 2023"
+eventDate: "26 June - 1 July 2023"
 # typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 # typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About FOSS4G"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -101,9 +99,9 @@ eventAddressLocality: "Prizren"
 eventAddressLocalityRegion: ""
 eventPostalCode: "20000"
 eventAddressCountry: "Kosovo"
-eventStartTime: "2014-10-25T10:00"
+eventStartTime: "2023-06-26T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventEndTime: "2023-07-01T20:00"
 eventPlaceCoordinates: "42.22097, 20.75224"
 mapCenterCoordinates: "42.22097, 20.75224"
 # mapMobileCenterCoordinates: "49.841620, 24.029411"
@@ -118,10 +116,10 @@ venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# tweetsFeedImage: "twitter-feed.jpg"
+# tweetsFeedTitle: "What's Up?"
+# twitterHashTag: "devfest"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -129,10 +127,10 @@ partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "Subscribe for updates"
+# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -201,8 +199,8 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+# blogCommentsEnabled: true
+# discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
