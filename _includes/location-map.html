@@ -1,7 +1,7 @@
 <!-- Begin Location Section -->
 <section id="location-map" class="location-map">
     <!-- <div id="canvas-map" class="canvas-map"></div> -->
-    <iframe id="canvas-map" class="canvas-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.741822719573978%2C42.21605138848048%2C20.762851238250736%2C42.22599893652783&amp;layer=mapnik&amp;marker=42.221025358399785%2C20.752336978912354"></iframe>
+    <iframe id="canvas-map" class="canvas-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.741822719573978%2C42.21605138848048%2C20.762851238250736%2C42.22599893652783&amp;layer=mapnik&amp;marker={{ site.eventPlaceCoordinates | replace:' ','' }}"></iframe>
     <div class="content-wrapper">
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
@@ -19,7 +19,7 @@
                         </li>
                     </ul>
                 </div>
-                <a href="https://www.openstreetmap.org/directions?from=&to=42.221025358399785%2C20.752336978912354" class="pull-right">
+                <a href="https://www.openstreetmap.org/directions?from=&to={{ site.eventPlaceCoordinates | replace:' ','' }}" class="pull-right">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
