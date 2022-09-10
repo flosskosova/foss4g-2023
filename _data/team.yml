@@ -1,60 +1,119 @@
-# -
-#   id: 0
-#   name: "Vitaliy"
-#   surname: "Zasadnyy"
-#   title: "Sponsors and Speakers Manager"
-#   thumbnailUrl: VitaliyZasadnyy.jpg
-#   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-#     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-#     - {name: "github", link: "https://github.com/zasadnyy"}
-#     - {name: "site", link: "http://zasadnyy.com/"}
-# -
-#   id: 1
-#   name: "Oleh"
-#   surname: "Zasadnyy"
-#   title: "Designer and Web Developer"
-#   thumbnailUrl: OlehZasadnyy.jpg
-#   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-#     - {name: "github", link: "https://github.com/ozasadnyy"}
-# -
-#   id: 2
-#   name: "Ostap"
-#   surname: "Andrusiv"
-#   title: "Sponsors and Speakers Manager"
-#   thumbnailUrl: OstapAndrusiv.jpg
-#   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-#     - {name: "twitter", link: "https://twitter.com/p1f"}
-#     - {name: "site", link: "http://andrusiv.com/"}
-# -
-#   id: 4
-#   name: "Dmytro"
-#   surname: "Danylyk"
-#   title: "Android Program Committee"
-#   thumbnailUrl: DmytroDanylyk.jpg
-#   subTeam: true
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# -
-#   id: 7
-#   name: "Valentyn"
-#   surname: "Shybanov"
-#   title: "Web and Cloud Program Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-#   social:
-#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#     - {name: "site", link: "http://olostan.name/"}
+- name: "Besfort"
+  surname: "Guri"
+  title: "Conference chair"
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Arianit"
+  surname: "Dobroshi"
+  title: "President of the Executive Board at FLOSSK"
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Enkelena"
+  surname: "Haxhiu"
+  # title: ""
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Valmir"
+  surname: "Mustafa"
+  title: "Project manager at FLOSSK"
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Edonis"
+  surname: "Hashani"
+  title: "Project Assistant at FLOSSK"
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Era"
+  surname: "Hamiti"
+  title: "Project Writer & Communication Specialist at FLOSSK"
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Qendresa"
+  surname: "Kastrati"
+  title: "Finance Manager at FLOSSK"
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Sidorela"
+  surname: "Uku"
+  # title: ""
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Gresa"
+  surname: "Neziri"
+  # title: ""
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Raymond"
+  surname: "Nijssen"
+  # title: ""
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Lucas"
+  surname: "De Oto"
+  # title: ""
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Jonathan"
+  surname: "Beliën"
+  title: "OSM Belgium & Open Knowledge Belgium board member"
+  thumbnailUrl: JonathanBeliën.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/jbelien"}
+    - {name: "github", link: "https://github.com/jbelien"}
+    - {name: "site", link: "https://jbelien.be"}
+- name: "Nysret"
+  surname: "Gashi"
+  # title: ""
+  # thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}

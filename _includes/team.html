@@ -2,14 +2,29 @@
 <section id="team" class="team">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.teamBlockTitle }}</h3>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
+            <h3>About us</h3>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">
+                FLOSSK has a long experience in organizing conferences, starting with Software Freedom
+                Kosova in 2009. <a target="_blank" href="https://sfk.flossk.org/">Software Freedom Kosova</a> is an annual international conference held in
+                Kosovo organized to promote Free/Libre and open-source software, free culture, and an open
+                society. Every year, SFK brings together developers and software users, artists, entrepreneurs,
+                and leaders to collaborate, learn and share common interests in the field of open technology
+                through a combination of lectures, training, and workshops.
+            </p>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">
+                FLOSSK has also organized the <a target="_blank" href="https://sotmsee.org/">State of the Map Southeastern Europe</a> 2019 conference. State
+                of the Map Southeastern Europe was a three-day conference held at the Innovation and
+                Training Park in Prizren which brought together stakeholders in the OpenStreetMap and
+                Geographic Information Systems (GIS) ecosystem. Around 150 mappers, software developers,
+                academicians, NGOs, business leaders, and users of OpenStreetMap from the US and Europe
+                came together to create opportunities for knowledge exchange, networking, and partnerships.
+            </p>
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
+                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.name | append: teamMember.surname | slugify }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
