@@ -9,7 +9,7 @@
   #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Arianit"
   surname: "Dobroshi"
-  title: "President of the Executive Board at FLOSSK"
+  title: "Board Member at FLOSSK"
   thumbnailUrl: ArianitDobroshi.png
   team: true
   # ribbon:
@@ -18,7 +18,7 @@
   #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Enkelena"
   surname: "Haxhiu"
-  # title: ""
+  title: "Board Member at FLOSSK"
   thumbnailUrl: EnkelenaHaxhiu.png
   team: true
   # ribbon:
@@ -103,6 +103,15 @@
   surname: "Gashi"
   # title: ""
   # thumbnailUrl: NysretGashi.jpg
+  team: true
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Rina"
+  surname: "Marion Rama"
+  # title: ""
+  thumbnailUrl: RinaMarionRama.jpg
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
