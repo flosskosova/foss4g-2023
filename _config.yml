@@ -57,7 +57,7 @@ rightNavigationButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "venue/itp-aerial.jpg"
 heroTitle: "FOSS4G <typeout> 2023"
 eventDate: "26 June - 1 July 2023"
 # typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
@@ -108,12 +108,12 @@ mapCenterCoordinates: "42.22097, 20.75224"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBigImage: "itp-aerial.jpg"
+venueSmallImage1: "ITP-Prizren1.jpg"
+venueSmallImage2: "ITP-Prizren6.jpg"
+venueSmallImage3: "ITP-Prizren2.jpg"
+venueTitle: "Innovation and Training Park"
+venueText: The Innovation and Training Park is a former military camp, in the outskirts of the beautiful city of Prizren. The ITP is far more than a classic business park. The ITP ensures close linkages among tenants as well as between park management and tenants, offering an environment that fosters synergies between the private sector, vocational education and training institutions, and innovation activities.
 
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
@@ -219,11 +219,11 @@ showSessions: true
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Prizren"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu eleifend velit. Integer interdum nulla turpis, et placerat est semper in. Sed felis leo,'}
+ - {title: "Public Transit", information: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu eleifend velit. Integer interdum nulla turpis, et placerat est semper in. Sed felis leo,'}
+ - {title: "Hotels", information: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu eleifend velit. Integer interdum nulla turpis, et placerat est semper in. Sed felis leo,'}
 directionDetailsWideCards:
  -
   title: "Questions?"
