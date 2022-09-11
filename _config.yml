@@ -110,8 +110,8 @@ mapCenterCoordinates: "42.22097, 20.75224"
 venueBlockTitle: "Venue"
 venueBigImage: "itp-aerial.jpg"
 venueSmallImage1: "ITP-Prizren1.jpg"
-venueSmallImage2: "ITP-Prizren6.jpg"
-venueSmallImage3: "ITP-Prizren2.jpg"
+venueSmallImage2: "itp-building.jpg"
+venueSmallImage3: "ITP-Prizren6.jpg"
 venueTitle: "Innovation and Training Park"
 venueText: The Innovation and Training Park is a former military camp, in the outskirts of the beautiful city of Prizren. The ITP is far more than a classic business park. The ITP ensures close linkages among tenants as well as between park management and tenants, offering an environment that fosters synergies between the private sector, vocational education and training institutions, and innovation activities.
 
@@ -218,7 +218,7 @@ showSessions: true
 # logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+directionDetailsImage: "prizren.jpg"
 directionDetailsTitle: "Get around Prizren"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu eleifend velit. Integer interdum nulla turpis, et placerat est semper in. Sed felis leo,'}
