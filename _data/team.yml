@@ -43,15 +43,6 @@
   #   - {abbr: "GDG", title: "Google Developer Group"}
   # social:
   #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-- name: "Era"
-  surname: "Hamiti"
-  title: "Project Writer & Communication Specialist at FLOSSK"
-  # thumbnailUrl: EraHamiti.jpg
-  team: true
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Qendresa"
   surname: "Kastrati"
   title: "Finance Manager at FLOSSK"
