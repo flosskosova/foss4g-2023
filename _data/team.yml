@@ -1,7 +1,7 @@
 - name: "Besfort"
   surname: "Guri"
   title: "Conference chair"
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: BesfortGuri.png
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -10,7 +10,7 @@
 - name: "Arianit"
   surname: "Dobroshi"
   title: "President of the Executive Board at FLOSSK"
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: ArianitDobroshi.png
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -19,7 +19,7 @@
 - name: "Enkelena"
   surname: "Haxhiu"
   # title: ""
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: EnkelenaHaxhiu.png
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -28,7 +28,7 @@
 - name: "Valmir"
   surname: "Mustafa"
   title: "Project manager at FLOSSK"
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: ValmirMustafa.jpg
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -37,7 +37,7 @@
 - name: "Edonis"
   surname: "Hashani"
   title: "Project Assistant at FLOSSK"
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: EdonisHashani.png
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -46,7 +46,7 @@
 - name: "Era"
   surname: "Hamiti"
   title: "Project Writer & Communication Specialist at FLOSSK"
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  # thumbnailUrl: EraHamiti.jpg
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -55,7 +55,7 @@
 - name: "Qendresa"
   surname: "Kastrati"
   title: "Finance Manager at FLOSSK"
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: QendresaKastrati.png
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -64,7 +64,7 @@
 - name: "Sidorela"
   surname: "Uku"
   # title: ""
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: SidorelaUku.jpg
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -73,7 +73,7 @@
 - name: "Gresa"
   surname: "Neziri"
   # title: ""
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: GresaNeziri.png
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -82,7 +82,7 @@
 - name: "Raymond"
   surname: "Nijssen"
   # title: ""
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: RaymondNijssen.jpg
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -91,7 +91,7 @@
 - name: "Lucas"
   surname: "De Oto"
   # title: ""
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: LucasDeOto.jpg
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
@@ -111,7 +111,7 @@
 - name: "Nysret"
   surname: "Gashi"
   # title: ""
-  # thumbnailUrl: VitaliyZasadnyy.jpg
+  # thumbnailUrl: NysretGashi.jpg
   team: true
   # ribbon:
   #   - {abbr: "GDG", title: "Google Developer Group"}
