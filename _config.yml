@@ -218,37 +218,25 @@ showSessions: true
 # logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "prizren.jpg"
-directionDetailsTitle: "Get around Prizren"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu eleifend velit. Integer interdum nulla turpis, et placerat est semper in. Sed felis leo,'}
- - {title: "Public Transit", information: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu eleifend velit. Integer interdum nulla turpis, et placerat est semper in. Sed felis leo,'}
- - {title: "Hotels", information: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu eleifend velit. Integer interdum nulla turpis, et placerat est semper in. Sed felis leo,'}
+  - {title: "Visa info", information: "Kosovo requires visas for citizens of certain countries. You can find more information on which participants will need a visa to come to Kosovo here: <https://en.wikipedia.org/wiki/Visa_policy_of_Kosovo>.  \nFLOSSK will issue a visa letter should you need one and will facilitate the visa process so you don’t need to visit a Kosovo Consulate."}
+  - {title: "Travel Safety", information: "Kosovo is a safe country to travel and foreigners are much appreciated and helped. Crimes against tourists common in popular tourist destinations are not common in Kosovo.  \nThe risk of terrorist attacks in the Kosovo over the past years can be classified as almost insignificant. Violent crime exists but is mostly related to organized crime, and most dangers are of petty nature and between persons familiar to each other.  \nKosovo’s medical system is lacking. However, even foreigners can get care, including emergency care, for a handful of euros. Private clinics are also numerous but at a higher cost."}
+  - {title: "COVID-19 safety plans", information: "COVID-19 situation in Kosovo is stable as of now. We will update this section if the situation changes in the meanwhile starting with ticket sale launch, especially considering the current global Covid-19 situation. It is likely vaccine currency will be required."}
+  - {title: "Political situation", information: "Some of you might remember that Kosovo went through a war in 1999. That was 22 years ago, although some political tensions still linger with Serbia. That said, what you see on the news is largely for internal political consumption. Kosovo is protected by a NATO peacekeeping force. Ethnic tensions might be present, limited in the northern corner of the country."}
+  - {title: "LGBTIQ+ Safety", information: "Summer festivals and international events in Kosovo are usually very safe and inclusive towards many groups, such as the LGBTIQ+ community. Women can travel alone and there aren’t any specific laws against the LGBTIQ+ community. Nevertheless, there is a level of sexism and homophobia among some, accompanied by verbal harassment."}
 directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+ - title: "Getting to Prizren"
+   information: "All international flights to Kosovo arrive at the Prishtina International Airport. From Prishtina International Airport there is a Public transport bus line from Prishtina International Airport to the Bus Station in Prishtina. Bus lines from Prishtina Bus Station to Prizren travel every 20 minutes (5 EUR).  \nKosovo has border points with Albania, North Macedonia, Montenegro, and Serbia which may be used to enter the country.  \nOther than Prishtina International Airport, for cost considerations, participants can also use 3 other airports in the region which offer better priced airline tickets from some destinacions and especially if you are doing some tourism before or after arriving in Kosovo:"
+   subCards:
+    - title: "From Tirana International Airport"
+      information: "2:10 hrs by bus (163 km) away. Tirana - Prishtina bus stops by Tirana International Airport with a stopover in the periphery of Prizren, from which you may call a taxi."
+      links: [{link: "https://www.tirana-airport.com/", text: "Tirana International Airport"}]
+    - title: "From Skopje International Airport"
+      information: "Might also have better deals through Wizz Air and alternative destinations from those in Prishtina. It will take 3-4 hrs all if best connected."
+      links: [{link: "http://skp.airports.com.mk/", text: "Skopje International Airport"}]
+    - title: "From Kukës International Airport"
+      information: "Newly opened airport, in northern Albania, across the border from Prizren, with a handful of lines, currently only serving Switzerland, mostly through charter lines. Get to the town of Kukës, from there vans (furgon) are regular to Prizren."
+      links: [{link: "https://www.kuiport.al/", text: "Kukës International Airport"}]
 
 # Hackathon
 # hackathonTitle: "Hackathon"

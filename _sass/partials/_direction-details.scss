@@ -9,7 +9,10 @@ $direction-details-color: #757575;
         }
     }
     .card {
-        transform: translateY(-125px);
+        transform: translateY(-100px);
+        // @media (min-width: 768px) and (max-width: 991px) {
+        //     transform: translateY(-125px);
+        // }
         ul {
             font-size: 17px;
             font-weight: $regular;
@@ -19,10 +22,7 @@ $direction-details-color: #757575;
         }
     }
     .questions {
-        transform: translateY(-100px);
-        @media (min-width: 768px) and (max-width: 991px) {
-            transform: translateY(-125px);
-        }
+        transform: translateY(-125px) !important;
     }
     h4, h5 {
         font-size: 31px;
