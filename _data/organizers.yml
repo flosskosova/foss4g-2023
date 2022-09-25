@@ -6,6 +6,5 @@
 -
   group: "Co-organizers"
   elements:
-    # - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    # - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    # - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "OpS-IN", description: "", link: "#", imageUrl: "ops-in-logo.jpg"}
+    - {name: "Space Syntaks", description: "", link: "#", imageUrl: "spacesyntaks-logo.jpg"}
