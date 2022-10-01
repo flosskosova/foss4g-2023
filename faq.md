@@ -3,6 +3,7 @@ layout: post
 title: Frequently Asked Questions (FAQ)
 permalink: /faq/
 isStaticPost: true
+image: blog.jpg
 ---
 
 #### When and Where
