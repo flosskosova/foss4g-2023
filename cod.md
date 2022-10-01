@@ -3,7 +3,7 @@ layout: post
 title: Code of Conduct
 permalink: /cod/
 isStaticPost: true
-image: blog.jpg
+image: cod.jpg
 ---
 
 This code of conduct governs how we behave in any OSGeo forum or event and whenever we will be judged by our actions. We expect it to be honored by everyone who participates in our event.
