@@ -2,6 +2,7 @@
 layout: post
 title: "FOSS4G 2023 to take place in Prizren, Kosovo"
 isStaticPost: false
+image: blog.jpg
 ---
 
 🎉 We are thrilled to announce that the 2023 Free and Open Source Software for Geospatial Conference (FOSS4G) will be hosted by FLOSSK in Prizren, Kosovo.
