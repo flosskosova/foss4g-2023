@@ -65,21 +65,15 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
-
-# Latest News Block
-latestNewsTitle: "Latest news"
+# statisticBlockImage: "statistic.jpg"
+# statisticBlock:
+#  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+#  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+#  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+#  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -111,9 +105,6 @@ venueText: The Innovation and Training Park is a former military camp, in the ou
 # tweetsFeedTitle: "What's Up?"
 # twitterHashTag: "devfest"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
-
-# Partners Block
-partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -187,7 +178,6 @@ footerBlocks:
    - {permalink: "/team/", text: "Local Organizing Committee (LOC)"}
 
 # Blog
-blogTitle: "Latest news"
 # blogCommentsEnabled: true
 # discusShortName: "devfestua"
 
