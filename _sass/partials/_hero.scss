@@ -2,23 +2,38 @@
     width: 100%;
     height: 100%;
     padding-top: 0;
-    .jumbotron {
-        position: relative;
-        top: 50%;
-        margin: 0;
-        left: 0;
-        transform: translateY(-60%);
-        @media (max-width: 767px) {
+
+    .content-wrapper {
+        & > video {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            width: auto;
+            min-width: 100%;
+            height: auto;
+            min-height: 100%;
+            background: #000;
+            background-size: cover;
+        }
+
+        & > .jumbotron {
+            position: relative;
+            top: 50%;
             margin: 0;
-            padding: 0;
-        }
-        p {
-            font-size: $base-font-size * 2;
-            font-weight: $light;
-            margin-bottom: 15px;
-        }
-        .btn {
-            margin: 0 3px;
+            left: 0;
+            transform: translateY(-60%);
+            @media (max-width: 767px) {
+                margin: 0;
+                padding: 0;
+            }
+            p {
+                font-size: $base-font-size * 2;
+                font-weight: $light;
+                margin-bottom: 15px;
+            }
+            .btn {
+                margin: 0 3px;
+            }
         }
     }
 }
@@ -31,7 +46,7 @@
 .explore {
     margin-left: -16px;
     position: absolute;
-    bottom: -25px;
+    bottom: -0;
     left: 50%;
     animation: callToAction 3.5s linear 0s infinite;
     @media (max-width: 767px) {

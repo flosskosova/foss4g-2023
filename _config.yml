@@ -56,7 +56,6 @@ rightNavigationButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "venue/itp-aerial.jpg"
 heroTitle: "FOSS4G <typeout> 2023"
 eventDate: "26 June - 1 July 2023"
 # typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
