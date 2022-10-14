@@ -10,6 +10,10 @@ $bootstrap-sass-asset-helper: false !default;
   font-family: "Alfabeti";
   src: url("../../fonts/Alfabeti.ttf") format("truetype");
 }
+@font-face {
+  font-family: "Inter";
+  src: url("../../fonts/Inter.ttf") format("truetype");
+}
 
 $gray-base: #000 !default;
 $gray-darker: lighten($gray-base, 13.5%) !default; // #222
