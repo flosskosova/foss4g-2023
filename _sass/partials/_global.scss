@@ -62,6 +62,7 @@ a {
   font-weight: $light;
   display: block;
   font-family: $headings-font-family;
+  font-variant-ligatures: none;
 }
 h1 {
   font-size: $h1-font-size;
