@@ -7,7 +7,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, 0.8);
   position: fixed;
   z-index: 500;
   width: 100%;
-  padding: 0 45px;
+  padding: 0 45px 35px 45px;
   @media (min-width: 768px) and (max-width: 991px) {
     padding: 13px 0 0 34px;
   }
@@ -20,7 +20,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, 0.8);
     }
   }
   .overlay {
-    opacity: 0;
+    opacity: 1;
     transition: $base-transition;
   }
 }
@@ -108,7 +108,7 @@ nav {
       font-weight: $bold;
       transition: $base-transition;
       text-transform: uppercase;
-      color: $nav-color;
+      color: $nav-scroll-color;
       @media (max-width: 767px) {
         font-size: 16px;
         display: block;
@@ -121,7 +121,7 @@ nav {
       &.current,
       &:hover {
         text-decoration: none;
-        color: $nav-color-hover;
+        color: $nav-scroll-color-hover;
         @media (max-width: 767px) {
           color: $main-color;
         }
