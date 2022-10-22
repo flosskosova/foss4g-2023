@@ -10,8 +10,8 @@ image: about.jpg
 <section id="about" class="about">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            {% capture about %}{% include content/about.md %}{% endcapture %}
-            {{ about | markdownify }}
+            {% capture content %}{% include content/about.md %}{% endcapture %}
+            {{ content | markdownify }}
         </div>
     </div>
 </section>
