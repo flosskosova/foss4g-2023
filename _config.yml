@@ -180,6 +180,7 @@ footerBlocks:
   title: "Useful links"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/privacy/", text: "Privacy Policy"}
    - {permalink: "/faq/", text: "Frequently Asked Questions (FAQ)"}
    - {permalink: "/team/", text: "Local Organizing Committee (LOC)"}
 
