@@ -39,7 +39,7 @@ permalink: "/blog/:title"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "FOSS4G 2023"}
+ - {permalink: "/about/", text: "FOSS4G 2023"}
  - {permalink: "/register/", text: "Register"}
  - {permalink: "/call-for-papers/", text: "Call for papers"}
  - {permalink: "/schedule/", text: "Schedule"}
