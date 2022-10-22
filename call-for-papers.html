@@ -6,3 +6,12 @@ image: speakers.jpg
 ---
 
 {% include top-section.html %}
+
+<section id="call-for-papers" class="call-for-papers">
+  <div class="content-wrapper">
+      <div class="col-lg-10 col-lg-offset-1">
+          {% capture content %}{% include content/call-for-papers.md %}{% endcapture %}
+          {{ content | markdownify }}
+      </div>
+  </div>
+</section>
