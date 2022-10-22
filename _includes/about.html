@@ -7,38 +7,7 @@
                 Organized by <a target="_blank" href="https://www.osgeo.org/">OSGeo</a> and with more than 15 years of experience, this international annual gathering of location enthusiasts is the largest global gathering for geospatial software.<br>
                 FOSS4G brings together developers, users, decision-makers and observers from a broad spectrum of organizations and fields of operation. Through six days of workshops, presentations, discussions, and cooperation, FOSS4G participants create effective and relevant geospatial products, standards, and protocols.
             </p>
-            <div class="row about-details">
-                {% assign animationDelay = 0 %}
-                {% for about in site.data.about.firstLine %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <h5>{{ about.title }}</h5>
-                        <!-- <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}"> -->
-                        <p>{{ about.text | newline_to_br }}</p>
-                    </div>
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %}
-                {% for about in site.data.about.secondLine %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <h5>{{ about.title }}</h5>
-                        <!-- <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}"> -->
-                        <p>{{ about.text | newline_to_br }}</p>
-                    </div>
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %}
-            </div>
-            <p>
-
-            </p>
+            <a href="{% link about.html %}" class="btn btn-primary waves-effect waves-button waves-light waves-float">More</a>
         </div>
     </div>
 </section>

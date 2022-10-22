@@ -39,7 +39,7 @@ permalink: "/blog/:title"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "FOSS4G 2023"}
+ - {permalink: "/about/", text: "FOSS4G 2023"}
  - {permalink: "/register/", text: "Register"}
  - {permalink: "/call-for-papers/", text: "Call for papers"}
  - {permalink: "/schedule/", text: "Schedule"}
@@ -112,48 +112,6 @@ venueText: The Innovation and Training Park is a former military camp, in the ou
 # subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers: []
- # -
- #  name: "Early Bird"
- #  price: "350"
- #  priceCurrency: "UAH"
- #  ticketsNumber: "150"
- #  ribbon: "-5%"
- #  buyButtonLink: "http://dfua.ticketforevent.com/"
- #  buyButtonText: "Buy Now"
- #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
- #  validFrom: "2014-08-25T10:00"
- #  validThrough: "2014-09-30T23:59"
- # -
- #  name: "Last Chance"
- #  price: "450"
- #  priceCurrency: "UAH"
- #  ticketsNumber: "100"
- #  ribbon: "-20%"
- #  featured: true
- #  buyButtonLink: "http://dfua.ticketforevent.com/"
- #  buyButtonText: "Buy Now"
- #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
- #  validFrom: "2014-10-01T00:00"
- #  validThrough: "2014-10-23T23:59"
- #  disabled: true
- # -
- #  name: "Student"
- #  price: "200"
- #  priceCurrency: "UAH"
- #  ticketsNumber: "50"
- #  buyButtonLink: "http://dfua.ticketforevent.com/"
- #  buyButtonText: "Buy Now"
- #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
- #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
- #  validFrom: "2014-08-20T10:00"
- #  validThrough: "2014-10-23T23:59"
- #  soldOut: true
- #  soldOutText: "Sold Out"
-
 # Footer
 socialLinks:
  - {link: "https://twitter.com/foss4g", icon: "twitter"}
@@ -167,19 +125,19 @@ footerBlocks:
    - {link: "https://flossk.org/", text: "FLOSSK"}
    - {link: "https://foss4g.org/", text: "FOSS4G past events"}
  -
-  title: "Contacts"
+  title: "Contact us"
   links:
-    - {link: "#", text: "Matrix: #flossk:matrix.org"}
-    - {link: "#", text: "IRC: #flossk@freenode"}
-    - {link: "https://twitter.com/flosskosova", text: "Twitter: @flosskosova"}
-    - {link: "https://mastodon.cloud/@FLOSSK", text: "Mastodon: @flossk@mastodon.cloud"}
-    - {link: "https://t.me/openflossk", text: "Telegram: @openflossk"}
-    - {link: "https://www.facebook.com/flossk/", text: "Facebook: @flossk"}
-    - {link: "https://www.instagram.com/flosskosova/", text: "Instagram: @flosskosova"}
+    - {link: "mailto:info@foss4g.org", text: "General questions: info@foss4g.org"}
+    - {link: "mailto:register@foss4g.org", text: "Registration: register@foss4g.org"}
+    - {link: "mailto:sponsors@foss4g.org", text: "Sponsor questions: sponsors@foss4g.org"}
+    - {link: "mailto:callforpapers@foss4g.org", text: "Call for papers: callforpapers@foss4g.org"}
+    - {link: "https://twitter.com/foss4g", text: "Twitter"}
+    - {link: "https://www.youtube.com/c/FOSS4G", text: "YouTube"}
  -
   title: "Useful links"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/privacy/", text: "Privacy Policy"}
    - {permalink: "/faq/", text: "Frequently Asked Questions (FAQ)"}
    - {permalink: "/team/", text: "Local Organizing Committee (LOC)"}
 

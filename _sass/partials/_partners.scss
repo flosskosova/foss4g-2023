@@ -17,9 +17,11 @@
     img {
         width: 100%;
         transition: $base-transition;
-        filter: grayscale(1);
-        &:hover {
-            filter: grayscale(0);
+        &:not(.sponsorship) {
+            filter: grayscale(1);
+            &:hover {
+                filter: grayscale(0);
+            }
         }
     }
 }

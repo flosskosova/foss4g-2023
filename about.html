@@ -1,0 +1,17 @@
+---
+layout: default
+title: About
+permalink: /about/
+image: about.jpg
+---
+
+{% include top-section.html %}
+
+<section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% capture content %}{% include content/about.md %}{% endcapture %}
+            {{ content | markdownify }}
+        </div>
+    </div>
+</section>
