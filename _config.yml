@@ -167,15 +167,14 @@ footerBlocks:
    - {link: "https://flossk.org/", text: "FLOSSK"}
    - {link: "https://foss4g.org/", text: "FOSS4G past events"}
  -
-  title: "Contacts"
+  title: "Contact us"
   links:
-    - {link: "#", text: "Matrix: #flossk:matrix.org"}
-    - {link: "#", text: "IRC: #flossk@freenode"}
-    - {link: "https://twitter.com/flosskosova", text: "Twitter: @flosskosova"}
-    - {link: "https://mastodon.cloud/@FLOSSK", text: "Mastodon: @flossk@mastodon.cloud"}
-    - {link: "https://t.me/openflossk", text: "Telegram: @openflossk"}
-    - {link: "https://www.facebook.com/flossk/", text: "Facebook: @flossk"}
-    - {link: "https://www.instagram.com/flosskosova/", text: "Instagram: @flosskosova"}
+    - {link: "mailto:info@foss4g.org", text: "General questions: info@foss4g.org"}
+    - {link: "mailto:register@foss4g.org", text: "Registration: register@foss4g.org"}
+    - {link: "mailto:sponsors@foss4g.org", text: "Sponsor questions: sponsors@foss4g.org"}
+    - {link: "mailto:callforpapers@foss4g.org", text: "Call for papers: callforpapers@foss4g.org"}
+    - {link: "https://twitter.com/foss4g", text: "Twitter"}
+    - {link: "https://www.youtube.com/c/FOSS4G", text: "YouTube"}
  -
   title: "Useful links"
   links:
