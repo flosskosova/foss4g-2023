@@ -17,7 +17,7 @@ section {
   min-height: $min-section-height;
   padding-top: $section-padding-top;
   padding-bottom: $section-padding-bottom;
-  text-align: center;
+  text-align: justify;
   @media (max-width: 767px) {
     padding-top: $small-section-padding-top;
     padding-bottom: $small-section-padding-bottom;
@@ -30,7 +30,6 @@ section {
   }
 }
 p {
-  font-size: 15px;
   font-weight: 300;
   line-height: $base-line-height;
 }
