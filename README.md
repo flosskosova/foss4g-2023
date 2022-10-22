@@ -6,6 +6,8 @@
 ## Content
 
 - "About" page: [`_includes/content/about.md`](_includes/content/about.md)
+- "Register" page: [`_includes/content/register.md`](_includes/content/register.md)
+  - Tickets: [`_data/tickets.yml`](_data/tickets.yml)
 - "Call for papers" page: [`_includes/content/call-for-papers.md`](_includes/content/call-for-papers.md)
 - "Call for sponsors" page: [`_includes/content/call-for-sponsors.md`](_includes/content/call-for-sponsors.md)
 - Committees:

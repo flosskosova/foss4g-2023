@@ -1,0 +1,31 @@
+- name: "Early Bird"
+  featured: true
+  price: "350"
+  priceCurrency: "EUR"
+  ribbon: "-30%"
+  buyButtonLink: "#"
+  ticketContentList: ["FOSS4G Conference\r\n(28-30 June 2023)", "FOSS4G Codesprint\r\n(1 & 2 July 2023)"]
+  # validFrom: "2014-08-25T10:00"
+  validThrough: "2022-04-20T23:59"
+- name: "Regular"
+  price: "490"
+  priceCurrency: "EUR"
+  buyButtonLink: "#"
+  ticketContentList: ["FOSS4G Conference\r\n(28-30 June 2023)", "FOSS4G Codesprint\r\n(1 & 2 July 2023)"]
+  validFrom: "2023-04-21T00:00"
+  validThrough: "2023-06-20T23:59"
+  disabled: true
+- name: "On-site"
+  price: "570"
+  priceCurrency: "EUR"
+  buyButtonLink: "#"
+  ticketContentList: ["FOSS4G Conference\r\n(28-30 June 2023)", "FOSS4G Codesprint\r\n(1 & 2 July 2023)"]
+  validFrom: "2023-06-21T00:00"
+  disabled: true
+- name: "Regional fee *"
+  featured: true
+  price: "200"
+  priceCurrency: "EUR"
+  buyButtonLink: "#"
+  ribbon: "-50%"
+  ticketContentList: ["FOSS4G Conference\r\n(28-30 June 2023)", "FOSS4G Codesprint\r\n(1 & 2 July 2023)"]
