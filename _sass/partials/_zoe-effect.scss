@@ -9,8 +9,7 @@ $figcaption-color: #3c4a50;
         box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .35);
         figure {
             background-position: center left;
-            -webkit-background-size: 105%;
-            background-size: 105%;
+            background-size: 150%;
             .overlay {
                 background: rgba(0, 0, 0, .3);
                 @media (max-width: 767px) {
@@ -34,7 +33,7 @@ $figcaption-color: #3c4a50;
             }
             &:nth-child(2) {
                 transition-delay: .25s;
-            }    
+            }
         }
         .bio {
             transform: translateY(-70%);
@@ -55,8 +54,8 @@ $figcaption-color: #3c4a50;
         background-size: 115%;
         @media (max-width: 767px) {
             background-position: center left;
-            -webkit-background-size: 105%;   
-            background-size: 105%;   
+            -webkit-background-size: 105%;
+            background-size: 105%;
         }
         .overlay {
             transition: $base-transition;
@@ -75,7 +74,7 @@ $figcaption-color: #3c4a50;
         color: $figcaption-color;
         background: #fff;
         @media (max-width: 767px) {
-            transform: translateY(0);         
+            transform: translateY(0);
         }
         h2 {
             font-size: 16px;
@@ -86,9 +85,10 @@ $figcaption-color: #3c4a50;
             transition: $base-transition;
             transform: translateY(-250%);
             transition-delay: .05s;
+            white-space: nowrap;
             color: #fff;
             @media (max-width: 767px) {
-                transform: translateY(0); 
+                transform: translateY(0);
                 color: #3c4a50;
             }
             span {
@@ -105,7 +105,7 @@ $figcaption-color: #3c4a50;
             transition: $base-transition;
             transform: translateY(200%);
             @media (max-width: 767px) {
-                transform: translateY(0);     
+                transform: translateY(0);
             }
         }
         .position {
