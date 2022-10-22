@@ -46,3 +46,19 @@ The Open Source Geospatial Foundation was founded to support and build the highe
 
 Free Libre Open Source Software Kosova (FLOSSK) is a non-governmental organization based in Kosovo established in 2009 in order to support, promote and develop free and open source software. FLOSSK also contributes to open and participatory knowledge, education in information technologies through open courseware, and open standards, culture and open society using free communication. Since its founding, FLOSSK has been involved in bringing the IT community closer to free and open source projects by organizing yearly conferences, workshops, meetups and actively participating in public policy development.
 FLOSSK is an OSGeo and OSMF local chapter in Kosovo.
+
+### Our brand
+
+Download our [FOSS4G 2023 - Brand identity guidelines.pdf]({{ site.baseurl }}/assets/Foss4G 2023 - Brand identity guidelines.pdf){:target="_blank"}
+
+![Logo Main]({{ site.baseurl }}/img/logos/FOSS4G 2023 - Logo Main.png "Logo Main"){: .brand-logo }
+![Map Main]({{ site.baseurl }}/img/logos/FOSS4G 2023 - Map Main.png "Map Main"){: .brand-logo }
+
+![Logo Black]({{ site.baseurl }}/img/logos/FOSS4G 2023 - Logo Black.png "Logo Black"){: .brand-logo }
+![Map Black]({{ site.baseurl }}/img/logos/FOSS4G 2023 - Map Black.png "Map Black"){: .brand-logo }
+
+![Logo Blue]({{ site.baseurl }}/img/logos/FOSS4G 2023 - Logo Blue.png "Logo Blue"){: .brand-logo }
+![Map Blue]({{ site.baseurl }}/img/logos/FOSS4G 2023 - Map Blue.png "Map Blue"){: .brand-logo }
+
+![Logo Red]({{ site.baseurl }}/img/logos/FOSS4G 2023 - Logo Red.png "Logo Red"){: .brand-logo }
+![Map Red]({{ site.baseurl }}/img/logos/FOSS4G 2023 - Map Red.png "Map Red"){: .brand-logo }
