@@ -5,9 +5,10 @@
 
   .content-wrapper {
     height: 100vh !important;
+    position: unset;
 
     & > video {
-      position: fixed;
+      position: absolute;
       right: 0;
       bottom: 0;
       width: auto;

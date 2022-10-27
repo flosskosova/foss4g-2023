@@ -11,6 +11,10 @@ $nav-scroll-color-hover: rgba(0, 0, 0, 0.8);
   @media (min-width: 768px) and (max-width: 991px) {
     padding: 13px 0 0 34px;
   }
+  @media (max-width: 767px) {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
   &.after-scroll {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -155,7 +159,7 @@ nav {
 .icon-menu {
   width: 20px;
   height: 20px;
-  fill: #e6e6e6;
+  fill: #c0bebe;
   .top-header.after-scroll & {
     fill: #464646;
   }
