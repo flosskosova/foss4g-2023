@@ -2,7 +2,7 @@
   featured: true
   price: "350"
   priceCurrency: "EUR"
-  ribbon: "-30%"
+  # ribbon: "-30%"
   buyButtonLink: "#"
   ticketContentList: ["FOSS4G Conference\r\n(28-30 June 2023)", "FOSS4G Codesprint\r\n(1 & 2 July 2023)"]
   # validFrom: "2014-08-25T10:00"
@@ -27,5 +27,5 @@
   price: "200"
   priceCurrency: "EUR"
   buyButtonLink: "#"
-  ribbon: "-50%"
+  # ribbon: "-50%"
   ticketContentList: ["FOSS4G Conference\r\n(28-30 June 2023)", "FOSS4G Codesprint\r\n(1 & 2 July 2023)"]
