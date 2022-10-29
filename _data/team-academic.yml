@@ -1,24 +1,9 @@
 - name: "Dr. Ivana"
   surname: "Ivanova"
-  title: ""
   thumbnailUrl: "Ivana Ivanova.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Dr. Zoltán"
   surname: "Siki"
-  title: ""
   thumbnailUrl: "Zoltán Siki.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Paolo"
   surname: "Dabove"
-  title: ""
   thumbnailUrl: "Paolo Dabove.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}

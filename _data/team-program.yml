@@ -1,24 +1,15 @@
 - name: "Jorge"
   surname: "San"
-  title: ""
   thumbnailUrl: "Jorge San.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Anna"
   surname: "Petrášová"
-  title: ""
   thumbnailUrl: "Anna Petrášová.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Markus"
   surname: "Neteler"
-  title: ""
   thumbnailUrl: "Markus Neteler.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+- name: "Luca"
+  surname: "Delucchi"
+  thumbnailUrl: "Luca Delucchi.jpeg"
+- name: "Vasile"
+  surname: "Craciunescu"
+  thumbnailUrl: "Vasile Craciunescu.jpg"

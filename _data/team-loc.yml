@@ -2,121 +2,55 @@
   surname: "Guri"
   title: "Conference chair"
   thumbnailUrl: "Besfort Guri.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Arianit"
   surname: "Dobroshi"
   title: "Board Member at FLOSSK"
   thumbnailUrl: "Arianit Dobroshi.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Enkelena"
   surname: "Haxhiu"
   title: "Board Member at FLOSSK"
   thumbnailUrl: "Enkelena Haxhiu.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Valmir"
   surname: "Mustafa"
   title: "Project manager at FLOSSK"
   thumbnailUrl: "Valmir Mustafa.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Edonis"
   surname: "Hashani"
   title: "Project Assistant at FLOSSK"
   thumbnailUrl: "Edonis Hashani.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Qendresa"
   surname: "Kastrati"
   title: "Finance Manager at FLOSSK"
   thumbnailUrl: "Qendresa Kastrati.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Sidorela"
   surname: "Uku"
-  # title: ""
   thumbnailUrl: "Sidorela Uku.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Gresa"
   surname: "Neziri"
-  # title: ""
   thumbnailUrl: "Gresa Neziri.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Raymond"
   surname: "Nijssen"
-  # title: ""
   thumbnailUrl: "Raymond Nijssen.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Lucas"
   surname: "De Oto"
-  # title: ""
   thumbnailUrl: "Lucas De Oto.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Jonathan"
   surname: "Beliën"
   title: "OSM Belgium & Open Knowledge Belgium board member"
   thumbnailUrl: "Jonathan Beliën.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/jbelien"}
     - {name: "github", link: "https://github.com/jbelien"}
     - {name: "site", link: "https://jbelien.be"}
 - name: "Nysret"
   surname: "Gashi"
-  # title: ""
   thumbnailUrl: "Nysret Gashi.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Rina"
   surname: "Marion Rama"
-  # title: ""
   thumbnailUrl: "Rina Marion Rama.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Danijel"
   surname: "Schorlemmer"
-  # title: ""
   thumbnailUrl: "Danijel Schorlemmer.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
 - name: "Hamidreza"
   surname: "Ostadabbas"
-  # title: ""
   thumbnailUrl: "Hamidreza Ostadabbas.jpg"
-  # ribbon:
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/zasadnyy"}
