@@ -19,6 +19,7 @@
     & > li {
       display: inline-block;
       &:not(:last-child)::after {
+        color: $primary-color;
         content: '-';
         margin: 0 5px;
       }
