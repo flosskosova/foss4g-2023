@@ -6,8 +6,6 @@ isStaticPost: true
 image: cod.jpg
 ---
 
-DATA PRIVACY NOTICE
-
 This Privacy Notice gives you details on the following items, in accordance with the General Data Protection Regulation (GDPR): (i) how we use the personal data you provide; and (ii) the marketing activities we carry out through our websites or social media. We would also like to inform you about the measures we are taking to protect your personal data, as well as about your rights and options to access your data and protect your privacy. This Privacy Notice contains information about the type of data we collect from you, how we process them and who we forward them to, if the case. This Privacy Notice applies to the visit and use of 2023.foss4g.org where you can create a customer account and purchase tickets. Other websites are not covered by this Privacy Notice and will provide their privacy notices. In this Privacy Notice, the terms listed below have the following meaning:
 
 Processing – means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
