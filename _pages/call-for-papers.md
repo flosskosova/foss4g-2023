@@ -1,3 +1,11 @@
+---
+layout: post
+title: Call for papers
+permalink: /call-for-papers/
+isStaticPost: true
+image: speakers.jpg
+---
+
 ### Call for Presentations
 
 Welcome to the Call for Presentations of FOSS4G Prizren 2023!
