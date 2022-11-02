@@ -4,7 +4,7 @@
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
 -
-  group: "Co-organizers"
+  group: "Partners"
   elements:
     - {name: "OpS-IN", description: "", link: "#", imageUrl: "ops-in-logo.jpg"}
     - {name: "Space Syntaks", description: "", link: "#", imageUrl: "spacesyntaks-logo.jpg"}
