@@ -17,8 +17,8 @@ links:
 
 <!-- Begin Team List-->
 <section id="team" class="team">
-    <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
+    <div class="container">
+        <div>
             <h3>About us</h3>
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">
                 FLOSSK has a long experience in organizing conferences, starting with Software Freedom
@@ -37,19 +37,19 @@ links:
                 together to create opportunities for knowledge exchange, networking, and partnerships.
             </p>
         </div>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        <div>
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Local Committee
             </h4>
             {% for teamMember in site.data.team-loc %}{% include team-member.html teamMember=teamMember %}{% endfor %}
         </div>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        <div>
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Program committee
             </h4>
             {% for teamMember in site.data.team-program %}{% include team-member.html teamMember=teamMember %}{% endfor %}
         </div>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        <div>
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Academic Track committee
             </h4>
