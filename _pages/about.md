@@ -1,3 +1,18 @@
+---
+layout: post
+title: About
+permalink: /about/
+isStaticPost: true
+image: about.jpg
+links:
+  - {permalink: "/about/", text: "About FOSS4G"}
+  - {link: "https://www.osgeo.org/about/", text: "About OSGEO"}
+  - {permalink: "/about/team/", text: "Committees"}
+  - {permalink: "/about/branding/", text: "Branding"}
+  - {permalink: "/about/faq/", text: "FAQ"}
+  - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+---
+
 FOSS4G means Free and Open Source Software for Geospatial.
 
 ### The conference
