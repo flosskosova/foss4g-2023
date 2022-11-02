@@ -78,7 +78,7 @@ rockstarSpeakersCount: 4
 locationBlockTitle: "Location"
 eventLocationName: "Innovation and Training Park (ITP)"
 eventLocationLink: "https://itp-prizren.com/"
-eventStreetAddress: "Ukë Bytyçi St."
+eventStreetAddress: "Ukë Bytyçi"
 eventAddressLocality: "Prizren"
 eventAddressLocalityRegion: ""
 eventPostalCode: "20000"
@@ -91,7 +91,6 @@ mapCenterCoordinates: "42.22097, 20.75224"
 # mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
 venueBigImage: "itp-aerial.jpg"
 venueSmallImage1: "ITP-Prizren1.jpg"
 venueSmallImage2: "itp-building.jpg"

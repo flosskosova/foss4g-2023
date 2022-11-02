@@ -1,0 +1,40 @@
+<!-- Venue Section -->
+<section id="venue">
+    <div class="container">
+        <h3>Venue</h3>
+        <div class="row venue-row">
+            <div class="col-md-6 col-sm-6 venue-col">
+                <div class="venue-elem-wrapper">
+                    <div class="venue-elem venue-big-elem venue-text animated hiding" data-animation="fadeIn" data-delay="0">
+                        <h5>{{ site.venueTitle }}</h5>
+                        <p>{{ site.venueText | newline_to_br }}</p>
+                        <div style="margin-top: 50px;">
+                            <a href="{{ site.eventLocationLink }}" target="_blank" style="color: inherit;">
+                                {% if site.eventLocationName %}<strong>{{ site.eventLocationName }}</strong><br>{% endif %}
+                                <addr>{{ site.eventStreetAddress }}<br>{{ site.eventPostalCode }} {{ site.eventAddressLocality }}, {{ site.eventAddressCountry }}</addr>
+                            </p>
+                            <a href="https://www.openstreetmap.org/way/29292346" target="_blank" style="color: inherit;">View in OpenStreetMap</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 venue-col venue-small-col">
+                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                    <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>
+                </div>
+                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                    <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150">
+                        <iframe style="width: 100%; height: 100%;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.741822719573978%2C42.21605138848048%2C20.762851238250736%2C42.22599893652783&amp;layer=mapnik&amp;marker={{ site.eventPlaceCoordinates | replace:' ','' }}"></iframe>
+                    </div>
+                </div>
+                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                    <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage2 }})"></div>
+                </div>
+                <div class="venue-elem-wrapper col-xs-6 visible-xs">
+                    <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage3 }})"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Venue Section -->

@@ -9,14 +9,14 @@
                     <h3>{{ site.locationBlockTitle }}</h3>
                     <ul>
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
-                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }} {{ site.eventAddressCountry }}</li>
+                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}, {{ site.eventAddressCountry }}</li>
                         <!-- <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li> -->
-                        <li>
+                        <!-- <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
                             <time>{{ startTime[1] }}</time> -
                             {% assign endTime = site.eventEndTime | split: "T" %}
                             <time>{{ endTime[1] }}</time>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
                 <a href="https://www.openstreetmap.org/directions?from=&to={{ site.eventPlaceCoordinates | replace:' ','' }}" class="pull-right">
