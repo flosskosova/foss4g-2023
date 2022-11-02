@@ -5,14 +5,56 @@ permalink: /about/team/
 image: about.jpg
 modal: team
 links:
-  - {permalink: "/about/", text: "About FOSS4G"}
-  - {link: "https://www.osgeo.org/about/", text: "About OSGEO"}
-  - {permalink: "/about/team/", text: "Committees"}
-  - {permalink: "/about/branding/", text: "Branding"}
-  - {permalink: "/about/faq/", text: "FAQ"}
-  - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+- {permalink: "/about/", text: "About FOSS4G"}
+- {link: "https://www.osgeo.org/about/", text: "About OSGEO"}
+- {permalink: "/about/team/", text: "Committees"}
+- {permalink: "/about/branding/", text: "Branding"}
+- {permalink: "/about/faq/", text: "FAQ"}
+- {permalink: "/code-of-conduct/", text: "Code of Conduct"}
 ---
 
- {% include top-section.html %}
+{% include top-section.html %}
 
- {% include team.html %}
+<!-- Begin Team List-->
+<section id="team" class="team">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>About us</h3>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">
+                FLOSSK has a long experience in organizing conferences, starting with Software Freedom
+                Kosova in 2009. <a target="_blank" href="https://sfk.flossk.org/">Software Freedom Kosova</a> is an
+                annual international conference held in Kosovo organized to promote Free/Libre and open-source software,
+                free culture, and an open society. Every year, SFK brings together developers and software users,
+                artists, entrepreneurs, and leaders to collaborate, learn and share common interests in the field of
+                open technology through a combination of lectures, training, and workshops.
+            </p>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">
+                FLOSSK has also organized the <a target="_blank" href="https://sotmsee.org/">State of the Map
+                    Southeastern Europe</a> 2019 conference. State of the Map Southeastern Europe was a three-day
+                conference held at the Innovation and Training Park in Prizren which brought together stakeholders in
+                the OpenStreetMap and Geographic Information Systems (GIS) ecosystem. Around 150 mappers, software
+                developers, academicians, NGOs, business leaders, and users of OpenStreetMap from the US and Europe came
+                together to create opportunities for knowledge exchange, networking, and partnerships.
+            </p>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
+                Local Committee
+            </h4>
+            {% for teamMember in site.data.team-loc %}{% include team-member.html teamMember=teamMember %}{% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
+                Program committee
+            </h4>
+            {% for teamMember in site.data.team-program %}{% include team-member.html teamMember=teamMember %}{% endfor %}
+        </div>
+        <div class="col-lg-10 col-lg-offset-1 text-center">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
+                Academic Track committee
+            </h4>
+            {% for teamMember in site.data.team-academic %}{% include team-member.html teamMember=teamMember %}{% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Team List -->

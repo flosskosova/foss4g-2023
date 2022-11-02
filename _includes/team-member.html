@@ -1,0 +1,22 @@
+<div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
+    <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ include.teamMember.id }}">
+        <figure class="waves-effect waves-block waves-light"
+            style="background-image: url('{{ site.baseurl | append: '/img/people/' | append: include.teamMember.thumbnailUrl }}')">
+            <div class="overlay solid-overlay"></div>
+            <figcaption>
+                <div class="col-md-8 col-xs-8 text-left">
+                    <h2 class="name">{{ include.teamMember.name }} <span>{{ include.teamMember.surname }}</span></h2>
+                    <div class="clearfix"></div>
+                    <span class="position">{{ include.teamMember.title }}</span>
+                </div>
+                {% for social in include.teamMember.social %}
+                <a href="{{ social["link"] }}" target="_blank">
+                    <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+                    </svg>
+                </a>
+                {% endfor %}
+            </figcaption>
+        </figure>
+    </div>
+</div>
