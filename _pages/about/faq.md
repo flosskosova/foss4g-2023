@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Frequently Asked Questions (FAQ)
-permalink: /faq/
+permalink: /about/faq/
 isStaticPost: true
 image: blog.jpg
+links:
+  - {permalink: "/about/", text: "About FOSS4G"}
+  - {link: "https://www.osgeo.org/about/", text: "About OSGEO"}
+  - {permalink: "/about/team/", text: "Committees"}
+  - {permalink: "/about/branding/", text: "Branding"}
+  - {permalink: "/about/faq/", text: "FAQ"}
+  - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
 ---
 
 #### When and Where

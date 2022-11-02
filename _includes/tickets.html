@@ -27,7 +27,7 @@
                         {% if ticketsOffer.soldOut == true %}
                         <span class="button disabled">{{ ticketsOffer.soldOutText }}</span>
                         {% elsif ticketsOffer.disabled != true %}
-                        <!-- <a class="button" href="{% link register.html %}">Buy now</a> -->
+                        <!-- <a class="button" href="{% link _pages/register.html %}">Buy now</a> -->
                         <a class="button" href="#">SOON</a>
                         {% else %}
                         {% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}

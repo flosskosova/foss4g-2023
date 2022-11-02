@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Branding
-permalink: /branding/ 
+permalink: /about/branding/ 
 isStaticPost: true
 image: about.jpg
+links:
+  - {permalink: "/about/", text: "About FOSS4G"}
+  - {link: "https://www.osgeo.org/about/", text: "About OSGEO"}
+  - {permalink: "/about/team/", text: "Committees"}
+  - {permalink: "/about/branding/", text: "Branding"}
+  - {permalink: "/about/faq/", text: "FAQ"}
+  - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
 ---
 
 Download our [FOSS4G 2023 - Brand identity guidelines.pdf]({{ site.baseurl }}/assets/Foss4G 2023 - Brand identity guidelines.pdf){:target="_blank"}

@@ -10,7 +10,7 @@ image: speakers.jpg
 <section id="call-for-papers" class="call-for-papers">
   <div class="content-wrapper">
       <div class="col-lg-10 col-lg-offset-1">
-          {% capture content %}{% include content/call-for-papers.md %}{% endcapture %}
+          {% capture content %}{% include_relative _content/call-for-papers.md %}{% endcapture %}
           {{ content | markdownify }}
       </div>
   </div>

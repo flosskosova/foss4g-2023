@@ -6,10 +6,10 @@ image: about.jpg
 links:
   - {permalink: "/about/", text: "About FOSS4G"}
   - {link: "https://www.osgeo.org/about/", text: "About OSGEO"}
-  - {permalink: "/team/", text: "Committees"}
-  - {permalink: "/branding/", text: "Branding"}
-  - {permalink: "/cod/", text: "Code of Conduct"}
-  - {permalink: "/faq/", text: "FAQ"}
+  - {permalink: "/about/team/", text: "Committees"}
+  - {permalink: "/about/branding/", text: "Branding"}
+  - {permalink: "/about/faq/", text: "FAQ"}
+  - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
 ---
 
 {% include top-section.html %}
@@ -17,7 +17,7 @@ links:
 <section id="about" class="about">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            {% capture content %}{% include content/about.md %}{% endcapture %}
+            {% capture content %}{% include_relative _content/about.md %}{% endcapture %}
             {{ content | markdownify }}
         </div>
     </div>

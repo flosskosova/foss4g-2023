@@ -1,3 +1,11 @@
+---
+layout: post
+title: Call for sponsors
+permalink: /sponsors/call-for-sponsors/
+isStaticPost: true
+image: sponsors.jpg
+---
+
 The Local Organizing Committee have the pleasure to invite you to participate in and contribute to FOSS4G 2023 which will be held on 26th of June to the 1st of July 2023, at Prizren, Kosovo.
 
 Sponsors are the backbone of the FOSS4G Conference. With their valuable support, we, the Local Organizing Committee, are able to set up this major event that the entire geospatial community is awaiting.

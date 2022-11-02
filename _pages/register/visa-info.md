@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Visa info
-permalink: /visa-info/
+permalink: /register/visa-info/
 isStaticPost: true
 image: register.jpg
+links:
+  - {permalink: "/register/", text: "Registration"}
+  - {permalink: "/register/travel-grant/", text: "Travel grant"}
+  - {permalink: "/register/visa-info/", text: "Visa info"}
 ---
 
 Kosovo requires visas for citizens of certain countries. You can find more information on which participants will need a visa to come to Kosovo here:

@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Travel grant
-permalink: /travel-grant/
+permalink: /register/travel-grant/
 isStaticPost: true
 image: register.jpg
+links:
+  - {permalink: "/register/", text: "Registration"}
+  - {permalink: "/register/travel-grant/", text: "Travel grant"}
+  - {permalink: "/register/visa-info/", text: "Visa info"}
 ---
 
 ### FOSS4G 2023 Travel Grant Programme

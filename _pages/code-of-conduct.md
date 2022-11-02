@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code of Conduct
-permalink: /cod/
+permalink: /code-of-conduct/
 isStaticPost: true
 image: cod.jpg
 ---

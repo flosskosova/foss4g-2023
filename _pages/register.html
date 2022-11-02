@@ -5,8 +5,8 @@ permalink: /register/
 image: register.jpg
 links:
   - {permalink: "/register/", text: "Registration"}
-  - {permalink: "/travel-grant/", text: "Travel grant"}
-  - {permalink: "/visa-info/", text: "Visa info"}
+  - {permalink: "/register/travel-grant/", text: "Travel grant"}
+  - {permalink: "/register/visa-info/", text: "Visa info"}
 ---
 
 {% include top-section.html %}
@@ -16,7 +16,7 @@ links:
 <section id="register" class="register">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            {% capture content %}{% include content/register.md %}{% endcapture %}
+            {% capture content %}{% include_relative _content/register.md %}{% endcapture %}
             {{ content | markdownify }}
         </div>
     </div>
