@@ -52,6 +52,8 @@ $figcaption-color: #3c4a50;
         background-position: -30px;
         -webkit-background-size: 115%;
         background-size: 115%;
+        filter: grayscale(1);
+        background-repeat: no-repeat;
         @media (max-width: 767px) {
             background-position: center left;
             -webkit-background-size: 105%;
