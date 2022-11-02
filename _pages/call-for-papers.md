@@ -14,9 +14,10 @@ If you have developed a free and open source project related to geospatial techn
 ### Types of Contributions
 
 You can submit three types of proposals to the Call for Papers:
-Talks
-Academic papers
-Workshops
+
+- Talks
+- Academic papers
+- Workshops
 
 ### What to contribute
 
