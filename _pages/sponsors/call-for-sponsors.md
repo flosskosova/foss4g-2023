@@ -29,7 +29,7 @@ Catering Sponsor conference -  **€ 2,000**
 - mentioned as partner on the conference website and on printed materials
 - 2 banners during one evening (Ice-breaker or gala dinner) of the event
 
-### Additional Options
+#### Additional Options
 
 Exhibition Table - **€ 1,000** - a standing table and space for 1
 
@@ -39,7 +39,7 @@ Exhibition Stand - **€ 2,500** - an exhibition space in the hall 3x2
 
 and space for 1 banner- in the hall. A conference pass is not included in the price.
 
-### Diversity and Participation Grant
+#### Diversity and Participation Grant
 
 As in recent years, we will continue to reach out to groups who would otherwise be less likely to attend our conference, in an effort to increase diversity among our attendees. We have travel grants earmarked for diversity, as we find this benefits both the conference and the open-source geo community as a whole.
 

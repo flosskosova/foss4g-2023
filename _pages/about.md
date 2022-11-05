@@ -13,7 +13,7 @@ links:
   - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
 ---
 
-FOSS4G means Free and Open Source Software for Geospatial.
+#### FOSS4G means Free and Open Source Software for Geospatial
 
 ### The conference
 
@@ -45,11 +45,11 @@ and the talks cover mainly this topics:
 - FOSS4G in education
 - Business products powered by FOSS4G
 
-### Our Vision
+#### Our Vision
 
 We are living in difficult times and the role of FOSS is essential for the sustainability and development of many day to day activities. From simple family communication to the development of new platforms for education and geoscience, FOSS today is the key to success.
 
-### Innovation
+#### Innovation
 
 We understand and cherish the importance of FOSS4G for giving voice to the daring new ideas and developments in perfect harmony with the pillars of what open source for geospatial is, and thus we promise workshops, talks and keynotes that will provoke your mind and give you hope for a better future.
 

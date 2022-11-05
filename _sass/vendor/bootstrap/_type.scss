@@ -236,10 +236,11 @@ dd {
   line-height: $line-height-base;
 }
 dt {
-  font-weight: bold;
+  font-size: $h6-font-size;
 }
 dd {
   margin-left: 0; // Undo browser default
+  margin-bottom: 20px;
 }
 
 // Horizontal description lists
