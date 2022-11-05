@@ -16,6 +16,8 @@ We offer potential sponsors many different ways of supporting the event.
 
 ![Sponsorship]({{ site.baseurl }}/img/partners/sponsorship.png "Sponsorship"){: .sponsorship }
 
+<br><br>
+
 ### Additional sponsorship opportunities
 
 #### Catering sponsor conference
@@ -24,12 +26,12 @@ If you are not a software company but still want to contribute to free software 
 
 There are only **6 spots** available for catering companies, covering the main events of the conference, the Welcome Party and the Gala dinner.
 
-Catering Sponsor conference -  **€ 2,000**
+Catering Sponsor conference - **€ 2,000**
 
 - mentioned as partner on the conference website and on printed materials
 - 2 banners during one evening (Ice-breaker or gala dinner) of the event
 
-### Additional Options
+#### Additional Options
 
 Exhibition Table - **€ 1,000** - a standing table and space for 1
 
@@ -39,10 +41,10 @@ Exhibition Stand - **€ 2,500** - an exhibition space in the hall 3x2
 
 and space for 1 banner- in the hall. A conference pass is not included in the price.
 
-### Diversity and Participation Grant
+#### Diversity and Participation Grant
 
 As in recent years, we will continue to reach out to groups who would otherwise be less likely to attend our conference, in an effort to increase diversity among our attendees. We have travel grants earmarked for diversity, as we find this benefits both the conference and the open-source geo community as a whole.
 
 For any questions you can write to [sponsors@foss4g.org](mailto:sponsors@foss4g.org)
 
-For more information please view our [sponsorship prospectus]({{ site.baseurl }}/assets/Sponsorship Brochure.pdf){:target="_blank"}
+For more information please view our [sponsorship prospectus]({{ site.baseurl }}/assets/Sponsorship Brochure.pdf){:target="\_blank"}
