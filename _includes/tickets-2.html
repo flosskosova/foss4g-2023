@@ -2,6 +2,9 @@
 <section id="tickets" class="tickets-2">
     <div class="container">
         <h3>Registration fees</h3>
+        <div class="text-center">
+            <img src="{% link img/tickets-table.png %}" alt="Registration fees" style="max-width: 100%; height: auto;">
+        </div>
         <div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
             {% assign animationDelay = 0 %}
             {% for ticketsOffer in site.data.tickets %}
