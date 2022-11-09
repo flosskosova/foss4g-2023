@@ -4,6 +4,9 @@ title: General sessions
 permalink: /call-for-papers/general-sessions/
 isStaticPost: true
 image: speakers.jpg
+links:
+  - {permalink: "/call-for-papers/", text: "Call for papers"}
+  - {permalink: "/call-for-papers/general-sessions/", text: "General sessions"}
 ---
 
 ### Deadlines
