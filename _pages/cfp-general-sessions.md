@@ -73,8 +73,4 @@ FOSS4G is the international geospatial community’s event, thus the main select
 
 We will make sure that the conference program will be well-balanced and diverse. Moreover, the Program Committee will work hard to ensure that every OSGeo project has its proper representation. If you are part of some FOSS4G project and want to propose a special session, contact us to make sure we consider the proposal carefully.
 
-Link to apply:
-
-<div class="text-center"> 
-<a href="https://talks.osgeo.org/foss4g-2023/cfp" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Apply now</a>
-</div>
+[Apply now](https://talks.osgeo.org/foss4g-2023/cfp){:target="_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
