@@ -1,7 +1,7 @@
 ---
 layout: post
 title: General sessions
-permalink: /cfp-general-sessions/
+permalink: /call-for-papers/general-sessions/
 isStaticPost: true
 image: speakers.jpg
 ---
