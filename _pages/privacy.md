@@ -65,7 +65,7 @@ FLOSSK would like to make sure you are fully aware of all of your data protectio
 
 If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email:
 
-Or write to us: info(at)flossk.org
+Or write to us: [info(at)flossk.org](mailto:info@flossk.org)
 
 ### Cookies
 
@@ -75,7 +75,7 @@ We currently don’t use any cookies.
 
 The Foss4g 2023 website contains links to other websites. Our privacy policy applies only to our website, our submissions software and our registration software, so if you click on a link to another website not mentioned here, you should read their privacy policy.
 
-We use talks.osgeo.org for submission and speaker registration and the data there is only used for that purpose. Parties with access there are FLOSSK and OSGEO Foundation.
+We use [talks.osgeo.org](https://talks.osgeo.org/){:target="_blank"} for submission and speaker registration and the data there is only used for that purpose. Parties with access there are FLOSSK and OSGEO Foundation.
 
 ### Changes to our privacy policy
 
@@ -85,10 +85,10 @@ FLOSSK keeps its privacy policy under regular review and places any updates on t
 
 If you have any questions about FLOSSK’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
 
-Email us at: info(at)flossk.org
+Email us at: [info(at)flossk.org](mailto:info@flossk.org)
 
 ### How to contact the appropriate authority
 
 Should you wish to report a complaint or if you feel that FLOSSK has not addressed your concern in a satisfactory manner, you may contact the Information and Privacy Agency.
 
-[https://aip.rks-gov.net/en/aip-english/](https://aip.rks-gov.net/en/aip-english/)
+<https://aip.rks-gov.net/en/aip-english/>
