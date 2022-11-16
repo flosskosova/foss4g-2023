@@ -45,4 +45,4 @@ As in recent years, we will continue to reach out to groups who would otherwise 
 
 For any questions you can write to [sponsors@foss4g.org](mailto:sponsors@foss4g.org)
 
-For more information please view our [sponsorship prospectus]({{ site.baseurl }}/assets/Sponsorship Brochure.pdf){:target="_blank"}
+For more information please view our [sponsorship prospectus]({{ site.baseurl }}/assets/Foss4G 2023 - Sponsorship.pdf){:target="_blank"}
