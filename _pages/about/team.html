@@ -37,19 +37,19 @@ links:
                 together to create opportunities for knowledge exchange, networking, and partnerships.
             </p>
         </div>
-        <div>
+        <div id="local-committee">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Local Committee
             </h4>
             {% for teamMember in site.data.team-loc %}{% include team-member.html teamMember=teamMember %}{% endfor %}
         </div>
-        <div>
+        <div id="progam-committee">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Program committee
             </h4>
             {% for teamMember in site.data.team-program %}{% include team-member.html teamMember=teamMember %}{% endfor %}
         </div>
-        <div>
+        <div id="academic-committee">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Academic Track committee
             </h4>
