@@ -6,7 +6,10 @@ isStaticPost: true
 image: speakers.jpg
 links:
   - { permalink: "/call-for-papers/", text: "Call for papers" }
-  - { permalink: "/call-for-papers/general-sessions/", text: "General sessions" }
+  - {
+      permalink: "/call-for-papers/general-sessions/",
+      text: "General sessions",
+    }
   - { permalink: "/call-for-papers/workshops/", text: "Workshops" }
   - { permalink: "/call-for-papers/academic-track/", text: "Academic Track" }
 ---
@@ -21,7 +24,7 @@ links:
 
 ### Description
 
-Following an established tradition, FOSS4G organizes an Academic Track which will run over the days of the Conference. The Scientific Committee of FOSS4G 2023 invites original research contributions addressing any topic or domain connected to Open Source Geospatial Software, including (but not limited to) Open Hardware, Open software development, Open GIScience, Open Geospatial Data, Spatial Data Sharing Systems, Open (Geo)Education, Participatory Mapping, Digital Twins, GeoAI and Geospatial Machine Learning.
+Following an established tradition, FOSS4G organizes an Academic Track which will run over the days of the Conference. The Scientific Committee of FOSS4G 2023 invites original research contributions addressing any topic or domain connected to Open Source Geospatial Software, including (but not limited to) Open Hardware, Open software development, Open GIScience, Open Geospatial Data, (Geo)Spatial Data Sharing Systems, Open (Geospatial) Cloud Platforms and Services, Open (Geo)Education, Participatory Mapping, Digital Twins, GeoAI and Geospatial Machine Learning.
 
 All types of papers are welcome, including on results achieved, case studies, work in progress, reviews and demos. We discourage, however, mere presentations of technology or use cases without properly justifying originality against the scientific state of the art and without particular novelty. In addition, the use of open source geospatial software should be properly highlighted. Contributions from PhD students and early-stage researchers are particularly encouraged.
 
