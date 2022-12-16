@@ -25,7 +25,7 @@ Following an established tradition, FOSS4G organizes an Academic Track which wil
 
 All types of papers are welcome, including on results achieved, case studies, work in progress, reviews and demos. We discourage, however, mere presentations of technology or use cases without properly justifying originality against the scientific state of the art and without particular novelty. In addition, the use of open source geospatial software should be properly highlighted. Contributions from PhD students and early-stage researchers are particularly encouraged.
 
-In the evaluation of proposals, the [Scientific Committee]({% link _pages/about/academic-team.html %}) will pay particular attention to the reproducibility of the research (where this is applicable). Reproducibility is ensured when the research makes all artefacts (input data, computational steps, methods and code) openly available to obtain consistent results. When available, the code shall be publicly released under an open source license.
+In the evaluation of proposals, the [Scientific Committee]({% link _pages/about/team-academic.html %}) will pay particular attention to the reproducibility of the research (where this is applicable). Reproducibility is ensured when the research makes all artefacts (input data, computational steps, methods and code) openly available to obtain consistent results. When available, the code shall be publicly released under an open source license.
 
 ### How to Submit a Paper
 
@@ -35,7 +35,7 @@ The submission procedure is divided in two steps.
 
 At the first step authors are invited to submit abstracts written in English comprising between 800 and 1000 words and containing sufficient details for evaluation (including the approach, results, concepts, reasons why it should be considered and why it would be interesting for the FOSS4G Academic Track audience).
 
-The contributions are evaluated in the abstract review process. Submitted abstract will be refereed by the members of the [Scientific Committee]({% link _pages/about/academic-team.html %}) for originality/scientific novelty, relevance for the FOSS4G community, presentation/clarity and overall quality.
+The contributions are evaluated in the abstract review process. Submitted abstract will be refereed by the members of the [Scientific Committee]({% link _pages/about/team-academic.html %}) for originality/scientific novelty, relevance for the FOSS4G community, presentation/clarity and overall quality.
 
 As in all the fields of science, reproducibility will be considered among the evaluation criteria (see above). Authors will receive feedback and (for accepted abstracts)) suggestions for improvement to be used for preparing their papers, to be submitted in Step 2.
 
