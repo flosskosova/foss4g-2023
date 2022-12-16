@@ -1,0 +1,27 @@
+---
+layout: default
+title: Committees
+permalink: /about/team/academic/
+image: about.jpg
+modal: team
+links:
+- {permalink: "/about/", text: "About FOSS4G"}
+- {link: "https://www.osgeo.org/about/", text: "About OSGEO"}
+- {permalink: "/about/team/", text: "Committees"}
+- {permalink: "/about/branding/", text: "Branding"}
+- {permalink: "/about/faq/", text: "FAQ"}
+- {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+---
+
+{% include top-section.html %}
+
+<section id="team" class="team">
+    <div class="container">
+        <div id="academic-committee">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
+                Academic Track committee
+            </h4>
+            {% for teamMember in site.data.team-academic %}{% include team-member.html teamMember=teamMember %}{% endfor %}
+        </div>
+    </div>
+</section>

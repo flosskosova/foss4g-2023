@@ -421,7 +421,11 @@ table {
   border-spacing: 0;
 }
 
-td,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
 th {
   padding: 0;
 }
