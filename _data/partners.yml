@@ -7,6 +7,9 @@
   group: "Sponsors"
   elements:
     - {name: "Mergin Maps", description: "", link: "https://merginmaps.com/", imageUrl: "mm-logo.png"}
+    - {name: "terrestris", description: "", link: "https://www.terrestris.de/", imageUrl: "terrestris-logo.svg"}
+    - {name: "mundialis", description: "", link: "https://www.mundialis.de/", imageUrl: "mundialis-logo.svg"}
+    - {name: "ESA – European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
 -
   group: "Partners"
   elements:
