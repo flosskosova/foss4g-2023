@@ -9,7 +9,9 @@
     - {name: "Mergin Maps", description: "", link: "https://merginmaps.com/", imageUrl: "mm-logo.png"}
     - {name: "terrestris", description: "", link: "https://www.terrestris.de/", imageUrl: "terrestris-logo.svg"}
     - {name: "mundialis", description: "", link: "https://www.mundialis.de/", imageUrl: "mundialis-logo.svg"}
-    - {name: "ESA – European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
+    - {name: "ESA - European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
+    - {name: "rapidlasso", description: "", link: "http://www.rapidlasso.de/", imageUrl: "rapidlasso-logo.png"}
+    - {name: "Cloud68", description: "", link: "https://cloud68.co/", imageUrl: "cloud68-logo.svg"}
 -
   group: "Partners"
   elements:
