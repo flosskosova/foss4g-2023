@@ -12,9 +12,9 @@
   priceCurrency: "EUR"
   buyButtonLink: "#"
   ticketContentList: ["FOSS4G Conference\r\n(28-30 June 2023)", "FOSS4G Codesprint\r\n(1 & 2 July 2023)"]
-  validFrom: "2023-04-21T00:00"
+  # validFrom: "2023-04-21T00:00"
   validThrough: "2023-06-20T23:59"
-  disabled: true
+  # disabled: true
 - name: "On-site"
   price: "570"
   priceCurrency: "EUR"
