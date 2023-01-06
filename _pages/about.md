@@ -17,7 +17,7 @@ links:
 
 ### The conference
 
-Organized by OSGeo and with more than 15 years of experience, this international annual gathering of location enthusiasts is the largest global gathering for geospatial software.
+Organized by [OSGeo](https://www.osgeo.org/){:target="_blank"} and with more than 15 years of experience, this international annual gathering of location enthusiasts is the largest global gathering for geospatial software.
 
 FOSS4G brings together developers, users, decision-makers and observers from a broad spectrum of organizations and fields of operation. Through seven days of workshops, presentations, discussions, and cooperation, FOSS4G participants create effective and relevant geospatial products, standards, and protocols.
 
