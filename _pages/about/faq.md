@@ -61,6 +61,12 @@ What is included in the ticket?
 : The cost of the conference ticket includes admission to all the main tracks (excluding workshops) and social events.  
 You can see the details on the schedule published at the website.
 
+Cancellation policy
+: The cancellation should be directed to the <register@foss4g.org> in writing only. The registration fees of 25% administrative charges will be held by the organizers if the cancellation is announced before May 30, 2023. After this date no refund will be possible. Refunds will be processed and issued 60 days after the congress.
+
+Unexpected cancellation of the event or impossibility to hold it
+: In the unlikely case that the FOSS4G 2023 cannot be held in whole or in part due to any event beyond the Organisers’ control or force majeure (such as riot, fire, explosion, accident, flood, earthquake, sabotage, strikes, pandemic, acts of any government, etc.) the Congress Organisers cannot be held liable for any damage, cost, or loss incurred, such as registration fee or any other direct or indirect loss or consequential damage.
+
 #### What can I expect
 
 What activities will the Conference have?
