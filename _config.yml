@@ -128,6 +128,7 @@ footerBlocks:
     - {link: "mailto:register@foss4g.org", text: "Registration: register@foss4g.org"}
     - {link: "mailto:sponsors@foss4g.org", text: "Sponsor questions: sponsors@foss4g.org"}
     - {link: "mailto:callforpapers@foss4g.org", text: "Call for papers: callforpapers@foss4g.org"}
+    - {link: "mailto:academic.foss4g2023@gmail.com", text: "Academic papers: academic.foss4g2023@gmail.com"}
     - {link: "https://twitter.com/foss4g", text: "Twitter"}
     - {link: "https://www.youtube.com/c/FOSS4G", text: "YouTube"}
  -
