@@ -136,6 +136,8 @@ footerBlocks:
    - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
    - {permalink: "/privacy/", text: "Privacy Policy"}
    - {permalink: "/about/faq/", text: "Frequently Asked Questions (FAQ)"}
+   - {permalink: "/about/team/", text: "Committee"}
+   - {permalink: "/about/branding/", text: "Branding"}
 
 # Blog
 # blogCommentsEnabled: true
