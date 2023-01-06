@@ -5,8 +5,6 @@ permalink: /about/branding/
 isStaticPost: true
 image: about.jpg
 links:
-  - {permalink: "/about/", text: "About FOSS4G"}
-  - {link: "https://www.osgeo.org/about/", text: "About OSGEO"}
   - {permalink: "/about/team/", text: "Committees"}
   - {permalink: "/about/branding/", text: "Branding"}
   - {permalink: "/about/faq/", text: "FAQ"}
