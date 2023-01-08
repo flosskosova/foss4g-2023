@@ -39,20 +39,24 @@ links:
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Local Committee
             </h4>
-            {% for teamMember in site.data.team-loc %}{% include team-member.html teamMember=teamMember %}{% endfor %}
+            <p class="text-center">
+            <a href="{% link _pages/about/team-loc.html %}" class="btn btn-primary waves-effect waves-button waves-light waves-float">View the Local committee</a>
+            </p>
         </div>
         <div id="progam-committee">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
-                Program committee
+                Program Committee
             </h4>
-            {% for teamMember in site.data.team-program %}{% include team-member.html teamMember=teamMember %}{% endfor %}
+            <p class="text-center">
+            <a href="{% link _pages/about/team-program.html %}" class="btn btn-primary waves-effect waves-button waves-light waves-float">View the Program committee</a>
+            </p>
         </div>
         <div id="academic-committee">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Academic Track committee
             </h4>
             <p class="text-center">
-                <a href="{% link _pages/about/team-academic.html %}">Click here to see the academic track committee</a>
+                <a href="{% link _pages/about/team-academic.html %}" class="btn btn-primary waves-effect waves-button waves-light waves-float">View the academic track committee</a>
             </p>
         </div>
     </div>
