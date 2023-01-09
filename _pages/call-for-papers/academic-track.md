@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshops
+title: Academic Track
 permalink: /call-for-papers/academic-track/
 isStaticPost: true
 image: speakers.jpg

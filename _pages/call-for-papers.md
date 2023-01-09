@@ -20,9 +20,11 @@ If you have developed a free and open source project related to geospatial techn
 
 You can submit three types of proposals to the Call for Papers:
 
-- [Talks]({% link _pages/call-for-papers/general-sessions.md %})
-- [Academic papers]({% link _pages/call-for-papers/academic-track.md %})
-- [Workshops]({% link _pages/call-for-papers/workshops.md %})
+- [Talks]({% link _pages/call-for-papers/general-sessions.md %}){: .btn .btn-primary .waves-effect .waves-button .waves-light }
+
+- [Academic papers]({% link _pages/call-for-papers/academic-track.md %}){: .btn .btn-primary .waves-effect .waves-button .waves-light }
+
+- [Workshops]({% link _pages/call-for-papers/workshops.md %}){: .btn-primary .waves-effect .waves-button .waves-light}
 
 The application deadline for all types of proposals and abstracts is 19 Feb 2023!
 
