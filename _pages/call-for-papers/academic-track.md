@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Workshops
+title: Academic Track
 permalink: /call-for-papers/academic-track/
 isStaticPost: true
 image: speakers.jpg
 links:
   - { permalink: "/call-for-papers/", text: "Call for papers" }
-  - { permalink: "/call-for-papers/general-sessions/", text: "General sessions" }
+  - {
+      permalink: "/call-for-papers/general-sessions/",
+      text: "General sessions",
+    }
   - { permalink: "/call-for-papers/workshops/", text: "Workshops" }
   - { permalink: "/call-for-papers/academic-track/", text: "Academic Track" }
 ---
