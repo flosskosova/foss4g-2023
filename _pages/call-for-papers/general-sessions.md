@@ -6,7 +6,10 @@ isStaticPost: true
 image: speakers.jpg
 links:
   - { permalink: "/call-for-papers/", text: "Call for papers" }
-  - { permalink: "/call-for-papers/general-sessions/", text: "General sessions" }
+  - {
+      permalink: "/call-for-papers/general-sessions/",
+      text: "General sessions",
+    }
   - { permalink: "/call-for-papers/workshops/", text: "Workshops" }
   - { permalink: "/call-for-papers/academic-track/", text: "Academic Track" }
 ---
@@ -76,10 +79,10 @@ OSGeo is an open, grassroots, dynamic community and its flagship event has inher
 - We believe in equality, so all presenters have the same exact amount of time to present their work – 20 minutes for the talk, 5 for Q&A and 5 for changing rooms. Please consider that when preparing your slides.
 - And last, but not least, the success of this event lies in the responsable actions of all participants and organizers alike. If after you have confirmed participation, you or the co-authors are no longer able to present, please let us know as soon as possible.
 
+[SUBMIT NOW](https://talks.osgeo.org/foss4g-2023/cfp){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
+
 ### Contribution selection process
 
 FOSS4G is the international geospatial community’s event, thus the main selection of talks will be done through the open community voting process. The highest-scored ones will automatically be included in the program, while the others will be reviewed by the FOSS4G 2023 Prizren volunteer Program Committee.
 
 We will make sure that the conference program will be well-balanced and diverse. Moreover, the Program Committee will work hard to ensure that every OSGeo project has its proper representation. If you are part of some FOSS4G project and want to propose a special session, contact us to make sure we consider the proposal carefully.
-
-[Apply now](https://talks.osgeo.org/foss4g-2023/cfp){:target="_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
