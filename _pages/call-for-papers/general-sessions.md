@@ -76,7 +76,7 @@ OSGeo is an open, grassroots, dynamic community and its flagship event has inher
 - We believe in equality, so all presenters have the same exact amount of time to present their work – 20 minutes for the talk, 5 for Q&A and 5 for changing rooms. Please consider that when preparing your slides.
 - And last, but not least, the success of this event lies in the responsable actions of all participants and organizers alike. If after you have confirmed participation, you or the co-authors are no longer able to present, please let us know as soon as possible.
 
-[SUBMIT NOW](https://talks.osgeo.org/foss4g-2023/cfp){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
+[SUBMIT NOW](https://talks.osgeo.org/foss4g-2023/cfp){:target="_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
 
 ### Contribution selection process
 

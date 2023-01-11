@@ -25,4 +25,4 @@ Workshops are the showcase of the FOSS4G projects. During 2 or 4 highly stimulat
 
 The workshops take place between the 26nd and 27rd of June, right before the main conference days.
 
-[SUBMIT NOW](https://talks.osgeo.org/foss4g-2023-workshop/cfp){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
+[SUBMIT NOW](https://talks.osgeo.org/foss4g-2023-workshop/cfp){:target="_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
