@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshops
+title: Academic Track
 permalink: /call-for-papers/academic-track/
 isStaticPost: true
 image: speakers.jpg
@@ -39,7 +39,7 @@ The contributions are evaluated in the abstract review process. Submitted abstra
 
 As in all the fields of science, reproducibility will be considered among the evaluation criteria (see above). Authors will receive feedback and (for accepted abstracts)) suggestions for improvement to be used for preparing their papers, to be submitted in Step 2.
 
-_The system for submitting abstracts will be open in January 2023._
+[SUBMIT NOW](https://talks.osgeo.org/foss4g-2023-academic-track/cfp){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
 
 ### Requirements
 
