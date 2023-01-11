@@ -1,0 +1,43 @@
+---
+layout: default
+title: Committees
+permalink: /about/team/program/
+image: about.jpg
+modal: team
+links:
+- {permalink: "/about/team/", text: "Committees"}
+- {permalink: "/about/branding/", text: "Branding"}
+- {permalink: "/about/faq/", text: "FAQ"}
+- {permalink: "/code-of-conduct/", text: "Code of Conduct"}
+---
+
+{% include top-section.html %}
+
+<section id="team" class="team">
+    <div class="container">
+        <div class="content-wrapper">
+            <div class="col-md-4 col-xs-6">
+                <p class="text-center">
+                    <a href="{% link _pages/about/team.html %}" class="btn btn-primary waves-effect waves-button waves-light waves-float">Local Committee</a>
+                    </p>
+            </div>
+            <div class="col-md-4 col-xs-6">
+                <p class="text-center">
+                    <a href="{% link _pages/about/team-program.html %}" class="btn btn-primary waves-effect waves-button waves-light waves-float">Program committee</a>
+                    </p>
+            </div>
+            <div class="col-md-4 col-xs-6">
+                <p class="text-center">
+                    <a href="{% link _pages/about/team-academic.html %}" class="btn btn-primary waves-effect waves-button waves-light waves-float">Academic Track Committee</a>
+                </p>
+            </div>
+        </div>
+        <br><br><br>
+        <div id="academic-committee">
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
+                Program Committee
+            </h4>
+            {% for teamMember in site.data.team-program %}{% include team-member.html teamMember=teamMember %}{% endfor %}
+        </div>
+    </div>
+</section>
