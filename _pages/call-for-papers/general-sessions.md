@@ -41,7 +41,7 @@ When submitting a talk, you will be asked to select a general Track that best de
 
 A Special Track is also available:
 
-- Open source geospatial made in Europe
+- Open source geospatial ‘Made in Europe’
 
 If you are interested in organizing another special track, be a sponsor of the event!  
 Look at the sponsorship page for additional information.
