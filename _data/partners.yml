@@ -12,6 +12,7 @@
     - {name: "ESA - European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
     - {name: "rapidlasso", description: "", link: "http://www.rapidlasso.de/", imageUrl: "rapidlasso-logo.png"}
     - {name: "Cloud68", description: "", link: "https://cloud68.co/", imageUrl: "cloud68-logo.svg"}
+    - {name: "Sparkgeo", description: "", link: "https://sparkgeo.com/", imageUrl: "sparkgeo-logo-black.svg"}
 -
   group: "Partners"
   elements:
