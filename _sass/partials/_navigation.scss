@@ -124,7 +124,55 @@ nav {
         }
       }
     }
+    // ul {
+    //   display: block;
+    //   left: 0;
+    //   margin-top: 10px;
+    //   opacity: 0;
+    //   li {
+    //     display: block;
+    //     clear: both;
+    //     width: 100%;
+    //     ul li {
+    //       display: block;
+    //     }
+    //   }
+    // }
+
+    // :hover > ul,
+    // :focus-within > ul,
+    // :hover,
+    // :focus {
+    //   display: block;
+    //   opacity: 1;
+    //   visibility: visible;
+    //   a {
+    //     color: blue;
+    //   }
+    // }
   }
+}
+.menu-dropdown {
+  display: block;
+  opacity: 0;
+  position: absolute;
+  transition: all 0.3s ease-in-out;
+  background: white;
+  border-radius: 10px;
+  z-index: 999;
+  padding: 15px 10px;
+  li {
+    display: block;
+    a {
+      min-width: 10rem;
+      padding: 0.425rem 1rem;
+    }
+  }
+}
+ul li a:hover + .menu-dropdown,
+.menu-dropdown:hover {
+  display: block;
+  opacity: 1;
 }
 .right-nav-button {
   margin: 11px 11px 0 0;

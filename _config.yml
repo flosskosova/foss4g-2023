@@ -37,12 +37,37 @@ permalink: "/blog/:title"
 
 # Navigation
 navigationLinks:
- - {permalink: "/about/", text: "FOSS4G 2023"}
- - {permalink: "/register/", text: "Register"}
- - {permalink: "/call-for-papers/", text: "Call for papers"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/sponsors/", text: "Sponsors"}
- - {permalink: "/attending/", text: "Attending"}
+ -
+  permalink: "/about"
+  text: "FOSS4G 2023"
+  links:
+    - {link: "/about/team", text: "Committees"}
+    - {link: "/about/branding", text: "Our brand"}
+    - {link: "/about/faq", text: "FAQ"}
+    - {link: "/code-of-conduct", text: "Code of conduct"}
+ -
+  permalink: "/register"
+  text: "Register"
+  links:
+    - {link: "/register", text: "Registration"}
+    - {link: "/register/travel-grant/", text: "Travel grant"}
+    - {link: "/register/visa-info/", text: "Visa info"}
+ -
+  permalink: "/call-for-papers/"
+  text: "Call for papers"
+  links:
+    - {link: "/call-for-papers/general-sessions/", text: "General sessions"}
+    - {link: "/call-for-papers/workshops/", text: "Workshops"}
+    - {link: "/call-for-papers/academic-track/", text: "Academic Track"}
+ -
+  permalink: "/schedule"
+  text: "Schedule"
+ -
+  permalink: "/sponors"
+  text: "Sponsors"
+ -
+  permalink: "/attending"
+  text: "Attending"
 #  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/team/", text: "Team"}
