@@ -1,7 +1,7 @@
 ---
 layout: post
 title: European Commission partnering with FOSS4G 2023
-permalink: /sponsors/partner_european_comission
+permalink: /sponsors/partner_european_commission
 isStaticPost: true
 image: EU_comission.jpg
 ---
