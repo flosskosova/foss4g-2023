@@ -3,7 +3,7 @@ layout: post
 title: European Commission partnering with FOSS4G 2023
 permalink: /sponsors/partner_european_comission
 isStaticPost: true
-image:
+image: EU_comission.jpg
 ---
 
 ![Logo European Comission]({{ site.baseurl }}/img/partners/Logo_European_Comission.jpg){: .brand-logo .col-lg-4 .col-sm-6 }
