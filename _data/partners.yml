@@ -16,5 +16,6 @@
 -
   group: "Partners"
   elements:
+    - {name: "European Comission", description: "", link: "/sponsors/partner_european_comission", imageUrl: "Logo_European_Comission.jpg"}
     - {name: "OpS-IN", description: "", link: "#", imageUrl: "ops-in-logo.jpg"}
     - {name: "Space Syntaks", description: "", link: "#", imageUrl: "spacesyntaks-logo.jpg"}
