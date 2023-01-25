@@ -5,9 +5,10 @@ permalink: /register/visa-info/
 isStaticPost: true
 image: register.jpg
 links:
-  - {permalink: "/register/", text: "Registration"}
-  - {permalink: "/register/travel-grant/", text: "Travel grant"}
-  - {permalink: "/register/visa-info/", text: "Visa info"}
+  - { permalink: "/register/", text: "Registration" }
+  - { permalink: "/register/travel-grant/", text: "Travel grant" }
+  - { permalink: "/register/studentship-grant", text: "Studentship grant" }
+  - { permalink: "/register/visa-info/", text: "Visa info" }
 ---
 
 Kosovo requires visas for citizens of certain countries. You can find more information on which participants will need a visa to come to Kosovo here:
@@ -165,7 +166,7 @@ The procedure is as follows:
 
 When applying remotely for a visa, you will need to provide:
 
-- The filled and signed application form - [download here](https://flossk.org/wp-content/uploads/2022/10/C-Visa-Application.docx){:target="_blank"}. If the applicant is minor, the application form must be signed by parents or legal custodian. Persons included in the applicant’s travel document shall submit a separate application form;
+- The filled and signed application form - [download here](https://flossk.org/wp-content/uploads/2022/10/C-Visa-Application.docx){:target="\_blank"}. If the applicant is minor, the application form must be signed by parents or legal custodian. Persons included in the applicant’s travel document shall submit a separate application form;
 - Scanned passport (Valid at least three months after the visa expiration date with at least two empty pages). You will have to send scans of the first 2 pages (photo and bio page) and 2 empty pages where the visa would be placed; The Consulate might require you to scan the whole passport.
 - 2 photos (35x45mm) not older than 1 month;
 - Proof showing the purpose of visiting the Republic of Kosovo. We will supply a notarized invitation letter once the MFA approves our request for your remote application;
@@ -189,7 +190,7 @@ General Consulate of the Republic of Kosovo in Tirana
 > Account holder AMBASADA E REPUBLIKES SE KOSOVES NE K82310452S  
 > IBAN: AL1520211037000000430097682 (EU or Schengen member states)  
 > SWIFT code: SGSBALTX  
-> Reference: The visa applicant’s name.  
+> Reference: The visa applicant’s name.
 
 For the Consulate General of the Republic of Kosovo in Istanbul:
 
@@ -203,7 +204,7 @@ For the Consulate General of the Republic of Kosovo in Istanbul:
 > IBAN: TR 31 0004 6000 7503 6000 1383 87  
 > Institution: Kosova Cumhuriyeti Istanbul Başkonsolosluğu  
 > SWIFT code: AKBKTRIS  
-> Reference: The visa applicant’s name.  
+> Reference: The visa applicant’s name.
 
 For the Consulate General of the Republic of Kosovo in New York:
 
@@ -220,7 +221,7 @@ For the Consulate General of the Republic of Kosovo in New York:
 > Routing Number: 026009593  
 > SWIFT code: BOFAUS3N  
 > Bank Address: 675 3rd Ave, New York, NY 10017  
-> Reference: The visa applicant’s name.  
+> Reference: The visa applicant’s name.
 
 #### Important Information
 
