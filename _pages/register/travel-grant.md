@@ -15,18 +15,18 @@ links:
 
 OSGeo provides a Travel Grant Program (TGP) to facilitate accessibility and diversity at the global FOSS4G 2023 Conference, which will happen in Prizren, Kosovo, 26 June - 2 July 2023.
 
-The TGP is administered by the Conference Committee (CC) and supported by members of the Prizren LOC (PLOC). Applications will be accepted until 12 March 2023.
+The TGP is administered by the Conference Committee (CC) and supported by members of the Prizren LOC (PLOC). Applications will be accepted until 15 April 2023.
 
 [APPLY](https://forms.gle/br7DDT7UHTpy7Lax9){: target="\_blank" .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
 
 ### Travel Grants
 
-The Travel Grant will include a full conference ticket (including 1 workshop track) and a lump-sum contribution towards travel, accommodation or other expenses.
+The Travel Grant will include a full conference ticket (including 2 workshop tracks) and a lump-sum contribution towards travel, accommodation or other expenses.
 
 There will be 3 different sizes of travel grants available:
 
 1. Applicants from Kosovo, Albania, North Macedonia, Serbia, Montenegro: 200 EUR
-2. [European Countries](https://en.wikipedia.org/wiki/List_of_European_countries_by_population) (not including countries form point 1): 400 EUR
+2. [European Countries](https://en.wikipedia.org/wiki/List_of_European_countries_by_population) (not including countries from point 1): 400 EUR
 3. Applicants from other countries : 800 EUR
 
 The size and number of grants may be adjusted at the discretion of the Conference Committee, depending upon the level of funding raised and the number of applications received. Applicants will only be able to apply for one size of travel grant and are encouraged to apply for the smallest grant that will enable them to attend FOSS4G 2023.
