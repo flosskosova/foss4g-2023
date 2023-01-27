@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/attending/", text: "Attending"}
-#  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "News"}
 #  - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
