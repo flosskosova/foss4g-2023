@@ -67,7 +67,7 @@ In order to create a more diverse community, women and applicants from other und
 
 Students in general receive 1 point. If a student also applied and is selected in the volunteer programme, 1 additional point is awarded. Phd students are considered as students.
 
-\*Students from [Studentship Programme](/register/studentship-grant), group 1 are excluded from this grant and should consider applying for Studentship Grant.
+\*Students from [Studentship Programme](/register/studentship-grant), group 1 are excluded from this grant and should consider applying for Studentship Grant for Western Balkans.
 
 #### Submitted and Accepted Talks
 
