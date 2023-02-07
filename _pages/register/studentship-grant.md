@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOSS4G 2023 Studentship Programme
+title: FOSS4G 2023 Studentship Programme for Western Balkans
 permalink: /register/studentship-grant/
 isStaticPost: true
 image: register.jpg
@@ -11,7 +11,7 @@ links:
   - { permalink: "/register/visa-info/", text: "Visa info" }
 ---
 
-### FOSS4G 2023 Studentship Programme
+### FOSS4G 2023 Studentship Programme for Western Balkans
 
 FOSS4G is the one of most important events of the year in the geospatial world. In direct proportionality with its increasing size stands the increasing costs to organize it and, as a direct consequence, the increasing participation cost that might not be accessible to all interested.
 
@@ -21,7 +21,7 @@ Through Student grant, this year we will be offering 40 scholarships for partici
 
 ### Criteria
 
-The 40 special tickets will be offered to Kosovo and other Western Balkans students who:
+The 40 special tickets will be offered to **Kosovo** and other **Western Balkans** students who:
 
 - Are registered in any university in the Bachelor, Master and PhD level
 - Have previous experience or future ambition to join the open GIS community
