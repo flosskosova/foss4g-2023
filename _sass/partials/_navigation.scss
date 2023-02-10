@@ -9,7 +9,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, 0.8);
   width: 100%;
   padding: 0 45px 35px 45px;
   @media (min-width: 768px) and (max-width: 991px) {
-    padding: 13px 0 0 34px;
+    padding: 13px 0 40px 34px;
   }
   padding-top: 20px;
   padding-bottom: 20px;
@@ -93,6 +93,9 @@ nav {
       transition: $base-transition;
       text-transform: uppercase;
       color: $nav-scroll-color;
+      @media (min-width: 768px) and (max-width: 991px) {
+        text-transform: none;
+      }
       @media (max-width: 767px) {
         font-size: 16px;
         display: block;
