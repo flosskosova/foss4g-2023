@@ -168,6 +168,12 @@ nav {
       padding: 0.425rem 1rem;
     }
   }
+  @media (max-width: 767px) {
+    margin-top: 0;
+    opacity: 1;
+    position: relative;
+    padding-top: 0;
+  }
 }
 ul li a:hover + .menu-dropdown,
 .menu-dropdown:hover {

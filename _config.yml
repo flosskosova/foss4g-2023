@@ -38,24 +38,26 @@ permalink: "/blog/:title"
 # Navigation
 navigationLinks:
  -
-  permalink: "/about"
+  permalink: "#"
   text: "FOSS4G 2023"
   links:
+    - {link: "/about", text: "About us"}
     - {link: "/about/team", text: "Committees"}
     - {link: "/about/branding", text: "Our brand"}
     - {link: "/about/faq", text: "FAQ"}
     - {link: "/code-of-conduct", text: "Code of conduct"}
  -
-  permalink: "/register"
+  permalink: "#"
   text: "Register"
   links:
     - {link: "/register", text: "Registration"}
     - {link: "/register/travel-grant/", text: "Travel grant"}
     - {link: "/register/visa-info/", text: "Visa info"}
  -
-  permalink: "/call-for-papers/"
+  permalink: "#"
   text: "Call for papers"
   links:
+    - {link: "/call-for-papers", text: "Call for papers"}
     - {link: "/call-for-papers/general-sessions/", text: "General sessions"}
     - {link: "/call-for-papers/workshops/", text: "Workshops"}
     - {link: "/call-for-papers/academic-track/", text: "Academic Track"}
@@ -68,7 +70,9 @@ navigationLinks:
  -
   permalink: "/attending"
   text: "Attending"
-#  - {permalink: "/blog/", text: "Blog"}
+ - 
+  permalink: "/blog/"
+  text: "News"
 #  - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
@@ -153,7 +157,7 @@ footerBlocks:
     - {link: "mailto:register@foss4g.org", text: "Registration: register@foss4g.org"}
     - {link: "mailto:sponsors@foss4g.org", text: "Sponsor questions: sponsors@foss4g.org"}
     - {link: "mailto:callforpapers@foss4g.org", text: "Call for papers: callforpapers@foss4g.org"}
-    - {link: "mailto:academic.foss4g2023@gmail.com", text: "Academic papers: academic.foss4g2023@gmail.com"}
+    - {link: "mailto:academic@foss4g.org ", text: "Academic papers: academic@foss4g.org"}
     - {link: "https://twitter.com/foss4g", text: "Twitter"}
     - {link: "https://www.youtube.com/c/FOSS4G", text: "YouTube"}
  -

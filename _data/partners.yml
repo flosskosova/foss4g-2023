@@ -1,20 +1,37 @@
--
-  group: "Organizers"
+- group: "Organizers"
   elements:
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
--
-  group: "Sponsors"
+
+- group: "Silver Sponsors"
   elements:
-    - {name: "Mergin Maps", description: "", link: "https://merginmaps.com/", imageUrl: "mm-logo.png"}
-    - {name: "terrestris", description: "", link: "https://www.terrestris.de/", imageUrl: "terrestris-logo.svg"}
-    - {name: "mundialis", description: "", link: "https://www.mundialis.de/", imageUrl: "mundialis-logo.svg"}
-    - {name: "ESA - European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
-    - {name: "rapidlasso", description: "", link: "http://www.rapidlasso.de/", imageUrl: "rapidlasso-logo.png"}
-    - {name: "Cloud68", description: "", link: "https://cloud68.co/", imageUrl: "cloud68-logo.svg"}
     - {name: "Sparkgeo", description: "", link: "https://sparkgeo.com/", imageUrl: "sparkgeo-logo-black.svg"}
--
-  group: "Partners"
+    - {name: "Meta", description: "", link: "https://www.meta.com/", imageUrl: "meta-logo.svg"}
+
+- group: "Bronze Sponsors"
+  elements:
+    - {name: "ESA - European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
+    - {name: "Mergin Maps", description: "", link: "https://merginmaps.com/", imageUrl: "mm-logo.png"}
+    - {name: "Cloud68", description: "", link: "https://cloud68.co/", imageUrl: "cloud68-logo.svg"}
+    - {name: "rapidlasso", description: "", link: "http://www.rapidlasso.de/", imageUrl: "rapidlasso-logo.png"}
+    - {name: "camptocamp", description: "", link: "https://www.camptocamp.com/", imageUrl: "camptocamp-logo.svg"}
+    - {name: "mundialis", description: "", link: "https://www.mundialis.de/", imageUrl: "mundialis-logo.svg"}
+    - {name: "terrestris", description: "", link: "https://www.terrestris.de/", imageUrl: "terrestris-logo.svg"}
+    - {name: "EYE - Enhancing Youth Employment", description: "", link: "https://helvetas-ks.org/eye/", imageUrl: "eye-logo@2x.png"}
+
+- group: "Supporter Sponsors"
+  elements:
+    - {name: "Locate Press", description: "", link: "https://locatepress.com/", imageUrl: "locatepress-logo.svg"}
+
+- group: "Partners"
+  elements:
+    - {name: "European Comission", description: "", link: "/sponsors/partner_european_commission", imageUrl: "eu-logo.jpg"}
+
+- group: "Organizing Partners"
   elements:
     - {name: "OpS-IN", description: "", link: "#", imageUrl: "ops-in-logo.jpg"}
     - {name: "Space Syntaks", description: "", link: "#", imageUrl: "spacesyntaks-logo.jpg"}
+
+- group: "Media Partners"
+  elements:
+    - {name: "ISPRS", description: "", link: "https://www.isprs.org/", imageUrl: "isprs-logo.png"}
