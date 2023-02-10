@@ -5,13 +5,13 @@
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
 
 - group: "Silver Sponsors"
-  height: 80
+  height: 200
   elements:
     - {name: "Sparkgeo", description: "", link: "https://sparkgeo.com/", imageUrl: "sparkgeo-logo-black.svg"}
     - {name: "Meta", description: "", link: "https://www.meta.com/", imageUrl: "meta-logo.svg"}
 
 - group: "Bronze Sponsors"
-  height: 70
+  height: 100
   elements:
     - {name: "ESA - European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
     - {name: "Mergin Maps", description: "", link: "https://merginmaps.com/", imageUrl: "mm-logo.png"}
