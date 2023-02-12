@@ -1,17 +1,17 @@
 - group: "Organizers"
-  height: 50
+  height: 60
   elements:
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
 
 - group: "Silver Sponsors"
-  height: 50
+  height: 80
   elements:
     - {name: "Sparkgeo", description: "", link: "https://sparkgeo.com/", imageUrl: "sparkgeo-logo-black.svg"}
     - {name: "Meta", description: "", link: "https://www.meta.com/", imageUrl: "meta-logo.svg"}
 
 - group: "Bronze Sponsors"
-  height: 50
+  height: 60
   elements:
     - {name: "ESA - European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
     - {name: "Mergin Maps", description: "", link: "https://merginmaps.com/", imageUrl: "mm-logo.png"}
@@ -23,22 +23,22 @@
     - {name: "EYE - Enhancing Youth Employment", description: "", link: "https://helvetas-ks.org/eye/", imageUrl: "eye-logo@2x.png"}
 
 - group: "Supporter Sponsors"
-  height: 50
+  height: 40
   elements:
     - {name: "Locate Press", description: "", link: "https://locatepress.com/", imageUrl: "locatepress-logo.svg"}
 
 - group: "Partners"
-  height: 50
+  height: 80
   elements:
     - {name: "European Comission", description: "", link: "/sponsors/partner_european_commission", imageUrl: "eu-logo.jpg"}
 
 - group: "Organizing Partners"
-  height: 50
+  height: 60
   elements:
     - {name: "OpS-IN", description: "", link: "#", imageUrl: "ops-in-logo.jpg"}
     - {name: "Space Syntaks", description: "", link: "#", imageUrl: "spacesyntaks-logo.jpg"}
 
 - group: "Media Partners"
-  height: 50
+  height: 40
   elements:
     - {name: "ISPRS", description: "", link: "https://www.isprs.org/", imageUrl: "isprs-logo.png"}
