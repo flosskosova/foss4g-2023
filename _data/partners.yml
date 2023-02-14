@@ -9,6 +9,7 @@
   elements:
     - {name: "Sparkgeo", description: "", link: "https://sparkgeo.com/", imageUrl: "sparkgeo-logo-black.svg"}
     - {name: "Meta", description: "", link: "https://www.meta.com/", imageUrl: "meta-logo.svg"}
+    - {name: "GeoSolutions", description: "", link: "https://www.geosolutionsgroup.com/", imageUrl: "geosolutions-logo.svg"}
 
 - group: "Bronze Sponsors"
   height: 60
