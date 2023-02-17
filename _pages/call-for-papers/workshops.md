@@ -15,7 +15,7 @@ links:
 
 | <!-- -->                              | <!-- -->               | <!-- -->                |
 | ------------------------------------- | ---------------------- | ----------------------- |
-| CFP for Submission of workshop &emsp; | from 10/11/2022 &emsp; | to 19/02/2023 23:59 UTC |
+| CFP for Submission of workshop &emsp; | from 10/11/2022 &emsp; | to 28/02/2023 23:59 UTC |
 | Announce accepted workshops &emsp;    |                        | 30/03/2023              |
 | Full FOSS4G 2022 program &emsp;       |                        | 30/04/2023              |
 
