@@ -26,7 +26,7 @@ You can submit three types of proposals to the Call for Papers:
 
 - [Workshops]({% link _pages/call-for-papers/workshops.md %}){: .btn-primary .waves-effect .waves-button .waves-light}
 
-The application deadline for all types of proposals and abstracts is 19 Feb 2023!
+The application deadline for all types of proposals and abstracts is 28 Feb 2023!
 
 ### What to contribute
 
