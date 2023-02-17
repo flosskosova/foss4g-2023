@@ -15,7 +15,7 @@ links:
 
 | <!-- -->                                  | <!-- -->               | <!-- -->                |
 | ----------------------------------------- | ---------------------- | ----------------------- |
-| Submission of academic abstracts &emsp;   | from 15/12/2022 &emsp; | to 19/02/2023 23:59 UTC |
+| Submission of academic abstracts &emsp;   | from 15/12/2022 &emsp; | to 28/02/2023 23:59 UTC |
 | Announcement of accepted abstracts &emsp; |                        | 15/03/2023              |
 | Submission of full academic papers &emsp; |                        | 23/04/2023              |
 
