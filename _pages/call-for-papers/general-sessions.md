@@ -15,7 +15,7 @@ links:
 
 | <!-- -->                           | <!-- -->               | <!-- -->                |
 | ---------------------------------- | ---------------------- | ----------------------- |
-| Open call for general talks &emsp; | from 10/11/2022 &emsp; | to 19/02/2023 23:59 UTC |
+| Open call for general talks &emsp; | from 10/11/2022 &emsp; | to 28/02/2023 23:59 UTC |
 | Community vote &emsp;              | from 20/02/2023 &emsp; | to 05/03/2023           |
 | Announce accepted talks &emsp;     |                        | 30/03/2023              |
 | Full FOSS4G 2022 program &emsp;    |                        | 30/04/2023              |
