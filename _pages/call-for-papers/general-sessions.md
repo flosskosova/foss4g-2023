@@ -38,6 +38,7 @@ When submitting a talk, you will be asked to select a general Track that best de
 - Open data;
 - Community & Foundation
 - AI4EO Challenges & Opportunities
+- Open Standard
 
 A Special Track is also available:
 
