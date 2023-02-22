@@ -8,10 +8,17 @@
     </a>
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>
-        <ul>
+        <ul class="navbar-menu">
             {% for navigationLink in site.navigationLinks %}
             <li>
                 <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
+                {% if navigationLink.links != null %}
+                <ul class="menu-dropdown">
+                    {% for sublink in navigationLink.links %}
+                    <li><a href={{sublink.link}}>{{ sublink.text }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
             </li>
             {% endfor %}
         </ul>
