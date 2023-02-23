@@ -52,6 +52,7 @@ navigationLinks:
   links:
     - {link: "/register", text: "Registration"}
     - {link: "/register/travel-grant/", text: "Travel grant"}
+    - {link: "/register/studentship-grant/", text: "Studentship grant"}
     - {link: "/register/visa-info/", text: "Visa info"}
  -
   permalink: "#"
