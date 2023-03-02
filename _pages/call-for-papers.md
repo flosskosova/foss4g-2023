@@ -49,3 +49,5 @@ And last, but not least, the success of this event lies in the responsable actio
 
 Help us curate our schedule! You can vote the general session proposals.
 Please register your email address. You will get and email with a link to vote, clicking the link you will see all the proposals of the Conference. It is time to vote what you would like to see!
+
+[VOTE HERE](https://talks.osgeo.org/foss4g-2023/p/voting/signup/){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}

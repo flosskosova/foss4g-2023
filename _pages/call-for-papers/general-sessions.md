@@ -16,7 +16,7 @@ links:
 | <!-- -->                           | <!-- -->               | <!-- -->                |
 | ---------------------------------- | ---------------------- | ----------------------- |
 | Open call for general talks &emsp; | from 10/11/2022 &emsp; | to 28/02/2023 23:59 UTC |
-| Community vote &emsp;              | from 20/02/2023 &emsp; | to 05/03/2023           |
+| Community vote &emsp;              | from 01/03/2023 &emsp; | to 23/03/2023           |
 | Announce accepted talks &emsp;     |                        | 30/03/2023              |
 | Full FOSS4G 2022 program &emsp;    |                        | 30/04/2023              |
 
@@ -77,10 +77,18 @@ OSGeo is an open, grassroots, dynamic community and its flagship event has inher
 - We believe in equality, so all presenters have the same exact amount of time to present their work – 20 minutes for the talk, 5 for Q&A and 5 for changing rooms. Please consider that when preparing your slides.
 - And last, but not least, the success of this event lies in the responsable actions of all participants and organizers alike. If after you have confirmed participation, you or the co-authors are no longer able to present, please let us know as soon as possible.
 
-[SUBMIT NOW](https://talks.osgeo.org/foss4g-2023/cfp){:target="_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
+_Submissions are now closed._
 
 ### Contribution selection process
 
 FOSS4G is the international geospatial community’s event, thus the main selection of talks will be done through the open community voting process. The highest-scored ones will automatically be included in the program, while the others will be reviewed by the FOSS4G 2023 Prizren volunteer Program Committee.
 
 We will make sure that the conference program will be well-balanced and diverse. Moreover, the Program Committee will work hard to ensure that every OSGeo project has its proper representation. If you are part of some FOSS4G project and want to propose a special session, contact us to make sure we consider the proposal carefully.
+
+### Community Review
+
+Help us curate our schedule! You can vote on the general session proposals.
+
+Please register your email address. You will get and email with a link to vote, clicking the link you will see all the proposals of the Conference. It is time to vote for what
+
+[VOTE HERE](https://talks.osgeo.org/foss4g-2023/p/voting/signup/){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
