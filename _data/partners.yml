@@ -16,12 +16,15 @@
   elements:
     - {name: "ESA - European Space Agency", description: "", link: "/sponsors/sponsor_esa", imageUrl: "esa-logo.svg"}
     - {name: "Mergin Maps", description: "", link: "/sponsors/sponsor_merginmaps", imageUrl: "merginmaps-logo.svg"}
-    - {name: "Cloud68", description: "", link: "https://cloud68.co/", imageUrl: "cloud68-logo.svg"}
-    - {name: "rapidlasso", description: "", link: "http://www.rapidlasso.de/", imageUrl: "rapidlasso-logo.png"}
+    - {name: "Cloud68", description: "", link: "/sponsors/sponsor_cloud68co", imageUrl: "cloud68_logo.svg"}
+    - {name: "rapidlasso", description: "", link: "/sponsors/sponsor_lastools", imageUrl: "rapidlasso_lastools_logo.svg"}
     - {name: "camptocamp", description: "", link: "/sponsors/sponsor_camptocamp", imageUrl: "camptocamp-logo.svg"}
-    - {name: "mundialis", description: "", link: "https://www.mundialis.de/", imageUrl: "mundialis-logo.svg"}
-    - {name: "terrestris", description: "", link: "https://www.terrestris.de/", imageUrl: "terrestris-logo.svg"}
-    - {name: "EYE - Enhancing Youth Employment", description: "", link: "https://helvetas-ks.org/eye/", imageUrl: "eye-logo@2x.png"}
+    - {name: "EYE - Enhancing Youth Employment", description: "", link: "https://helvetas-ks.org/eye/", imageUrl: "sdc_eye.svg"}
+    - {name: "mundialis", description: "", link: "/sponsors/sponsor_mundialis", imageUrl: "mundialis-logo.svg"}
+    - {name: "terrestris", description: "", link: "/sponsors/sponsor_terrestris", imageUrl: "terrestris_logo.svg"}
+    - {name: "GEOE3", description: "", link: "https://geoe3.eu/", imageUrl: "GeoE3.png"}
+    - {name: "Gis3W", description: "", link: "https://gis3w.it/", imageUrl: "gis3W.svg"}
+    - {name: "Sinergise", description: "", link: "/sponsors/sponsor_sinergise", imageUrl: "sinergise.svg"}
 
 - group: "Supporter Sponsors"
   height: 40

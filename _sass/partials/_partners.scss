@@ -1,20 +1,20 @@
-.partners  {
-    h5 {
-       margin-top: 30px;
+.partners {
+  h5 {
+    margin-top: 30px;
+  }
+  .list-inline {
+    margin-bottom: 65px;
+    li {
+      margin: 40px 20px;
     }
-    .list-inline {
-        margin-bottom: 65px;
-        li {
-            margin: 13px 7px;
-        }
+  }
+  img {
+    transition: $base-transition;
+    &:not(.sponsorship) {
+      filter: grayscale(1);
+      &:hover {
+        filter: grayscale(0);
+      }
     }
-    img {
-        transition: $base-transition;
-        &:not(.sponsorship) {
-            filter: grayscale(1);
-            &:hover {
-                filter: grayscale(0);
-            }
-        }
-    }
+  }
 }
