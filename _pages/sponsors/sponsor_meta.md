@@ -1,6 +1,6 @@
 ---
 layout: post
-title: META sponsoring FOSS4G 2022
+title: META sponsoring FOSS4G 2023
 permalink: /sponsors/sponsor_meta
 isStaticPost: true
 image: sponsors.jpg

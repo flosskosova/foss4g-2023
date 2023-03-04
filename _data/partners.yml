@@ -14,11 +14,11 @@
 - group: "Bronze Sponsors"
   height: 60
   elements:
-    - {name: "ESA - European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
-    - {name: "Mergin Maps", description: "", link: "https://merginmaps.com/", imageUrl: "mm-logo.png"}
+    - {name: "ESA - European Space Agency", description: "", link: "/sponsors/sponsor_esa", imageUrl: "esa-logo.svg"}
+    - {name: "Mergin Maps", description: "", link: "/sponsors/sponsor_merginmaps", imageUrl: "merginmaps-logo.svg"}
     - {name: "Cloud68", description: "", link: "https://cloud68.co/", imageUrl: "cloud68-logo.svg"}
     - {name: "rapidlasso", description: "", link: "http://www.rapidlasso.de/", imageUrl: "rapidlasso-logo.png"}
-    - {name: "camptocamp", description: "", link: "https://www.camptocamp.com/", imageUrl: "camptocamp-logo.svg"}
+    - {name: "camptocamp", description: "", link: "/sponsors/sponsor_camptocamp", imageUrl: "camptocamp-logo.svg"}
     - {name: "mundialis", description: "", link: "https://www.mundialis.de/", imageUrl: "mundialis-logo.svg"}
     - {name: "terrestris", description: "", link: "https://www.terrestris.de/", imageUrl: "terrestris-logo.svg"}
     - {name: "EYE - Enhancing Youth Employment", description: "", link: "https://helvetas-ks.org/eye/", imageUrl: "eye-logo@2x.png"}

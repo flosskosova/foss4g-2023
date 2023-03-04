@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sparkgeo sponsoring FOSS4G 2022
+title: Sparkgeo sponsoring FOSS4G 2023
 permalink: /sponsors/sponsor_sparkgeo
 isStaticPost: true
 image: sponsors.jpg

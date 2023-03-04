@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GeoSolutions sponsoring FOSS4G 2022
+title: GeoSolutions sponsoring FOSS4G 2023
 permalink: /sponsors/sponsor_geosolutions
 isStaticPost: true
 image: sponsors.jpg
