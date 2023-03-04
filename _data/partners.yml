@@ -25,6 +25,7 @@
     - {name: "GEOE3", description: "", link: "https://geoe3.eu/", imageUrl: "GeoE3.png"}
     - {name: "Gis3W", description: "", link: "https://gis3w.it/", imageUrl: "gis3W.svg"}
     - {name: "Sinergise", description: "", link: "/sponsors/sponsor_sinergise", imageUrl: "sinergise.svg"}
+    - {name: "Quarticle", description: "", link: "/sponsors/sponsor_quarticle", imageUrl: "quarticle.svg"}
 
 - group: "Supporter Sponsors"
   height: 40
