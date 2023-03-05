@@ -49,4 +49,4 @@
 - group: "Media Partners"
   height: 40
   elements:
-    - {name: "ISPRS", description: "", link: "https://www.isprs.org/", imageUrl: "isprs-logo.png"}
+    - {name: "ISPRS", description: "", link: "/sponsors/partner_isprs", imageUrl: "isprs-logo.png"}
