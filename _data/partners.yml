@@ -30,7 +30,10 @@
 - group: "Supporter Sponsors"
   height: 40
   elements:
-    - {name: "Locate Press", description: "", link: "https://locatepress.com/", imageUrl: "locatepress-logo.svg"}
+    - {name: "Locate Press", description: "", link: "/sponsors/supporter_locatepress", imageUrl: "locatepress.svg"}
+    - {name: "QGIS Spain Association", description: "", link: "/sponsors/supporter_qgis_spain", imageUrl: "QgisESP.svg"}
+    - {name: "EnviroSolutions", description: "", link: "/sponsors/supporter_envirosolutions", imageUrl: "envirosolutions-logo.png"}
+    - {name: "Oslandia", description: "", link: "/sponsors/supporter_oslandia", imageUrl: "oslandia-logo.svg"}
 
 - group: "Partners"
   height: 80

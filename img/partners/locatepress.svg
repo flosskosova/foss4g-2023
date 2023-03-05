@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 160 90.000003"
+   viewBox="0 0 121.75 54.801287"
    version="1.1"
    id="svg880"
    sodipodi:docname="Geospatial-Black.svg"
-   width="160"
-   height="90"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   width="121.75"
+   height="54.801285"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata884">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +45,10 @@
      inkscape:window-x="504"
      inkscape:window-y="138"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg880" />
+     inkscape:current-layer="svg880"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs842">
     <style
@@ -54,7 +57,7 @@
   <g
      id="Layer_2"
      data-name="Layer 2"
-     transform="translate(19.125,17.794863)">
+     transform="translate(0,0.19550789)">
     <g
        id="Layer_1-2"
        data-name="Layer 1">
@@ -127,7 +130,7 @@
          id="path870"
          inkscape:connector-curvature="0" />
       <polygon
-         points="72.9,43.74 81.39,43.74 81.39,38.96 72.9,38.96 72.9,34.13 82.58,34.13 82.58,29.48 67.57,29.48 67.57,52.88 82.89,52.88 82.89,48.23 72.9,48.23 "
+         points="72.9,34.13 82.58,34.13 82.58,29.48 67.57,29.48 67.57,52.88 82.89,52.88 82.89,48.23 72.9,48.23 72.9,43.74 81.39,43.74 81.39,38.96 72.9,38.96 "
          id="polygon872" />
       <path
          d="M 95.73,39.06 93.29,38.28 C 91.11,37.67 91,36.61 91,36.14 a 2.53,2.53 0 0 1 2.75,-2.41 2.45,2.45 0 0 1 2.68,2.58 h 5.33 c 0,-4.55 -3.43,-7.24 -7.91,-7.24 -4.66,0 -8.25,3 -8.25,7.17 0,2.21 1,5.37 6.14,6.76 l 2.79,0.85 c 2.07,0.68 2.58,1.53 2.58,2.44 0,1.53 -1.33,2.41 -3.06,2.41 -1.73,0 -3.33,-1.15 -3.33,-2.64 h -5.35 c 0,4.31 3.47,7.23 8.46,7.23 4.28,0 8.63,-2.24 8.63,-7.27 0,-4.24 -3.4,-5.94 -6.73,-6.96 z"
