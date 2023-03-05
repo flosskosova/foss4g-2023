@@ -43,8 +43,8 @@
 - group: "Organizing Partners"
   height: 60
   elements:
-    - {name: "OpS-IN", description: "", link: "#", imageUrl: "ops-in-logo.jpg"}
-    - {name: "Space Syntaks", description: "", link: "#", imageUrl: "spacesyntaks-logo.jpg"}
+    - {name: "OpS-IN", description: "", link: "/sponsors/partner_ops_in", imageUrl: "Opsin.svg"}
+    - {name: "SpaceSyntaks", description: "", link: "/sponsors/partner_spacesyntaks", imageUrl: "spacesyntaks.svg"}
 
 - group: "Media Partners"
   height: 40
