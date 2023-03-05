@@ -7,26 +7,33 @@
 - group: "Silver Sponsors"
   height: 80
   elements:
-    - {name: "Sparkgeo", description: "", link: "https://sparkgeo.com/", imageUrl: "sparkgeo-logo-black.svg"}
-    - {name: "Meta", description: "", link: "https://www.meta.com/", imageUrl: "meta-logo.svg"}
-    - {name: "GeoSolutions", description: "", link: "https://www.geosolutionsgroup.com/", imageUrl: "geosolutions-logo.svg"}
+    - {name: "Sparkgeo", description: "", link: "/sponsors/sponsor_sparkgeo", imageUrl: "sparkgeo-logo-black.svg"}
+    - {name: "Meta", description: "", link: "/sponsors/sponsor_meta", imageUrl: "meta-logo.svg"}
+    - {name: "GeoSolutions", description: "", link: "/sponsors/sponsor_geosolutions", imageUrl: "geosolutions-logo.svg"}
 
 - group: "Bronze Sponsors"
   height: 60
   elements:
-    - {name: "ESA - European Space Agency", description: "", link: "https://www.esa.int/", imageUrl: "esa-logo.png"}
-    - {name: "Mergin Maps", description: "", link: "https://merginmaps.com/", imageUrl: "mm-logo.png"}
-    - {name: "Cloud68", description: "", link: "https://cloud68.co/", imageUrl: "cloud68-logo.svg"}
-    - {name: "rapidlasso", description: "", link: "http://www.rapidlasso.de/", imageUrl: "rapidlasso-logo.png"}
-    - {name: "camptocamp", description: "", link: "https://www.camptocamp.com/", imageUrl: "camptocamp-logo.svg"}
-    - {name: "mundialis", description: "", link: "https://www.mundialis.de/", imageUrl: "mundialis-logo.svg"}
-    - {name: "terrestris", description: "", link: "https://www.terrestris.de/", imageUrl: "terrestris-logo.svg"}
-    - {name: "EYE - Enhancing Youth Employment", description: "", link: "https://helvetas-ks.org/eye/", imageUrl: "eye-logo@2x.png"}
+    - {name: "ESA - European Space Agency", description: "", link: "/sponsors/sponsor_esa", imageUrl: "esa-logo.svg"}
+    - {name: "Mergin Maps", description: "", link: "/sponsors/sponsor_merginmaps", imageUrl: "merginmaps-logo.svg"}
+    - {name: "Cloud68", description: "", link: "/sponsors/sponsor_cloud68co", imageUrl: "cloud68_logo.svg"}
+    - {name: "rapidlasso", description: "", link: "/sponsors/sponsor_lastools", imageUrl: "rapidlasso_lastools_logo.svg"}
+    - {name: "camptocamp", description: "", link: "/sponsors/sponsor_camptocamp", imageUrl: "camptocamp-logo.svg"}
+    - {name: "EYE - Enhancing Youth Employment", description: "", link: "https://helvetas-ks.org/eye/", imageUrl: "sdc_eye.svg"}
+    - {name: "mundialis", description: "", link: "/sponsors/sponsor_mundialis", imageUrl: "mundialis-logo.svg"}
+    - {name: "terrestris", description: "", link: "/sponsors/sponsor_terrestris", imageUrl: "terrestris_logo.svg"}
+    - {name: "GEOE3", description: "", link: "https://geoe3.eu/", imageUrl: "GeoE3.png"}
+    - {name: "Gis3W", description: "", link: "https://gis3w.it/", imageUrl: "gis3W.svg"}
+    - {name: "Sinergise", description: "", link: "/sponsors/sponsor_sinergise", imageUrl: "sinergise.svg"}
+    - {name: "Quarticle", description: "", link: "/sponsors/sponsor_quarticle", imageUrl: "quarticle.svg"}
 
 - group: "Supporter Sponsors"
   height: 40
   elements:
-    - {name: "Locate Press", description: "", link: "https://locatepress.com/", imageUrl: "locatepress-logo.svg"}
+    - {name: "Locate Press", description: "", link: "/sponsors/supporter_locatepress", imageUrl: "locatepress.svg"}
+    - {name: "QGIS Spain Association", description: "", link: "/sponsors/supporter_qgis_spain", imageUrl: "QgisESP.svg"}
+    - {name: "EnviroSolutions", description: "", link: "/sponsors/supporter_envirosolutions", imageUrl: "envirosolutions-logo.png"}
+    - {name: "Oslandia", description: "", link: "/sponsors/supporter_oslandia", imageUrl: "oslandia-logo.svg"}
 
 - group: "Partners"
   height: 80
@@ -36,10 +43,10 @@
 - group: "Organizing Partners"
   height: 60
   elements:
-    - {name: "OpS-IN", description: "", link: "#", imageUrl: "ops-in-logo.jpg"}
-    - {name: "Space Syntaks", description: "", link: "#", imageUrl: "spacesyntaks-logo.jpg"}
+    - {name: "OpS-IN", description: "", link: "/sponsors/partner_ops_in", imageUrl: "Opsin.svg"}
+    - {name: "SpaceSyntaks", description: "", link: "/sponsors/partner_spacesyntaks", imageUrl: "spacesyntaks.svg"}
 
 - group: "Media Partners"
   height: 40
   elements:
-    - {name: "ISPRS", description: "", link: "https://www.isprs.org/", imageUrl: "isprs-logo.png"}
+    - {name: "ISPRS", description: "", link: "/sponsors/partner_isprs", imageUrl: "isprs-logo.png"}
