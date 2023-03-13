@@ -9,6 +9,7 @@ links:
   - { permalink: "/register/travel-grant/", text: "Travel grant" }
   - { permalink: "/register/studentship-grant", text: "Studentship grant" }
   - { permalink: "/register/visa-info/", text: "Visa info" }
+  - { permalink: "/register/volunteers/", text: "Volunteers" }
 ---
 
 ### FOSS4G 2023 Studentship Programme for Western Balkans
