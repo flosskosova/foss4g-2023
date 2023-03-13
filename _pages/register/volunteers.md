@@ -32,7 +32,7 @@ The purpose of the volunteer program for FOSS4G 2023 is to be able to provide ne
 
 Registrations for volunteering will be accepted in two batches, based on the need to obtain a visa to enter Kosovo.
 
-1. **If you need a visa to enter Kosovo**, make sure to register and send needed documents before **10 April 2023**. Check out Visa section page: https://2023.foss4g.org/register/visa-info/ After this, we will not be able to qualify you for the volunteer program, nor assist with visa documents.
+1. **If you need a visa to enter Kosovo**, make sure to register and send needed documents before **10 April 2023**. Check out Visa section page: <https://2023.foss4g.org/register/visa-info/> After this, we will not be able to qualify you for the volunteer program, nor assist with visa documents.
 
 2. **If you do not need a visa to enter Kosovo**, make sure to register before **10 May 2023**.
 
@@ -61,6 +61,6 @@ Volunteers will be assuming different roles or positions for each shift they sig
 - **Setup/Take Down Staff**  
   Stationed at the conference or workshop venue: Main Duties include working before/after the event to help properly set up or put away everything.
 
-\*Organizer of FOSS4G 2023, Prizren - https://flossk.org/
+\*Organizer of FOSS4G 2023, Prizren - FLOSSK
 
 [Register here](https://forms.gle/jakeUNTtfkbZEwXz7){: target="\_blank" .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
