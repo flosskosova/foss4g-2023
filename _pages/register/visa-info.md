@@ -9,6 +9,7 @@ links:
   - { permalink: "/register/travel-grant/", text: "Travel grant" }
   - { permalink: "/register/studentship-grant", text: "Studentship grant" }
   - { permalink: "/register/visa-info/", text: "Visa info" }
+  - { permalink: "/register/volunteers/", text: "Volunteers" }
 ---
 
 Kosovo requires visas for citizens of certain countries. You can find more information on which participants will need a visa to come to Kosovo here:
@@ -138,7 +139,7 @@ The exemption from the visa requirement applies also to the following categories
 - Citizens of: EU and Schengen Zone Member States; The United Kingdom of Great Britain and Northern Ireland; Holy See; Principality of Andorra; Principality of Monaco; Republic of San Marino, Republic of Albania, Montenegro, and Republic of Serbia are allowed to enter, transit, and stay in Kosovo for up to 90 days for a six-months period with a valid biometric identification card.
 - Holders of diplomatic and service passports issued by Russian Federation States, People’s Republic of China, Egypt, Indonesia and Ukraine shall be allowed to enter, transit or stay up to 15 days in the territory of the Republic of Kosovo.
 - Holders of valid travel documents issued by Special Administrative Regions of People’s Republic of China: Hong Kong and Macao are exempted from the obligation to obtain a visa.
-- Holders of travel documents issued by Taiwan shall be exempted from the obligation to obtain a visa provided that they preliminarily notify and receive confirmation from the Diplomatic or Consular Mission of the Republic of Kosovo (we recommend Consulate in Istanbul), at least 2 weeks in advance of arrival, through this [form](https://docs.google.com/document/d/1RBK20oo89Htdi2ZR4sCPBkqatDcCDQx610nP-_bcln0/edit?usp=share_link). 
+- Holders of travel documents issued by Taiwan shall be exempted from the obligation to obtain a visa provided that they preliminarily notify and receive confirmation from the Diplomatic or Consular Mission of the Republic of Kosovo (we recommend Consulate in Istanbul), at least 2 weeks in advance of arrival, through this [form](https://docs.google.com/document/d/1RBK20oo89Htdi2ZR4sCPBkqatDcCDQx610nP-_bcln0/edit?usp=share_link).
 - Holders of Travel documents issued by EU Member States, Schengen zone States, The United Kingdom of Great Britain and Northern Ireland, United States of America, Canada, Australia and Japan based on the 1951 Convention on Refugee Status or the 1954 Convention on the Status of Stateless Persons, as well as holders of valid travel documents for foreigners, may enter, pass through the territory and stay in the Republic of Kosovo up to 15 days without a visa.
 - Holders of Laissez-Passer, regardless of their nationality, issued by United Nations Organizations, NATO, OSCE, Council of Europe and European Union, are also exempt from the visa requirement.
 
@@ -157,7 +158,7 @@ The procedure is as follows:
 - The Visa decision usually takes 21 days from the date of the application.
 - After approval of the visa, you have to options:
 - The Consulate will instruct you to send your passport via post (along with any other documents they may deem necessary) for placement of the visa sticker. They will return it back to you by post.
-- One other option after this procedure, if the participants are legally unable to send their passports by mail to a Kosovo consulate outside their country, physical presence at certain Kosovo consulates to receive the visa is necessary. In this case, once your visa is approved through the remote application, visa stamping will be on walk in. (In 2022 Albania allowed visa free entrance for citizens of India, Saudi Arabia, Bahrain, Qatar, Oman, and Thailand. We are waiting confirmation that this happens again this year. If that happens, we suggest that you fly into Tirana International Airport and have the Kosovo visa stamped at the Kosovo Embassy in Tirana and enter Kosovo through land border). 
+- One other option after this procedure, if the participants are legally unable to send their passports by mail to a Kosovo consulate outside their country, physical presence at certain Kosovo consulates to receive the visa is necessary. In this case, once your visa is approved through the remote application, visa stamping will be on walk in. (In 2022 Albania allowed visa free entrance for citizens of India, Saudi Arabia, Bahrain, Qatar, Oman, and Thailand. We are waiting confirmation that this happens again this year. If that happens, we suggest that you fly into Tirana International Airport and have the Kosovo visa stamped at the Kosovo Embassy in Tirana and enter Kosovo through land border).
 
 When applying remotely for a visa, you will need to provide:
 

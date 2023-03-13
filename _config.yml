@@ -54,6 +54,7 @@ navigationLinks:
     - {link: "/register/travel-grant/", text: "Travel grant"}
     - {link: "/register/studentship-grant/", text: "Studentship grant"}
     - {link: "/register/visa-info/", text: "Visa info"}
+    - {link: "/register/volunteers/", text: "Volunteers"}
  -
   permalink: "#"
   text: "Call for papers"
