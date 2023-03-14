@@ -70,8 +70,12 @@ navigationLinks:
   permalink: "/sponsors"
   text: "Sponsors"
  -
-  permalink: "/attending"
+  permalink: "#"
   text: "Attending"
+  links:
+    - {link: "/attending/guidelines", text: "Attendee guidelines"}
+    - {link: "/attending/accomodation", text: "Accommodation"}
+    - {link: "/tourism", text: "Tourism"}
  - 
   permalink: "/blog/"
   text: "News"

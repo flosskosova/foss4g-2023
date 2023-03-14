@@ -169,6 +169,7 @@ nav {
     a {
       min-width: 10rem;
       padding: 0.425rem 1rem;
+      white-space: nowrap;
     }
   }
   @media (max-width: 767px) {
