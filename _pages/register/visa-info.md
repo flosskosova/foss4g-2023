@@ -151,7 +151,7 @@ Approved FOSS4G 2023 participants can apply remotely for a visa in the Consulate
 
 The procedure is as follows:
 
-- Until April 1st, all participants wanting to apply for a Kosovo visa in distance (by mail) should send the first 2 pages (bio details) of their scanned passport to visa@foss4g.org along with Full Name, Date of Birth, Passport # and Country of Issue in the body of the email, and tell us whether you would like to apply in Istanbul, Tirana or New York. You need to be fully registered for attendance.
+- Until April 10th, all participants wanting to apply for a Kosovo visa in distance (by mail) should send the first 2 pages (bio details) of their scanned passport to visa@foss4g.org along with Full Name, Date of Birth, Passport # and Country of Issue in the body of the email, and tell us whether you would like to apply in Istanbul, Tirana or New York. You need to be fully registered for attendance.
 - Do this as soon as possible, even if you are not sure you will apply for the visa afterwards!
 - The FOSS4G local team will then send the list of potential applicants to the Ministry of Foreign Affairs of Kosovo to get permission for you to make a remote visa application;
 - Once we get approval from MFA, we will notify you to apply via email following the procedure described below. We will also provide supporting documents from the local organization, FLOSSK.
