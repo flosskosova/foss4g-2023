@@ -22,7 +22,7 @@
     - {name: "EYE - Enhancing Youth Employment", description: "", link: "https://helvetas-ks.org/eye/", imageUrl: "sdc_eye.svg"}
     - {name: "mundialis", description: "", link: "/sponsors/sponsor_mundialis", imageUrl: "mundialis-logo.svg"}
     - {name: "terrestris", description: "", link: "/sponsors/sponsor_terrestris", imageUrl: "terrestris_logo.svg"}
-    - {name: "GEOE3", description: "", link: "/sponsors/sponsor_geoe3", imageUrl: "GeoE3.png"}
+    - {name: "GEOE3", description: "", link: "/sponsors/sponsor_geoe3_Locationinnovationhub", imageUrl: "GeoE3.png"}
     - {name: "Gis3W", description: "", link: "/sponsors/sponsor_gis3w", imageUrl: "gis3W.svg"}
     - {name: "Sinergise", description: "", link: "/sponsors/sponsor_sinergise", imageUrl: "sinergise.svg"}
     - {name: "Quarticle", description: "", link: "/sponsors/sponsor_quarticle", imageUrl: "quarticle.svg"}
@@ -34,6 +34,7 @@
     - {name: "QGIS Spain Association", description: "", link: "/sponsors/supporter_qgis_spain", imageUrl: "QgisESP.svg"}
     - {name: "EnviroSolutions", description: "", link: "/sponsors/supporter_envirosolutions", imageUrl: "envirosolutions-logo.png"}
     - {name: "Oslandia", description: "", link: "/sponsors/supporter_oslandia", imageUrl: "oslandia-logo.svg"}
+    - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
 
 - group: "Partners"
   height: 80

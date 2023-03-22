@@ -6,7 +6,7 @@ isStaticPost: true
 image: sponsors.jpg
 ---
 
-![Logo Locate Press]({{ site.baseurl }}/img/partners/QgisESP.svg){: .brand-logo .col-lg-4 .col-sm-6 }
+![Logo QGIS Spain]({{ site.baseurl }}/img/partners/QgisESP.svg){: .brand-logo .col-lg-4 .col-sm-6 }
 
 {:.col-lg-8 col-sm-6 }
 We are the [QGIS group users in Spain](https://www.qgis.es/), who like you, use QGIS in our daily lives for professional work, research or as a entertaiment. We help make QGIS even better, be it by sharing knowledge, translating, developing features or helping other users.
