@@ -6,7 +6,7 @@ isStaticPost: true
 image: geoe3-cover.jpg
 ---
 
-![Logo GEOE3]({{ site.baseurl }}/img/partners/GeoE3.png){: .brand-logo .col-lg-4 .col-sm-6 }
+![Logo GEOE3]({{ site.baseurl }}/img/partners/geoe3_lih_foss4g.png){: .brand-logo .col-lg-4 .col-sm-6 }
 
 We are pleased to sponsor the FOSS4G 2023 conference in Prizren, Kosovo. We are interested to discuss with open-source solution providers and startups developing new innovations in the field. We are working to create interoperable solutions for Europe and to contribute to the creation of European data spaces.
 
