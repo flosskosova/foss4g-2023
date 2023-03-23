@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MapTiler supporting FOSS4G 2023
+title: Geo&Land supporting FOSS4G 2023
 permalink: /sponsors/supporter_geo_land
 isStaticPost: true
 image: maptiler_background.png
