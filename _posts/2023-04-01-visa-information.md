@@ -2,12 +2,12 @@
 layout: post
 title: "FOSS4G 2023 Visa Information - Deadline 10 April"
 isStaticPost: false
-image: Visa info.png
+image: Register.jpg
 ---
 
 ### FOSS4G 2023 Visa Information - Deadline 10 April
 
-Planning to attend FOSS4G 2023 in Kosovo? 🥳
+![]({{ site.baseurl }}/img/sections-background/Visa-info.png){: .col-sm-3 } Planning to attend FOSS4G 2023 in Kosovo? 🥳
 
 Attendees from countries need a visa, but don't worry, FLOSSK has got you covered! 🤝  They'll facilitate the visa process and issue a visa invitation letter, so you don’t have to visit a Kosovo Consulate. For more info on Kosovo’s visa policy, visit: 
 https://en.wikipedia.org/wiki/Visa_policy_of_Kosovo. 
