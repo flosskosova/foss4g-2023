@@ -26,6 +26,8 @@
     - {name: "Gis3W", description: "", link: "/sponsors/sponsor_gis3w", imageUrl: "gis3W.svg"}
     - {name: "Sinergise", description: "", link: "/sponsors/sponsor_sinergise", imageUrl: "sinergise.svg"}
     - {name: "Quarticle", description: "", link: "/sponsors/sponsor_quarticle", imageUrl: "quarticle.svg"}
+    - {name: "lat/lon GmbH", description: "", link: "/sponsors/sponsor_latlon", imageUrl: "latlon_logo.svg"}
+    - {name: "MapTiler", description: "", link: "/sponsors/sponsor_maptiler", imageUrl: "maptiler.png"}
 
 - group: "Supporter Sponsors"
   height: 40
@@ -51,3 +53,4 @@
   height: 40
   elements:
     - {name: "ISPRS", description: "", link: "/sponsors/partner_isprs", imageUrl: "isprs-logo.png"}
+    - {name: "Remote Sensing", description: "", link: "/sponsors/partner_remote_sensing", imageUrl: "remotesensing-logo.png"}
