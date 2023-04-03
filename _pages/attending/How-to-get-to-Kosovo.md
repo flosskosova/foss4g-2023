@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How to Get to KosovoExploring Travel Options
+title: How to Get to Kosovo: Exploring Travel Options
 permalink: /attending/how-ks/
 isStaticPost: true
 image: FOSS4G_xk.jpg
 ---
 
-### How to Get to KosovoExploring Travel Options
+### How to Get to Kosovo: Exploring Travel Options
 
 Traveling to Kosovo is an exciting adventure, and there are many ways to get there besides flying. While flying is the most common option, there are alternatives that offer a unique and memorable experience. In this article, we'll explore various modes of transportation that can take you to Kosovo and the key border points you need to be aware of.
 
