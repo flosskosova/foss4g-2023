@@ -75,7 +75,7 @@ navigationLinks:
   links:
     - {link: "/attending/guidelines", text: "Attendee guidelines"}
     - {link: "/attending/accomodation", text: "Accommodation"}
-    - {link: "/attending/how-ks", text: "How to get to Kosovo"}
+    - {link: "/attending/how-ks/", text: "How to get to Kosovo"}
     - {link: "/tourism", text: "Tourism"}
  - 
   permalink: "/blog/"
