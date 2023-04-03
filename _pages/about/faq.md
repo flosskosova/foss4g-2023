@@ -15,7 +15,7 @@ links:
 
 ###### When will the conference take place?
 
-The conference will take place from 26 June - 1 July 2023.  
+The conference will take place from 26 June - 2 July 2023.  
 &nbsp;
 
 ###### Where will the Conference take place?
@@ -37,7 +37,7 @@ At this point we hope to have a normal event.
 
 ###### I am presenting a workshop/talk, do I have to register?
 
-All main speakers will receive a free ticket with registration. If you are co-presenting with more people, only the main speaker will receive the free ticket.  
+Yes you have to register, there is no discount for presenters. 
 &nbsp;
 
 ###### How do I sign up to attend the Conference?
@@ -47,13 +47,9 @@ Registrations and ticket purchases will be made through an online system. For mo
 
 ##### How do I sign up for workshops?
 
-Each workshop can be purchased as an individual ticket. They will be on sale once the schedule has been published. We recommend registering as soon as possible.  
+Workshop can be purchased on 4 different slots individually. They will be on sale once the registration has been published. We recommend registering as soon as possible.  
 &nbsp;
 
-###### How do I know if there is space for the workshops?
-
-On the registration page you will be able to see the options and how many places are still available. The space in the training rooms is limited, so we can only offer a limited number of tickets.  
-&nbsp;
 
 ###### If I already bought my ticket, how can I get an invoice / receipt for my payment?
 
@@ -82,7 +78,7 @@ Yes. We will be sending certificates after the end of the event via email. We as
 
 ###### What is included in the ticket?
 
-The cost of the conference ticket includes admission to all the main tracks (excluding workshops) and social events.  
+The cost of the conference ticket includes admission to all the main tracks (excluding workshops) and social events like Ice Breaker and Gala Dinner.  
 You can see the details on the schedule published at the website.  
 &nbsp;
 
@@ -99,9 +95,9 @@ In the unlikely case that the FOSS4G 2023 cannot be held in whole or in part due
 
 ###### What activities will the Conference have?
 
-The conference will have tracks full of talks, workshops and codeprint activities. On the social side, we will host a Geochicas meeting, as well as other social events like Ice Breaker and Gala Dinner.  
+The conference will have tracks full of talks, workshops and codeprint activities. On the social side, we will host a Geochicas meeting, as well as other .  
 &nbsp;
 
 ###### Will you deliver T-shirts or conference material?
 
-All participants will receive a complementary conference T-shirt, tote bag and water bottle.
+All participants will receive a complementary conference T-shirt and a tote bag.
