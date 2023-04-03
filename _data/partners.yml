@@ -1,5 +1,5 @@
 - group: "Organizers"
-  height: 70
+  height: 60
   elements:
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
@@ -50,7 +50,7 @@
     - {name: "SpaceSyntaks", description: "", link: "/sponsors/partner_spacesyntaks", imageUrl: "spacesyntaks.svg"}
 
 - group: "Media Partners"
-  height: 40
+  height: 37
   elements:
     - {name: "ISPRS", description: "", link: "/sponsors/partner_isprs", imageUrl: "isprs-logo.png"}
     - {name: "Remote Sensing", description: "", link: "/sponsors/partner_remote_sensing", imageUrl: "remotesensing-logo.png"}
