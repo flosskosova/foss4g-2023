@@ -1,5 +1,5 @@
 - group: "Organizers"
-  height: 60
+  height: 70
   elements:
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
@@ -39,12 +39,12 @@
     - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
 
 - group: "Partners"
-  height: 110
+  height: 80
   elements:
     - {name: "European Comission", description: "", link: "/sponsors/partner_european_commission", imageUrl: "eu-logo.jpg"}
 
 - group: "Organizing Partners"
-  height: 35
+  height: 40
   elements:
     - {name: "OpS-IN", description: "", link: "/sponsors/partner_ops_in", imageUrl: "Opsin.svg"}
     - {name: "SpaceSyntaks", description: "", link: "/sponsors/partner_spacesyntaks", imageUrl: "spacesyntaks.svg"}
