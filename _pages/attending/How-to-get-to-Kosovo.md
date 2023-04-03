@@ -49,4 +49,4 @@ In conclusion, traveling to Kosovo can be a memorable experience. No matter whic
 
 We hope these tips will help you plan your journey to FOSS4G 2023 in Kosovo. We can't wait to welcome you to Prizren and share our love of open-source geospatial technology with you!
 
-![]({{ site.baseurl }}/img/accomodation/ITP1.jpg){: .col-sm-3 }
+![]({{ site.baseurl }}/img/sections-background/FOSS4G_ks.jpg){: .col-sm-3 }
