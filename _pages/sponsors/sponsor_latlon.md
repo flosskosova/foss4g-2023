@@ -37,4 +37,4 @@ Website: [https://www.lat-lon.de](https://www.lat-lon.de)
 Twitter: [https://twitter.com/latlon_de](https://twitter.com/latlon_de)  
 GitHub: [https://github.com/lat-lon](https://github.com/lat-lon)
 
-![]({{ site.baseurl }}/img/sections-background/latlon_background.png){: .col-sm-1 }
+![lat/lon]({{ site.baseurl }}/img/sections-background/latlon_background.png)
