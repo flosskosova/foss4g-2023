@@ -33,13 +33,13 @@ When traveling to Kosovo, it's essential to be aware of the key border points. T
 
 To enter Kosovo legally, you'll need to have a valid passport. Citizens of the European Union, Switzerland, and the United States can enter Kosovo without a visa and stay for up to 90 days. If you're from a country outside of these regions, you may need a visa to enter Kosovo. You can check out more about the visa policy of Kosovo [here](https://en.wikipedia.org/wiki/Visa_policy_of_Kosovo). There are two main options to enter and leave Kosovo legally if traveling en route: 
 
-#### 1. Enter Kosovo From Serbia and Exit From Serbia
+  ##### 1. Enter Kosovo From Serbia and Exit From Serbia
 
 In order to enter and exit Kosovo legally, one of your alternatives is to travel through Serbia. When you enter Serbia lawfully and receive a Serbia entry stamp on your passport, you can freely move back and forth to Kosovo across the (unofficial) Kosovo-Serbia border.
 
 You can go to Kosovo and back as frequently as you'd like once you're in Serbia via the Belgrade airport or one of its several borders with Montenegro, Albania, North Macedonia, Bulgaria, Romania, Hungary, Croatia, or Bosnia-Herzegovina. When traveling from Serbia to Kosovo, you won't receive a Serbia exit stamp. Ultimately, we suggest that if you enter Kosovo via the (unofficial) Kosovo-Serbia border, you also exit Kosovo via the same (unofficial) Kosovo-Serbia border.
 
-#### 2.Enter Kosovo from Montenegro, Macedonia, or Albania and Exit Kosovo via non-Serbian borders without visiting Serbia
+  ##### 2.Enter Kosovo from Montenegro, Macedonia, or Albania and Exit Kosovo via non-Serbian borders without visiting Serbia
 
 If you want to visit Kosovo without continuing to Serbia, entering Kosovo through Montenegro, Albania, or North Macedonia or via the airport in Prishtina is your best option. This will give you a Kosovo entry stamp on your passport, not a Serbian one. However, there could be issues crossing the Kosovo-Serbia border without a Serbian entry stamp. To avoid this problem, we strongly suggest leaving Kosovo via one of the three borders you entered from to get both an entry and exit stamp of Kosovo in your passport.
 
@@ -49,4 +49,4 @@ In conclusion, traveling to Kosovo can be a memorable experience. No matter whic
 
 We hope these tips will help you plan your journey to FOSS4G 2023 in Kosovo. We can't wait to welcome you to Prizren and share our love of open-source geospatial technology with you!
 
-![]({{ site.baseurl }}/img/sections-background/FOSS4G_ks.jpg){: .col-md-3 }
+![]({{ site.baseurl }}/img/sections-background/FOSS4G_ks.jpg){: .col-md-2 }
