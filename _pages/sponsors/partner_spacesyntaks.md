@@ -3,7 +3,7 @@ layout: post
 title: SpaceSyntaKs supporting FOSS4G 2023
 permalink: /sponsors/partner_spacesyntaks
 isStaticPost: true
-image: sponsors.jpg
+image: shtepite.png
 ---
 
 ![Logo SpaceSyntaKs]({{ site.baseurl }}/img/partners/spacesyntaks.svg){: .brand-logo .col-lg-4 .col-sm-6 }
