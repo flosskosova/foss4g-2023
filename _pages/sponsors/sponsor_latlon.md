@@ -14,14 +14,15 @@ With more than 20 years experience, we offer comprehensive solutions based on op
 
 {: .col-lg-12}
 **Our main areas of activity:**  
-● Services related to spatial data processing, Geographic Information Systems and databases based on Free and Open Source Software and Open Data.  
-● Software development and consulting as well as training and professional support for deegree.  
-● Development of web, desktop and geospatial database applications for all platforms based on Open Source Software.
+- Services related to spatial data processing, Geographic Information Systems and databases based on Free and Open Source Software and Open Data.  
+- Software development and consulting as well as training and professional support for deegree.  
+- Development of web, desktop and geospatial database applications for all platforms based on Open Source Software.
 
 {: .col-lg-12}
 **Our main products:**  
-● deegree: open source framework for geospatial services such as WFS, WMS and OGC API  
-● xPlanBox: a service-oriented application for spatial data, based on the German XPlanung standard and INSPIRE “Planned Land Use (PLU)” data theme
+- deegree: open source framework for geospatial services such as WFS, WMS and OGC API  
+- xPlanBox: a service-oriented application for spatial data, based on the German XPlanung standard and INSPIRE “Planned Land Use (PLU)” data theme
+
 
 {: .col-lg-12}
 **Contact:**  
@@ -35,3 +36,5 @@ info@lat-lon.de
 Website: [https://www.lat-lon.de](https://www.lat-lon.de)  
 Twitter: [https://twitter.com/latlon_de](https://twitter.com/latlon_de)  
 GitHub: [https://github.com/lat-lon](https://github.com/lat-lon)
+
+![]({{ site.baseurl }}/img/sections-background/latlon_background.png){: .col-sm-1 }
