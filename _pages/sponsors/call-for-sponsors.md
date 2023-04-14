@@ -24,7 +24,7 @@ If you are not a software company but still want to contribute to free software 
 
 There are only **6 spots** available for catering companies, covering the main events of the conference, the Welcome Party and the Gala dinner.
 
-Catering Sponsor conference -  **€ 2,000**
+Catering Sponsor conference -  **€ 3,000**
 
 - mentioned as partner on the conference website and on printed materials
 - 2 banners during one evening (Ice-breaker or gala dinner) of the event
