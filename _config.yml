@@ -66,6 +66,8 @@ navigationLinks:
  -
   permalink: "/schedule"
   text: "Schedule"
+  links:
+    - {link: "/agenda/workshop_schedule", text: "Workshop schedule"}
  -
   permalink: "/sponsors"
   text: "Sponsors"
