@@ -58,7 +58,9 @@ links:
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">
                 Local Committee
             </h4>
+            <div id="committee-member">
             {% for teamMember in site.data.team-loc %}{% include team-member.html teamMember=teamMember %}{% endfor %}
+        </div>
         </div>
     </div>
 </section>
