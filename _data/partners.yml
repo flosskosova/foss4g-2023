@@ -4,12 +4,18 @@
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
 
+- group: "Gold Sponsors"
+  height: 80
+  elements:
+    - {name: "Kontur", description: "", link: "/sponsors/sponsor_kontur", imageUrl: "Kontur_logo_main.svg"}
+
 - group: "Silver Sponsors"
   height: 80
   elements:
     - {name: "Sparkgeo", description: "", link: "/sponsors/sponsor_sparkgeo", imageUrl: "sparkgeo-logo-black.svg"}
     - {name: "Meta", description: "", link: "/sponsors/sponsor_meta", imageUrl: "meta-logo.svg"}
     - {name: "GeoSolutions", description: "", link: "/sponsors/sponsor_geosolutions", imageUrl: "geosolutions-logo.svg"}
+    - {name: "OpenGeoGroep", description: "", link: "/sponsors/sponsor_OpenGeoGroep", imageUrl: "OGG-logo.svg"}
 
 - group: "Bronze Sponsors"
   height: 60
@@ -28,6 +34,8 @@
     - {name: "Quarticle", description: "", link: "/sponsors/sponsor_quarticle", imageUrl: "quarticle.svg"}
     - {name: "lat/lon GmbH", description: "", link: "/sponsors/sponsor_latlon", imageUrl: "latlon_logo.svg"}
     - {name: "MapTiler", description: "", link: "/sponsors/sponsor_maptiler", imageUrl: "maptiler.png"}
+    - {name: "Kan Territory & IT", description: "", link: "/sponsors/sponsor_kan", imageUrl: "kan-logo.svg"}
+    - {name: "EOX", description: "", link: "/sponsors/sponsor_eox", imageUrl: "EOX_Logo.png"}
 
 - group: "Supporter Sponsors"
   height: 45
@@ -37,6 +45,7 @@
     - {name: "EnviroSolutions", description: "", link: "/sponsors/supporter_envirosolutions", imageUrl: "envirosolutions-logo.png"}
     - {name: "Oslandia", description: "", link: "/sponsors/supporter_oslandia", imageUrl: "oslandia-logo.svg"}
     - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
+    - {name: "iRN", description: "", link: "/sponsors/supporter_irn", imageUrl: "iRN Logo Color.svg"}
 
 - group: "Partners"
   height: 80
@@ -54,3 +63,4 @@
   elements:
     - {name: "ISPRS", description: "", link: "/sponsors/partner_isprs", imageUrl: "isprs-logo.png"}
     - {name: "Remote Sensing", description: "", link: "/sponsors/partner_remote_sensing", imageUrl: "remotesensing-logo.png"}
+    - {name: "GISWorld", description: "", link: "/sponsors/partner_gisworld", imageUrl: "logosvgexport.svg"}

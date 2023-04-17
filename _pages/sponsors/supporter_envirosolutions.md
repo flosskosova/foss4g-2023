@@ -24,3 +24,5 @@ We are also a leading training company in Poland in the field of OpenSourse GIS.
 
 EnviroSolutions is an active member of the QGIS and OpenStreetMap communities. We have created a number of plugins, including "[Pobieracz danych GUGiK](https://plugins.qgis.org/plugins/pobieracz_danych_gugik/)" listed in the TOP20 Most Voted plugins of the QGIS Python Plugins Repository.
 We are EnviroSolutions. We create GIS.
+
+![EnviroSolutions]({{ site.baseurl }}/img/sections-background/banner_envirosolutions.png)
