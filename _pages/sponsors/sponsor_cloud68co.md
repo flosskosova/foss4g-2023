@@ -17,3 +17,5 @@ Our team will be supporting the event in various ways, including providing relia
 Our participation and support to the FOSS4G organizing team reflects our commitment to making the migration from big tech to open-source platforms hassle-free. We understand the importance of open-source technology in the geospatial industry and are proud to contribute to its growth in any way we can.
 
 We are excited to meet all the community members and learn from other FOSS GIS professionals, and are looking forward to meeting you at an event and city that is close to our hearts and ethos. See you in Prizren!
+
+![Cloud68.co]({{ site.baseurl }}/img/sections-background/header_cloud68co.jpg)

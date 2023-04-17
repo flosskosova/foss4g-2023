@@ -21,3 +21,5 @@ GeoE3 project is a cross-European project, promoting geospatially enabled ecosys
 The Location Innovation Hub (LIH) is a centre of excellence in location information coordinated by the Finnish Geospatial Research Institute. LIH services are produced in conjunction with our partner network. Our customers are especially companies who want to solve the challenges of digitalisation and strengthen their competitiveness. We also serve the public sector. Our customers can make their operations more efficient by developing data interoperability and using precise positioning and next generation navigation technologies. We produce tools and test environments, and provide consultation, training, and support through networking for companies to obtain funding. One of our test environments will be the GeoE3 data integration platform. [Visit our website](https://www.locationinnovationhub.eu/).
 
 We wish you all a great conference!
+
+![GeoE3]({{ site.baseurl }}/img/sections-background/geoe3-cover.jpg)
