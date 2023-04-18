@@ -95,6 +95,12 @@ layout: compress
             });
         </script>
     {% endif %}
+    <script type="text/javascript">
+        var myList = document.querySelector('#committee-member');
+        for (var i = myList.children.length; i >= 0; i--) {
+            myList.appendChild(myList.children[Math.random() * i | 0]);
+            }
+    </script>
 
     {% include schema-event.html %}
 </body>
