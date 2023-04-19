@@ -39,7 +39,7 @@ Apply for Studentship Programme here:
 Necessary documents to upload:
 
 - Passport, student ID (valid 2022-2023) or faculty confirmation letter
-- Applications will be accepted until 15 April 2023.
+- Applications will be accepted until 30 April 2023.
 
 After the validation and selection process, the participant will receive a code with which the participant will buy the special FOSS4G 2023 ticket.
 
