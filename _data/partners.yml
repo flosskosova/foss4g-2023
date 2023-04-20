@@ -15,7 +15,7 @@
     - {name: "Sparkgeo", description: "", link: "/sponsors/sponsor_sparkgeo", imageUrl: "sparkgeo-logo-black.svg"}
     - {name: "Meta", description: "", link: "/sponsors/sponsor_meta", imageUrl: "meta-logo.svg"}
     - {name: "GeoSolutions", description: "", link: "/sponsors/sponsor_geosolutions", imageUrl: "geosolutions-logo.svg"}
-    - {name: "OpenGeoGroep", description: "", link: "/sponsors/sponsor_OpenGeoGroep", imageUrl: "OGG-logo.svg"}
+    - {name: "OpenGeoGroep", description: "", link: "/sponsors/sponsor_opengeogroep", imageUrl: "OGG-logo.svg"}
 
 - group: "Bronze Sponsors"
   height: 60
