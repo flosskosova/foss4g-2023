@@ -15,7 +15,7 @@ links:
 Kosovo requires visas for citizens of certain countries. You can find more information on which participants will need a visa to come to Kosovo here:
 <https://en.wikipedia.org/wiki/Visa_policy_of_Kosovo>
 
-A formal visa invitation letter from the local organizer in Kosovo (FLOSSK) in order to apply for a Kosovo visa,  please send the first 2 pages (bio details) of your scanned passport to info@foss4g.org along with Full Name, Date of Birth, Passport # and Country of Issue in the body of the email. Please also provide your affiliation and relation to FOSS4G/OSGEO community so we can confirm your bona fide status. You need to be fully registered for attendance to receive the invitation letter. This process may take up to a week.
+FLOSSK will issue a visa invitation letter should you need one and will facilitate the visa process so you don’t need to visit a Kosovo Consulate.
 
 ### Visas
 
