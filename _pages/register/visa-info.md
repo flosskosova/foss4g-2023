@@ -15,8 +15,6 @@ links:
 Kosovo requires visas for citizens of certain countries. You can find more information on which participants will need a visa to come to Kosovo here:
 <https://en.wikipedia.org/wiki/Visa_policy_of_Kosovo>
 
-A formal visa invitation letter from the local organizer in Kosovo (FLOSSK) in order to apply for a Kosovo visa,  please send the first 2 pages (bio details) of your scanned passport to info@foss4g.org along with Full Name, Date of Birth, Passport # and Country of Issue in the body of the email. Please also provide your affiliation and relation to FOSS4G/OSGEO community so we can confirm your bona fide status. You need to be fully registered for attendance to receive the invitation letter. This process may take up to a week.
-
 ### Visas
 
 #### Countries that can enter without visa
@@ -147,77 +145,83 @@ The exemption from the visa requirement applies also to the following categories
 
 If you are not a citizen of the countries listed above or a part of Special Categories, then you are required to apply for a visa.
 
-Approved FOSS4G 2023 participants can apply remotely for a visa in the Consulate General of the Republic of Kosovo in Istanbul, New York or Tirana.
-
 The procedure is as follows:
 
-- Until April 10th, all participants wanting to apply for a Kosovo visa in distance (by mail) should send the first 2 pages (bio details) of their scanned passport to visa@foss4g.org along with Full Name, Date of Birth, Passport # and Country of Issue in the body of the email, and tell us whether you would like to apply in Istanbul, Tirana or New York. You need to be fully registered for attendance.
-- Do this as soon as possible, even if you are not sure you will apply for the visa afterwards!
-- The FOSS4G local team will then send the list of potential applicants to the Ministry of Foreign Affairs of Kosovo to get permission for you to make a remote visa application;
-- Once we get approval from MFA, we will notify you to apply via email following the procedure described below. We will also provide supporting documents from the local organization, FLOSSK.
-- The Visa decision usually takes 21 days from the date of the application.
-- After approval of the visa, you have to options:
-- The Consulate will instruct you to send your passport via post (along with any other documents they may deem necessary) for placement of the visa sticker. They will return it back to you by post.
-- One other option after this procedure, if the participants are legally unable to send their passports by mail to a Kosovo consulate outside their country, physical presence at certain Kosovo consulates to receive the visa is necessary. In this case, once your visa is approved through the remote application, visa stamping will be on walk in. (In 2022 Albania allowed visa free entrance for citizens of India, Saudi Arabia, Bahrain, Qatar, Oman, and Thailand. We are waiting confirmation that this happens again this year. If that happens, we suggest that you fly into Tirana International Airport and have the Kosovo visa stamped at the Kosovo Embassy in Tirana and enter Kosovo through land border).
+- Remote visa application process is no longer being offered due to lack of time. You need to show up physically at a Kosovo Consulate to recieve your visa.
+- All participants needing a formal visa invitation letter from the local organizer in Kosovo (FLOSSK) in order to apply for a Kosovo visa, please send the first 2 pages (bio details) of your scanned passport to info@foss4g.org along with Full Name, Date of Birth, Passport # and Country of Issue in the body of the email. Please also provide your affiliation and relation to FOSS4G/OSGEO community so we can confirm your bona fide status. You need to be fully registered for attendance to receive the invitation letter. This process may take up to a week.
 
-When applying remotely for a visa, you will need to provide:
+When applying for a visa, you will need to provide:
 
 - The filled and signed application form - [download here](https://flossk.org/wp-content/uploads/2022/10/C-Visa-Application.docx){:target="\_blank"}. If the applicant is minor, the application form must be signed by parents or legal custodian. Persons included in the applicant’s travel document shall submit a separate application form;
 - Scanned passport (Valid at least three months after the visa expiration date with at least two empty pages). You will have to send scans of the first 2 pages (photo and bio page) and 2 empty pages where the visa would be placed; The Consulate might require you to scan the whole passport.
 - 2 photos (35x45mm) not older than 1 month;
-- Proof showing the purpose of visiting the Republic of Kosovo. We will supply a notarized invitation letter once the MFA approves our request for your remote application;
+- Proof showing the purpose of visiting the Republic of Kosovo. Notarized invitation letter mentioned above;
 - Ticket reservation;
 - Documents in relation to accommodation, or proof of sufficient means to cover their accommodation; Your Hotel reservation or a notarized letter of guarantee from the host in Kosovo - FLOSSK will state your provided accommodation at Innovation and Training Camp in Prizren;
 - Sufficient financial means to cover the expenses of stay in Kosovo (Bank account statement for the last three months); documents indicating that the applicant possesses sufficient means of subsistence both for the duration of the intended stay and for the return to his country of origin or residence, or for the transit to a third country into which he is certain to be admitted, or that he is in a position to acquire such means lawfully;
 - Health insurance valid throughout the territory of the Republic of Kosovo which covers the entire period of the person’s intended stay or transit.
 - Proof of the visa fee payment of 40 EUR that applicants need to pay unless they are holders of diplomatic and official passports or children under six (6) years old;
-- See the bank account details below for the respective Consulate you are applying to.
 
-Please note: despite the online application, the Consulate may require you to send original documents by mail in addition to your passport.
 
-#### For the Consulate General of the Republic of Kosovo in Tirana
+#### Kosovo Consulates
 
 General Consulate of the Republic of Kosovo in Tirana
+Str. Donika Kastrioti, Vila Nr. 6a, Tiranë/Shqipëri
+e-mail: consulategeneral.tir@rks-gov.net
 
-> Str. Donika Kastrioti, Vila Nr. 6a, Tiranë/Shqipëri  
-> e-mail: consulategeneral.tir@rks-gov.net  
-> The visa fee can be paid by bank transfer / SWIFT.  
-> Name of Bank: Raiffeisen BANK  
-> Account holder AMBASADA E REPUBLIKES SE KOSOVES NE K82310452S  
-> IBAN: AL1520211037000000430097682 (EU or Schengen member states)  
-> SWIFT code: SGSBALTX  
-> Reference: The visa applicant’s name.
+General Consulate of the Republic of Kosovo in Istanbul
+Vali Konağı Cad. No.74 D 3 / Nişantaşı, İstanbul
+e-mail: visa.ist@rks-gov.net
 
-For the Consulate General of the Republic of Kosovo in Istanbul:
+Embassy of the Republic of Kosovo in Skopje
+Samoilova 136, Skopje/Macedonia
+e-mail: visa.skopje@rks-gov.net
 
-> Consulate General of the Republic of Kosovo in Istanbul  
-> Vali Konaya Cad. No.: 74 D 3  
-> Nisantasi, Istanbul / Turkey  
-> e-mail: visa.ist@rks-gov.net  
-> The visa fee can be paid by bank transfer / SWIFT.  
-> Name of Bank: AKBANK  
-> Address of Bank: Teşvikiye Cad. No: 61/B, Nişantaşı Şubesi  
-> IBAN: TR 31 0004 6000 7503 6000 1383 87  
-> Institution: Kosova Cumhuriyeti Istanbul Başkonsolosluğu  
-> SWIFT code: AKBKTRIS  
-> Reference: The visa applicant’s name.
+Embassy of the Republic of Kosovo in Vienna
+Goldeggasse 2/13, 1040 Wien/Austria
+e-mail: visa.vienna@rks-gov.net
 
-For the Consulate General of the Republic of Kosovo in New York:
+General Consulate of the Republic of Kosovo in New York
+801 Second Avenue, Suite 405 New York, NY 10017/United State of America
+e-mail: visa.newyork@rks-gov.net
 
-> Consulate General of the Republic of Kosovo in New York  
-> 801 Second Avenue, Suite 301, New York, NY 10017  
-> Phone: +1 212 949 1400  
-> Fax: +1 212 949 1403  
-> e-mail: consulategeneral.ny@rks-gov.net  
-> All payments for consular services are made through banking services. Fees for specific services must be paid to the account of the Consulate General of the Republic of Kosovo in New York, by depositing the assigned amount to the relevant bank. Payment can be made in dollars, equivalent to the amount in Euros, as exchanged by the US banks.  
-> The Consular bank account details are as follows:  
-> Bank name: Bank of America  
-> Account name: Consulate General of the Republic of Kosovo  
-> Account number: 226004439707  
-> Routing Number: 026009593  
-> SWIFT code: BOFAUS3N  
-> Bank Address: 675 3rd Ave, New York, NY 10017  
-> Reference: The visa applicant’s name.
+Embassy of the Republic of Kosovo in Riyadh
+Diplomatic Quarter, Block2, Public Pension Agency,
+Al fazare Plaza, Floor 1, Office No.: B07Riyadh/Saudi Arabia
+e-mail: visa.riyadh@rks-gov.net
+
+Embassy of the Republic of Kosovo in Sofia
+26-30 Bacho Kiro Str. 1000 Sofia/Bulgaria
+e-mail: visa.sofia@rks-gov.net
+
+Embassy of the Republic of Kosovo in Budapest
+BANK CENTER 1054 Budapest, Szabadsag Ter 7. 1054 Budapest/Hungary
+e-mail: visa.budapest@rks-gov.net
+
+Embassy of the Republic of Kosovo in Tokyo
+MG Atago Bldg. 10 F
+3-13-7, Nishishinbashi, Minato-ku/Japan
+
+Embassy of the Republic of Kosovo in Brussels
+Rond Point Schuman 6, Box 5
+1040 Brussels/Belgium
+
+Embassy of the Republic of Kosovo in Berlin
+Wall str. 65 D-10179 Berlin/GER
+
+Embassy of the Republic of Kosovo in Paris
+61 Avenue de la Grande Armée, 75116 Paris/France
+
+Embassy of the Republic of Kosovo in Croatia
+Trg Kralja Tomislava 8
+10000 Zagreb, Croatia
+e-mail: visa.zagreb@rks-gov.net
+
+Embassy of the Republic of Kosovo in London
+Rr. John 8
+London WC1N 2ES UK
+e-mail: visa.london@rks-gov.net
+
 
 #### Important Information
 
