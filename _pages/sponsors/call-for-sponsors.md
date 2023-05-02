@@ -35,7 +35,7 @@ Exhibition Table - **€ 1,000** - a standing table and space for 1
 
 banner in the hall. A conference pass is not included in the price.
 
-Exhibition Stand - **€ 2,500** - an exhibition space in the hall 3x2
+Exhibition Stand - **€ 3,000** - an exhibition space in the hall 2x2
 
 and space for 1 banner- in the hall. A conference pass is not included in the price.
 
