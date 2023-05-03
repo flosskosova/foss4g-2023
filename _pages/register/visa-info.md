@@ -183,7 +183,7 @@ e-mail: visa.vienna@rks-gov.net
 
 General Consulate of the Republic of Kosovo in New York
 801 Second Avenue, Suite 405 New York, NY 10017/United State of America
-e-mail: visa.newyork@rks-gov.net
+e-mail: consulategeneral.ny@rks-gov.net
 
 Embassy of the Republic of Kosovo in Riyadh
 Diplomatic Quarter, Block2, Public Pension Agency,
