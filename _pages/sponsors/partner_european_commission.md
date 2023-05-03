@@ -8,7 +8,6 @@ image: EU_comission.jpg
 
 ![Logo European Comission]({{ site.baseurl }}/img/partners/eu-logo.jpg){: .brand-logo .col-lg-4 .col-sm-6 }
 
-{:.col-lg-8 col-sm-6 }
 The [European Commission](https://ec.europa.eu/info/index_en) is honoured to join the global community of open source geospatial enthusiasts gathering from 26 June to 2 July at the [FOSS4G 2023](https://2023.foss4g.org) conference. We will contribute to the event with a full-day dedicated track titled _Open source geospatial ‘Made in Europe’_.
 
 {:.col-lg-8 col-sm-6 }
