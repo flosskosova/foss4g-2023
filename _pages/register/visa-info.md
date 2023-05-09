@@ -222,6 +222,51 @@ Rr. John 8
 London WC1N 2ES UK
 e-mail: visa.london@rks-gov.net
 
+#### Visa fee payment information
+
+For the Consulate General of the Republic of Kosovo in Istanbul:
+
+> Consulate General of the Republic of Kosovo in Istanbul  
+> Vali Konaya Cad. No.: 74 D 3  
+> Nisantasi, Istanbul / Turkey  
+> e-mail: visa.ist@rks-gov.net  
+> The visa fee can be paid by bank transfer / SWIFT.  
+> Name of Bank: AKBANK  
+> Address of Bank: Teşvikiye Cad. No: 61/B, Nişantaşı Şubesi  
+> IBAN: TR 31 0004 6000 7503 6000 1383 87  
+> Institution: Kosova Cumhuriyeti Istanbul Başkonsolosluğu  
+> SWIFT code: AKBKTRIS  
+> Reference: The visa applicant’s name.
+
+For the Consulate General of the Republic of Kosovo in New York:
+
+> Consulate General of the Republic of Kosovo in New York  
+> 801 Second Avenue, Suite 301, New York, NY 10017  
+> Phone: +1 212 949 1400  
+> Fax: +1 212 949 1403  
+> e-mail: consulategeneral.ny@rks-gov.net  
+> All payments for consular services are made through banking services. Fees for specific services must be paid to the account of the Consulate General of the Republic of Kosovo in New York, by depositing the assigned amount to the relevant bank. Payment can be made in dollars, equivalent to the amount in Euros, as exchanged by the US banks.  
+> The Consular bank account details are as follows:  
+> Bank name: Bank of America  
+> Account name: Consulate General of the Republic of Kosovo  
+> Account number: 226004439707  
+> Routing Number: 026009593  
+> SWIFT code: BOFAUS3N  
+> Bank Address: 675 3rd Ave, New York, NY 10017  
+> Reference: The visa applicant’s name.
+
+For the Consulate General of the Republic of Kosovo in Tirana:
+
+>General Consulate of the Republic of Kosovo in Tirana
+> Str. Donika Kastrioti, Vila Nr. 6a, Tiranë/Shqipëri  
+> e-mail: consulategeneral.tir@rks-gov.net  
+> The visa fee can be paid by bank transfer / SWIFT.  
+> Name of Bank: Raiffeisen BANK  
+> Account holder AMBASADA E REPUBLIKES SE KOSOVES NE K82310452S  
+> IBAN: AL1520211037000000430097682 (EU or Schengen member states)  
+> SWIFT code: SGSBALTX  
+> Reference: The visa applicant’s name.
+
 
 #### Important Information
 
