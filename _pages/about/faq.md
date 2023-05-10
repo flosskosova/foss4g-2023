@@ -11,7 +11,7 @@ links:
   - { permalink: "/code-of-conduct/", text: "Code of Conduct" }
 ---
 
-### General
+### General 
 
 ###### When and where will the conference take place?
 
