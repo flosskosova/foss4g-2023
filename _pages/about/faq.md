@@ -3,7 +3,7 @@ layout: post
 title: Frequently Asked Questions (FAQ)
 permalink: /about/faq/
 isStaticPost: true
-image: blog.jpg
+image: Prizren1.jpg
 links:
   - { permalink: "/about/team/", text: "Committees" }
   - { permalink: "/about/branding/", text: "Branding" }
@@ -11,27 +11,43 @@ links:
   - { permalink: "/code-of-conduct/", text: "Code of Conduct" }
 ---
 
-### When and Where
+### General
 
-###### When will the conference take place?
+###### When and where will the conference take place?
 
-The conference will take place from 26 June - 2 July 2023.  
-&nbsp;
-
-###### Where will the Conference take place?
-
-The conference will take place in Prizren, Kosovo.  
+The conference will take place from 26 June - 2 July 2023 in Prizren, Kosovo.
 &nbsp;
 
 ###### Are the presentations going to be recorded and made publicly available after the conference?
 
 Yes.  
-Our main goal is to foster FOSS4G, and that means also making all the presentations available even to people that didn't register in the first place.  
+Our main goal is to foster FOSS4G, and that means also making all the presentations available even to people that didn’t register in the first place. After the conference, the recorded talks will be published on our [YouTube channel].<https://www.youtube.com/@FOSS4G/featured>
 &nbsp;
 
 ###### Have you considered an hybrid online-face to face event?
 
-At this point we hope to have a normal event.
+At this point, we aim to have a normal, in-person event.
+
+###### I am not dedicated to geomatics, can I attend the Conference?
+
+Yes, the conference is open to any public interested in geomatics, free software, maps, and communities.
+ 
+###### If I don’t develop or write code, is this conference for me too?
+
+Yes, this event is for all kinds of people interested in sharing experiences about maps, from developers who write code to users of geomatics software, people who make decisions, researchers, students, and anyone who wants to learn, share and meet like-minded people.
+
+###### What activities will the Conference have?
+
+The conference will have tracks full of talks, workshops, and codesprint activities. On the social side, we will host a Geochicas meeting, as well as many other activities.
+
+###### What are the venues named after?
+
+The venue ITP stands for Innovation and Training Park in Prizren, where the conference will be held and accommodation will be available. 
+
+###### How to get to Kosovo?
+
+There are plenty of options to get to Kosovo, whether you wish to choose regular means of transportation or eco-friendly ones. Read our article to learn more about them: <https://2023.foss4g.org/attending/how-ks/>.
+
 
 ### Registration
 
@@ -42,7 +58,7 @@ Yes you have to register, there is no discount for presenters.
 
 ###### How do I sign up to attend the Conference?
 
-Registrations and ticket purchases will be made through an online system. For more information visit our Register section.  
+Registrations and ticket purchases will be made through an online system. For more information visit our [Register section]̜<https://2023.foss4g.org/register/>.  
 &nbsp;
 
 ##### How do I sign up for workshops?
