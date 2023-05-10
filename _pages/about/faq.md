@@ -18,31 +18,38 @@ links:
 The conference will take place from 26 June - 2 July 2023 in Prizren, Kosovo.
 &nbsp;
 
+
 ###### Are the presentations going to be recorded and made publicly available after the conference?
 
 Yes.  
-Our main goal is to foster FOSS4G, and that means also making all the presentations available even to people that didn’t register in the first place. After the conference, the recorded talks will be published on our [YouTube channel].<https://www.youtube.com/@FOSS4G/featured>
+Our main goal is to foster FOSS4G, and that means also making all the presentations available even to people that didn’t register in the first place. After the conference, the recorded talks will be published on our [YouTube channel]<https://www.youtube.com/@FOSS4G>
 &nbsp;
+
 
 ###### Have you considered an hybrid online-face to face event?
 
 At this point, we aim to have a normal, in-person event.
 
+
 ###### I am not dedicated to geomatics, can I attend the Conference?
 
 Yes, the conference is open to any public interested in geomatics, free software, maps, and communities.
+ 
  
 ###### If I don’t develop or write code, is this conference for me too?
 
 Yes, this event is for all kinds of people interested in sharing experiences about maps, from developers who write code to users of geomatics software, people who make decisions, researchers, students, and anyone who wants to learn, share and meet like-minded people.
 
+
 ###### What activities will the Conference have?
 
 The conference will have tracks full of talks, workshops, and codesprint activities. On the social side, we will host a Geochicas meeting, as well as many other activities.
 
+
 ###### What are the venues named after?
 
 The venue ITP stands for Innovation and Training Park in Prizren, where the conference will be held and accommodation will be available. 
+
 
 ###### How to get to Kosovo?
 
