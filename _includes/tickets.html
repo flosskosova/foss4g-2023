@@ -24,7 +24,7 @@
                         {% endfor %}
                     </ul>
                     {% if ticketsOffer.soldOut == true %}
-                    <span class="button disabled">{{ ticketsOffer.soldOutText }}</span>
+                    <span class="button disabled" style="background-color: #0049ff;">{{ ticketsOffer.soldOutText }}</span>
                     {% elsif ticketsOffer.disabled != true %}
                     <a class="button" href="{% link _pages/register.html %}">Buy now</a>
                     {% else %}
