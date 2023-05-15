@@ -4,6 +4,12 @@
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
 
+- group: "Platinum Sponsors"
+  height: 90
+  elements:
+    - {name: "ProCredit", description: "", link: "/sponsors/sponsor_procredit", imageUrl: "Procredit_Logo.svg"}
+    - {name: "ITP", description: "", link: "/sponsors/sponsor_itp", imageUrl: "ITPlogo.svg"}
+
 - group: "Gold Sponsors"
   height: 80
   elements:
@@ -16,6 +22,10 @@
     - {name: "Meta", description: "", link: "/sponsors/sponsor_meta", imageUrl: "meta-logo.svg"}
     - {name: "GeoSolutions", description: "", link: "/sponsors/sponsor_geosolutions", imageUrl: "geosolutions-logo.svg"}
     - {name: "OpenGeoGroep", description: "", link: "/sponsors/sponsor_opengeogroep", imageUrl: "OGG-logo.svg"}
+    - {name: "IPKO", description: "", link: "/sponsors/sponsor_ipko", imageUrl: "IPKO_logo.svg"}
+    - {name: "GEOCAT", description: "", link: "/sponsors/sponsor_geocat", imageUrl: "GEOCAT_logo.svg"}
+    - {name: "OSGeo.JP", description: "", link: "/sponsors/sponsor_osgeojp", imageUrl: "PLATEAUlogo_wthOSGeoGspP.svg"}
+    - {name: "gikos", description: "", link: "/sponsors/sponsor_giskos", imageUrl: "giskos_logo.svg"}
 
 - group: "Bronze Sponsors"
   height: 60
@@ -46,11 +56,13 @@
     - {name: "Oslandia", description: "", link: "/sponsors/supporter_oslandia", imageUrl: "oslandia-logo.svg"}
     - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
     - {name: "iRN", description: "", link: "/sponsors/supporter_irn", imageUrl: "iRN Logo Color.svg"}
+    - {name: "GeoDataLab", description: "", link: "/sponsors/supporter_geodatalab", imageUrl: "GeoDataLab-logo.svg"}
 
 - group: "Partners"
   height: 80
   elements:
     - {name: "European Comission", description: "", link: "/sponsors/partner_european_commission", imageUrl: "eu-logo.jpg"}
+    - {name: "The German-Kosovar Business Association", description: "", link: "/sponsors/partner_kdwv", imageUrl: "KDWV Logo.svg"}
 
 - group: "Organizing Partners"
   height: 40
@@ -64,3 +76,4 @@
     - {name: "ISPRS", description: "", link: "/sponsors/partner_isprs", imageUrl: "isprs-logo.png"}
     - {name: "Remote Sensing", description: "", link: "/sponsors/partner_remote_sensing", imageUrl: "remotesensing-logo.png"}
     - {name: "GISWorld", description: "", link: "/sponsors/partner_gisworld", imageUrl: "logosvgexport.svg"}
+    - {name: "DirectionsMag", description: "", link: "https://linktr.ee/directionsmag", imageUrl: "directionsmag_logo.png"}
