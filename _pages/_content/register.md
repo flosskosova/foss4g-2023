@@ -1,3 +1,9 @@
+---
+layout: post
+title: Register
+isStaticPost: true
+image: tickets-table.png
+---
 
 ##### To continue with your registration please click below:
 
