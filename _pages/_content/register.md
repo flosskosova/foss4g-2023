@@ -1,34 +1,33 @@
 &nbsp;
 &nbsp;
 ![Tickets]({{ site.baseurl }}/img/tickets-table.png)
-
+&nbsp;
+&nbsp;
 ##### To continue with your registration please click below:
-
+&nbsp;
+&nbsp;
 [BUY YOUR TICKET HERE](https://event.2023.foss4g.org/foss4g2023/){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
-
-
+&nbsp;
+&nbsp;
 #### Registration fee includes
-
-
+&nbsp;
 ##### FOSS4G Conference (28-30 June)
-
 Access to 3 conference days (plenary session, conference tracks, meal, coffee breaks), Ice breaker event on 28 of June, Gala Dinner on 29 of June.
-
-
+&nbsp;
 ##### Workshops (26 & 27 June)
 
 Workshops are held in 2 and 4 hours format. Experienced community members guide participants in a hands-on manner through the secrets of the presented project. Everyone is invited to use her/his own computer and bring back home all of her/his achievements.
 
 The cost is related to a single workshop
-
+&nbsp;
 
 ##### FOSS4G 2023 Codesprint (1 & 2 July 2023)
 
 A codesprint is a community camp to which everyone is invited to participate and contribute with her/his point of view, ideas, open mindset and positive aura. This year seasoned community members are invited to donate time for welcoming new members and introduce them to different projects or guide them through the setup of the development environment or translation tools and get started on their Foss4G journey.
 Food and beverages are provided to support participants and on the evening of the 27th a social event is planned.
 Please register soon  (important for better planning). (https://wiki.osgeo.org/wiki/FOSS4G_2023_Community_Sprint_)
-
-
+&nbsp;
+&nbsp;
 #### CANCELLATION POLICY
 
 The cancellation should be directed to the <register@foss4g.org> in writing only. The registration fees of 25% administrative charges will be held by the organizers if the cancellation is announced before May 30, 2023. After this date no refund will be possible. Refunds will be processed and issued 60 days after the congress.
@@ -40,7 +39,7 @@ In the unlikely case that the FOSS4G 2023 cannot be held in whole or in part due
 ---
 
 ### Other events
-
+&nbsp;
 #### Business to Business
 
 It will take place on June 27 2023
@@ -48,7 +47,7 @@ The fee, is € 50,00
 
 The fee includes:  
 The fee includes the participation to the B2B event including a presentation by sponsors and a standing dinner where you have a chance to meet potential clients and partners. Each sponsor will also be able to invite one or more of his customers to participate to the B2B event according to the sponsorship level.
-
+&nbsp;
 #### Social programme
 
 **Important! Attendance to the social programme is subject to registration. Non-registered participants will not be allowed to attend.**
