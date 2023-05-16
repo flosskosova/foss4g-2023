@@ -55,4 +55,4 @@ The social programme of FOSS4G conference (28 - 30 June):
 - Ice Breaker Event - Wednesday, June 28, 2023 - 18:00-21:00  
   A light cocktail will be offered to all registered participants in the garden of the congress center.
 - Gala Dinner - Thursday, June 29, 2023 - 19:00  
-  A seated dinner will be organized in the Alegria Hotel & Restaurant located 3km away from Innovation and Training Park Prizren.
+  A seated and standup dinner will be organized at the Outdoor Stage within Innovation and Training Park Prizren.
