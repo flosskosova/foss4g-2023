@@ -1,9 +1,6 @@
----
-layout: post
-title: Register
-isStaticPost: true
-image: tickets-table.png
----
+&nbsp;
+&nbsp;
+![Tickets]({{ site.baseurl }}/img/tickets-table.png)
 
 ##### To continue with your registration please click below:
 
