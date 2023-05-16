@@ -77,3 +77,7 @@
     - {name: "Remote Sensing", description: "", link: "/sponsors/partner_remote_sensing", imageUrl: "remotesensing-logo.png"}
     - {name: "GISWorld", description: "", link: "/sponsors/partner_gisworld", imageUrl: "logosvgexport.svg"}
     - {name: "DirectionsMag", description: "", link: "https://linktr.ee/directionsmag", imageUrl: "directionsmag_logo.png"}
+    - {name: "Eurisy", description: "", link: "http://www.eurisy.eu/", imageUrl: "Eurisy_Logo.png"}
+    - {name: "GeoNe.ws", description: "", link: "https://geone.ws/", imageUrl: "GeoNews_logo.png"}
+    - {name: "Geomob", description: "", link: "https://thegeomob.com/podcast", imageUrl: "geomob-logo.png"}
+
