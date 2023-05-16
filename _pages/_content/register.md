@@ -4,11 +4,17 @@
 &nbsp;
 &nbsp;
 ##### To continue with your registration please click below:
+
 &nbsp;
 &nbsp;
+&nbsp;
+
 [BUY YOUR TICKET HERE](https://event.2023.foss4g.org/foss4g2023/){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
+
 &nbsp;
 &nbsp;
+&nbsp;
+
 #### Registration fee includes
 &nbsp;
 ##### FOSS4G Conference (28-30 June)
