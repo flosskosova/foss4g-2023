@@ -1,8 +1,16 @@
+
+##### To continue with your registration please click below:
+
+[BUY YOUR TICKET HERE](https://event.2023.foss4g.org/foss4g2023/){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float}
+
+
 #### Registration fee includes
+
 
 ##### FOSS4G Conference (28-30 June)
 
 Access to 3 conference days (plenary session, conference tracks, meal, coffee breaks), Ice breaker event on 28 of June, Gala Dinner on 29 of June.
+
 
 ##### Workshops (26 & 27 June)
 
@@ -10,10 +18,13 @@ Workshops are held in 2 and 4 hours format. Experienced community members guide 
 
 The cost is related to a single workshop
 
+
 ##### FOSS4G 2023 Codesprint (1 & 2 July 2023)
 
 A codesprint is a community camp to which everyone is invited to participate and contribute with her/his point of view, ideas, open mindset and positive aura. This year seasoned community members are invited to donate time for welcoming new members and introduce them to different projects or guide them through the setup of the development environment or translation tools and get started on their Foss4G journey.
 Food and beverages are provided to support participants and on the evening of the 27th a social event is planned.
+Please register soon  (important for better planning). (https://wiki.osgeo.org/wiki/FOSS4G_2023_Community_Sprint_)
+
 
 #### CANCELLATION POLICY
 
