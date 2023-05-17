@@ -38,7 +38,7 @@ permalink: "/blog/:title"
 # Navigation
 navigationLinks:
  -
-  permalink: "#"
+  permalink: "/about"
   text: "FOSS4G 2023"
   links:
     - {link: "/about", text: "About us"}
@@ -47,19 +47,17 @@ navigationLinks:
     - {link: "/about/faq", text: "FAQ"}
     - {link: "/code-of-conduct", text: "Code of conduct"}
  -
-  permalink: "#"
+  permalink: "/register"
   text: "Register"
   links:
-    - {link: "/register", text: "Registration"}
     - {link: "/register/travel-grant/", text: "Travel grant"}
     - {link: "/register/studentship-grant/", text: "Studentship grant"}
     - {link: "/register/visa-info/", text: "Visa info"}
     - {link: "/register/volunteers/", text: "Volunteers"}
  -
-  permalink: "#"
+  permalink: "/call-for-papers"
   text: "Call for papers"
   links:
-    - {link: "/call-for-papers", text: "Call for papers"}
     - {link: "/call-for-papers/general-sessions/", text: "General sessions"}
     - {link: "/call-for-papers/workshops/", text: "Workshops"}
     - {link: "/call-for-papers/academic-track/", text: "Academic Track"}
@@ -68,6 +66,9 @@ navigationLinks:
   text: "Schedule"
   links:
     - {link: "/agenda/workshop_schedule", text: "Workshop schedule"}
+    - {link: "/b2b_meeting/", text: "B2B event"}
+    - {link: "/geochicas_and_spacesyntaks/", text: "Geochicas and SpaceSyntaKs"}
+    - {link: "/social_events", text: "Social events"}
  -
   permalink: "/sponsors"
   text: "Sponsors"
