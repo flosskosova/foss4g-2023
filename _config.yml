@@ -99,7 +99,7 @@ eventDate: "26 June - 2 July 2023"
 # typeoutFallback: "Season"
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/register/", text: "Buy tickets"}
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
