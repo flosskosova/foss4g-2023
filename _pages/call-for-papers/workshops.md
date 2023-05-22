@@ -23,6 +23,6 @@ links:
 
 Workshops are the showcase of the FOSS4G projects. During 2 or 4 highly stimulating hours experienced community members will guide participants through the features of the various software projects. Often both beginner and advanced workshops are held, to cover the majority of user needs. Everything happens in a hands-on manner and everyone is invited to use her/his own computer and bring back home all of her/his achievements.
 
-The workshops take place between the 26nd and 27rd of June, right before the main conference days.
+The workshops take place between the 26nd and 27rd of June, right before the main conference days..
 
 _Submissions are now closed._
