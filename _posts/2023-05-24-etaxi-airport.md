@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ETAXI AIRPORT TRANSFERS "
+title: "ETAXI Airport Transfers "
 isStaticPost: false
 image: register.jpg
 ---
