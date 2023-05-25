@@ -11,7 +11,7 @@ image: qfield_banner.png
 
 **The most powerful and efficient way to manage your data on-the-go** 
 
-With the QField productivity suite, you can streamline your fieldwork processes and improve fieldwork efficiency. Our products are designed to work together seamlessly, providing a complete solution for all your fieldwork needs. Whether you're collecting data in remote locations or managing large-scale projects in a hyperconnected city, our tools have you covered.
+With the **[QField](https://qfield.org)** productivity suite, you can streamline your fieldwork processes and improve fieldwork efficiency. Our products are designed to work together seamlessly, providing a complete solution for all your fieldwork needs. Whether you're collecting data in remote locations or managing large-scale projects in a hyperconnected city, our tools have you covered.
  
 QField is the professional fieldwork app for QGIS. With more than 220K active monthly users and 800K downloads, QField helps people worldwide digitise their data on- and off-line thanks to state-of-the-art technology, user-friendly interface and cutting-edge hardware integrations.
 Capturing geotagged video and audio, calculating altitude profiles, connecting to external sensors like Geiger counters, or the first-ever integration with a surveyor-grade handheld GNSS with IMU - [the Happy mini II](https://www.happysurvey.ch/de/survey/mini-ii/) - are just a few of the highlights that you will find in the app that won the prestigious Best of Swiss Apps Enterprise 2022 award.
