@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: "ETAXI AIRPORT TRANSFERS "
-=======
 title: "ETAXI Airport Transfers "
->>>>>>> main
 isStaticPost: false
 image: register.jpg
 ---
