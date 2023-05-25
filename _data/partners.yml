@@ -26,6 +26,7 @@
     - {name: "GEOCAT", description: "", link: "/sponsors/sponsor_geocat", imageUrl: "GEOCAT_logo.svg"}
     - {name: "OSGeo.JP", description: "", link: "/sponsors/sponsor_osgeojp", imageUrl: "PLATEAUlogo_wthOSGeoGspP.svg"}
     - {name: "gikos", description: "", link: "/sponsors/sponsor_giskos", imageUrl: "giskos_logo.svg"}
+    - {name: "qField", description: "", link: "/sponsors/sponsor_qfield", imageUrl: "qfield_logo.svg"}
 
 - group: "Bronze Sponsors"
   height: 60
@@ -46,6 +47,9 @@
     - {name: "MapTiler", description: "", link: "/sponsors/sponsor_maptiler", imageUrl: "maptiler.png"}
     - {name: "Kan Territory & IT", description: "", link: "/sponsors/sponsor_kan", imageUrl: "kan-logo.svg"}
     - {name: "EOX", description: "", link: "/sponsors/sponsor_eox", imageUrl: "EOX_Logo.png"}
+    - {name: "Gobeyond", description: "", link: "/sponsors/sponsor_geobeyond", imageUrl: "geob.svg"}
+    
+    
 
 - group: "Supporter Sponsors"
   height: 45
