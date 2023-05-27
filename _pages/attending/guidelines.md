@@ -16,7 +16,8 @@ ITP Prizren
 
 #### Map Legend
 
-![Map directions]({{ site.baseurl }}/img/accomodation/Map_Legend.png){:target="\_blank"}
+[![Map directions]({{ site.baseurl }}/img/accomodation/Map_Legend.png)]({{site.url}}/img/accomodation/Map_Legend.png){:target="\_blank"}
+
 
 #### Registration Desk
 
@@ -55,7 +56,8 @@ Are arranged at the Main Building and Exhibition Area, They are served from 10:3
 
 The Exhibition Area, where you can find our sponsors and partners, is at the Main Building. Coffee breaks, social gatherings and networking events will be happening here.
 
-![Map directions]({{ site.baseurl }}/img/accomodation/Main_Building_Exhibition_Area.png){:target="\_blank"}
+[![Main Building]({{ site.baseurl }}/img/accomodation/Main_Building_Exhibition_Area.png)]({{site.url}}/img/accomodation/Main_Building_Exhibition_Area.png){:target="\_blank"}
+
 
 #### Social Programme
 
