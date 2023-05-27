@@ -73,7 +73,7 @@ navigationLinks:
   permalink: "/sponsors"
   text: "Sponsors"
  -
-  permalink: "#"
+  permalink: "/attending/guidelines"
   text: "Attending"
   links:
     - {link: "/attending/guidelines", text: "Attendee guidelines"}
