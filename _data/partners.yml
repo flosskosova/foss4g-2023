@@ -7,11 +7,11 @@
 - group: "Platinum Sponsors"
   height: 90
   elements:
-    - {name: "ProCredit", description: "", link: "/sponsors/sponsor_procredit", imageUrl: "Procredit_Logo.svg"}
-    - {name: "ITP", description: "", link: "/sponsors/sponsor_itp", imageUrl: "ITPlogo.svg"}
+    - {name: "ProCredit", description: "", link: "/sponsors/sponsor_procredit", imageUrl: "Procredit_Logo.png"}
+    - {name: "ITP", description: "", link: "/sponsors/sponsor_itp", imageUrl: "ITPlogo.png"}
 
 - group: "Gold Sponsors"
-  height: 80
+  height: 85
   elements:
     - {name: "Kontur", description: "", link: "/sponsors/sponsor_kontur", imageUrl: "Kontur_logo_main.svg"}
 
@@ -63,10 +63,12 @@
     - {name: "GeoDataLab", description: "", link: "/sponsors/supporter_geodatalab", imageUrl: "GeoDataLab-logo.svg"}
 
 - group: "Partners"
-  height: 80
+  height: 70
   elements:
     - {name: "European Comission", description: "", link: "/sponsors/partner_european_commission", imageUrl: "eu-logo.jpg"}
     - {name: "The German-Kosovar Business Association", description: "", link: "/sponsors/partner_kdwv", imageUrl: "KDWV Logo.svg"}
+    - {name: "GIZ", description: "", link: "https://www.giz.de/en/worldwide/298.html", imageUrl: "giz.svg"}
+    
 
 - group: "Organizing Partners"
   height: 40
@@ -84,4 +86,14 @@
     - {name: "Eurisy", description: "", link: "http://www.eurisy.eu/", imageUrl: "Eurisy_Logo.png"}
     - {name: "GeoNe.ws", description: "", link: "https://geone.ws/", imageUrl: "GeoNews_logo.png"}
     - {name: "Geomob", description: "", link: "https://thegeomob.com/podcast", imageUrl: "geomob-logo.png"}
+    - {name: "Katror", description: "", link: "https://katror.info", imageUrl: "katror.png"}
 
+- group: "Community Partners"
+  height: 37
+  elements:
+    - {name: "Geochicas", description: "", link: "https://geochicas.org", imageUrl: "geochicas.png"}
+
+- group: "Mobility Partner"
+  height: 37
+  elements:
+    - {name: "Etaxi", description: "", link: "https://etaxi-ks.com/", imageUrl: "etaxi.png"}
