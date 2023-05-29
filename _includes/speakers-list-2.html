@@ -5,7 +5,7 @@
             {% for speaker in site.data.speakers %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
                 <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
                         {% if speaker.ribbon != null %}
                         <ul class="ribbon-wrapper">
@@ -17,7 +17,7 @@
                             {% endfor %}
                         </ul>
                         {% endif %}
-                        <figcaption>
+                        <!-- <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
                                 <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                 <div class="clearfix"></div>
@@ -30,14 +30,14 @@
                                 </svg>
                             </a>
                             {% endfor %}
-                        </figcaption>
+                        </figcaption> -->
                         <p class="bio">{{ speaker.bio | strip_html }}</p>
                     </figure>
                 </div>
             </div>
             {% endfor %}
         </div>
-        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>         
+        <!-- <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>          -->
     </div>
 </section>
 <!-- End Speakers List 2 -->

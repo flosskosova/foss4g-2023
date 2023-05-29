@@ -4,10 +4,11 @@
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left appear-animation-trigger">
                 {% for speaker in site.data.speakers %}
-                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                <div class=" appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
-                        <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
-                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+                        <div class="" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                            <!-- <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl }})"> -->
+                                <img src="{{ site.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl }}" alt="Dinosaur" style=" width:100%"/>
                                 <div class="overlay solid-overlay"></div>
                                 {% if speaker.ribbon != null %}
                                 <ul class="ribbon-wrapper">
@@ -20,12 +21,12 @@
                                 </ul>
                                 {% endif %}
                                 {% if site.showSessions %}
-                                <figcaption>
+                                <!-- <figcaption>
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
                                     <p class="position">{{ speaker.company }}</p>
-                                </figcaption>
+                                </figcaption> -->
                                 {% endif %}
-                            </figure>
+                            <!-- </figure> -->
                         </div>
                         <div class="lily-bottom">
                             <ul class="slider">
@@ -50,7 +51,7 @@
                 </div>
                 {% endfor %}
             </div> 
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
+            <!-- <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>      -->
         </div>
     </div>
 </section>

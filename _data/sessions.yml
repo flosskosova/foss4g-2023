@@ -1,59 +1,56 @@
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+- id: 001
+  title: "The Importance of Seeding - from 3 ECTS to Shaping a better world "
+  description: "In this keynote, we will explore the significance of seeding in the context of open-source software. Using QField as an example, we will explore the steps needed to turn a student's project into the leading fieldwork app that helps hundreds of thousands of people with their work and can help address many of the Sustainable Development Goals.
+  <br>We will discuss the challenges faced during the initial stages of development and what steps played a crucial role in overcoming them. We will also highlight the importance of community and industry involvement and how these helped QField reach global success and over 800K downloads.
+  <br>Through this keynote, attendees will gain insights into the role of seeding and commitment in developing and growing open-source software, highlighting its impact on innovation, collaboration, and sustainability.
+  <br>Join us for an insightful discussion on planting seeds and the potential to drive positive change through open-source software."
   subtype: keynote
-  speakers: [6]
+  speakers: [1]
   language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  video: ""
+- id: 002
+  title: "Open-Source Solutions: Expanding our Humanity with Data Stories"
+  description: "Geospatial analysis welcomes an audience to interact with complex interactions and dynamic shifts in ecosystem balance. Location intelligence collected as data layers mirror a symphony or chapters in a book. We will explore the potential risks of vulnerable cities by exploring the environment, economics, built infrastructure, and how they intersect. We build the story or music over time while exploring the tensions we create. Let’s examine the edges of eco-geomorphic frameworks and listen for a narrative."
   subtype: keynote
-  speakers: [7]
+  speakers: [2]
+  language: en
+  video: ""
+- id: 003
+  title: "Revolutionizing Solar Potential Assessments in Kosovo Using Drones and Machine Learning "
+  description: "Imagine a future where entire communities can harness the power of the sun to fuel their homes and businesses, reducing their dependence on traditional energy sources and helping to build a more sustainable world. At FOSS4G, I am excited to share with you a groundbreaking project that is making this vision a reality in Kosovo, using the latest geospatial technology.
+  <br>Through the USAID funded Kosovo Energy Security of Supply (KESS) activity, DT global is working to promote sustainable energy solutions in Kosovo. A partnership between DT Global and DevGlobal, are leveraging the power of drones, GIS software, and open-source machine learning models to revolutionize the way we evaluate the solar potential of individual structures. By accurately delineating the boundaries of rooftops using drone imagery, we can then apply cutting-edge photogrammetry analytics to determine the optimal placement of solar panels.
+  <br>But we're not stopping there. By training the Ramp* open buildings model to successfully identify and delineate rooftops in Kosovo, using data obtained from the Kosovo Cadastral Agency's 2023 high-resolution aerial survey campaign, we are laying the groundwork for a national-level approach to mapping building footprints that can be utilized for a range of applications beyond evaluating rooftop solar potential.
+  <br>*Ramp is an open-source machine learning model and toolset for extracting building footprints from high-resolution satellite imagery at scale."
+  subtype: keynote
+  speakers: [3]
+  language: en
+- id: 004
+  title: "Türkiye and Syria Earthquakes Mapping Response"
+  description: "Powerful earthquakes hit southern Turkey and Syria on 6 February 2023. These earthquakes in Turkey and Syria caused thousands of casualties and destroyed cities. Geospatial infrastructure is critical to respond to these earthquakes during rescue operations, humanitarian effort as well as planning recovery activities.
+  <br>Yercizenler coordinated mapping activation with the collaboration of Humanitarian OpenStreeMap team to improve open geodata infrastructure in the earthquake affected region and supporting humanitarian response in the scope of mapping.
+  <br>Türkiye Earthquakes Mapping Response aims to complete open map data infrastructure before and after the event in affected areas. This response is structured with following workstreams; Remote Mapping, Post-disaster Field Data Collection, Global Community Activation and Geo-data Integration.
+  <br>In this talk; we will talk about how open data and community activation helped save lives after earthquakes, what challenges we faced and what we have learnt during the Türkiye Earthquakes mapping Response effort."
+  subtype: keynote
+  speakers: [4]
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+- id: 005
+  title: "Geochicas: From SOTM to FOSS4G, a Geospatial journey "
+  description: "Geochicas is a initiative born in State of the Map Sao Paolo and adopted by FOSS4G communities over the past years. We would like to share with you what had happened in the last couple of years and what we foresee in the future of the initiative. How Geochicas is part of a larger ecosystem of siblings organizations working towards having a more balanced presence of women and minority groups in the Geospatial communities."
+  subtype: keynote
+  speakers: [5]
+  language: en
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+- id: 006
+  title: "How UNICEF is leveraging open-source geospatial solutions to drive better results for children "
+  description: "“Whether it is to know where children are, what access they have to facilities (education, health, transportation), what environment they live in (water, air), where risks exist (hazards, diseases), where events happen or where services and resources are available; most of the operational data used by UNICEF is geospatial” (UNICEF Geospatial Roadmap, 2019). At UNICEF we realize that we need to leverage geospatial information to enhance decision-making and optimize resource allocation and drive effective interventions. Geo-enabling UNICEF’s data, systems and processes aims at transforming data into easily accessible, readily available, and actionable geospatial information that can address key questions, such as: “How many children have been affected by a flood?”, “Where children have limited access to schools and limited access to health services?”. This information is critical to support decision-making to ultimately drive better results for children.<br>
+UNICEF has recently adopted a hybrid corporate geospatial architecture, which aims at bringing together the advantages of both commercial and open-source GIS world. This presentation aims at discussing how UNICEF is leveraging modern open-source geospatial solutions to address some of the key data-management challenges.<br>
+Specifically, two open-source geospatial projects developed by UNICEF will be showcased and discussed: GeoRepo and GeoSight. GeoRepo is a web-based system that will help us store, manage and share a commonly agreed, versioned, official set of administrative boundaries and other core geospatial datasets. It will help us ensure that geospatial data is used consistently across all internal systems and will also strengthen our interoperability with external systems. GeoSight, on the other hand, is a web geospatial data platform developed by UNICEF to bridge the gap between web mapping systems and the Business Intelligence / data analytical platforms. GeoSight is specifically designed to simplify the process of harmonizing data from multiple data sources. It also allows users to easily create online maps for visualizing multiple indicators at subnational levels (e.g. at the province or district level). Both platforms are built using Django and React and use modern open-source geospatial standards and libraries, such as MapLibre and vector tiles."
+  subtype: keynote
+  speakers: [6]
+  language: en
+  video: ""

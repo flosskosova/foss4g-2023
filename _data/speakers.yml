@@ -1,12 +1,56 @@
-# -
-#   id: 4
-#   name: "Dmytro"
-#   surname: "Danylyk"
-#   company: "Lemberg Solutions Limited"
-#   title: "Android Developer"
-#   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#   thumbnailUrl: DmytroDanylyk.jpg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 1
+  name: "Marco"
+  surname: "Bernasocchi"
+  company: ""
+  title: ""
+  bio: '<p>Marco Bernasocchi is an open-source advocate, entrepreneur and full-stack geoninja. He is the creator of QField for QGIS, currently serves as QGIS.org Chair, and is an Open Source Geospatial Foundation board member. In his day job, Marco is the CEO of OPENGIS.ch, which he founded in 2011.<br>A geographer by trade, Marco lives in a small Romansh-speaking mountain village in Switzerland, where he loves scrambling around the mountains to enjoy the feeling of freedom it gives him. Outgoing, flexible and open-minded, Marco fluently speaks five languages. The best thing is: He not only knows how to say it but also loves sharing his know-how.</p>'
+  thumbnailUrl: Marco_Bernasocchi.jpg
+  rockstar: true
+-
+  id: 2
+  name: "Bonny"
+  surname: "McClain"
+  company: ""
+  title: ""
+  bio: '<p>Bonny is a geospatial analyst and self described human geographer and social anthropologist. Exploring geographic properties that capture complex interactions, dynamic shifts in ecosystem balance and how activities influence eco-geomorphic conceptual frameworks across a variety of environments are topics of popular public talks and panel discussions.<br />The ability to apply advanced data analytics, including data engineering and geo-enrichment, to poverty, race, and gender discussions targets judgments about structural determinants, racial equity, and elements of intersectionality to illuminate the confluence of metrics contributing to poverty.<br />Bonny is the author of books Python for Geospatial Data Analysis: Theory, Tools, and Practice for Location Intelligence (publisher, O’Reilly Media) and Geospatial Analysis with SQL: A hands on guide to performing geospatial analysis by unlocking the syntax of spatial SQL published by Packt Press. Current projects include a new book in progress with Locate Press, Geospatial Data Science & the Art of Storytelling.</p>'
+  thumbnailUrl: Bonny_McClain.jpg
+  rockstar: true
+-
+  id: 3
+  name: "Lorik"
+  surname: "Haxhiu"
+  company: ""
+  title: ""
+  bio: '<p>Lorik Haxhiu, PhD. has over two decades of experience in Kosovo’s energy and natural resource sectors, where he has taken on various roles and successfully carried out technical assistance programs and projects funded by USAID, EU, World Bank and other international organizations.
+<br>GIS integration is vital for his projects as it supports them in every stage from development to planning to implementation and delivery, offering valuable outcomes for beneficiaries and stakeholders.
+<br>He currently runs a small consulting firm that specializes in environmental remediation and sustainable energy solutions.</p>'
+  thumbnailUrl: Lorik_Haxhiu.jpg
+  rockstar: true
+-
+  id: 4
+  name: "Said"
+  surname: "Turksever"
+  company: ""
+  title: ""
+  bio: "<p>Said is the Community Project Manager at Meta. Said supports Meta’s Mapillary and OpenStreetMap community activities across the globe. Said is Geomatic Engineer and has a Master's degree in Geoinfoirmatics Engineering from Politecnico di Milano. He is originally from Turkey and now lives in London, UK. He is active in building the OpenStreetMap community in Turkey and interested in mapping POIs and its accessibilities.</p>"
+  thumbnailUrl: Said_Turksever.jpg
+  rockstar: true
+-
+  id: 5
+  name: "Miriam"
+  surname: "Gonzalez"
+  company: ""
+  title: ""
+  bio: '<p>Miriam has built a career in Geospatial startups. She is Geochicas co-founder, participates in the FIRE Forum as Earth Observation Evangelist in the Energy sector, former President of the Board in HOTOSM and she is doing Partnerships at UP42. Miriam is passionate about how Geospatial data and Earth Observation technologies can change the world.</p>'
+  thumbnailUrl: Miriam_Gonzalez.jpg
+  rockstar: true
+-
+  id: 6
+  name: "Jan"
+  surname: "Burdziej"
+  company: ""
+  title: ""
+  bio: "<p>Jan works as the Geospatial Lead at UNICEF. He has over 18 years of experience on various positions, including proven track record of implementing GIS solutions for UN agencies (UNICEF, UNDP), national statistical offices, environmental agencies, oil & gas industry and private businesses. At UNICEF he is leading the implementation of the geospatial strategy, which includes designing, developing and managing the roll-out of commercial and open-source GIS platforms.</p>"
+  thumbnailUrl: Jan_Burdziej.jpg
+  rockstar: true
