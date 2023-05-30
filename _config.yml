@@ -65,9 +65,9 @@ navigationLinks:
   permalink: "/schedule"
   text: "Schedule"
   links:
+    - {link: "/agenda/general_track", text: "General track"}
     - {link: "/agenda/workshop_schedule", text: "Workshop schedule"}
     - {link: "/keynotes", text: "Keynotes"}
-    - {link: "/agenda/general_track", text: "General track"}
     - {link: "/b2b_meeting/", text: "B2B event"}
     - {link: "/geochicas_and_spacesyntaks/", text: "Geochicas and SpaceSyntaKs"}
     - {link: "/social_events", text: "Social events"}
