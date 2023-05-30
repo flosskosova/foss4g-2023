@@ -37,7 +37,7 @@ At this point, we aim to have a normal, in-person event.
 Yes, the conference is open to any public interested in geomatics, free software, maps, and communities.
 &nbsp;
 
- 
+
 ###### If I don’t develop or write code, is this conference for me too?
 
 Yes, this event is for all kinds of people interested in sharing experiences about maps, from developers who write code to users of geomatics software, people who make decisions, researchers, students, and anyone who wants to learn, share and meet like-minded people.
@@ -46,13 +46,13 @@ Yes, this event is for all kinds of people interested in sharing experiences abo
 
 ###### What activities will the Conference have?
 
-The conference will have tracks full of talks, workshops, and codesprint activities. On the social side, we will host a Geochicas meeting, as well as many other activities.
+The conference will have tracks full of talks, workshops, and community sprint activities. On the social side, we will host a Geochicas meeting, as well as many other activities.
 &nbsp;
 
 
 ###### What are the venues named after?
 
-The venue ITP stands for Innovation and Training Park in Prizren, where the conference will be held and accommodation will be available. 
+The venue ITP stands for Innovation and Training Park in Prizren, where the conference will be held and accommodation will be available.
 &nbsp;
 
 
@@ -65,7 +65,7 @@ There are plenty of options to get to Kosovo, whether you wish to choose regular
 
 ###### I am presenting a workshop/talk, do I have to register?
 
-Yes you have to register, there is no discount for presenters. 
+Yes you have to register, there is no discount for presenters.
 &nbsp;
 
 
@@ -124,7 +124,7 @@ In the unlikely case that the FOSS4G 2023 cannot be held in whole or in part due
 &nbsp;
 
 
-### Accommodation 
+### Accommodation
 
 ###### Are food and accommodation included in the professional and corporate registration fees?
 Accommodation in the venue should be booked separately, but food is included in the registration fee. The registration fees include the three-day conference (plenary session, conference tracks, meal, coffee breaks), Gala Dinner, Ice Breaker, and a welcome goodie bag.
@@ -251,4 +251,3 @@ It will cost around 15 euros if you go to a public hospital, while at a private 
 ###### I'm concerned about security. How should I behave?
 Kosovo is a fairly safe country. Summer festivals and international events in Kosovo are usually very safe and inclusive towards many groups, such as the LGBTIQ+ community, as is FOSS4G 2023. There are also a lot of people from the community living and working in Kosovo and the number of incidents is relatively low. Women can travel alone and there aren’t any specific laws against the LGBTIQ+ community. Nevertheless, there is a level of homophobia and transphobia among the population, accompanied by verbal harassment, which participants from the community should be prepared for. Queer relationships are still taboo in Kosovo and some partners might view public display of affection as dangerous in Kosovo. It is advised that LGBTIQ+ participants stay close to the conference venue and close to the group during day trips and visits to the city center.
 &nbsp;
-
