@@ -61,6 +61,8 @@
     - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
     - {name: "iRN", description: "", link: "/sponsors/supporter_irn", imageUrl: "iRN Logo Color.svg"}
     - {name: "GeoDataLab", description: "", link: "/sponsors/supporter_geodatalab", imageUrl: "GeoDataLab-logo.svg"}
+    - {name: "Sourcepole", description: "", link: "/sponsors/supporter_sourcepole", imageUrl: "logo-sourcepole.jpg"}
+    
 
 - group: "Partners"
   height: 70
