@@ -71,6 +71,7 @@ navigationLinks:
     - {link: "/b2b_meeting/", text: "B2B event"}
     - {link: "/geochicas_and_spacesyntaks/", text: "Geochicas and SpaceSyntaKs"}
     - {link: "/social_events", text: "Social events"}
+    - {link: "/community_sprint", text: "Community Sprint"}
  -
   permalink: "/sponsors"
   text: "Sponsors"
@@ -82,7 +83,7 @@ navigationLinks:
     - {link: "/attending/accomodation", text: "Accommodation"}
     - {link: "/attending/how-ks/", text: "How to get to Kosovo"}
     - {link: "/tourism", text: "Tourism"}
- - 
+ -
   permalink: "/blog/"
   text: "News"
 #  - {permalink: "/speakers/", text: "Speakers"}
