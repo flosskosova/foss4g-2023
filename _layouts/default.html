@@ -63,7 +63,7 @@ layout: compress
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
                         {% if speaker.rockstar %}
-                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
+                        {name: "{{ speaker.name }} {{ speaker.surname }}", company: "{{ speaker.company }}", image: "{{ site.baseurl | append: '/img/speakers/' | append: speaker.thumbnailUrl }}"}{% if forloop.index != forloop.length %},{% endif %}
                         {% endif %}
                     {% endfor %}
                 ];
@@ -71,8 +71,8 @@ layout: compress
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
                         count = Math.min({{ site.rockstarSpeakersCount }}, rockstarSpeakers.length),
-                        colWidth = 12/count;
-                    for(i=0; i<count; i++) {
+                        colWidth = 2;
+                    for(i=0; i<6; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';
                         if ((i)%2 != 0) {
                             clearfix = ""

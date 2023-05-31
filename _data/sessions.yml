@@ -6,7 +6,8 @@
   <br>Join us for an insightful discussion on planting seeds and the potential to drive positive change through open-source software."
   subtype: keynote
   speakers: [1]
-  language: uk
+  language: en
+  complexity: "28 June at 9:30 AM"
   video: ""
 - id: 002
   title: "Open-Source Solutions: Expanding our Humanity with Data Stories"
@@ -14,6 +15,7 @@
   subtype: keynote
   speakers: [2]
   language: en
+  complexity: "28 June at 5:00 PM"
   video: ""
 - id: 003
   title: "Revolutionizing Solar Potential Assessments in Kosovo Using Drones and Machine Learning "
@@ -24,6 +26,7 @@
   subtype: keynote
   speakers: [3]
   language: en
+  complexity: "30 June at 5:00 PM"
 - id: 004
   title: "Türkiye and Syria Earthquakes Mapping Response"
   description: "Powerful earthquakes hit southern Turkey and Syria on 6 February 2023. These earthquakes in Turkey and Syria caused thousands of casualties and destroyed cities. Geospatial infrastructure is critical to respond to these earthquakes during rescue operations, humanitarian effort as well as planning recovery activities.
@@ -33,7 +36,7 @@
   subtype: keynote
   speakers: [4]
   language: en
-  complexity: "Expert"
+  complexity: "29 June at 5:00 PM"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 005
@@ -42,7 +45,7 @@
   subtype: keynote
   speakers: [5]
   language: en
-  complexity: "Expert"
+  complexity: "29 June at 9:30 AM"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 - id: 006
@@ -53,4 +56,5 @@ Specifically, two open-source geospatial projects developed by UNICEF will be sh
   subtype: keynote
   speakers: [6]
   language: en
+  complexity: "30 June at 9:30 AM"
   video: ""
