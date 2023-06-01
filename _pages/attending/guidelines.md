@@ -50,7 +50,7 @@ Lunches will be arranged at the restaurant on the premises of ITP. They are serv
 
 #### Coffee breaks
 
-Are arranged at the Main Building and Exhibition Area, They are served from 10:30 - 11:00 and 15:30 - 16:00.
+Will be arranged at the Main Building and Exhibition Area, They are served from 10:00 - 10:30 and 15:30 - 16:00.
 
 #### Exhibition Area
 
@@ -77,6 +77,12 @@ A seated and standing dinner will be organized on Thursday, June 29 from 19:00 a
 If you wish to bring a plus one for the gala dinner, you can purchase a ticket for them at the reception area or here: [https://event.2023.foss4g.org/foss4g2023/FOSS4G23/](https://event.2023.foss4g.org/foss4g2023/FOSS4G23/){:target="\_blank"}
 
 Then, from 22:00 until 00:00 the fun will continue to the bar at the Exhibition Area.
+
+##### Closing Reception
+
+- Friday, June 30 - 18:00
+
+Join us for the conference’s closing reception, celebrating a week of learning and networking with one another. All members of the FOSS4G association, friends and interested parties are cordially invited to afternoon drinks at the end of FOSS4G 2023 from 17:00 at the Main Building.
 
 #### Code of Conduct
 

@@ -101,7 +101,7 @@ Yes. We will be sending certificates after the end of the event via email. We as
 
 ###### What is included in the ticket?
 
-The cost of the conference ticket includes admission to all the main tracks (excluding workshops) and social events like Ice Breaker and Gala Dinner.  
+The cost of the conference ticket includes admission to all the main tracks (excluding workshops) and social events like Ice Breaker, Gala Dinner, Closing Reception.  
 You can see the details on the schedule published at the website.  
 &nbsp;
 
@@ -127,7 +127,7 @@ In the unlikely case that the FOSS4G 2023 cannot be held in whole or in part due
 ### Accommodation
 
 ###### Are food and accommodation included in the professional and corporate registration fees?
-Accommodation in the venue should be booked separately, but food is included in the registration fee. The registration fees include the three-day conference (plenary session, conference tracks, meal, coffee breaks), Gala Dinner, Ice Breaker, and a welcome goodie bag.
+Accommodation in the venue should be booked separately, but food is included in the registration fee. The registration fees include the three-day conference (plenary session, conference tracks, meal, coffee breaks), Gala Dinner, Ice Breaker, Closing Reception and a welcome goodie bag.
 &nbsp;
 
 

@@ -20,4 +20,4 @@ Then, from 22:00 until 00:00 the fun will continue to an open bar at the Main Bu
 
 #### Closing Reception
 
-Join us for the conference's closing reception, celebrating a week of learning and networking with one another. All members of the FOSS4G association, friends and interested parties are cordially invited to afternoon drinks at the end of FOSS4G 2023 from 17:00 at the Main Building.
+Join us for the conference's closing reception, celebrating a week of learning and networking with one another. All members of the FOSS4G association, friends and interested parties are cordially invited to afternoon drinks at the end of FOSS4G 2023 from 18:00 at the Main Building.
