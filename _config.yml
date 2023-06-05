@@ -72,6 +72,7 @@ navigationLinks:
     - {link: "/geochicas_and_spacesyntaks/", text: "Geochicas and SpaceSyntaKs"}
     - {link: "/social_events", text: "Social events"}
     - {link: "/community_sprint", text: "Community Sprint"}
+    - {link: "/side_events", text: "Side Events"}
  -
   permalink: "/sponsors"
   text: "Sponsors"
@@ -185,6 +186,9 @@ footerBlocks:
 # Blog
 # blogCommentsEnabled: true
 # discusShortName: "devfestua"
+collections:
+  sideevents:
+    output: true
 
 # Speakers List Block
 showSessions: true
