@@ -5,8 +5,12 @@ isStaticPost: true
 image: blog.jpg
 ---
 
+![]({{ site.baseurl }}/img/sections-background/lucas_se.png)
 Side event led by Lucas De Oto, ITC, University of Twente
+
 FOSS4G 2023, Prizren, 26-30 June, 2023
+
+&nbsp;
 
 In recent years, the combination of technological advances and spatial data abundance revolutionised the field of geoinformation (GI). New methodologies and techniques established in other fields of knowledge proved to be relevant to keep up to date and fully benefiting from all this technological richness. Consequently, new areas of knowledge have emerged, such as geospatial artificial intelligence (GeoAI) or big geodata. Simultaneously, the formulation in 2015 of the 2030 Agenda for Sustainable Development and its multiple goals by the United Nations (UN), impose a specific framework for the application and further development of geoinformation science. Furthermore, the recent COVID-19 pandemic accelerated the transition towards different modalities of distance education as well as the arrival of multiple digital instruments to fulfil this purpose. At the same time, the use of free and open-source software (FOSS) keeps gaining momentum, standing out as the best technological solution to attain sustainable and democratic approaches to geospatial problems.
 
@@ -23,7 +27,9 @@ Presentation I: Teaching GI with FOSS today: challenges and opportunities
 12:00 – 12:30 Plenary discussion  
 Closing
 
-<br><br>
+[**Register here**](https://forms.gle/PVp5F12CrDwmt4qs9) for participating in the event.
+
+&nbsp;
 
 **Lucas De Oto**
 
