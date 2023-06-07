@@ -4,6 +4,11 @@
     - {name: "OSGEO", description: "The Open Source Geospatial Foundation", link: "https://www.osgeo.org/", imageUrl: "osgeo-logo-cmyk.svg"}
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
 
+- group: "Diamond Sponsor"
+  height: 110 
+  elements:
+    - {name: "Re:Earth", description: "", link: "/sponsors/sponsor_reearth", imageUrl: "re_earth.png"}
+
 - group: "Platinum Sponsors"
   height: 90
   elements:
