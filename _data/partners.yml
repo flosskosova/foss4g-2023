@@ -5,23 +5,23 @@
     - {name: "FLOSSK", description: "Free Libre Open Source Software Kosova", link: "https://flossk.org/", imageUrl: "flossk-logo.svg"}
 
 - group: "Diamond Sponsor"
-  height: 150 
+  height: 170 
   elements:
     - {name: "Re:Earth", description: "", link: "/sponsors/sponsor_reearth", imageUrl: "re_earth.png"}
 
 - group: "Platinum Sponsors"
-  height: 90
+  height: 70
   elements:
     - {name: "ProCredit", description: "", link: "/sponsors/sponsor_procredit", imageUrl: "Procredit_Logo.png"}
     - {name: "ITP", description: "", link: "/sponsors/sponsor_itp", imageUrl: "ITPlogo.png"}
 
 - group: "Gold Sponsors"
-  height: 85
+  height: 70
   elements:
     - {name: "Kontur", description: "", link: "/sponsors/sponsor_kontur", imageUrl: "Kontur_logo_main.svg"}
 
 - group: "Silver Sponsors"
-  height: 80
+  height: 70
   elements:
     - {name: "Sparkgeo", description: "", link: "/sponsors/sponsor_sparkgeo", imageUrl: "sparkgeo-logo-black.svg"}
     - {name: "Meta", description: "", link: "/sponsors/sponsor_meta", imageUrl: "meta-logo.svg"}
