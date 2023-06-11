@@ -100,8 +100,14 @@
   height: 37
   elements:
     - {name: "Geochicas", description: "", link: "https://geochicas.org", imageUrl: "geochicas.png"}
+    - {name: "LPI", description: "", link: "https://www.lpi.org/", imageUrl: "LPI_logo.png"}
 
 - group: "Mobility Partner"
   height: 37
   elements:
     - {name: "Etaxi", description: "", link: "https://etaxi-ks.com/", imageUrl: "etaxi.png"}
+
+- group: "Taste Partners"
+  height: 37
+  elements:
+    - {name: "Stone Castle", description: "", link: "https://stonecastlewine.com/", imageUrl: "stonecastle_logo.png"}
