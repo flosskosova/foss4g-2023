@@ -18,4 +18,6 @@ Please add your name and details to the list on
 this event is free but the organizers need to know how many to expect. (So also remove
 your name in case you change plans.)
 
+[Register here](https://wiki.osgeo.org/wiki/FOSS4G_2023_Community_Sprint){: .btn-primary .waves-effect .waves-button .waves-light}
+
 ![Community Sprint venue]({{ site.baseurl }}/img/venue/venue_3b.jpg)
