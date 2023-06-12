@@ -100,7 +100,7 @@
   height: 37
   elements:
     - {name: "Geochicas", description: "", link: "https://geochicas.org", imageUrl: "geochicas.png"}
-    - {name: "LPI", description: "", link: "https://www.lpi.org/", imageUrl: "LPI_logo.png"}
+    - {name: "LPI", description: "", link: "https://www.lpi.org/", imageUrl: "LPI_logo.jpg"}
 
 - group: "Mobility Partner"
   height: 37
