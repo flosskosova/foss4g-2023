@@ -14,3 +14,7 @@ Marco is an open-source advocate, entrepreneur and full-stack geoninja. He is th
 **Matthias Kuhn**
 
 Passionate developer, geographer, open source lover, long-time QGIS core developer, CTO OPENGIS.ch, and mountaineering dude.
+
+**When and where**
+
+27th of June at 11:00AM in Room **Kren 2**.

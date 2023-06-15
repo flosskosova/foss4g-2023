@@ -156,7 +156,7 @@ nav {
   }
 }
 .menu-dropdown {
-  display: block;
+  display: none;
   opacity: 0;
   position: absolute;
   transition: all 0.3s ease-in-out;
@@ -164,13 +164,11 @@ nav {
   border-radius: 10px;
   z-index: 999;
   padding: 15px 10px;
-  li {
+  a {
     display: block;
-    a {
-      min-width: 10rem;
-      padding: 0.425rem 1rem;
-      white-space: nowrap;
-    }
+    min-width: 10rem;
+    padding: 2px;
+    white-space: nowrap;
   }
   @media (max-width: 767px) {
     margin-top: 0;
@@ -179,8 +177,7 @@ nav {
     padding-top: 0;
   }
 }
-ul li a:hover + .menu-dropdown,
-.menu-dropdown:hover {
+.navbar-menu li:hover .menu-dropdown {
   display: block;
   opacity: 1;
 }
