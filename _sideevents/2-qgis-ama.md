@@ -18,3 +18,5 @@ Passionate developer, geographer, open source lover, long-time QGIS core develop
 **When and where**
 
 27th of June at 11:00AM in Room **Kren 2**.
+
+[Register here](https://forms.gle/LY4RMyY9g2j1RWx29){: .btn-primary .waves-effect .waves-button .waves-light}
