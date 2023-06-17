@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teaching GI with FOSS tools: an update for higher education teachers and trainers at public organizations"
+title: "Teaching GI with FOSS tools: an update for higher education teachers and trainers at public organizations | 30 June 09:00"
 isStaticPost: true
 image: blog.jpg
 ---

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Open Source Geospatial Tools for Humanitarian Response - HOTOSM"
+title: "Open Source Geospatial Tools for Humanitarian Response - HOTOSM | 27 June 15:00"
 isStaticPost: true
 image: hotosm.png
 ---
 
-**Name**: Open source mapping: Connect and work with the Tech & Innovation team at Humanitarian OpenStreetMapTeam (HOT)
+**Open source mapping: Connect and work with the Tech & Innovation team at Humanitarian OpenStreetMapTeam (HOT)**
 
-**Description**: Come and meet the Tech & Innovation team at the Humanitarian OpenStreetMap Team (HOT), hear about the status of the existing and experimental open mapping tools, and explore how you can get involved!
+&nbsp;
+
+
+27 June
+
+15:00 - 17:00 - <https://talks.osgeo.org/foss4g-2023/talk/QZLTXP/>
+
+&nbsp;
+
+Come and meet the Tech & Innovation team at the Humanitarian OpenStreetMap Team (HOT), hear about the status of the existing and experimental open mapping tools, and explore how you can get involved!
 
 In this side event, you will hear about the latest open source technology developments ranging from remote mapping using HOT Tasking Manager, field mapping using the Field Mapping Tasking Manager (FMTM) to uploading imagery using Open Aerial Map, exporting OSM data using the HOT Export Tool and AI-assisted mapping with one of the most recent projects we are working on - fAIr.
 
@@ -17,10 +26,6 @@ We want to connect with people who are working on anything from imagery to data 
 
 Whatever your technical background is, we will find an area that matches your interest! Take a look at the HOTOSM Github repos: [https://github.com/hotosm](https://github.com/hotosm)
 
-**Side event leads**: Petya Kangalova, Synne Olsen, Nirab Pudasaini, Kshitij Sharma, Yogesh Girikumar
+**Side event leads**: Petya Kangalova, Synne Olsen, Nirab Pudasaini, Kshitij Sharma, Yogesh Girikumar - 
 
-<br><br>
-
-**Petya Kangalova:**
-
-I am really passionate about the impact of open mapping and using technology as an enabler for people in supporting their communities. As an Open Tech Collective Facilitator at HOTOSM, I hope to be able to successfully build a dynamic collective of open tech contributors from around the world!
+**Petya Kangalova** is really passionate about the impact of open mapping and using technology as an enabler for people in supporting their communities. As an Open Tech Collective Facilitator at HOTOSM, I hope to be able to successfully build a dynamic collective of open tech contributors from around the world!

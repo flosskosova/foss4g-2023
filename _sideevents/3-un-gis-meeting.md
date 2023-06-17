@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UN Open GIS initiative meeting"
+title: "UN Open GIS initiative meeting | 27 June 16:00"
 isStaticPost: true
 image: blog.jpg
 ---
