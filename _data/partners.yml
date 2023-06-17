@@ -53,8 +53,6 @@
     - {name: "Kan Territory & IT", description: "", link: "/sponsors/sponsor_kan", imageUrl: "kan-logo.svg"}
     - {name: "EOX", description: "", link: "/sponsors/sponsor_eox", imageUrl: "EOX_Logo.png"}
     - {name: "Gobeyond", description: "", link: "/sponsors/sponsor_geobeyond", imageUrl: "geob.svg"}
-    
-    
 
 - group: "Supporter Sponsors"
   height: 45
@@ -66,8 +64,7 @@
     - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
     - {name: "iRN", description: "", link: "/sponsors/supporter_irn", imageUrl: "iRN Logo Color.svg"}
     - {name: "GeoDataLab", description: "", link: "/sponsors/supporter_geodatalab", imageUrl: "GeoDataLab-logo.svg"}
-    - {name: "Sourcepole", description: "", link: "/sponsors/supporter_sourcepole", imageUrl: "logo-sourcepole.jpg"}
-    
+    - {name: "Sourcepole", description: "", link: "/sponsors/supporter_sourcepole", imageUrl: "logo-sourcepole.jpg"}  
 
 - group: "Partners"
   height: 70
@@ -101,6 +98,7 @@
   elements:
     - {name: "Geochicas", description: "", link: "https://geochicas.org", imageUrl: "geochicas.png"}
     - {name: "LPI", description: "", link: "https://www.lpi.org/", imageUrl: "LPI_Logo.jpg"}
+    - {name: "THY", description: "", link: "https://www.ojqthy.org/", imageUrl: "THY.png"}
 
 - group: "Mobility Partner"
   height: 37
@@ -108,6 +106,7 @@
     - {name: "Etaxi", description: "", link: "https://etaxi-ks.com/", imageUrl: "etaxi.png"}
 
 - group: "Taste Partners"
-  height: 37
+  height: 40
   elements:
+    - {name: "Birra Peja", description: "", link: "https://www.birrapeja.com/", imageUrl: "birra_peja.svg"}
     - {name: "Stone Castle", description: "", link: "https://stonecastlewine.com/", imageUrl: "stonecastle_logo.png"}

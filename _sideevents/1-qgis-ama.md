@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "QGIS - AMA"
+title: "QGIS - AMA | 27 June 11:00"
 isStaticPost: true
 image: blog.jpg
 ---
 
 QGIS Chairman Marco Bernasocchi and core developer Matthias Kuhn will be available for an hour to answer any QGIS-related questions. With the two of them, interested parties have access to over 20 years of combined expert knowledge in the development, use, and organization of QGIS and QGIS-based products.
+<https://talks.osgeo.org/foss4g-2023/talk/WGL7YK/>
+
 
 **Marco Bernasocchi**
 
