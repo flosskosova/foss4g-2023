@@ -98,7 +98,7 @@
     - {name: "LPI", description: "", link: "https://www.lpi.org/", imageUrl: "LPI_Logo.jpg"}
     - {name: "THY", description: "", link: "https://www.ojqthy.org/", imageUrl: "THY.png"}
 
-    - {name: "UBT", description: "", link: "https://www.ubt-uni.net/en/home/", imageUrl: "UBT.svg"}
+    - {name: "UBT", description: "", link: "https://www.ubt-uni.net/en/home/", imageUrl: "UBT.png"}
 
 - group: "Mobility Partner"
   height: 35
