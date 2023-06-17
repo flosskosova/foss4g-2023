@@ -64,8 +64,6 @@
     - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
     - {name: "iRN", description: "", link: "/sponsors/supporter_irn", imageUrl: "iRN Logo Color.svg"}
     - {name: "GeoDataLab", description: "", link: "/sponsors/supporter_geodatalab", imageUrl: "GeoDataLab-logo.svg"}
-    - {name: "Sourcepole", description: "", link: "/sponsors/supporter_sourcepole", imageUrl: "logo-sourcepole.jpg"}
-    - {name: "Sourcepole", description: "", link: "https://www.ubt-uni.net/en/home/", imageUrl: "UBT.svg"}
 
 - group: "Partners"
   height: 70
@@ -99,6 +97,7 @@
     - {name: "Geochicas", description: "", link: "https://geochicas.org", imageUrl: "geochicas.png"}
     - {name: "LPI", description: "", link: "https://www.lpi.org/", imageUrl: "LPI_Logo.jpg"}
     - {name: "THY", description: "", link: "https://www.ojqthy.org/", imageUrl: "THY.png"}
+
     - {name: "UBT", description: "", link: "https://www.ubt-uni.net/en/home/", imageUrl: "UBT.svg"}
 
 - group: "Mobility Partner"
