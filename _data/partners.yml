@@ -64,7 +64,6 @@
     - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
     - {name: "iRN", description: "", link: "/sponsors/supporter_irn", imageUrl: "iRN Logo Color.svg"}
     - {name: "GeoDataLab", description: "", link: "/sponsors/supporter_geodatalab", imageUrl: "GeoDataLab-logo.svg"}
-    - {name: "Sourcepole", description: "", link: "/sponsors/supporter_sourcepole", imageUrl: "logo-sourcepole.jpg"}  
 
 - group: "Partners"
   height: 70
@@ -73,16 +72,15 @@
     - {name: "The German-Kosovar Business Association", description: "", link: "/sponsors/partner_kdwv", imageUrl: "KDWV Logo.svg"}
     - {name: "GIZ", description: "", link: "https://www.giz.de/en/worldwide/298.html", imageUrl: "giz.svg"}
     - {name: "Prizren", description: "", link: "https://kk.rks-gov.net/prizren/en/", imageUrl: "prizren_logo.svg"}
-    
 
 - group: "Organizing Partners"
-  height: 40
+  height: 50
   elements:
     - {name: "OpS-IN", description: "", link: "/sponsors/partner_ops_in", imageUrl: "Opsin.svg"}
     - {name: "SpaceSyntaks", description: "", link: "/sponsors/partner_spacesyntaks", imageUrl: "spacesyntaks.svg"}
 
 - group: "Media Partners"
-  height: 37
+  height: 40
   elements:
     - {name: "ISPRS", description: "", link: "/sponsors/partner_isprs", imageUrl: "isprs-logo.png"}
     - {name: "Remote Sensing", description: "", link: "/sponsors/partner_remote_sensing", imageUrl: "remotesensing-logo.png"}
@@ -94,19 +92,21 @@
     - {name: "Katror", description: "", link: "https://katror.info", imageUrl: "katror.png"}
 
 - group: "Community Partners"
-  height: 37
+  height: 40
   elements:
     - {name: "Geochicas", description: "", link: "https://geochicas.org", imageUrl: "geochicas.png"}
     - {name: "LPI", description: "", link: "https://www.lpi.org/", imageUrl: "LPI_Logo.jpg"}
     - {name: "THY", description: "", link: "https://www.ojqthy.org/", imageUrl: "THY.png"}
 
+    - {name: "UBT", description: "", link: "https://www.ubt-uni.net/en/home/", imageUrl: "UBT.svg"}
+
 - group: "Mobility Partner"
-  height: 37
+  height: 35
   elements:
     - {name: "Etaxi", description: "", link: "https://etaxi-ks.com/", imageUrl: "etaxi.png"}
 
 - group: "Taste Partners"
-  height: 40
+  height: 50
   elements:
     - {name: "Birra Peja", description: "", link: "https://www.birrapeja.com/", imageUrl: "birra_peja.svg"}
     - {name: "Stone Castle", description: "", link: "https://stonecastlewine.com/", imageUrl: "stonecastle_logo.png"}
