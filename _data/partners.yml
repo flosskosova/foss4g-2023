@@ -97,8 +97,9 @@
     - {name: "Geochicas", description: "", link: "https://geochicas.org", imageUrl: "geochicas.png"}
     - {name: "LPI", description: "", link: "https://www.lpi.org/", imageUrl: "LPI_Logo.jpg"}
     - {name: "THY", description: "", link: "https://www.ojqthy.org/", imageUrl: "THY.png"}
-
     - {name: "UBT", description: "", link: "https://www.ubt-uni.net/en/home/", imageUrl: "UBT.png"}
+    - {name: "Guideks", description: "", link: "https://guideks.org/", imageUrl: "guideks_logo.jpg"}
+
 
 - group: "Mobility Partner"
   height: 35
