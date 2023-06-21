@@ -72,6 +72,7 @@
     - {name: "The German-Kosovar Business Association", description: "", link: "/sponsors/partner_kdwv", imageUrl: "KDWV Logo.svg"}
     - {name: "GIZ", description: "", link: "https://www.giz.de/en/worldwide/298.html", imageUrl: "giz.svg"}
     - {name: "Prizren", description: "", link: "https://kk.rks-gov.net/prizren/en/", imageUrl: "prizren_logo.svg"}
+    - {name: "SHGJK", description: "", link: "https://kk.rks-gov.net/prizren/en/", imageUrl: "shgjk.png"}
 
 - group: "Organizing Partners"
   height: 50
