@@ -84,6 +84,7 @@ navigationLinks:
     - {link: "/attending/accomodation", text: "Accommodation"}
     - {link: "/attending/how-ks/", text: "How to get to Kosovo"}
     - {link: "/tourism", text: "Tourism"}
+    - {link: "/guided-tours", text: "Guided Tours"}
  -
   permalink: "/blog/"
   text: "News"
@@ -188,6 +189,8 @@ footerBlocks:
 # discusShortName: "devfestua"
 collections:
   sideevents:
+    output: true
+  tours:
     output: true
 
 # Speakers List Block
