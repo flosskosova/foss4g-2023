@@ -64,6 +64,7 @@
     - {name: "Geo&Land", description: "", link: "/sponsors/supporter_geo_land", imageUrl: "Geo_land_logo.svg"}
     - {name: "iRN", description: "", link: "/sponsors/supporter_irn", imageUrl: "iRN Logo Color.svg"}
     - {name: "GeoDataLab", description: "", link: "/sponsors/supporter_geodatalab", imageUrl: "GeoDataLab-logo.svg"}
+    - {name: "SourcePole", description: "", link: "/sponsors/supporter_sourcepole", imageUrl: "logo-sourcepole.jpg"}
 
 - group: "Partners"
   height: 70
@@ -72,7 +73,7 @@
     - {name: "The German-Kosovar Business Association", description: "", link: "/sponsors/partner_kdwv", imageUrl: "KDWV Logo.svg"}
     - {name: "GIZ", description: "", link: "https://www.giz.de/en/worldwide/298.html", imageUrl: "giz.svg"}
     - {name: "Prizren", description: "", link: "https://kk.rks-gov.net/prizren/en/", imageUrl: "prizren_logo.svg"}
-    - {name: "SHGJK", description: "", link: "https://kk.rks-gov.net/prizren/en/", imageUrl: "shgjk.png"}
+    - {name: "SHGJK", description: "", link: "https://me.rks-gov.net/sherbimi-gjeologjik-i-kosoves-2/", imageUrl: "shgjk.png"}
 
 - group: "Organizing Partners"
   height: 50
