@@ -1,19 +1,32 @@
 ---
 layout: post
-title: "EAST KOSOVO TOUR"
+title: "EAST KOSOVO TOUR | 50 eur"
 isStaticPost: true
 image: EKT_foto10.png
 ---
 
-From Prizren:
+## East Kosovo Tour 
 
-- 1 - Gadime Cave
-- 2 - Ulpijana Ancient City
-- 3 - Gracanica Monastery
-- 4 - Bear Sanctuary
-- 5 - Artana (Novoberda) Fortress Rout map
+![]({{ site.baseurl }}/img/tours/EKT_foto1.png){: .col-sm-6 }
+#### From Prizren:
 
-![]({{ site.baseurl }}/img/tours/EKT_foto1.png)
+1 - Gadime Cave
+
+2 - Ulpijana Ancient City
+
+3 - Gracanica Monastery
+
+4 - Bear Sanctuary
+
+5 - Artana (Novoberda) Fortress Rout map
+
+Embark on an unforgettable adventure with our East Kosovo Tour on July 1! Explore the hidden treasures of this mesmerizing region such as the Gadime Cave, Ulpijana Ancient City, Gracanica Monastery, Bear Sanctuary, and Artana Fortress.
+
+The tour altogether is **50 EUR** per person in cash and it includes an experienced guide, entrance fees to Gadime Cave, Gracanica Monastery, and the Bear Sanctuary, as well as a refreshing café break and a delicious lunch in the village of Artana (Novoberda). 🍽️🌿
+
+The tour guides will pick you up at **08:00 at the FOSS4G Venue** and return you to back at 19:00.    
+
+Click here to [Register](https://forms.gle/i9tJgUnzaxn7bmsb9){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float} 
 
 #### 1 - Gadime - Marble Cave arrival 10:00
 
@@ -49,9 +62,13 @@ For many years, there was no law against keeping brown bears in Kosovo. All priv
 ![]({{ site.baseurl }}/img/tours/EKT_foto8.png){: .col-sm-6 }  
 ![]({{ site.baseurl }}/img/tours/EKT_foto9.png){: .col-sm-6 }
 
-###### Departure to Artana (Novoberda) 13:00 arrival 13:40
+#### 5 - Departure to Artana (Novoberda) 13:00 arrival 13:40
+
+&nbsp;
 
 ###### Lunch 14:00 time
+
+&nbsp;
 
 ###### 15:00 – 16:30 visit of Fortress and monuments in Artana (Novoberda)
 

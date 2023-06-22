@@ -192,7 +192,7 @@ Light shoes to walk around the venue. The ground is only gravel in some places a
 &nbsp;
 
 
-### Misc
+### Other 
 
 ###### What are the payment options in local shops and restaurants?
 Credit cards are supported in supermarkets. Small shops take cash only. Restaurants usually take cards while most of the coffee shops may take either cash or credit card. The currency is Euro.

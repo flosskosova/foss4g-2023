@@ -1,9 +1,27 @@
 ---
 layout: post
-title: "ADVEN-TOUR IN PEJA"
+title: "ADVEN-TOUR IN PEJA | 60 EUR"
 isStaticPost: true
 image: AP_foto1.png
 ---
+
+## ADVEN-TOUR IN PEJA
+
+![]({{ site.baseurl }}/img/tours/AP_foto2.png){: .col-sm-6 }
+
+&nbsp;
+
+The ultimate Adven-tour in Peja is waiting for you! Brace yourselves for an adrenaline-pumping experience in the heart of nature on July 1. Explore the charm of Peja's old town, zip-line through the Rugova Canyon, and venture into the Via Ferrata activity of thrilling climbing.
+
+This immersive experience can take up to 3 to 5 hours, including preparation, device setup, and training. For only **65 EUR** per person, you’ll make memories that will last a lifetime.
+
+The tour guides will pick you up at **08:00 at the FOSS4G Venue** and return you back at 19:00. 
+
+&nbsp;
+
+Click here to [Register](https://forms.gle/USEL3qFvc3KtUTf36){:target="\_blank" .bottom-section-link .btn .btn-primary .waves-effect .waves-button .waves-light .waves-float} 
+
+&nbsp;
 
 First visit, short tour in the old town of Peja and café break after the trip from Prizren.
 
@@ -14,6 +32,8 @@ The Zip line is located where the Rugova Canyon begins, only 4 km far from the c
 Only 3 kilometers from the city center of Peja, inside the Rugova Gorge natural attraction e which is protected by law, you will find the attraction of Via Ferrata which is a unique activity in Kosovo and offers experiences of outdoor adventures. Via Ferrata is a trail passing along the rocky massifs of the Rugova Gorge at different heights and offers the experience of adventure, entertainment and adrenaline. While passing through these trails, you will experience magnificent views of the Rugova Gorge nature, taking a unique experience that you will remember for a long time in your life.
 
 In Peja, there are 4 Via Ferrata having different levels of difficulty, their length starts from 450m to 1 km while the heights reach up to 300m. Therefore, you can plan spending your weekend exercising the activity of Via Ferrata
+
+&nbsp;
 
 ###### Our visit will be in Via Ferrata ARI
 
