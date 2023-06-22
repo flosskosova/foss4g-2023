@@ -198,16 +198,21 @@ Light shoes to walk around the venue. The ground is only gravel in some places a
 Credit cards are supported in supermarkets. Small shops take cash only. Restaurants usually take cards while most of the coffee shops may take either cash or credit card. The currency is Euro.
 &nbsp;
 
+###### Is tap water drinkable? 
+Yes, the tap water in many cities in Kosovo, including Prizren, is generally considered safe to drink. However there will also be whater dispense on the premises. If needed, feel free to bring your own bottle.
+&nbsp;
 
 ###### Which are the suggested restaurants and pubs in Prizren?
 Some of the best restaurants in Prizren can be found here <https://www.tripadvisor.co.uk/Restaurants-g304090-Prizren.html>, and some of the most vibrant and lively pubs can be found here <https://www.tripadvisor.com/Attractions-g304090-Activities-c20-t99-Prizren.html>.
 &nbsp;
 
+###### Is there any Pub that works 24 hours?
+Yes, the one and only Pub that works 24 hours, will be FOSS4G Pub at the Main Building.
+&nbsp;
 
 ###### Are there ATMs I can use?
 There are multiple ATMs in the city of Prizren. You can use a maps app to locate them.
 &nbsp;
-
 
 ###### SIM cards
 You can buy a SIM card at the Ipko selling stores - <https://www.ipko.com/en/point-of-sales/>. There is one at Pristina Airport (PRN) open 8-20. You will need to bring a passport to buy a SIM.
