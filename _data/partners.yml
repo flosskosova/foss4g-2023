@@ -70,6 +70,7 @@
   height: 70
   elements:
     - {name: "Ministry of Economy", description: "", link: "https://me.rks-gov.net", imageUrl: "me_logo.png"}
+    - {name: "Ministry of Environment, Spatial Planning and Infrastructure", description: "", link: "https://mmphi.rks-gov.net/", imageUrl: "mph_logo.png"}
     - {name: "European Comission", description: "", link: "/sponsors/partner_european_commission", imageUrl: "eu-logo.jpg"}
     - {name: "The German-Kosovar Business Association", description: "", link: "/sponsors/partner_kdwv", imageUrl: "KDWV Logo.svg"}
     - {name: "GIZ", description: "", link: "https://www.giz.de/en/worldwide/298.html", imageUrl: "giz.svg"}
