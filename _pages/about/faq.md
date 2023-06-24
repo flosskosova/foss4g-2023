@@ -199,7 +199,7 @@ Credit cards are supported in supermarkets. Small shops take cash only. Restaura
 &nbsp;
 
 ###### Is tap water drinkable? 
-Yes, the tap water in many cities in Kosovo, including Prizren, is generally considered safe to drink. However there will also be whater dispense on the premises. If needed, feel free to bring your own bottle.
+Yes, the tap water in many cities in Kosovo, including Prizren, is generally considered safe to drink. There will also be water dispense on the premises. We encourage you to refill water bottles.
 &nbsp;
 
 ###### Which are the suggested restaurants and pubs in Prizren?
