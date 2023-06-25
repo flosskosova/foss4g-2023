@@ -2,7 +2,7 @@
 layout: post
 title: "On the Brink of the Conference - One Day Away!"
 isStaticPost: false
-image: register.jpg
+image: 1 Day Left - POST.png
 ---
 
 #### One Day Left
@@ -18,3 +18,5 @@ Looking forward to the upcoming days, having thought leaders, industry experts, 
 P.S. Don’t forget to share your thoughts on social media! Tag @foss4g and use #FOSS4G2023 when posting about the event! 💙❤️
 
 #FOSS4G #Prizren2023 #Foss4G2023 #GeoSpatial
+
+![]({{ site.baseurl }}/img/sections-background/1 Day Left - POST.png)
