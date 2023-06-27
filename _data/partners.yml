@@ -103,6 +103,7 @@
     - {name: "THY", description: "", link: "https://www.ojqthy.org/", imageUrl: "THY.png"}
     - {name: "UBT", description: "", link: "https://www.ubt-uni.net/en/home/", imageUrl: "UBT.png"}
     - {name: "Guideks", description: "", link: "https://guideks.org/", imageUrl: "guideks_logo.jpg"}
+    - {name: "OpenLabs", description: "", link: "https://openlabs.cc/en/", imageUrl: "openlabs.png"}
 
 
 - group: "Mobility Partner"
