@@ -34,7 +34,7 @@ The registration desk is located at the entrance of the Main Building and will b
 
 #### Conference Badge
 
-Each registered participant can queue for the desk with the first letter of their firsname to collect the conference badge. Together with the badge, tickets for the Gala Dinner and t-shirt collection will be delivered.
+Each registered participant can queue for the desk with the first letter of their first name to collect the conference badge.
 
 Participants are kindly requested to wear the badge in all conference spaces and during the social events.
 
