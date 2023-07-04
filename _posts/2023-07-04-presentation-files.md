@@ -2,6 +2,7 @@
 layout: post
 title: "Presentation files are now available"
 isStaticPost: false
+permalink: /presentation_files/
 image: community_sprint.jpg
 ---
 
