@@ -67,6 +67,7 @@ navigationLinks:
   links:
     - {link: "/agenda/general_track", text: "General and Academic track schedule"}
     - {link: "/agenda/workshop_schedule", text: "Workshop schedule"}
+    - {link: "/presentation_files", text: "Presentation Files"}
     - {link: "/keynotes", text: "Keynotes"}
     - {link: "/b2b_meeting/", text: "B2B event"}
     - {link: "/geochicas_and_spacesyntaks/", text: "Geochicas and SpaceSyntaKs"}
