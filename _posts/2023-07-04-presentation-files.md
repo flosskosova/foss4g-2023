@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Presentation Files
-permalink: /presentation_files/
-isStaticPost: true
+title: "Presentation files are now available"
+isStaticPost: false
 image: community_sprint.jpg
 ---
 
@@ -23,3 +22,9 @@ _Note to all the speakers: If any of you wants to change or remove something ple
 - Inside that folder should be all the presentations which are uploaded by presenters, some of them used their own laptops and we do not have them.
 
 _Note: The presentation titles are not always like in the agenda, and we can not rename them in a short time._
+
+<br><br>
+
+###### Current video streams
+
+Meanwhile the outdoor stage is as well possible to watch in the youtube channel: [https://www.youtube.com/@flosskchannel/streams](https://www.youtube.com/@flosskchannel/streams){:target="\_blank"}
