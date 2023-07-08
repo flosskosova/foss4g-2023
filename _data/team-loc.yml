@@ -10,7 +10,7 @@
   surname: "Haxhiu"
   title: "Volunteers Committee chair"
   thumbnailUrl: "Enkelena Haxhiu.jpg"
-  - name: "Arianit"
+- name: "Arianit"
   surname: "Dobroshi"
   title: "Visa Committee"
   thumbnailUrl: "Arianit Dobroshi.jpg"
@@ -19,7 +19,7 @@
   title: "Core team and Sponsorship Committee Chair"
   thumbnailUrl: "Valmir Mustafa.jpg"
   social:
-    - {name: "twitter", link: "https://twitter.com/mustafavalmir"}
+    - { name: "twitter", link: "https://twitter.com/mustafavalmir" }
 - name: "Edonis"
   surname: "Hashani"
   title: "Core team and Communication Committee chair"
@@ -31,7 +31,7 @@
 - name: "Veron"
   surname: "Tara"
   title: "Video Volunteer Committee"
-  thumbnailUrl: "Veron.jpeg" 
+  thumbnailUrl: "Veron.jpeg"
 - name: "Qendresa"
   surname: "Kastrati"
   title: "Finance Committe"
@@ -52,9 +52,9 @@
   title: "Website Committee"
   thumbnailUrl: "Jonathan Beliën.jpg"
   social:
-    - {name: "twitter", link: "https://twitter.com/jbelien"}
-    - {name: "github", link: "https://github.com/jbelien"}
-    - {name: "site", link: "https://jbelien.be"}
+    - { name: "twitter", link: "https://twitter.com/jbelien" }
+    - { name: "github", link: "https://github.com/jbelien" }
+    - { name: "site", link: "https://jbelien.be" }
 - name: "Nysret"
   surname: "Gashi"
   thumbnailUrl: "Nysret Gashi.jpg"
